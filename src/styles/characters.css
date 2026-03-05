@@ -1,28 +1,28 @@
 /* ===== Character Card ===== */
 .character-card {
   position: relative;
-  background: var(--color-bg-card);
+  background: transparent;
   border-radius: var(--radius-md);
-  box-shadow: var(--shadow-sm);
-  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+  transition: transform var(--transition), box-shadow var(--transition);
   border: 3px solid transparent;
   user-select: none;
   -webkit-user-select: none;
 }
 
 .character-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow-md);
+  transform: translateY(-4px) scale(1.04);
+  filter: brightness(1.08);
 }
 
 .character-card--selected {
   border-color: var(--color-selected);
-  background: var(--color-selected-bg);
-  transform: scale(1.03);
+  border-radius: var(--radius-md);
+  box-shadow: 0 0 12px rgba(46, 204, 113, 0.45), 0 0 4px rgba(46, 204, 113, 0.3);
+  background: rgba(46, 204, 113, 0.06);
 }
 
 .character-card--selected:hover {
-  transform: scale(1.03) translateY(-2px);
+  transform: scale(1.04) translateY(-2px);
 }
 
 .character-card--disabled {
@@ -31,45 +31,47 @@
 }
 
 .character-card__body {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 1rem 0.5rem;
+  padding: 0.5rem 0.25rem;
   cursor: pointer;
 }
 
 .character-card__avatar {
-  position: relative;
-  width: 80px;
-  height: 80px;
-  margin-bottom: 0.5rem;
+  width: 54px;
+  height: 110px;
 }
 
-.character-card__avatar .avatar__img,
+.character-card__avatar .avatar__img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .character-card__avatar .avatar__svg {
   width: 100%;
   height: 100%;
-  border-radius: 50%;
-  object-fit: cover;
-  background: var(--color-bg);
 }
 
 .character-card__badge {
   position: absolute;
-  top: -4px;
-  right: -4px;
-  width: 24px;
-  height: 24px;
+  top: -2px;
+  right: -2px;
+  width: 22px;
+  height: 22px;
   background: var(--color-selected);
   color: white;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.8rem;
+  font-size: 0.75rem;
   font-weight: 700;
   box-shadow: var(--shadow-sm);
   animation: popIn 0.2s ease;
+  z-index: 2;
 }
 
 @keyframes popIn {
@@ -79,13 +81,6 @@
   to {
     transform: scale(1);
   }
-}
-
-.character-card__name {
-  font-size: 0.85rem;
-  font-weight: 600;
-  text-align: center;
-  line-height: 1.2;
 }
 
 /* ===== Tooltip ===== */

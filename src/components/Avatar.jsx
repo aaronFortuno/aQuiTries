@@ -18,5 +18,13 @@ export default function Avatar({ character }) {
     );
   }
 
-  return <GeneratedAvatar sex={character.sex} build={character.build} age={character.age} />;
+  return (
+    <GeneratedAvatar
+      id={character.id}
+      build={character.build}
+      age={character.age}
+      height={character.height}
+      hair={character.hair}
+    />
+  );
 }

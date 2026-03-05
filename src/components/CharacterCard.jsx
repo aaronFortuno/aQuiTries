@@ -36,9 +36,8 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
       >
         <div className="character-card__avatar">
           <Avatar character={character} />
-          {isSelected && <span className="character-card__badge">&#10003;</span>}
         </div>
-        <span className="character-card__name">{character.name}</span>
+        {isSelected && <span className="character-card__badge">&#10003;</span>}
       </div>
       {showTooltip && (
         <CharacterTooltip
