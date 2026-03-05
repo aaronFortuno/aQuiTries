@@ -1,0 +1,127 @@
+/* ===== Scenario Screen ===== */
+.scenario {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 3rem;
+}
+
+.scenario__header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.scenario__progress {
+  display: inline-block;
+  background: var(--color-accent);
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 0.3rem 1rem;
+  border-radius: var(--radius-lg);
+  margin-bottom: 0.8rem;
+}
+
+.scenario__title {
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  font-weight: 800;
+  margin-bottom: 0.6rem;
+}
+
+.scenario__context {
+  font-size: 0.95rem;
+  color: var(--color-text-light);
+  margin-bottom: 0.8rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.scenario__instruction {
+  font-size: 1.05rem;
+  font-weight: 600;
+  background: var(--color-bg-card);
+  padding: 1rem 1.5rem;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  max-width: 700px;
+  margin: 0 auto;
+  border-left: 4px solid var(--color-accent);
+}
+
+/* Selection Counter */
+.selection-counter {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+
+.selection-counter__text {
+  font-size: 1.1rem;
+}
+
+.selection-counter__dots {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.selection-counter__dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--color-border);
+  transition: background var(--transition), transform var(--transition);
+}
+
+.selection-counter__dot--filled {
+  background: var(--color-selected);
+  transform: scale(1.2);
+}
+
+/* Character Grid */
+.scenario__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .scenario__grid {
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1.2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .scenario__grid {
+    grid-template-columns: repeat(7, 1fr);
+  }
+}
+
+/* Actions */
+.scenario__actions {
+  text-align: center;
+}
+
+.scenario__confirm-btn {
+  background: var(--color-selected);
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding: 0.8rem 2.5rem;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  transition: background var(--transition), transform var(--transition), opacity var(--transition);
+}
+
+.scenario__confirm-btn:hover:not(:disabled) {
+  background: #219a52;
+  transform: translateY(-2px);
+}
+
+.scenario__confirm-btn:disabled {
+  background: var(--color-disabled);
+  cursor: not-allowed;
+  box-shadow: none;
+}
