@@ -5,6 +5,7 @@ import EndScreen from './EndScreen';
 import SceneBackground from './SceneBackground';
 import { I18nProvider, useTranslation } from '../i18n';
 import { useScenarioManager } from '../hooks/useScenarioManager';
+import { scenarioBackgrounds, allBackgroundImages } from '../assets/backgrounds';
 
 function LanguageToggle() {
   const { locale, setLocale } = useTranslation();
@@ -29,7 +30,6 @@ function AppContent() {
     isLastScenario,
     currentSelection,
     selections,
-    allBackgrounds,
     toggleCharacter,
     confirmSelection,
     nextScenario,
@@ -52,9 +52,10 @@ function AppContent() {
   };
 
   // Determine which background(s) to show
-  let bgImages = allBackgrounds;
-  if (screen === 'scenario' && currentScenario?.background) {
-    bgImages = [currentScenario.background];
+  let bgImages = allBackgroundImages;
+  if (screen === 'scenario' && currentScenario) {
+    const scenarioBg = scenarioBackgrounds[currentScenario.id];
+    if (scenarioBg) bgImages = [scenarioBg];
   }
 
   let content = null;
@@ -80,7 +81,7 @@ function AppContent() {
 
   return (
     <>
-      {bgImages.length > 0 && <SceneBackground images={bgImages} />}
+      <SceneBackground images={bgImages} />
       <LanguageToggle />
       {content}
     </>
