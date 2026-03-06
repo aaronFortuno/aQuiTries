@@ -42,6 +42,11 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+/* When background images are active, body bg must be transparent */
+body:has(.scene-bg) {
+  background-color: transparent;
+}
+
 #root {
   min-height: 100vh;
   display: flex;

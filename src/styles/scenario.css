@@ -114,12 +114,12 @@
   cursor: pointer;
   user-select: none;
   transition: color 0.15s ease, background 0.15s ease;
-  background: linear-gradient(to right, var(--color-bg) 60%, transparent);
+  background: linear-gradient(to right, rgba(250, 246, 241, 0.85) 40%, transparent);
   z-index: 5;
 }
 
 .scenario__arrow--right {
-  background: linear-gradient(to left, var(--color-bg) 60%, transparent);
+  background: linear-gradient(to left, rgba(250, 246, 241, 0.85) 40%, transparent);
 }
 
 .scenario__arrow:hover {

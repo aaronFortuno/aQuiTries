@@ -14,6 +14,10 @@ export function useScenarioManager(locale = 'ca') {
     }));
   }, [locale]);
 
+  const allBackgrounds = useMemo(() => {
+    return scenarios.map(s => s.background).filter(Boolean);
+  }, [scenarios]);
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selections, setSelections] = useState([]);
   const [currentSelection, setCurrentSelection] = useState([]);
@@ -74,6 +78,7 @@ export function useScenarioManager(locale = 'ca') {
     isLastScenario,
     currentSelection,
     selections,
+    allBackgrounds,
     toggleCharacter,
     confirmSelection,
     nextScenario,

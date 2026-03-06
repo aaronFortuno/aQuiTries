@@ -1,0 +1,27 @@
+/* ===== Scene Background ===== */
+.scene-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.scene-bg__layer {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: opacity 1.5s ease;
+}
+
+.scene-bg__layer--active {
+  opacity: 1;
+}
+
+.scene-bg__overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(250, 246, 241, 0.78);
+}

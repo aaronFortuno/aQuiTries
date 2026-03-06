@@ -2,6 +2,7 @@ import { useState } from 'react';
 import StartScreen from './StartScreen';
 import ScenarioScreen from './ScenarioScreen';
 import EndScreen from './EndScreen';
+import SceneBackground from './SceneBackground';
 import { I18nProvider, useTranslation } from '../i18n';
 import { useScenarioManager } from '../hooks/useScenarioManager';
 
@@ -28,6 +29,7 @@ function AppContent() {
     isLastScenario,
     currentSelection,
     selections,
+    allBackgrounds,
     toggleCharacter,
     confirmSelection,
     nextScenario,
@@ -48,6 +50,12 @@ function AppContent() {
     reset();
     setScreen('start');
   };
+
+  // Determine which background(s) to show
+  let bgImages = allBackgrounds;
+  if (screen === 'scenario' && currentScenario?.background) {
+    bgImages = [currentScenario.background];
+  }
 
   let content = null;
 
@@ -72,6 +80,7 @@ function AppContent() {
 
   return (
     <>
+      {bgImages.length > 0 && <SceneBackground images={bgImages} />}
       <LanguageToggle />
       {content}
     </>
