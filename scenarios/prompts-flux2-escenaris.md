@@ -209,3 +209,33 @@ Composition: wide horizontal format (landscape orientation, roughly 16:9), suita
 
 Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
 ```
+
+---
+
+## B3. El nen que plora al parc — Parc urbà a mitja tarda
+
+```text
+Pixel art scene of a typical urban park in a medium-sized Catalan city on a sunny afternoon, wide horizontal view. Warm, everyday, lived-in atmosphere.
+
+A public park with a mix of areas: a small playground in the center-left with a slide, swings, and a sandbox with low wooden edges. A paved path winds through the park, connecting different zones. Several wooden benches line the path, some under the shade of mature plane trees and Mediterranean pines. A drinking fountain near the path.
+
+On one side, a large open grassy area where people would normally sit, play, or rest — currently empty. A few pigeons on the ground near a bench. A litter bin overflowing slightly. An old iron lamppost (decorative, municipal style). On the other side, a low hedge separates the park from the sidewalk, with a glimpse of apartment buildings beyond — typical Catalan urban architecture with balconies and shutters.
+
+In one corner, a more secluded area with bushes and a flower bed (parterre) partially hidden behind dense shrubs — the kind of spot where someone might rest undisturbed. A forgotten plastic bag caught in a bush. A graffiti tag on the back of a bench.
+
+Details that make it feel real and lived-in: a child's forgotten toy near the sandbox, a water puddle from sprinklers, some fallen leaves on the path, a bicycle locked to a rack. A small sign with park rules (barely readable). A dog waste bag dispenser on a pole.
+
+Warm afternoon sunlight filtering through the tree canopy, casting dappled shadows on the ground. Clear sky with a few small clouds.
+
+No humans, no characters, no people visible anywhere in the scene. No animals except pigeons. Empty park only.
+
+Color palette: warm greens from the trees and grass, sandy earth tones from the paths, warm gray of the pavement, brown wood of benches, muted colors of the playground equipment (soft red slide, blue swings), warm golden afternoon light. Lived-in urban tones, not pristine or manicured.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: warm afternoon sunlight with dappled tree shadows. Golden hour approaching but not yet there — still bright and clear. Consistent natural lighting with gentle shadows under trees and benches.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the center or foreground where character sprites could be placed on top. The playground and benches should create a sense of a public, shared space. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```

@@ -4,6 +4,20 @@ import '../styles/global.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.3.1',
+    date: '2026-03-06',
+    changes: {
+      ca: [
+        'Nou escenari: "Cuidar una persona gran" amb 16 candidats i selecció de 1',
+        'Nou escenari: "El nen que plora al parc" amb 15 candidats i selecció de 1',
+      ],
+      es: [
+        'Nuevo escenario: "Cuidar a una persona mayor" con 16 candidatos y selección de 1',
+        'Nuevo escenario: "El niño que llora en el parque" con 15 candidatos y selección de 1',
+      ],
+    },
+  },
+  {
     version: '0.3',
     date: '2026-03-06',
     changes: {

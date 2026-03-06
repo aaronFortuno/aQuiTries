@@ -109,10 +109,7 @@ export default function ScenarioScreen({
 
       <div className="scenario__briefing">
         <p className="scenario__instruction">{scenario.description}</p>
-        <details className="scenario__context-details">
-          <summary className="scenario__context-summary">{t('ui.moreContext')}</summary>
-          <p className="scenario__context">{scenario.context}</p>
-        </details>
+        <p className="scenario__context">{scenario.context}</p>
       </div>
 
       <SelectionCounter

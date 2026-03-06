@@ -51,7 +51,7 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
       {showPreview && (
         <CharacterTooltip
           character={character}
-          onClose={() => setShowPreview(false)}
+          onClose={(e) => { if (e) e.stopPropagation(); setShowPreview(false); }}
         />
       )}
     </div>

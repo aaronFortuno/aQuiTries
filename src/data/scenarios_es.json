@@ -16,7 +16,7 @@
     ],
     "characters": [
       {
-        "id": "taar_hunter_veteran",
+        "id": "p1_taar_hunter_veteran",
         "name": "Taar",
         "sex": "home",
         "age": 38,
@@ -29,7 +29,7 @@
         "skills": { "força": 8, "velocitat": 5, "resistència": 7, "precisió": 8, "treball en equip": 9 }
       },
       {
-        "id": "ina_tracker",
+        "id": "p1_ina_tracker",
         "name": "Ina",
         "sex": "dona",
         "age": 30,
@@ -42,7 +42,7 @@
         "skills": { "força": 5, "velocitat": 7, "resistència": 8, "precisió": 9, "treball en equip": 7 }
       },
       {
-        "id": "oran_elder",
+        "id": "p1_oran_elder",
         "name": "Oran",
         "sex": "home",
         "age": 62,
@@ -55,7 +55,7 @@
         "skills": { "força": 2, "velocitat": 2, "resistència": 3, "precisió": 5, "treball en equip": 8 }
       },
       {
-        "id": "lera_healer",
+        "id": "p1_lera_healer",
         "name": "Lera",
         "sex": "dona",
         "age": 35,
@@ -68,7 +68,7 @@
         "skills": { "força": 4, "velocitat": 5, "resistència": 6, "precisió": 8, "treball en equip": 7 }
       },
       {
-        "id": "nao_child",
+        "id": "p1_nao_child",
         "name": "Nao",
         "sex": "home",
         "age": 9,
@@ -81,7 +81,7 @@
         "skills": { "força": 2, "velocitat": 6, "resistència": 3, "precisió": 3, "treball en equip": 4 }
       },
       {
-        "id": "sira_fire_keeper",
+        "id": "p1_sira_fire_keeper",
         "name": "Sira",
         "sex": "dona",
         "age": 11,
@@ -94,7 +94,7 @@
         "skills": { "força": 3, "velocitat": 5, "resistència": 4, "precisió": 5, "treball en equip": 6 }
       },
       {
-        "id": "dagan_heavy_hunter",
+        "id": "p1_dagan_heavy_hunter",
         "name": "Dagan",
         "sex": "home",
         "age": 33,
@@ -107,7 +107,7 @@
         "skills": { "força": 10, "velocitat": 3, "resistència": 8, "precisió": 6, "treball en equip": 5 }
       },
       {
-        "id": "asha_crafter",
+        "id": "p1_asha_crafter",
         "name": "Asha",
         "sex": "dona",
         "age": 29,
@@ -120,7 +120,7 @@
         "skills": { "força": 5, "velocitat": 4, "resistència": 5, "precisió": 10, "treball en equip": 6 }
       },
       {
-        "id": "kel_young_hunter",
+        "id": "p1_kel_young_hunter",
         "name": "Kel",
         "sex": "home",
         "age": 16,
@@ -133,7 +133,7 @@
         "skills": { "força": 5, "velocitat": 8, "resistència": 6, "precisió": 5, "treball en equip": 4 }
       },
       {
-        "id": "mira_camp_guard",
+        "id": "p1_mira_camp_guard",
         "name": "Mira",
         "sex": "dona",
         "age": 34,
@@ -146,7 +146,7 @@
         "skills": { "força": 6, "velocitat": 5, "resistència": 7, "precisió": 7, "treball en equip": 9 }
       },
       {
-        "id": "ruun_scout",
+        "id": "p1_ruun_scout",
         "name": "Ruun",
         "sex": "home",
         "age": 27,
@@ -159,7 +159,7 @@
         "skills": { "força": 5, "velocitat": 7, "resistència": 9, "precisió": 7, "treball en equip": 3 }
       },
       {
-        "id": "eda_elder_caretaker",
+        "id": "p1_eda_elder_caretaker",
         "name": "Eda",
         "sex": "dona",
         "age": 58,
@@ -172,7 +172,7 @@
         "skills": { "força": 3, "velocitat": 2, "resistència": 4, "precisió": 4, "treball en equip": 8 }
       },
       {
-        "id": "var_fisher",
+        "id": "p1_var_fisher",
         "name": "Var",
         "sex": "home",
         "age": 31,
@@ -185,7 +185,7 @@
         "skills": { "força": 6, "velocitat": 6, "resistència": 7, "precisió": 8, "treball en equip": 6 }
       },
       {
-        "id": "hani_gatherer",
+        "id": "p1_hani_gatherer",
         "name": "Hani",
         "sex": "dona",
         "age": 24,
@@ -198,7 +198,7 @@
         "skills": { "força": 4, "velocitat": 7, "resistència": 7, "precisió": 8, "treball en equip": 7 }
       },
       {
-        "id": "jarak_shaman",
+        "id": "p1_jarak_shaman",
         "name": "Jarak",
         "sex": "home",
         "age": 40,
@@ -229,7 +229,7 @@
     ],
     "characters": [
       {
-        "id": "jordi_llenyataire",
+        "id": "a2_jordi_llenyataire",
         "name": "Jordi Pla",
         "sex": "home",
         "age": 45,
@@ -242,7 +242,7 @@
         "skills": { "força": 9, "resistència": 8, "habilitat amb eines": 10, "coneixement tècnic": 9, "treball en equip": 6 }
       },
       {
-        "id": "marta_pagesa",
+        "id": "a2_marta_pagesa",
         "name": "Marta Valls",
         "sex": "dona",
         "age": 38,
@@ -255,7 +255,7 @@
         "skills": { "força": 9, "resistència": 8, "habilitat amb eines": 6, "coneixement tècnic": 5, "treball en equip": 7 }
       },
       {
-        "id": "pere_ferrer",
+        "id": "a2_pere_ferrer",
         "name": "Pere Soler",
         "sex": "home",
         "age": 67,
@@ -268,7 +268,7 @@
         "skills": { "força": 7, "resistència": 4, "habilitat amb eines": 9, "coneixement tècnic": 8, "treball en equip": 7 }
       },
       {
-        "id": "laia_monitora",
+        "id": "a2_laia_monitora",
         "name": "Laia Comes",
         "sex": "dona",
         "age": 32,
@@ -281,7 +281,7 @@
         "skills": { "força": 7, "resistència": 9, "habilitat amb eines": 2, "coneixement tècnic": 2, "treball en equip": 8 }
       },
       {
-        "id": "ramon_paleta",
+        "id": "a2_ramon_paleta",
         "name": "Ramon Grau",
         "sex": "home",
         "age": 50,
@@ -294,7 +294,7 @@
         "skills": { "força": 8, "resistència": 7, "habilitat amb eines": 7, "coneixement tècnic": 7, "treball en equip": 8 }
       },
       {
-        "id": "nuria_veterinaria",
+        "id": "a2_nuria_veterinaria",
         "name": "Núria Font",
         "sex": "dona",
         "age": 40,
@@ -307,7 +307,7 @@
         "skills": { "força": 5, "resistència": 6, "habilitat amb eines": 4, "coneixement tècnic": 7, "treball en equip": 7 }
       },
       {
-        "id": "txell_carpintera",
+        "id": "a2_txell_carpintera",
         "name": "Txell Roca",
         "sex": "dona",
         "age": 35,
@@ -320,7 +320,7 @@
         "skills": { "força": 6, "resistència": 6, "habilitat amb eines": 10, "coneixement tècnic": 9, "treball en equip": 5 }
       },
       {
-        "id": "andreu_mestre",
+        "id": "a2_andreu_mestre",
         "name": "Andreu Mas",
         "sex": "home",
         "age": 42,
@@ -333,7 +333,7 @@
         "skills": { "força": 3, "resistència": 4, "habilitat amb eines": 2, "coneixement tècnic": 3, "treball en equip": 8 }
       },
       {
-        "id": "gemma_pastora",
+        "id": "a2_gemma_pastora",
         "name": "Gemma Pujol",
         "sex": "dona",
         "age": 55,
@@ -346,7 +346,7 @@
         "skills": { "força": 5, "resistència": 9, "habilitat amb eines": 5, "coneixement tècnic": 6, "treball en equip": 5 }
       },
       {
-        "id": "miquel_informatic",
+        "id": "a2_miquel_informatic",
         "name": "Miquel Serra",
         "sex": "home",
         "age": 34,
@@ -359,7 +359,7 @@
         "skills": { "força": 4, "resistència": 2, "habilitat amb eines": 1, "coneixement tècnic": 2, "treball en equip": 6 }
       },
       {
-        "id": "rosa_avia",
+        "id": "a2_rosa_avia",
         "name": "Rosa Batlle",
         "sex": "dona",
         "age": 70,
@@ -372,7 +372,7 @@
         "skills": { "força": 4, "resistència": 6, "habilitat amb eines": 5, "coneixement tècnic": 4, "treball en equip": 6 }
       },
       {
-        "id": "sergi_atleta",
+        "id": "a2_sergi_atleta",
         "name": "Sergi Ferrer",
         "sex": "home",
         "age": 19,
@@ -385,7 +385,7 @@
         "skills": { "força": 9, "resistència": 8, "habilitat amb eines": 2, "coneixement tècnic": 1, "treball en equip": 5 }
       },
       {
-        "id": "carme_alcaldessa",
+        "id": "a2_carme_alcaldessa",
         "name": "Carme Puig",
         "sex": "dona",
         "age": 52,
@@ -398,7 +398,7 @@
         "skills": { "força": 3, "resistència": 4, "habilitat amb eines": 1, "coneixement tècnic": 4, "treball en equip": 10 }
       },
       {
-        "id": "pau_adolescent",
+        "id": "a2_pau_adolescent",
         "name": "Pau Sala",
         "sex": "home",
         "age": 16,
@@ -411,7 +411,7 @@
         "skills": { "força": 3, "resistència": 3, "habilitat amb eines": 1, "coneixement tècnic": 1, "treball en equip": 4 }
       },
       {
-        "id": "montse_bombera",
+        "id": "a2_montse_bombera",
         "name": "Montse Badia",
         "sex": "dona",
         "age": 37,
@@ -424,7 +424,7 @@
         "skills": { "força": 8, "resistència": 8, "habilitat amb eines": 9, "coneixement tècnic": 9, "treball en equip": 9 }
       },
       {
-        "id": "quim_pages",
+        "id": "a2_quim_pages",
         "name": "Quim Rovira",
         "sex": "home",
         "age": 63,
@@ -437,7 +437,7 @@
         "skills": { "força": 6, "resistència": 6, "habilitat amb eines": 8, "coneixement tècnic": 8, "treball en equip": 5 }
       },
       {
-        "id": "berta_fisio",
+        "id": "a2_berta_fisio",
         "name": "Berta Solé",
         "sex": "dona",
         "age": 44,
@@ -450,7 +450,7 @@
         "skills": { "força": 4, "resistència": 5, "habilitat amb eines": 2, "coneixement tècnic": 7, "treball en equip": 7 }
       },
       {
-        "id": "xavi_cambrer",
+        "id": "a2_xavi_cambrer",
         "name": "Xavi Costa",
         "sex": "home",
         "age": 28,
@@ -463,7 +463,7 @@
         "skills": { "força": 3, "resistència": 3, "habilitat amb eines": 1, "coneixement tècnic": 1, "treball en equip": 7 }
       },
       {
-        "id": "angels_mecanica",
+        "id": "a2_angels_mecanica",
         "name": "Àngels Martí",
         "sex": "dona",
         "age": 30,
@@ -476,7 +476,7 @@
         "skills": { "força": 6, "resistència": 6, "habilitat amb eines": 9, "coneixement tècnic": 8, "treball en equip": 6 }
       },
       {
-        "id": "tomas_carnisser",
+        "id": "a2_tomas_carnisser",
         "name": "Tomàs Giralt",
         "sex": "home",
         "age": 48,
@@ -507,7 +507,7 @@
     ],
     "characters": [
       {
-        "id": "oriol_bomber",
+        "id": "a3_oriol_bomber",
         "name": "Oriol Camps",
         "sex": "home",
         "age": 36,
@@ -520,7 +520,7 @@
         "skills": { "força": 9, "resistència": 9, "lideratge": 9, "calma sota pressió": 10, "coneixement del terreny": 8 }
       },
       {
-        "id": "marina_infermera",
+        "id": "a3_marina_infermera",
         "name": "Marina Esteve",
         "sex": "dona",
         "age": 45,
@@ -533,7 +533,7 @@
         "skills": { "força": 3, "resistència": 5, "lideratge": 8, "calma sota pressió": 10, "coneixement del terreny": 6 }
       },
       {
-        "id": "jaume_forestal",
+        "id": "a3_jaume_forestal",
         "name": "Jaume Bosch",
         "sex": "home",
         "age": 58,
@@ -546,7 +546,7 @@
         "skills": { "força": 7, "resistència": 9, "lideratge": 5, "calma sota pressió": 8, "coneixement del terreny": 10 }
       },
       {
-        "id": "silvia_agent_rural",
+        "id": "a3_silvia_agent_rural",
         "name": "Sílvia Torres",
         "sex": "dona",
         "age": 33,
@@ -559,7 +559,7 @@
         "skills": { "força": 7, "resistència": 8, "lideratge": 8, "calma sota pressió": 8, "coneixement del terreny": 9 }
       },
       {
-        "id": "arnau_voluntari",
+        "id": "a3_arnau_voluntari",
         "name": "Arnau Vidal",
         "sex": "home",
         "age": 22,
@@ -572,7 +572,7 @@
         "skills": { "força": 9, "resistència": 8, "lideratge": 3, "calma sota pressió": 4, "coneixement del terreny": 2 }
       },
       {
-        "id": "celia_mestra",
+        "id": "a3_celia_mestra",
         "name": "Cèlia Font",
         "sex": "dona",
         "age": 65,
@@ -585,7 +585,7 @@
         "skills": { "força": 1, "resistència": 2, "lideratge": 9, "calma sota pressió": 9, "coneixement del terreny": 7 }
       },
       {
-        "id": "marc_paleta",
+        "id": "a3_marc_paleta",
         "name": "Marc Puigvert",
         "sex": "home",
         "age": 44,
@@ -598,7 +598,7 @@
         "skills": { "força": 10, "resistència": 9, "lideratge": 3, "calma sota pressió": 5, "coneixement del terreny": 4 }
       },
       {
-        "id": "neus_alcaldessa",
+        "id": "a3_neus_alcaldessa",
         "name": "Neus Armengol",
         "sex": "dona",
         "age": 50,
@@ -611,7 +611,7 @@
         "skills": { "força": 3, "resistència": 3, "lideratge": 10, "calma sota pressió": 7, "coneixement del terreny": 6 }
       },
       {
-        "id": "rashid_jardiner",
+        "id": "a3_rashid_jardiner",
         "name": "Rashid El Amrani",
         "sex": "home",
         "age": 40,
@@ -624,7 +624,7 @@
         "skills": { "força": 9, "resistència": 9, "lideratge": 4, "calma sota pressió": 6, "coneixement del terreny": 8 }
       },
       {
-        "id": "dolors_farmaceutica",
+        "id": "a3_dolors_farmaceutica",
         "name": "Dolors Sala",
         "sex": "dona",
         "age": 55,
@@ -637,7 +637,7 @@
         "skills": { "força": 2, "resistència": 3, "lideratge": 5, "calma sota pressió": 7, "coneixement del terreny": 5 }
       },
       {
-        "id": "biel_adolescent",
+        "id": "a3_biel_adolescent",
         "name": "Biel Costa",
         "sex": "home",
         "age": 17,
@@ -650,7 +650,7 @@
         "skills": { "força": 3, "resistència": 3, "lideratge": 1, "calma sota pressió": 2, "coneixement del terreny": 3 }
       },
       {
-        "id": "pilar_monitora",
+        "id": "a3_pilar_monitora",
         "name": "Pilar Vázquez",
         "sex": "dona",
         "age": 29,
@@ -663,7 +663,7 @@
         "skills": { "força": 4, "resistència": 6, "lideratge": 7, "calma sota pressió": 9, "coneixement del terreny": 4 }
       },
       {
-        "id": "francesc_exbomber",
+        "id": "a3_francesc_exbomber",
         "name": "Francesc Riera",
         "sex": "home",
         "age": 71,
@@ -676,7 +676,7 @@
         "skills": { "força": 2, "resistència": 2, "lideratge": 8, "calma sota pressió": 10, "coneixement del terreny": 10 }
       },
       {
-        "id": "aina_estudiant",
+        "id": "a3_aina_estudiant",
         "name": "Aina Bernat",
         "sex": "dona",
         "age": 24,
@@ -689,7 +689,7 @@
         "skills": { "força": 3, "resistència": 5, "lideratge": 5, "calma sota pressió": 8, "coneixement del terreny": 2 }
       },
       {
-        "id": "llorenc_ramader",
+        "id": "a3_llorenc_ramader",
         "name": "Llorenç Mora",
         "sex": "home",
         "age": 52,
@@ -702,7 +702,7 @@
         "skills": { "força": 10, "resistència": 9, "lideratge": 3, "calma sota pressió": 6, "coneixement del terreny": 9 }
       },
       {
-        "id": "teresa_social",
+        "id": "a3_teresa_social",
         "name": "Teresa Grau",
         "sex": "dona",
         "age": 47,
@@ -715,7 +715,7 @@
         "skills": { "força": 3, "resistència": 4, "lideratge": 7, "calma sota pressió": 8, "coneixement del terreny": 6 }
       },
       {
-        "id": "nil_ciclista",
+        "id": "a3_nil_ciclista",
         "name": "Nil Batista",
         "sex": "home",
         "age": 27,
@@ -728,7 +728,7 @@
         "skills": { "força": 7, "resistència": 10, "lideratge": 2, "calma sota pressió": 5, "coneixement del terreny": 1 }
       },
       {
-        "id": "roser_veterinaria",
+        "id": "a3_roser_veterinaria",
         "name": "Roser Pla",
         "sex": "dona",
         "age": 38,
@@ -759,7 +759,7 @@
     ],
     "characters": [
       {
-        "id": "gerard_gei",
+        "id": "a4_gerard_gei",
         "name": "Gerard Molina",
         "sex": "home",
         "age": 34,
@@ -772,7 +772,7 @@
         "skills": { "mida física": 10, "entrenament de combat": 10, "psicologia": 3, "calma sota pressió": 9, "negociació": 2 }
       },
       {
-        "id": "laura_negociadora",
+        "id": "a4_laura_negociadora",
         "name": "Laura Prats",
         "sex": "dona",
         "age": 42,
@@ -785,7 +785,7 @@
         "skills": { "mida física": 3, "entrenament de combat": 2, "psicologia": 9, "calma sota pressió": 10, "negociació": 10 }
       },
       {
-        "id": "alex_patrulla",
+        "id": "a4_alex_patrulla",
         "name": "Àlex Domènech",
         "sex": "home",
         "age": 29,
@@ -798,7 +798,7 @@
         "skills": { "mida física": 6, "entrenament de combat": 5, "psicologia": 3, "calma sota pressió": 5, "negociació": 3 }
       },
       {
-        "id": "monica_psicologa",
+        "id": "a4_monica_psicologa",
         "name": "Mònica Valls",
         "sex": "dona",
         "age": 38,
@@ -811,7 +811,7 @@
         "skills": { "mida física": 1, "entrenament de combat": 0, "psicologia": 10, "calma sota pressió": 9, "negociació": 8 }
       },
       {
-        "id": "ivan_exmilitar",
+        "id": "a4_ivan_exmilitar",
         "name": "Ivan Sokolov",
         "sex": "home",
         "age": 37,
@@ -824,7 +824,7 @@
         "skills": { "mida física": 10, "entrenament de combat": 9, "psicologia": 2, "calma sota pressió": 7, "negociació": 1 }
       },
       {
-        "id": "carla_sergent",
+        "id": "a4_carla_sergent",
         "name": "Carla Reguant",
         "sex": "dona",
         "age": 45,
@@ -837,7 +837,7 @@
         "skills": { "mida física": 5, "entrenament de combat": 6, "psicologia": 6, "calma sota pressió": 8, "negociació": 7 }
       },
       {
-        "id": "dani_arts_marcials",
+        "id": "a4_dani_arts_marcials",
         "name": "Dani Herrera",
         "sex": "home",
         "age": 25,
@@ -850,7 +850,7 @@
         "skills": { "mida física": 4, "entrenament de combat": 10, "psicologia": 3, "calma sota pressió": 7, "negociació": 2 }
       },
       {
-        "id": "nuria_mediadora",
+        "id": "a4_nuria_mediadora",
         "name": "Núria Soldevila",
         "sex": "dona",
         "age": 50,
@@ -863,7 +863,7 @@
         "skills": { "mida física": 2, "entrenament de combat": 0, "psicologia": 7, "calma sota pressió": 8, "negociació": 8 }
       },
       {
-        "id": "omar_canina",
+        "id": "a4_omar_canina",
         "name": "Omar Benali",
         "sex": "home",
         "age": 33,
@@ -876,7 +876,7 @@
         "skills": { "mida física": 7, "entrenament de combat": 5, "psicologia": 5, "calma sota pressió": 8, "negociació": 5 }
       },
       {
-        "id": "elena_psiquiatra",
+        "id": "a4_elena_psiquiatra",
         "name": "Elena Vidal",
         "sex": "dona",
         "age": 47,
@@ -889,7 +889,7 @@
         "skills": { "mida física": 1, "entrenament de combat": 0, "psicologia": 10, "calma sota pressió": 8, "negociació": 7 }
       },
       {
-        "id": "pol_bomber",
+        "id": "a4_pol_bomber",
         "name": "Pol Garcia",
         "sex": "home",
         "age": 31,
@@ -902,7 +902,7 @@
         "skills": { "mida física": 9, "entrenament de combat": 2, "psicologia": 2, "calma sota pressió": 7, "negociació": 1 }
       },
       {
-        "id": "sonia_inspectora",
+        "id": "a4_sonia_inspectora",
         "name": "Sònia Martínez",
         "sex": "dona",
         "age": 52,
@@ -933,7 +933,7 @@
     ],
     "characters": [
       {
-        "id": "josep_paleta",
+        "id": "a5_josep_paleta",
         "name": "Josep Arnau",
         "sex": "home",
         "age": 52,
@@ -946,7 +946,7 @@
         "skills": { "força": 6, "resistència": 5, "experiència en paleteria": 10, "treball en equip": 7, "condició física": 4 }
       },
       {
-        "id": "ruben_manobre",
+        "id": "a5_ruben_manobre",
         "name": "Rubén Díaz",
         "sex": "home",
         "age": 24,
@@ -959,7 +959,7 @@
         "skills": { "força": 8, "resistència": 8, "experiència en paleteria": 1, "treball en equip": 5, "condició física": 9 }
       },
       {
-        "id": "khalid_manobre",
+        "id": "a5_khalid_manobre",
         "name": "Khalid Bouazza",
         "sex": "home",
         "age": 35,
@@ -972,7 +972,7 @@
         "skills": { "força": 8, "resistència": 9, "experiència en paleteria": 5, "treball en equip": 8, "condició física": 8 }
       },
       {
-        "id": "toni_cap_dobra",
+        "id": "a5_toni_cap_dobra",
         "name": "Toni Puig",
         "sex": "home",
         "age": 48,
@@ -985,7 +985,7 @@
         "skills": { "força": 7, "resistència": 6, "experiència en paleteria": 8, "treball en equip": 9, "condició física": 6 }
       },
       {
-        "id": "adria_gruista",
+        "id": "a5_adria_gruista",
         "name": "Adrià Martí",
         "sex": "home",
         "age": 40,
@@ -998,7 +998,7 @@
         "skills": { "força": 4, "resistència": 5, "experiència en paleteria": 1, "treball en equip": 6, "condició física": 5 }
       },
       {
-        "id": "miquel_aprenent",
+        "id": "a5_miquel_aprenent",
         "name": "Miquel Solé",
         "sex": "home",
         "age": 19,
@@ -1011,7 +1011,7 @@
         "skills": { "força": 3, "resistència": 3, "experiència en paleteria": 3, "treball en equip": 6, "condició física": 4 }
       },
       {
-        "id": "paco_jubilat",
+        "id": "a5_paco_jubilat",
         "name": "Paco Herrero",
         "sex": "home",
         "age": 62,
@@ -1024,7 +1024,7 @@
         "skills": { "força": 3, "resistència": 2, "experiència en paleteria": 10, "treball en equip": 7, "condició física": 2 }
       },
       {
-        "id": "victor_peo",
+        "id": "a5_victor_peo",
         "name": "Víctor Romero",
         "sex": "home",
         "age": 30,
@@ -1037,7 +1037,7 @@
         "skills": { "força": 8, "resistència": 7, "experiència en paleteria": 0, "treball en equip": 4, "condició física": 7 }
       },
       {
-        "id": "anna_arquitecta",
+        "id": "a5_anna_arquitecta",
         "name": "Anna Güell",
         "sex": "dona",
         "age": 36,
@@ -1050,7 +1050,7 @@
         "skills": { "força": 2, "resistència": 3, "experiència en paleteria": 0, "treball en equip": 7, "condició física": 3 }
       },
       {
-        "id": "cristina_aparelladora",
+        "id": "a5_cristina_aparelladora",
         "name": "Cristina Bonet",
         "sex": "dona",
         "age": 44,
@@ -1063,7 +1063,7 @@
         "skills": { "força": 3, "resistència": 4, "experiència en paleteria": 2, "treball en equip": 8, "condició física": 4 }
       },
       {
-        "id": "silvia_administrativa",
+        "id": "a5_silvia_administrativa",
         "name": "Sílvia Ramos",
         "sex": "dona",
         "age": 33,
@@ -1076,7 +1076,7 @@
         "skills": { "força": 1, "resistència": 2, "experiència en paleteria": 0, "treball en equip": 6, "condició física": 2 }
       },
       {
-        "id": "montse_prevencio",
+        "id": "a5_montse_prevencio",
         "name": "Montse Pujol",
         "sex": "dona",
         "age": 41,
@@ -1089,7 +1089,7 @@
         "skills": { "força": 3, "resistència": 5, "experiència en paleteria": 1, "treball en equip": 8, "condició física": 5 }
       },
       {
-        "id": "eduard_director",
+        "id": "a5_eduard_director",
         "name": "Eduard Mas",
         "sex": "home",
         "age": 38,
@@ -1102,7 +1102,7 @@
         "skills": { "força": 4, "resistència": 4, "experiència en paleteria": 0, "treball en equip": 7, "condició física": 5 }
       },
       {
-        "id": "jordi_electricista",
+        "id": "a5_jordi_electricista",
         "name": "Jordi Castelló",
         "sex": "home",
         "age": 29,
@@ -1115,7 +1115,7 @@
         "skills": { "força": 5, "resistència": 6, "experiència en paleteria": 0, "treball en equip": 7, "condició física": 7 }
       },
       {
-        "id": "ivan_ferrallista",
+        "id": "a5_ivan_ferrallista",
         "name": "Iván Petrov",
         "sex": "home",
         "age": 33,
@@ -1128,7 +1128,7 @@
         "skills": { "força": 10, "resistència": 8, "experiència en paleteria": 0, "treball en equip": 6, "condició física": 9 }
       },
       {
-        "id": "lluis_vei",
+        "id": "a5_lluis_vei",
         "name": "Lluís Cabot",
         "sex": "home",
         "age": 55,
@@ -1159,7 +1159,7 @@
     ],
     "characters": [
       {
-        "id": "marta_educadora",
+        "id": "b1_marta_educadora",
         "name": "Marta Ribas",
         "sex": "dona",
         "age": 28,
@@ -1172,7 +1172,7 @@
         "skills": { "formació en educació infantil": 9, "experiència amb 0-3 anys": 9, "paciència i empatia": 9, "gestió de grup": 8, "coneixement del desenvolupament": 8 }
       },
       {
-        "id": "laia_mestra",
+        "id": "b1_laia_mestra",
         "name": "Laia Torrents",
         "sex": "dona",
         "age": 34,
@@ -1185,7 +1185,7 @@
         "skills": { "formació en educació infantil": 10, "experiència amb 0-3 anys": 9, "paciència i empatia": 7, "gestió de grup": 9, "coneixement del desenvolupament": 10 }
       },
       {
-        "id": "fatima_tecnica",
+        "id": "b1_fatima_tecnica",
         "name": "Fàtima El Idrissi",
         "sex": "dona",
         "age": 26,
@@ -1198,7 +1198,7 @@
         "skills": { "formació en educació infantil": 8, "experiència amb 0-3 anys": 4, "paciència i empatia": 9, "gestió de grup": 5, "coneixement del desenvolupament": 7 }
       },
       {
-        "id": "neus_especial",
+        "id": "b1_neus_especial",
         "name": "Neus Carbonell",
         "sex": "dona",
         "age": 40,
@@ -1211,7 +1211,7 @@
         "skills": { "formació en educació infantil": 8, "experiència amb 0-3 anys": 8, "paciència i empatia": 9, "gestió de grup": 7, "coneixement del desenvolupament": 10 }
       },
       {
-        "id": "gemma_psicologa",
+        "id": "b1_gemma_psicologa",
         "name": "Gemma Sala",
         "sex": "dona",
         "age": 36,
@@ -1224,7 +1224,7 @@
         "skills": { "formació en educació infantil": 5, "experiència amb 0-3 anys": 3, "paciència i empatia": 7, "gestió de grup": 3, "coneixement del desenvolupament": 10 }
       },
       {
-        "id": "carla_monitora",
+        "id": "b1_carla_monitora",
         "name": "Carla Vives",
         "sex": "dona",
         "age": 24,
@@ -1237,7 +1237,7 @@
         "skills": { "formació en educació infantil": 2, "experiència amb 0-3 anys": 1, "paciència i empatia": 7, "gestió de grup": 8, "coneixement del desenvolupament": 3 }
       },
       {
-        "id": "roser_infermera",
+        "id": "b1_roser_infermera",
         "name": "Roser Pla",
         "sex": "dona",
         "age": 45,
@@ -1250,7 +1250,7 @@
         "skills": { "formació en educació infantil": 2, "experiència amb 0-3 anys": 6, "paciència i empatia": 8, "gestió de grup": 4, "coneixement del desenvolupament": 7 }
       },
       {
-        "id": "angels_auxiliar",
+        "id": "b1_angels_auxiliar",
         "name": "Àngels Estrada",
         "sex": "dona",
         "age": 52,
@@ -1263,7 +1263,7 @@
         "skills": { "formació en educació infantil": 4, "experiència amb 0-3 anys": 10, "paciència i empatia": 9, "gestió de grup": 8, "coneixement del desenvolupament": 6 }
       },
       {
-        "id": "sonia_estudiant",
+        "id": "b1_sonia_estudiant",
         "name": "Sònia Bermúdez",
         "sex": "dona",
         "age": 21,
@@ -1276,7 +1276,7 @@
         "skills": { "formació en educació infantil": 6, "experiència amb 0-3 anys": 2, "paciència i empatia": 7, "gestió de grup": 3, "coneixement del desenvolupament": 6 }
       },
       {
-        "id": "cristina_atur",
+        "id": "b1_cristina_atur",
         "name": "Cristina Duran",
         "sex": "dona",
         "age": 38,
@@ -1289,7 +1289,7 @@
         "skills": { "formació en educació infantil": 0, "experiència amb 0-3 anys": 1, "paciència i empatia": 5, "gestió de grup": 3, "coneixement del desenvolupament": 1 }
       },
       {
-        "id": "teresa_mare",
+        "id": "b1_teresa_mare",
         "name": "Teresa López",
         "sex": "dona",
         "age": 42,
@@ -1302,7 +1302,7 @@
         "skills": { "formació en educació infantil": 0, "experiència amb 0-3 anys": 5, "paciència i empatia": 7, "gestió de grup": 4, "coneixement del desenvolupament": 3 }
       },
       {
-        "id": "julia_filologa",
+        "id": "b1_julia_filologa",
         "name": "Júlia Ferrer",
         "sex": "dona",
         "age": 23,
@@ -1315,7 +1315,7 @@
         "skills": { "formació en educació infantil": 0, "experiència amb 0-3 anys": 0, "paciència i empatia": 6, "gestió de grup": 2, "coneixement del desenvolupament": 1 }
       },
       {
-        "id": "marc_educador",
+        "id": "b1_marc_educador",
         "name": "Marc Soler",
         "sex": "home",
         "age": 30,
@@ -1328,7 +1328,7 @@
         "skills": { "formació en educació infantil": 9, "experiència amb 0-3 anys": 8, "paciència i empatia": 8, "gestió de grup": 8, "coneixement del desenvolupament": 8 }
       },
       {
-        "id": "pau_mestre",
+        "id": "b1_pau_mestre",
         "name": "Pau Domènech",
         "sex": "home",
         "age": 27,
@@ -1341,7 +1341,7 @@
         "skills": { "formació en educació infantil": 9, "experiència amb 0-3 anys": 6, "paciència i empatia": 9, "gestió de grup": 7, "coneixement del desenvolupament": 9 }
       },
       {
-        "id": "arnau_psicoleg",
+        "id": "b1_arnau_psicoleg",
         "name": "Arnau Vila",
         "sex": "home",
         "age": 35,
@@ -1354,7 +1354,7 @@
         "skills": { "formació en educació infantil": 5, "experiència amb 0-3 anys": 3, "paciència i empatia": 7, "gestió de grup": 3, "coneixement del desenvolupament": 9 }
       },
       {
-        "id": "david_monitor",
+        "id": "b1_david_monitor",
         "name": "David Ruiz",
         "sex": "home",
         "age": 26,
@@ -1367,7 +1367,7 @@
         "skills": { "formació en educació infantil": 1, "experiència amb 0-3 anys": 0, "paciència i empatia": 6, "gestió de grup": 7, "coneixement del desenvolupament": 2 }
       },
       {
-        "id": "xavi_social",
+        "id": "b1_xavi_social",
         "name": "Xavi Camps",
         "sex": "home",
         "age": 32,
@@ -1378,6 +1378,445 @@
         "description": "Trabajador social con experiencia en servicios de infancia y familia: negligencia, acogimiento, familias en riesgo. Conoce muy bien el contexto social de los niños y sabe detectar situaciones de vulnerabilidad. Su formación no incluye pedagogía infantil ni atención directa a niños de 2 años. Podría aportar una mirada complementaria, pero como educador de aula principal no tiene el perfil adecuado.",
         "traits": ["empático", "conocedor del contexto social", "sin formación de aula"],
         "skills": { "formació en educació infantil": 2, "experiència amb 0-3 anys": 2, "paciència i empatia": 8, "gestió de grup": 4, "coneixement del desenvolupament": 6 }
+      }
+    ]
+  },
+  {
+    "id": "B2",
+    "title": "Cuidar a una persona mayor",
+    "category": "Cuidado",
+    "description": "Carme tiene 87 años, vive sola y necesita un/a cuidador/a que la acompañe cada día: ayudarla a vestirse, cocinar, llevarla al médico y hacerle compañía. Elige a 1 persona para cuidarla. ¡Fíjate bien en las habilidades de cada uno!",
+    "context": "El cuidado de personas mayores es un trabajo invisible, mal pagado y feminizado. La inmensa mayoría de cuidadoras son mujeres, muchas de ellas migrantes que trabajan sin contrato ni papeles. Elegir una cuidadora implica valorar formación, experiencia, empatía, disponibilidad y comunicación — pero también mirar de cara la realidad de un sector donde las condiciones laborales son a menudo precarias.",
+    "toSelect": 1,
+    "reflectionTitle": "¡Reflexionemos!",
+    "reflectionText": "¿A quién has elegido? ¿Has valorado la formación por encima de la experiencia, o al revés? ¿Has descartado a alguien por su género, origen o situación legal? El cuidado de personas mayores es uno de los sectores más feminizados y precarizados. Muchas de las personas que mejor hacen este trabajo no tienen títulos, pero tienen años de experiencia y una empatía que no se enseña en ningún aula.",
+    "debateQuestions": [
+      "¿Has descartado a Jordi o a Hamid por ser hombres? ¿Tenían habilidades que podían ser útiles?",
+      "¿Qué diferencia hay entre cuidar a un familiar enfermo y cuidar profesionalmente a una persona mayor ajena?",
+      "Yolanda no tiene papeles pero tiene ocho años de experiencia. Montse tiene título y contrato. ¿Quién crees que haría mejor el trabajo? ¿Y quién merece más el puesto?",
+      "¿Por qué crees que la mayoría de cuidadoras de personas mayores son mujeres inmigrantes? ¿Es por vocación o por falta de opciones?"
+    ],
+    "characters": [
+      {
+        "id": "b2_montse_geriatria",
+        "name": "Montse Ferran",
+        "sex": "dona",
+        "age": 38,
+        "height": 164,
+        "weight": 62,
+        "build": "medio",
+        "hair": "castaño corto práctico",
+        "description": "Auxiliar de geriatría titulada con siete años en residencias y dos en atención domiciliaria. Conoce las rutinas: higiene, movilizaciones, alimentación adaptada, control de medicación. Contrato en regla, sueldo modesto pero legal. Es el perfil 'correcto': formada, experimentada, legal. La pregunta es por qué la mayoría de familias buscan alternativas más baratas.",
+        "traits": ["formada", "profesional", "legal"],
+        "skills": { "experiència en cura": 9, "formació sanitària": 9, "paciència i empatia": 8, "disponibilitat": 8, "comunicació": 8 }
+      },
+      {
+        "id": "b2_elena_infermera",
+        "name": "Elena Ibáñez",
+        "sex": "dona",
+        "age": 50,
+        "height": 165,
+        "weight": 64,
+        "build": "medio",
+        "hair": "castaño con canas, corto, gafas",
+        "description": "Enfermera de atención primaria con años de atención domiciliaria: curas de heridas, control de diabetes, seguimiento de crónicos. Excelente en la dimensión sanitaria, pero el trabajo de cuidadora diaria va más allá: cocinar, hacer compañía, escuchar historias repetidas. Elena es competente pero eficiente — hace el trabajo y se va.",
+        "traits": ["sanitaria excelente", "eficiente", "poco afectiva"],
+        "skills": { "experiència en cura": 7, "formació sanitària": 10, "paciència i empatia": 5, "disponibilitat": 5, "comunicació": 7 }
+      },
+      {
+        "id": "b2_carla_familiar",
+        "name": "Carla Pons",
+        "sex": "dona",
+        "age": 33,
+        "height": 166,
+        "weight": 58,
+        "build": "medio",
+        "hair": "castaño claro hasta los hombros",
+        "description": "Trabajadora familiar con formación en dependencia. Ha trabajado en un servicio municipal de atención a domicilio. Conoce bien el trabajo: no es solo higiene y comida, sino estímulo cognitivo, paseos, conversación, vínculo. Joven, dinámica y empática. Quizá le falta la experiencia que da la edad para conectar con alguien de 87 años.",
+        "traits": ["formada", "empática", "joven"],
+        "skills": { "experiència en cura": 7, "formació sanitària": 6, "paciència i empatia": 9, "disponibilitat": 8, "comunicació": 9 }
+      },
+      {
+        "id": "b2_yolanda_cuidadora",
+        "name": "Yolanda Mamani",
+        "sex": "dona",
+        "age": 42,
+        "height": 157,
+        "weight": 65,
+        "build": "robusto ligero",
+        "hair": "negro liso en coleta baja",
+        "description": "Cuidadora boliviana, ocho años en España, sin papeles. Ha cuidado personas mayores desde que llegó: cuatro años interna en Madrid, cuatro más en Cataluña. Experiencia inmensa: cocinar, limpiar, compañía, medicaciones, movilizaciones. Cobra en negro, muy por debajo del salario mínimo. Envía dinero a Bolivia para sus hijos.",
+        "traits": ["muy experimentada", "sin papeles", "invisible"],
+        "skills": { "experiència en cura": 9, "formació sanitària": 3, "paciència i empatia": 9, "disponibilitat": 9, "comunicació": 6 }
+      },
+      {
+        "id": "b2_luz_marina_cuidadora",
+        "name": "Luz Marina Herrera",
+        "sex": "dona",
+        "age": 35,
+        "height": 162,
+        "weight": 60,
+        "build": "medio",
+        "hair": "oscuro rizado hasta los hombros",
+        "description": "Cuidadora colombiana con permiso de residencia. Seis años cuidando personas mayores en Cataluña. Ha hecho un curso de geriatría de 200 horas. Alegre, habladora, cariñosa — las personas mayores que ha cuidado la quieren mucho. Cocina bien, es limpia, puntual y atenta. Cobra poco a pesar de tener contrato.",
+        "traits": ["alegre", "cariñosa", "con contrato"],
+        "skills": { "experiència en cura": 8, "formació sanitària": 5, "paciència i empatia": 9, "disponibilitat": 8, "comunicació": 9 }
+      },
+      {
+        "id": "b2_patricia_cuidadora",
+        "name": "Patricia Quispe",
+        "sex": "dona",
+        "age": 48,
+        "height": 158,
+        "weight": 63,
+        "build": "desgastado",
+        "hair": "negro con raíces grises, moño rápido",
+        "description": "Cuidadora peruana, doce años en Cataluña. Cuida a tres personas mayores a la vez: mañana con uno, tarde con otro, noches con un tercero. Dos sin contrato. Exhausta y sobrecargada. Conoce el trabajo a fondo por experiencia acumulada. El problema: si coge a Carme, ¿con qué energía llegará?",
+        "traits": ["muy experimentada", "exhausta", "sobrecargada"],
+        "skills": { "experiència en cura": 9, "formació sanitària": 4, "paciència i empatia": 7, "disponibilitat": 3, "comunicació": 7 }
+      },
+      {
+        "id": "b2_rosa_cuidadora",
+        "name": "Rosa Castillo",
+        "sex": "dona",
+        "age": 55,
+        "height": 160,
+        "weight": 70,
+        "build": "robusto maternal",
+        "hair": "oscuro con canas, corto práctico",
+        "description": "Cuidadora ecuatoriana, quince años de experiencia, papeles en regla y contrato formal. Ha cuidado a seis personas mayores. Sabe cocinar para personas con disfagia, adaptar el entorno para evitar caídas, gestionar la soledad. Ha acompañado a dos personas en el final de la vida. Maternal, sólida y muy experimentada.",
+        "traits": ["veterana", "maternal", "papeles en regla"],
+        "skills": { "experiència en cura": 10, "formació sanitària": 5, "paciència i empatia": 10, "disponibilitat": 8, "comunicació": 8 }
+      },
+      {
+        "id": "b2_anna_estudiant",
+        "name": "Anna Roca",
+        "sex": "dona",
+        "age": 22,
+        "height": 167,
+        "weight": 55,
+        "build": "delgado joven",
+        "hair": "largo oscuro en coleta rápida",
+        "description": "Estudiante de tercero de enfermería, busca trabajo parcial. Conocimientos de salud y primeros auxilios, pero nunca ha cuidado a una persona mayor a domicilio. Responsable y con formación sanitaria de base. Pero el trabajo requiere constancia y disponibilidad que una estudiante no puede garantizar: exámenes, prácticas, trabajos...",
+        "traits": ["estudiante", "responsable", "disponibilidad limitada"],
+        "skills": { "experiència en cura": 2, "formació sanitària": 6, "paciència i empatia": 7, "disponibilitat": 3, "comunicació": 7 }
+      },
+      {
+        "id": "b2_merce_veina",
+        "name": "Mercè Blanch",
+        "sex": "dona",
+        "age": 68,
+        "height": 158,
+        "weight": 68,
+        "build": "robusto con edad",
+        "hair": "blanco permanentado, gafas de leer",
+        "description": "Vecina de Carme desde hace treinta años. Se ofrece a ayudarla por amistad, sin cobrar. Problema: tiene 68 años con hipertensión y artrosis, no puede garantizar atención diaria constante. Confunde ser amiga con ser cuidadora: puede hacer compañía, pero no sabe gestionar medicaciones ni hacer movilizaciones seguras.",
+        "traits": ["vecina", "voluntaria", "limitada"],
+        "skills": { "experiència en cura": 3, "formació sanitària": 1, "paciència i empatia": 8, "disponibilitat": 4, "comunicació": 9 }
+      },
+      {
+        "id": "b2_sandra_atur",
+        "name": "Sandra Gil",
+        "sex": "dona",
+        "age": 40,
+        "height": 165,
+        "weight": 63,
+        "build": "medio",
+        "hair": "castaño con raíces, longitud media",
+        "description": "Desempleada desde hace dos años, trabajaba en un almacén. Sin formación en geriatría ni atención a personas. Su argumento: 'he cuidado a mi madre los últimos años'. Confunde experiencia personal con competencia profesional. Cuidar a un familiar es duro y respetable, pero no es lo mismo que cuidar profesionalmente.",
+        "traits": ["sin formación", "necesitada", "buena voluntad"],
+        "skills": { "experiència en cura": 3, "formació sanitària": 0, "paciència i empatia": 6, "disponibilitat": 9, "comunicació": 6 }
+      },
+      {
+        "id": "b2_noemi_psicologa",
+        "name": "Noemí Salas",
+        "sex": "dona",
+        "age": 44,
+        "height": 167,
+        "weight": 58,
+        "build": "delgado",
+        "hair": "oscuro con mechas, bien peinado, pendientes",
+        "description": "Psicóloga especializada en envejecimiento activo y gestión de la soledad. Talleres de memoria y estimulación cognitiva. Conoce el mundo emocional de las personas mayores. Pero su trabajo es de despacho: sesiones de una hora. No ha vestido nunca a nadie, no ha cocinado para una persona mayor, no la ha acompañado al médico.",
+        "traits": ["teórica", "empática intelectual", "sin experiencia práctica"],
+        "skills": { "experiència en cura": 2, "formació sanitària": 5, "paciència i empatia": 8, "disponibilitat": 4, "comunicació": 9 }
+      },
+      {
+        "id": "b2_irina_infermera",
+        "name": "Irina Kovach",
+        "sex": "dona",
+        "age": 50,
+        "height": 168,
+        "weight": 66,
+        "build": "medio robusto",
+        "hair": "castaño claro en moño tirante",
+        "description": "Enfermera ucraniana con veinte años de experiencia, incluida geriatría hospitalaria. Título no homologado en España — oficialmente 'no es enfermera'. Nivel técnico excelente: curas, constantes, medicación, movilizaciones. Habla castellano con dificultad y catalán nada, lo que puede dificultar la comunicación con Carme.",
+        "traits": ["muy competente", "título no homologado", "barrera idiomática"],
+        "skills": { "experiència en cura": 8, "formació sanitària": 9, "paciència i empatia": 7, "disponibilitat": 8, "comunicació": 3 }
+      },
+      {
+        "id": "b2_jordi_auxiliar",
+        "name": "Jordi Prat",
+        "sex": "home",
+        "age": 29,
+        "height": 177,
+        "weight": 73,
+        "build": "medio",
+        "hair": "castaño corto, afeitado",
+        "description": "Auxiliar de geriatría titulado con tres años de experiencia entre residencia y atención domiciliaria. Formación completa y excelentes valoraciones. Objetivamente, un buen candidato. Pero el cuidado de personas mayores es aún más feminizado que las guarderías: un hombre joven que viste y baña a una señora de 87 años genera incomodidad en muchas familias.",
+        "traits": ["formado", "experimentado", "víctima de prejuicio"],
+        "skills": { "experiència en cura": 7, "formació sanitària": 8, "paciència i empatia": 8, "disponibilitat": 8, "comunicació": 8 }
+      },
+      {
+        "id": "b2_hamid_familiar",
+        "name": "Hamid Benali",
+        "sex": "home",
+        "age": 45,
+        "height": 174,
+        "weight": 78,
+        "build": "robusto medio",
+        "hair": "negro corto con canas en las sienes, barba recortada",
+        "description": "Originario de Marruecos, cuidó a su padre enfermo tres años y a su suegro dos años. Conoce el cuidado por experiencia personal: movilizaciones, higiene, alimentación, compañía. Mucha paciencia y respeto por las personas mayores. Castellano funcional pero limitado, no habla catalán. La comunicación con Carme podría ser un obstáculo.",
+        "traits": ["respetuoso", "experiencia familiar", "barrera idiomática"],
+        "skills": { "experiència en cura": 6, "formació sanitària": 2, "paciència i empatia": 8, "disponibilitat": 7, "comunicació": 4 }
+      },
+      {
+        "id": "b2_alex_fisio",
+        "name": "Àlex Duran",
+        "sex": "home",
+        "age": 36,
+        "height": 179,
+        "weight": 76,
+        "build": "atlético medio",
+        "hair": "oscuro corto, barba ligera",
+        "description": "Fisioterapeuta con experiencia en rehabilitación geriátrica: movilidad, equilibrio, prevención de caídas. Conoce el cuerpo de las personas mayores. Pero ser fisio y ser cuidador son trabajos muy diferentes. Sesiones de 45 minutos, no un día entero. No sabe cocinar ni tiene experiencia en compañía cotidiana. Visión clínica: ve una paciente, no una persona.",
+        "traits": ["clínico", "especializado", "sin experiencia de cuidado diario"],
+        "skills": { "experiència en cura": 3, "formació sanitària": 8, "paciència i empatia": 5, "disponibilitat": 4, "comunicació": 6 }
+      },
+      {
+        "id": "b2_pilar_auxiliar",
+        "name": "Pilar Vázquez",
+        "sex": "dona",
+        "age": 58,
+        "height": 161,
+        "weight": 67,
+        "build": "medio con edad",
+        "hair": "gris en permanente corto, gafas en la cabeza",
+        "description": "Auxiliar de enfermería con veinte años en una residencia que cerró. Busca trabajo domiciliario. Experiencia inmensa y trato cálido con las personas mayores. La edad juega a su favor (conecta bien con personas de 87 años porque 'hablan el mismo idioma emocional') y en contra (ya tiene limitaciones físicas propias).",
+        "traits": ["veterana", "cálida", "limitaciones físicas"],
+        "skills": { "experiència en cura": 10, "formació sanitària": 7, "paciència i empatia": 9, "disponibilitat": 8, "comunicació": 9 }
+      }
+    ]
+  },
+  {
+    "id": "B3",
+    "title": "El niño que llora en el parque",
+    "category": "Cotidianidad",
+    "description": "Un niño de 4 años se ha caído en el parque, se ha hecho una herida en la rodilla y llora desconsolado. No se ve ningún adulto que parezca su padre o madre. Alguien tiene que ir inmediatamente a atenderlo. Elige a 1 persona. ¡Fíjate bien en las habilidades de cada uno!",
+    "context": "El parque es un microcosmos urbano: convive todo el mundo. La elección revela sesgos profundos: ¿a quién consideramos 'de fiar' para atender a un niño? Género, edad, aspecto, origen étnico — todo influye. Cualquier adulto puede consolar a un niño que llora, pero instintivamente tendemos a confiar en unos perfiles más que en otros. ¿Por qué?",
+    "toSelect": 1,
+    "reflectionTitle": "¡Reflexionemos!",
+    "reflectionText": "¿A quién has elegido? ¿Has elegido por las habilidades reales (primeros auxilios, experiencia con niños) o por el aspecto y la impresión que te generaba? En un parque, cualquier adulto decente podría atender a un niño que llora. Pero tendemos a confiar en mujeres, personas mayores, gente de 'buena apariencia'. Y a desconfiar de hombres jóvenes, personas racializadas, gente con aspecto 'diferente'. Fíjate en los datos: ¿quién tenía realmente más habilidades para esta situación?",
+    "debateQuestions": [
+      "¿Has descartado a alguien por su aspecto físico, origen étnico o situación social? ¿Por qué?",
+      "Kevin (estudiante de enfermería) sabía limpiar heridas mejor que la mayoría. ¿Lo has considerado?",
+      "¿Elegirías a Ibrahim (persona sin hogar, antiguo maestro de música) para atender al niño? ¿Por qué no?",
+      "¿Por qué nos genera más confianza una mujer que un hombre para atender a un niño que llora?"
+    ],
+    "characters": [
+      {
+        "id": "b3_marta_mare",
+        "name": "Marta Solé",
+        "sex": "dona",
+        "age": 34,
+        "height": 163,
+        "weight": 58,
+        "build": "medio",
+        "hair": "castaño recogido en coleta",
+        "description": "Madre de dos hijos (6 y 3 años), en el parque con el pequeño en los columpios. Lleva vaqueros, camiseta y zapatillas. Siempre lleva tiritas en la bolsa de tela. Administrativa en una gestoría. Acostumbrada a gestionar llantos y caídas. Empática y resolutiva.",
+        "traits": ["madre experimentada", "resolutiva", "cercana"],
+        "skills": { "experiència amb nens": 8, "primers auxilis": 4, "empatia i proximitat": 9, "mobilitat": 8, "confiança que genera": 9 }
+      },
+      {
+        "id": "b3_jordi_professor",
+        "name": "Jordi Puigdomènech",
+        "sex": "home",
+        "age": 38,
+        "height": 178,
+        "weight": 82,
+        "build": "medio-fuerte",
+        "hair": "corto, gorra, barba recortada",
+        "description": "Padre de familia, en el parque con su hija de 5 años. Profesor de primaria. Acostumbrado a tratar con niños cada día. Paciente, voz tranquila. Ha hecho cursos de primeros auxilios en la escuela. Lleva mochila con botellas de agua y un neceser.",
+        "traits": ["padre", "profesor", "paciente"],
+        "skills": { "experiència amb nens": 9, "primers auxilis": 7, "empatia i proximitat": 8, "mobilitat": 8, "confiança que genera": 7 }
+      },
+      {
+        "id": "b3_fatima_marroquina",
+        "name": "Fàtima El Amrani",
+        "sex": "dona",
+        "age": 42,
+        "height": 157,
+        "weight": 70,
+        "build": "robusto",
+        "hair": "bajo hiyab lila",
+        "description": "Mujer marroquí con hiyab de color lila. Viene de hacer la compra con dos bolsas llenas. Ama de casa, madre de cuatro hijos. Muy experimentada con niños. Habla catalán con acento pero se hace entender perfectamente. Carácter cálido y maternal.",
+        "traits": ["madre de cuatro", "cálida", "maternal"],
+        "skills": { "experiència amb nens": 9, "primers auxilis": 3, "empatia i proximitat": 9, "mobilitat": 6, "confiança que genera": 5 }
+      },
+      {
+        "id": "b3_kevin_infermeria",
+        "name": "Kevin Mbaye",
+        "sex": "home",
+        "age": 22,
+        "height": 185,
+        "weight": 78,
+        "build": "alto atlético",
+        "hair": "corto, auriculares al cuello",
+        "description": "Chico joven, piel negra, camiseta de baloncesto y chándal. Sentado en un banco mirando el móvil. Estudiante de enfermería de segundo curso. Estudia primeros auxilios, sabe limpiar heridas y hacer curas básicas. Amable y tranquilo, pero su altura y complexión pueden intimidar.",
+        "traits": ["estudiante de enfermería", "sabe hacer curas", "aspecto intimidante"],
+        "skills": { "experiència amb nens": 3, "primers auxilis": 9, "empatia i proximitat": 7, "mobilitat": 9, "confiança que genera": 3 }
+      },
+      {
+        "id": "b3_montse_jubilada",
+        "name": "Montserrat Frigola",
+        "sex": "dona",
+        "age": 72,
+        "height": 155,
+        "weight": 65,
+        "build": "pequeño con edad",
+        "hair": "blanco corto rizado",
+        "description": "Señora mayor, vestido de flores, rebeca fina, zapatos cómodos. Sentada en un banco mirando las palomas. Jubilada, antigua maestra de parvulario durante 35 años. Ha visto mil caídas y sabe exactamente qué decir a un niño que llora. Pero le cuesta levantarse rápido y las articulaciones le duelen.",
+        "traits": ["exmaestra", "muy experimentada", "movilidad reducida"],
+        "skills": { "experiència amb nens": 10, "primers auxilis": 5, "empatia i proximitat": 10, "mobilitat": 2, "confiança que genera": 9 }
+      },
+      {
+        "id": "b3_dani_educador",
+        "name": "Dani Costa",
+        "sex": "home",
+        "age": 27,
+        "height": 175,
+        "weight": 73,
+        "build": "medio",
+        "hair": "oscuro, lado rapado, tatuajes en los brazos",
+        "description": "Chico joven con tatuajes, piercing en la oreja y barba de días. Camiseta negra, vaqueros estrechos y botas. Pasea un perro mestizo tranquilo. Educador social en un centro de menores. Trabaja cada día con niños en situaciones difíciles. Muy empático, sabe gestionar llantos y crisis emocionales.",
+        "traits": ["educador social", "empático", "aspecto alternativo"],
+        "skills": { "experiència amb nens": 9, "primers auxilis": 5, "empatia i proximitat": 9, "mobilitat": 8, "confiança que genera": 4 }
+      },
+      {
+        "id": "b3_carme_infermera",
+        "name": "Carme Vilaregut",
+        "sex": "dona",
+        "age": 55,
+        "height": 160,
+        "weight": 68,
+        "build": "medio",
+        "hair": "castaño teñido, gafas de vista",
+        "description": "Mujer de mediana edad, pantalones de pinza, blusa clara, zapatillas de caminar. Haciendo su vuelta diaria por el parque. Enfermera de pediatría con 25 años de experiencia en urgencias. Sabe evaluar una herida en segundos. Lleva un pequeño neceser de primeros auxilios en el bolso por costumbre profesional.",
+        "traits": ["enfermera de pediatría", "experta", "resolutiva"],
+        "skills": { "experiència amb nens": 9, "primers auxilis": 10, "empatia i proximitat": 8, "mobilitat": 7, "confiança que genera": 9 }
+      },
+      {
+        "id": "b3_ahmed_botiguer",
+        "name": "Ahmed Benali",
+        "sex": "home",
+        "age": 50,
+        "height": 170,
+        "weight": 80,
+        "build": "robusto medio",
+        "hair": "oscuro, bigote grueso",
+        "description": "Hombre magrebí, chaqueta ligera sobre camisa, pantalones oscuros. Sentado en un banco hablando por teléfono. Propietario de una tienda de comestibles del barrio. Padre de tres hijos, abuelo de dos nietos. Conoce a medio barrio. Amable y hablador. Sin formación médica pero sabe gestionar situaciones cotidianas.",
+        "traits": ["abuelo", "tendero del barrio", "cercano"],
+        "skills": { "experiència amb nens": 7, "primers auxilis": 2, "empatia i proximitat": 7, "mobilitat": 6, "confiança que genera": 5 }
+      },
+      {
+        "id": "b3_laura_estudiant",
+        "name": "Laura Giralt",
+        "sex": "dona",
+        "age": 19,
+        "height": 170,
+        "weight": 55,
+        "build": "delgado joven",
+        "hair": "largo rubio, pendientes pequeños",
+        "description": "Chica joven, top corto, falda corta, zapatillas blancas. Tumbada en el césped mirando Instagram en el móvil. Estudiante de primero de Psicología. No tiene experiencia con niños. Buena intención pero insegura. Sabría acercarse pero no sabría mucho qué hacer con la herida.",
+        "traits": ["joven", "sin experiencia", "buena intención"],
+        "skills": { "experiència amb nens": 1, "primers auxilis": 2, "empatia i proximitat": 6, "mobilitat": 8, "confiança que genera": 6 }
+      },
+      {
+        "id": "b3_miquel_transportista",
+        "name": "Miquel Torrent",
+        "sex": "home",
+        "age": 45,
+        "height": 180,
+        "weight": 95,
+        "build": "corpulento calvo",
+        "hair": "calvo, cadena fina al cuello",
+        "description": "Hombre corpulento, camiseta blanca ajustada, pantalones de trabajo y botas. Manos grandes y callosas. De pie fumando un cigarrillo cerca de la fuente. Transportista de mercancías. Padre de dos hijos adolescentes — cuando eran pequeños los llevaba al parque cada tarde. Sabe gestionar llantos pero hace años que no trata con niños pequeños.",
+        "traits": ["padre", "corpulento", "imponente"],
+        "skills": { "experiència amb nens": 6, "primers auxilis": 2, "empatia i proximitat": 6, "mobilitat": 7, "confiança que genera": 3 }
+      },
+      {
+        "id": "b3_ibrahim_sensesostre",
+        "name": "Ibrahim Guillen",
+        "sex": "home",
+        "age": 60,
+        "height": 165,
+        "weight": 63,
+        "build": "delgado, desgastado",
+        "hair": "barba larga gris, descuidada",
+        "description": "Hombre sin hogar. Piel morena curtida por el sol. Varias capas de ropa: jersey oscuro, chaqueta demasiado grande, pantalones desgastados, zapatos rotos. Tumbado en un parterre medio escondido. Antiguo maestro de música que perdió el trabajo y el piso durante la crisis. Vive en la calle desde hace 6 años. Conoce a todos los niños del parque.",
+        "traits": ["antiguo maestro", "sensible", "marginado"],
+        "skills": { "experiència amb nens": 7, "primers auxilis": 3, "empatia i proximitat": 8, "mobilitat": 4, "confiança que genera": 1 }
+      },
+      {
+        "id": "b3_neus_fisio",
+        "name": "Neus Sala",
+        "sex": "dona",
+        "age": 30,
+        "height": 168,
+        "weight": 62,
+        "build": "atlético",
+        "hair": "castaño corto",
+        "description": "Mujer joven atlética, maillot de running, mallas, zapatillas deportivas, reloj deportivo. Haciendo estiramientos cerca del camino de correr. Fisioterapeuta. Buena forma física, podría llegar rápido al niño. Sabe evaluar lesiones. No tiene hijos ni experiencia especial con niños pequeños, pero es eficiente y resolutiva.",
+        "traits": ["fisioterapeuta", "atlética", "resolutiva"],
+        "skills": { "experiència amb nens": 2, "primers auxilis": 8, "empatia i proximitat": 6, "mobilitat": 10, "confiança que genera": 8 }
+      },
+      {
+        "id": "b3_ramon_pediatra",
+        "name": "Ramón Casals",
+        "sex": "home",
+        "age": 68,
+        "height": 172,
+        "weight": 78,
+        "build": "medio con edad",
+        "hair": "blanco escaso, bigote blanco, bastón",
+        "description": "Señor mayor, camisa de cuadros, pantalones de pana, zapatos marrones, bastón de paseo. Sentado en un banco leyendo el periódico. Jubilado, antiguo pediatra durante 35 años. Ha visto miles de niños llorando. Sabe exactamente cómo actuar ante una herida menor. Pero camina lento y le cuesta agacharse.",
+        "traits": ["expediatra", "muy experto", "movilidad reducida"],
+        "skills": { "experiència amb nens": 10, "primers auxilis": 10, "empatia i proximitat": 8, "mobilitat": 2, "confiança que genera": 8 }
+      },
+      {
+        "id": "b3_yuliana_neteja",
+        "name": "Yuliana Flores",
+        "sex": "dona",
+        "age": 35,
+        "height": 160,
+        "weight": 64,
+        "build": "medio",
+        "hair": "negro largo en trenza",
+        "description": "Mujer latina, uniforme de limpieza (bata azul), pantalones oscuros, zapatos cómodos. Cruza el parque de camino al trabajo. Trabajadora de limpieza con 3 empleos. Madre de dos hijos que viven en Honduras con la abuela. Al ver un niño llorar se le encoge el corazón. Muy afectuosa y resolutiva con niños.",
+        "traits": ["madre lejos de sus hijos", "afectuosa", "invisible"],
+        "skills": { "experiència amb nens": 7, "primers auxilis": 2, "empatia i proximitat": 9, "mobilitat": 7, "confiança que genera": 4 }
+      },
+      {
+        "id": "b3_pau_dissenyador",
+        "name": "Pau Riera",
+        "sex": "home",
+        "age": 33,
+        "height": 176,
+        "weight": 70,
+        "build": "delgado",
+        "hair": "corto, barba corta arreglada, gafas de pasta",
+        "description": "Hombre joven, camisa arremangada, vaqueros, zapatillas. Sentado en un banco trabajando con el portátil. Diseñador gráfico freelance. Padre de una niña de 2 años. Acostumbrado a llantos y caídas. Lleva tiritas en la cartera por costumbre. Trabajando en el parque mientras su mujer ha llevado a la niña al médico.",
+        "traits": ["padre reciente", "moderno", "acostumbrado a llantos"],
+        "skills": { "experiència amb nens": 6, "primers auxilis": 4, "empatia i proximitat": 8, "mobilitat": 8, "confiança que genera": 7 }
       }
     ]
   }

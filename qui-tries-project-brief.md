@@ -114,11 +114,11 @@ Cada escenari té el seu propi conjunt de 12-15 personatges dissenyats per a aqu
 - Reflexió: La immensa majoria de cuidadores de gent gran són dones. No hi ha reivindicació de paritat en aquest sector.
 - Debat: "Per què aquí no hi ha reivindicació de paritat? Seria diferent si la persona gran fos un home? Per què?"
 
-**B3. El nen que plora al pati**
-- Context: "Un nen de 4 anys ha caigut al pati, s'ha fet un trau al genoll i plora desconsolat. Cal que algú hi vagi immediatament a atendre'l. Tria 1 persona."
-- Personatges: 10 adults presents al pati (mestres, monitors, pares, mares — homes i dones).
-- Reflexió: Instintivament la majoria tria una dona. Però és biologia o educació? Un home empàtic i amb experiència pot fer-ho igual de bé.
-- Debat: "Per què instintivament molts triem una dona? Si un pare és el més a prop, dubtaríem que hi anés?"
+**B3. El nen que plora al parc**
+- Context: "Un nen de 4 anys ha caigut al parc, s'ha fet un trau al genoll i plora desconsolat. No es veu cap adult que sembli el seu pare o mare. Cal que algú hi vagi immediatament a atendre'l. Tria 1 persona."
+- Personatges: 14-16 persones presents al parc (barreja diversa: joves, gent gran, una dona marroquina que ve de fer la compra, un sense-sostre que dorm a un parterre, un pare amb el seu fill, una iaia asseguda, un noi amb auriculars, etc.).
+- Reflexió: Instintivament la majoria tria una dona. Però és biologia o educació? Un home empàtic i amb experiència pot fer-ho igual de bé. Al parc, qualsevol persona adulta capacitada podria ajudar — però els nostres biaixos filtren qui ens "sembla adequat" i qui no.
+- Debat: "Per què instintivament molts triem una dona? Triaries el sense-sostre si fos el més a prop? Per què no? I l'home jove amb tatuatges? Què ens fa confiar o desconfiar d'algú per atendre un nen?"
 
 ### CATEGORIA C: Escenaris mixtos / ambigus
 

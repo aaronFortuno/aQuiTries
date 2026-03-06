@@ -1,0 +1,129 @@
+ESCENARI B3 — EL NEN QUE PLORA AL PARC
+=========================================
+15 persones presents al parc
+
+Cada fitxa té:
+- ID: identificador breu per a la app i nom d'arxiu d'imatge.
+- Dades bàsiques, descripció, ocupació, trets i biaix pedagògic.
+
+---
+
+1. MARTA SOLÉ
+   ID: b3_marta_mare
+   Sexe: Dona | Edat: 34 | Alçada: 163 cm | Pes: 58 kg
+   Descripció: Mare de dos fills (6 i 3 anys). Està al parc amb el seu fill petit, que juga als gronxadors. Porta roba còmoda (texans, samarreta, bambas). Cabell castany recollit en cua. Porta una bossa de tela amb snacks i tovalloletes.
+   Ocupació: Administrativa en una gestoria.
+   Trets: Acostumada a gestionar plors i caigudes. Sempre porta tiretes a la bossa. Empàtica i resolutiva.
+   Biaix: El perfil "òbvi" — mare jove, aspecte proper, dona. La tria fàcil i instintiva.
+
+2. JORDI PUIGDOMÈNECH
+   ID: b3_jordi_professor
+   Sexe: Home | Edat: 38 | Alçada: 178 cm | Pes: 82 kg
+   Descripció: Pare de família, està al parc amb la seva filla de 5 anys. Porta una gorra, polo i pantalons curts. Barba retallada. Té una motxilla amb ampolles d'aigua i un petit necesser.
+   Ocupació: Professor de primària.
+   Trets: Acostumat a tractar amb nens cada dia. Pacient, veu tranquil·la. Ha fet cursos de primers auxilis a l'escola.
+   Biaix: Home però amb perfil molt adequat. Si no el tries, per què? Perquè és home?
+
+3. FÀTIMA EL AMRANI
+   ID: b3_fatima_marroquina
+   Sexe: Dona | Edat: 42 | Alçada: 157 cm | Pes: 70 kg
+   Descripció: Dona marroquina amb hijab de color lila. Porta una bata llarga de color fosc i sabates planes. Ve de fer la compra — porta dues bosses de plàstic plenes. Cara amable, ulls expressius.
+   Ocupació: Mestressa de casa. Mare de quatre fills.
+   Trets: Molt experimentada amb nens. Ha criat quatre fills i ajuda amb els nebots. Parla català amb accent però es fa entendre perfectament. Té un caràcter càlid i maternal.
+   Biaix: Dona, mare experimentada — però el hijab i l'origen marroquí poden generar desconfiança en alguns. Prova de biaix ètnic/religiós.
+
+4. KEVIN MBAYE
+   ID: b3_kevin_infermeria
+   Sexe: Home | Edat: 22 | Alçada: 185 cm | Pes: 78 kg
+   Descripció: Noi jove, pell negra, cabell curt. Porta samarreta ampla de bàsquet, pantalons de xandall i sabatilles esportives. Auriculars penjats al coll. Està assegut a un banc mirant el mòbil.
+   Ocupació: Estudiant d'Infermeria, segon curs.
+   Trets: Estudia primers auxilis. Sap netejar ferides i fer cures bàsiques. Amable i tranquil, però amb un aspecte que pot intimidar per la seva alçada i complexió.
+   Biaix: Home jove, negre, aspecte "urbà" — triple biaix. Però és estudiant d'infermeria i sabria exactament què fer amb la ferida. Un dels perfils tècnicament més adequats.
+
+5. MONTSERRAT (MONTSE) FRIGOLA
+   ID: b3_montse_jubilada
+   Sexe: Dona | Edat: 72 | Alçada: 155 cm | Pes: 65 kg
+   Descripció: Senyora gran, cabell blanc curt i arrissat. Porta un vestit estampat de flors, rebeca fina i sabates còmodes. Asseguda a un banc amb un mocador al genoll, mirant les colomes.
+   Ocupació: Jubilada (antiga mestra de parvulari).
+   Trets: 35 anys de carrera amb nens petits. Ha vist mil caigudes. Sap exactament què dir a un nen que plora. Però li costa aixecar-se ràpid i les articulacions li fan mal.
+   Biaix: Perfil "iaia de confiança" — dona gran, aspecte afable. Instintivament genera confiança. Però pot ser la més lenta en arribar-hi.
+
+6. DANI COSTA
+   ID: b3_dani_educador
+   Sexe: Home | Edat: 27 | Alçada: 175 cm | Pes: 73 kg
+   Descripció: Noi jove amb tatuatges als braços, pírcing a l'orella i barba de dies. Porta samarreta negra, texans estrets i botes. Cabell fosc amb un costat rapat. Passeja un gos mestís de mida mitjana amb corretja.
+   Ocupació: Educador social en un centre de menors.
+   Trets: Treballa cada dia amb nens i adolescents en situacions difícils. Molt empàtic, sap gestionar plors i crisis emocionals. El gos és tranquil i pot ajudar a calmar el nen.
+   Biaix: L'aspecte "alternatiu" pot generar desconfiança. Però professionalment és un dels més preparats per a la situació.
+
+7. CARME VILAREGUT
+   ID: b3_carme_infermera
+   Sexe: Dona | Edat: 55 | Alçada: 160 cm | Pes: 68 kg
+   Descripció: Dona de mitja edat, cabell tenyit de castany, ulleres de vista. Porta pantalons de pinça, brusa clara i sabatilles de caminar. Està fent la seva volta diària pel parc.
+   Ocupació: Infermera de pediatria a l'hospital comarcal.
+   Trets: 25 anys tractant nens a urgències. Sap avaluar una ferida en segons. Porta un petit necesser de primers auxilis a la bossa per costum professional.
+   Biaix: Perfil tècnicament excel·lent i socialment "acceptable". Dona de mitja edat, infermera — és gairebé massa perfecta. Si la tries, pregunta't si tries per les dades o per l'aspecte.
+
+8. AHMED BENALI
+   ID: b3_ahmed_botiguer
+   Sexe: Home | Edat: 50 | Alçada: 170 cm | Pes: 80 kg
+   Descripció: Home magrebí, bigoti gruixut, pell bruna. Porta una jaqueta lleugera sobre una camisa, pantalons foscos i sabates de vestir. Està assegut a un banc parlant per telèfon.
+   Ocupació: Propietari d'una botiga de comestibles al barri.
+   Trets: Pare de tres fills, avi de dos néts. Coneix mig barri perquè tothom compra a la seva botiga. Amable i xerraire. No té formació mèdica però sap gestionar situacions quotidianes.
+   Biaix: Home d'origen magrebí — el biaix ètnic pot fer que se'l descarti malgrat ser un veí proper i de confiança al barri.
+
+9. LAURA GIRALT
+   ID: b3_laura_estudiant
+   Sexe: Dona | Edat: 19 | Alçada: 170 cm | Pes: 55 kg
+   Descripció: Noia jove, cabell llarg ros, arracades petites. Porta top curt, faldilla curta i sabatilles blanques. Està estirada a la gespa mirant Instagram al mòbil amb unes amigues (que no es veuen).
+   Ocupació: Estudiant de primer de Psicologia.
+   Trets: No té experiència amb nens. Bona intenció però insegura. Sabria apropar-s'hi però no sabria gaire què fer amb la ferida.
+   Biaix: Dona jove — genera menys "desconfiança" que un home jove, però és objectivament menys preparada que molts altres candidats.
+
+10. MIQUEL TORRENT
+    ID: b3_miquel_transportista
+    Sexe: Home | Edat: 45 | Alçada: 180 cm | Pes: 95 kg
+    Descripció: Home corpulent, calb, amb una cadena fina al coll. Porta samarreta blanca ajustada, pantalons de feina i botes. Mans grans i calloses. Està dret fumant un cigarret a prop de la font.
+    Ocupació: Transportista de mercaderies.
+    Trets: Pare de dos fills adolescents. Quan eren petits, era ell qui els portava al parc cada tarda perquè la seva dona treballava a torns. Sap gestionar plors, però fa anys que no tracta amb nens petits. Aspecte imponent.
+    Biaix: Home gran, corpulent, fumant — pot semblar intimidant. Però té experiència de pare i sabria què fer.
+
+11. IBRAHIM GUILLEN
+    ID: b3_ibrahim_sensesostre
+    Sexe: Home | Edat: 60 | Alçada: 165 cm | Pes: 63 kg
+    Descripció: Home sense sostre. Pell bruna, curtida pel sol. Barba llarga i grisa, descurada. Porta diverses capes de roba: un jersei fosc, una jaqueta gruixuda massa gran per a ell, pantalons desgastats, sabates trencades. Està estirat en un parterre mig amagat darrere uns arbustos, amb una bossa de plàstic amb les seves pertinences.
+    Ocupació: Sense feina. Antigament era mestre de música.
+    Trets: Home culte i sensible que va perdre la feina, el pis i la família durant la crisi. Viu al carrer des de fa 6 anys. És tranquil, mai ha fet mal a ningú. Coneix tots els nens del parc perquè els veu cada dia. Sap tocar la flauta i de vegades els nens s'hi acosten a escoltar-lo.
+    Biaix: El biaix més dur de tots. Ningú triaria el sense-sostre per atendre un nen — però és una persona amb formació, sensibilitat i que coneix aquell parc millor que ningú. Prova extrema de prejudici per aparença i situació social.
+
+12. NEUS SALA
+    ID: b3_neus_fisio
+    Sexe: Dona | Edat: 30 | Alçada: 168 cm | Pes: 62 kg
+    Descripció: Dona jove, atlètica, cabell curt castany. Porta mallot de running, mallas, sabatilles esportives i un rellotge esportiu. Està fent estiraments a prop del camí de córrer.
+    Ocupació: Fisioterapeuta.
+    Trets: Bona forma física, podria arribar ràpid al nen. Sap avaluar lesions (és la seva feina). No té fills ni experiència especial amb nens petits, però és eficient i resolutiva.
+    Biaix: Dona jove, esportiva, professional sanitària — perfil que genera confiança fàcilment. Bon candidat real.
+
+13. RAMÓN CASALS
+    ID: b3_ramon_pediatra
+    Sexe: Home | Edat: 68 | Alçada: 172 cm | Pes: 78 kg
+    Descripció: Senyor gran, cabell blanc escàs, bigoti blanc. Porta una camisa de quadres, pantalons de pana i sabates marrons. Té un bastó de passeig. Està assegut a un banc llegint el diari.
+    Ocupació: Jubilat (antic pediatra).
+    Trets: 35 anys de carrera com a pediatra. Ha vist milers de nens plorant. Sap exactament com actuar davant una ferida menor. Però camina lent i li costa ajupir-se.
+    Biaix: Perfil excel·lent tècnicament (pediatra) i socialment "segur" (avi tranquil). Però la seva limitació física és real. La gent pot triar-lo per confiança sense pensar en la limitació.
+
+14. YULIANA FLORES
+    ID: b3_yuliana_neteja
+    Sexe: Dona | Edat: 35 | Alçada: 160 cm | Pes: 64 kg
+    Descripció: Dona llatina, pell morena, cabell negre llarg recollit en trena. Porta uniforme de neteja (bata blava), pantalons foscos i sabates còmodes. Porta una bossa de feina. Està creuant el parc de camí a la feina.
+    Ocupació: Treballadora de neteja (3 feines). Mare de dos fills que viuen al seu país (Hondures).
+    Trets: Els seus fills els cria la seva mare a Hondures. Viu amb la pena constant de ser lluny d'ells. Veient un nen plorar se li encongeix el cor. Molt afectuosa i resolutiva amb nens — ho porta dins. No té formació mèdica però ha criat dos fills amb pocs recursos.
+    Biaix: Dona migrant, uniforme de neteja — pot ser "invisible" per a molts. Però la seva experiència maternal i la seva empatia són reals.
+
+15. PAU RIERA
+    ID: b3_pau_dissenyador
+    Sexe: Home | Edat: 33 | Alçada: 176 cm | Pes: 70 kg
+    Descripció: Home jove, barba curta i ben arreglada, ulleres de pasta. Porta una camisa arremangada, texans i sabatilles. Està assegut a un banc amb un portàtil a la falda, treballant.
+    Ocupació: Dissenyador gràfic freelance. Pare d'una nena de 2 anys.
+    Trets: Pare recent, acostumat als plors i les caigudes de la seva filla. Porta tiretes a la cartera (per costum). Treballant al parc perquè la seva dona s'ha endut la nena al metge i ell aprofita per canviar d'escenari.
+    Biaix: Home jove, aspecte "modern" — menys intimidant que altres homes. Pare recent amb experiència directa. Bon candidat que pot quedar descartat simplement per ser home.
