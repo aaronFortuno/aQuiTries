@@ -1,0 +1,291 @@
+4. Fichas de personaje (15 miembros de la tribu)
+Cada ficha tiene:
+
+ID: identificador breve para tu app.
+Rol: función principal en la tribu.
+Descripción de personaje: texto para tu juego.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+4.1. Taar – Cazador veterano
+ID: taar_hunter_veteran
+Rol: Cazador experto, referencia táctica del grupo.
+
+Descripción de personaje
+
+Taar es un hombre de mediana edad, de complexión fuerte pero no exagerada, con el cuerpo marcado por años de caza a campo abierto. Sus movimientos son contenidos y eficientes, como alguien que lleva toda la vida cruzando bosques y estepas. Tiene la piel curtida por el frío y el sol, y algunas cicatrices visibles en los brazos y las piernas.
+Su papel dentro de la tribu es organizar las batidas de caza mayor y decidir cuándo arriesgarse con presas más peligrosas. No es el líder formal, pero su opinión pesa mucho cuando se habla de comida y de rutas seguras.
+
+Bloque de prompt específico
+
+text
+Copy
+Middle-aged man, strong but realistic build, slightly broader shoulders, calm and focused expression. Short, dark, unstyled hair with a few strands of gray, short beard with some gray hair. Slightly weathered skin with a couple of visible scars on arms and legs.
+
+Wearing a short fur tunic made from thick brown animal hide, tied at the waist with a simple leather cord. Bare legs with simple fur leggings wrapped around the calves, sturdy primitive sandals. Over one shoulder, a leather strap holds a small pouch and a few stone tools.
+
+Holding a long wooden spear with a stone tip in his right hand, planted lightly on the ground. A small stone knife in a simple sheath hangs at his belt. Color palette: natural browns, grays and muted reds, with subtle highlights on the spear tip and tools.
+4.2. Ina – Cazadora rastreadora
+ID: ina_tracker
+Rol: Rastreadora, experta en seguir huellas y leer el entorno.
+
+Descripción de personaje
+
+Ina es una mujer adulta de complexión delgada y fibrosa, acostumbrada a caminar largas distancias. Tiene una mirada atenta y una postura ligeramente inclinada hacia delante, como quien siempre está buscando señales en el terreno. Conoce bien los hábitos de los animales y también los cambios sutiles en el clima.
+Dentro de la tribu, se encarga de explorar antes de los desplazamientos, buscar pasos seguros y anticipar posibles peligros.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult woman with slim, wiry build, slightly forward-leaning posture that suggests she is used to tracking and scanning the ground. Serious, attentive expression, focused eyes.
+
+Long, dark hair tied back loosely with a leather cord to keep it away from her face. Slightly tanned, weathered skin from constant exposure to wind and sun.
+
+Wearing a light fur wrap that leaves her arms mostly free for movement, tied at the waist with a cord, and simple fur leggings. Bare feet or very simple sandals. A small leather pouch at her side for carrying small tools or gathered items.
+
+Carrying a short wooden spear or sturdy walking stick in one hand, and a small bundle of leather strips or fibers in the other. Color palette: natural browns and muted greens, emphasizing her role as a tracker in natural surroundings.
+4.3. Oran – Anciano consejero
+ID: oran_elder
+Rol: Anciano respetado, memoria de la tribu.
+
+Descripción de personaje
+
+Oran es un anciano de complexión delgada, con la espalda ligeramente encorvada y el andar lento pero firme. Su rostro está surcado de arrugas profundas y su mirada es tranquila, con un punto de distancia propia de quien ha visto muchos inviernos.
+Es el principal guardián de las historias y tradiciones, y suele ser consultado antes de tomar decisiones importantes. Aunque ya no participa en la caza, su experiencia influye en la vida de todos.
+
+Bloque de prompt específico
+
+text
+Copy
+Elderly man with thin build, slightly hunched posture, standing with the help of a simple wooden walking stick. Calm, thoughtful expression with deep wrinkles on his face.
+
+Sparse gray hair, short and unstyled, with a thin gray beard. Pale, weathered skin showing age spots and lines.
+
+Wearing a longer fur wrap that covers more of his body for warmth, tied with a simple belt. Fur leggings and bare feet or simple sandals. Around his neck, a single bone pendant on a leather cord, symbolizing his role as a guardian of memory.
+
+Holding a wooden staff in one hand, slightly leaning on it. Color palette: muted browns and grays, with pale bone accents on the necklace.
+4.4. Lera – Curandera y recolectora
+ID: lera_healer
+Rol: Curandera, conocedora de plantas medicinales.
+
+Descripción de personaje
+
+Lera es una mujer adulta de complexión media, con manos ágiles y marcadas por el trabajo con hierbas y raíces. Sus ojos observan con atención las heridas y el aspecto general de los miembros de la tribu.
+Recolecta plantas, raíces y hongos, y sabe preparar ungüentos y cataplasmas sencillos. Su posición la coloca en el centro de las relaciones cotidianas: suele ser quien escucha tanto los dolores físicos como las preocupaciones.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult woman with average build, calm and attentive expression. Hair of medium length, loosely tied back, with a few small bone or wooden beads woven into a thin braid.
+
+Wearing a fur tunic with a simple leather belt. Attached to the belt, several small pouches made of leather and a bundle of dried herbs. Bare legs with simple wrappings around the calves, and basic sandals.
+
+In one hand, she holds a small bundle of plants or herbs. In the other, a shallow wooden bowl or simple stone mortar used for preparing remedies. Color palette: natural browns, muted greens and soft earth tones, with small highlights on the bone beads.
+4.5. Nao – Niño curioso
+ID: nao_child
+Rol: Niño de la tribu, observador y aprendiz.
+
+Descripción de personaje
+
+Nao es un niño de unos 8–10 años, de complexión delgada, con una mezcla de timidez y curiosidad en su postura. Observa atentamente las actividades de los adultos y a menudo imita sus gestos con piedras y palos.
+No tiene responsabilidades formales, pero le suelen encargar tareas ligeras: vigilar el fuego, ayudar a secar pieles, traer agua.
+
+Bloque de prompt específico
+
+text
+Copy
+Young boy, around 8–10 years old, slim build, slightly cautious but curious expression. Short, messy dark hair, simple and unstyled.
+
+Wearing a short, rough fur wrap tied at one shoulder, leaving his arms mostly free. Bare feet, no sandals. Very simple clothing with no elaborate decorations.
+
+Holding a small stick or a round stone in one hand, as if imitating the tools of the adults. Color palette: soft browns and muted earth tones, keeping the overall style consistent with the adults but clearly smaller and more youthful in proportions.
+4.6. Sira – Niña guardiana del fuego
+ID: sira_fire_keeper
+Rol: Niña encargada de mantener el fuego y ayudar en el campamento.
+
+Descripción de personaje
+
+Sira es una niña algo mayor que Nao, con una expresión concentrada y seria para su edad. Se le confía la tarea de cuidar del fuego cuando el grupo está asentado, vigilando las brasas y añadiendo combustible.
+Es observadora y responsable, y se siente orgullosa de su papel porque sabe que el fuego es vital para todos.
+
+Bloque de prompt específico
+
+text
+Copy
+Young girl, around 10–12 years old, slim to average build, focused and slightly serious expression for her age. Long dark hair tied back in a simple low ponytail with a leather cord.
+
+Wearing a short fur tunic tied at the waist, bare legs and simple wrappings at the ankles, bare feet. No heavy decorations, perhaps a single small bone bead on a cord around her neck.
+
+Holding a small bundle of dry sticks or a piece of wood in her hands, symbolizing her role in tending the fire. Color palette: natural browns and muted reds, matching the tribe’s overall tones.
+4.7. Dagan – Guerrero corpulento
+ID: dagan_heavy_hunter
+Rol: Cazador de complexión poderosa, especializado en presas grandes.
+
+Descripción de personaje
+
+Dagan es un hombre alto y de hombros anchos, con una musculatura evidente pero no exagerada al estilo “fantasía”. Es uno de los principales responsables en las cacerías de grandes animales, donde su fuerza física marca la diferencia.
+A pesar de su apariencia imponente, suele ser tranquilo y reservado, hablando más con gestos que con palabras.
+
+Bloque de prompt específico
+
+text
+Copy
+Tall adult man with broad shoulders and strong, realistic musculature (not exaggerated). Calm, serious expression with a steady gaze.
+
+Short, thick dark hair, possibly with a few strands held back by a leather strip. Slight stubble or short beard. Tanned, weathered skin with visible muscle definition on arms and legs.
+
+Wearing a short fur tunic with an extra layer of hide over one shoulder like a primitive cape for warmth and protection. Simple leather belt with a small pouch. Bare legs with fur wrappings on the lower legs, sturdy sandals.
+
+Holding a heavy wooden spear with a large stone tip in one hand, resting it on the ground, and a simple wooden club or stout stick attached to his belt. Color palette: darker browns and deep earth tones, emphasizing his physical presence.
+4.8. Asha – Artesana de hueso y piedra
+ID: asha_crafter
+Rol: Artesana que fabrica herramientas y abalorios.
+
+Descripción de personaje
+
+Asha es una mujer adulta de complexión media, con manos fuertes y hábiles. Pasa mucho tiempo sentada en el límite del campamento, tallando huesos y piedras para crear herramientas, puntas de lanza y colgantes.
+Es paciente y minuciosa, y muchas de las piezas que porta el resto del grupo han pasado por sus manos.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult woman with average build, calm and focused expression. Hair of medium length, partly tied back with a leather strip, some loose strands falling around her face.
+
+Wearing a fur tunic with a belt that holds several small pouches and raw materials. A few bone and stone beads form a simple necklace around her neck, showing her craft.
+
+In her hands, she holds a piece of bone or antler and a small stone tool, as if in the middle of carving. Color palette: natural browns and pale bone whites, with slight highlights on the bone pieces to show their texture.
+4.9. Kel – Joven aprendiz de cazador
+ID: kel_young_hunter
+Rol: Adolescente en aprendizaje de caza y exploración.
+
+Descripción de personaje
+
+Kel es un joven en el umbral de la edad adulta, con cuerpo ligero y ágil. Participa ya en algunas cacerías, pero suele cumplir funciones de apoyo: avisar, conducir a las presas o ayudar a rastrear.
+Está ansioso por demostrar su valía, aunque todavía comete errores propios de la falta de experiencia.
+
+Bloque de prompt específico
+
+text
+Copy
+Teenage boy or young man, lean and agile build, slightly tense but determined expression. Short, messy hair, unstyled, with a youthful look.
+
+Wearing a short fur wrap tied at the waist with a cord, leaving arms free. Bare legs with minimal wrappings at the ankles, bare feet for quiet movement.
+
+Carrying a lighter wooden spear or throwing stick in one hand, and a small leather pouch at his belt. Color palette: natural browns and earth tones, with slightly lighter shades to suggest youth and agility.
+4.10. Mira – Guardiana del campamento
+ID: mira_camp_guard
+Rol: Vigía y organizadora del campamento.
+
+Descripción de personaje
+
+Mira es una mujer adulta de complexión media, con una postura firme. Se encarga de organizar el espacio del campamento, decidir dónde se colocan los lechos, el fuego, las reservas de comida y quién hace guardia en cada momento.
+Observa con atención el entorno inmediato cuando el grupo descansa, y es una de las primeras en detectar cambios o peligros cercanos.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult woman with average build and firm, upright posture. Watchful, alert expression, as if checking the surroundings.
+
+Hair medium length, pulled back with a simple cord, practical rather than decorative. Weathered skin, showing she spends much time outdoors.
+
+Wearing a fur tunic tied with a belt, with an additional short hide draped over one shoulder. A small pouch and some simple tools hang from her belt. Bare legs with wrappings around the calves, simple sandals.
+
+Holding a short wooden spear or stout staff in one hand, held more like a symbol of vigilance than for active hunting. Color palette: browns and muted grays, matching her practical role.
+4.11. Ruun – Explorador de larga distancia
+ID: ruun_scout
+Rol: Explorador que se adelanta al grupo para buscar rutas y recursos.
+
+Descripción de personaje
+
+Ruun es un hombre adulto de complexión delgada y resistente. Está acostumbrado a pasar días solo, adelantado al resto de la tribu, buscando pasos, rastros de animales y señales de otras bandas humanas.
+Tiene un carácter reservado, pero su capacidad para orientarse y recordar el terreno lo hace imprescindible.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult man with slim but resilient build, slightly taller than average, with a reserved expression. Short to medium unstyled hair, perhaps a bit unkempt from long travel.
+
+Wearing a light fur tunic and a simple cloak-like hide draped over his shoulders for warmth during long journeys. A leather cord belt with a few small pouches and a water-skin or similar container.
+
+Bare legs with simple wrappings around his calves, sturdy sandals or bare feet. Holding a long walking staff in one hand, with a small bundle or roll of hide strapped across his back.
+
+Color palette: natural browns and muted, slightly darker tones to suggest long travel and exposure to the elements.
+4.12. Eda – Mujer mayor, cuidadora de los niños
+ID: eda_elder_caretaker
+Rol: Anciana que ayuda a cuidar de los niños y del campamento.
+
+Descripción de personaje
+
+Eda es una mujer de edad avanzada, con complexión algo más robusta que Oran, pero ya sin la fuerza de antaño. Suele permanecer en el campamento, donde cuida de los más pequeños, mantiene el orden en el espacio común y supervisa tareas ligeras.
+Su carácter es firme pero afectuoso, y combina la memoria de las tradiciones con la paciencia necesaria para tratar con los niños.
+
+Bloque de prompt específico
+
+text
+Copy
+Elderly woman with slightly rounded build, standing with a stable posture. Calm, firm but kind expression, with visible wrinkles around her eyes and mouth.
+
+Gray hair pulled back into a low, simple bun or gathered with a leather cord. Pale, weathered skin.
+
+Wearing a longer, thicker fur garment for warmth, tied with a belt. Simple bone beads on a cord around her neck, nothing overly decorative. Bare legs with minimal wrappings, simple sandals.
+
+Holding a small piece of cloth, fur, or a simple toy-like carved bone object in one hand, symbolizing her role caring for children. Color palette: muted browns and pale bone tones.
+4.13. Var – Pescador y experto en ríos
+ID: var_fisher
+Rol: Especialista en zonas de río y pesca.
+
+Descripción de personaje
+
+Var es un hombre adulto de complexión media, algo más ligero que los cazadores de gran fauna. Se siente cómodo cerca del agua, conoce bien los ríos, las corrientes y los pasos seguros.
+Su papel es complementar la carne de caza con peces y pequeños animales de ribera, y encontrar agua potable en los desplazamientos.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult man with average build, slightly lean, relaxed but attentive expression. Medium-length hair, a bit untidy, possibly damp-looking or suggested as such through shading.
+
+Wearing a shorter, lighter fur wrap suitable for movement near water, tied with a belt. Bare legs and bare feet, suitable for walking in shallow water.
+
+Holding a simple wooden spear or fishing spear with a thinner stone tip, and possibly a small woven or leather net slung over one shoulder. Color palette: natural browns and muted blues or greens hinted in the accessories to evoke water environments while staying within natural tones.
+4.14. Hani – Joven recolectora
+ID: hani_gatherer
+Rol: Recolectora de frutos, raíces y materiales.
+
+Descripción de personaje
+
+Hani es una joven adulta de complexión ligera, encargada de recolectar frutos, raíces, semillas y materiales útiles como fibras vegetales. Trabaja a menudo en grupos pequeños, alejándose del campamento pero sin llegar a las distancias de un explorador.
+Suele estar atenta al detalle: reconoce plantas útiles y peligrosas, y sabe cómo volver a encontrar zonas ricas en recursos.
+
+Bloque de prompt específico
+
+text
+Copy
+Young adult woman with light, agile build, neutral but focused expression. Long hair partially tied back to keep it out of her face, with a few loose strands.
+
+Wearing a short fur tunic with a simple belt. At her side, a medium-sized leather or woven bag used for carrying gathered plants and roots. Bare legs, simple wrappings at the ankles, bare feet or simple sandals.
+
+Holding a small bundle of roots, berries, or plants in one hand, and lightly touching the strap of her bag with the other hand. Color palette: browns and muted greens, emphasizing her role as a gatherer.
+4.15. Jarak – Chamán/figura ritual
+ID: jarak_shaman
+Rol: Figura ritual, guardián de símbolos y ritos.
+
+Descripción de personaje
+
+Jarak es un adulto cuya edad exacta resulta difícil de determinar. Su presencia se distingue por ciertos adornos simbólicos y marcas corporales. No es un guerrero principal ni un cazador destacado, pero desempeña un papel crucial en los rituales de paso, las ofrendas y la interpretación de sueños y presagios.
+Lleva algunos elementos decorativos poco frecuentes en el resto de la tribu, reflejo de su posición especial, aunque sin caer en fantasía ni exceso.
+
+Bloque de prompt específico
+
+text
+Copy
+Adult person (gender-neutral or slightly androgynous appearance), medium build, calm but intense expression, eyes slightly more emphasized.
+
+Hair of medium length, partially braided with a few bone and shell beads. Some simple painted markings on the face or arms made with natural pigments (ochre, charcoal), keeping the style subtle and realistic.
+
+Wearing a fur tunic with an additional decorated hide draped over one shoulder, showing a few simple painted patterns in natural colors (ochre, black). Around the neck, a more elaborate necklace made of bone and shell pieces.
+
+Holding a simple wooden staff decorated with a few hanging bones or feathers near the top. Color palette: natural browns, ochres and bone whites, with slightly stronger contrast on the face markings and staff decorations, still within realistic limits.

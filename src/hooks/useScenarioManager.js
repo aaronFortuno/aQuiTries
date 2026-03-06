@@ -3,8 +3,8 @@ import scenariosData from '../data/scenarios.json';
 import { shuffle } from '../utils/shuffle';
 
 export function useScenarioManager() {
-  const shuffledScenarios = useMemo(() => {
-    return shuffle(scenariosData).map(scenario => ({
+  const scenarios = useMemo(() => {
+    return scenariosData.map(scenario => ({
       ...scenario,
       characters: shuffle(scenario.characters),
     }));
@@ -14,8 +14,8 @@ export function useScenarioManager() {
   const [selections, setSelections] = useState([]);
   const [currentSelection, setCurrentSelection] = useState([]);
 
-  const currentScenario = shuffledScenarios[currentIndex] || null;
-  const totalScenarios = shuffledScenarios.length;
+  const currentScenario = scenarios[currentIndex] || null;
+  const totalScenarios = scenarios.length;
   const isLastScenario = currentIndex >= totalScenarios - 1;
 
   const toggleCharacter = useCallback((characterId) => {
