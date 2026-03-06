@@ -13,7 +13,7 @@ const SKILL_KEYS = [
   { shortKey: 'TE', i18nKey: 'skills.treballEnEquip' },
 ];
 
-const SCROLL_SPEED = 4;
+const SCROLL_SPEED = 6;
 
 export default function ScenarioScreen({
   scenario,
@@ -55,16 +55,18 @@ export default function ScenarioScreen({
 
   const startScroll = useCallback((direction) => {
     if (scrollInterval.current) return;
-    scrollInterval.current = setInterval(() => {
+    const step = () => {
       const el = gridRef.current;
       if (!el) return;
       el.scrollLeft += direction * SCROLL_SPEED;
-    }, 8);
+      scrollInterval.current = requestAnimationFrame(step);
+    };
+    scrollInterval.current = requestAnimationFrame(step);
   }, []);
 
   const stopScroll = useCallback(() => {
     if (scrollInterval.current) {
-      clearInterval(scrollInterval.current);
+      cancelAnimationFrame(scrollInterval.current);
       scrollInterval.current = null;
     }
   }, []);

@@ -10,6 +10,7 @@
   flex-shrink: 0;
   width: 150px;
   scroll-snap-align: start;
+  cursor: pointer;
 }
 
 .character-card:hover {
@@ -42,7 +43,6 @@
   flex-direction: column;
   align-items: center;
   padding: 0.5rem 0.25rem 0.3rem;
-  cursor: pointer;
 }
 
 .character-card__body:hover {

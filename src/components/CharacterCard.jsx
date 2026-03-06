@@ -17,11 +17,11 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
   }, [character.id, onToggle]);
 
   return (
-    <div className={`character-card ${isSelected ? 'character-card--selected' : ''} ${disabled ? 'character-card--disabled' : ''}`}>
-      <div
-        className="character-card__body"
-        onClick={handleCardClick}
-      >
+    <div
+      className={`character-card ${isSelected ? 'character-card--selected' : ''} ${disabled ? 'character-card--disabled' : ''}`}
+      onClick={handleCardClick}
+    >
+      <div className="character-card__body">
         <div className="character-card__avatar">
           <Avatar character={character} />
         </div>
@@ -33,7 +33,10 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
           <SkillBar key={skill} label={skill} value={value} compact />
         ))}
       </div>
-      <label className={`character-card__select ${isSelected ? 'character-card__select--active' : ''}`}>
+      <label
+        className={`character-card__select ${isSelected ? 'character-card__select--active' : ''}`}
+        onClick={(e) => e.stopPropagation()}
+      >
         <input
           type="checkbox"
           checked={isSelected}
