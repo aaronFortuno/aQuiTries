@@ -1,0 +1,244 @@
+4. Fichas de personaje (13 cirurgians cardíacs)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c1_).
+Rol: especialitat o funció principal.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 3 cirurgians per a una operació a cor obert de 10 hores
+(reemplaçament de vàlvula aòrtica). 1 cirurgià/ana principal + 2 assistents.
+
+---
+
+4.1. Marc Torrents – Cap de cirurgia cardíaca
+ID: c1_marc_torrents
+Rol: Cap de cirurgia cardíaca, Hospital Clínic.
+
+Descripció de personatge
+
+En Marc té 56 anys i és cap de cirurgia cardíaca de l'Hospital Clínic. Més de vint-i-cinc anys operant cors. Ha fet centenars d'intervencions de vàlvula aòrtica. La seva experiència és indiscutible i la seva reputació, enorme. Tanmateix, els últims anys ha reconegut que les operacions de 10 hores li pesen més que abans. La seva resistència ja no és la que era.
+
+Bloque de prompt específico
+
+Adult man (56), medium-robust build, broad but slightly soft shoulders showing age, authoritative steady posture. Short gray hair with a receding hairline, clean-shaven, slight wrinkles around eyes and forehead, calm confident expression of someone used to being in charge.
+
+Wearing dark teal surgical scrubs with a white lab coat over them (sleeves pushed up to forearms), a hospital ID badge on a blue lanyard, a fine wristwatch (removed before surgery but worn in corridor). Comfortable dark clogs.
+
+Standing with arms loosely crossed, radiating quiet authority. A tablet with patient charts in one hand. Color palette: dark teal scrubs, white coat, silver-gray hair, seasoned professional tones.
+
+---
+
+4.2. Núria Bosch – Cirurgiana de trasplantaments
+ID: c1_nuria_bosch
+Rol: Cirurgiana cardíaca, especialista en trasplantaments.
+
+Descripció de personatge
+
+La Núria té 47 anys i és cirurgiana cardíaca especialitzada en trasplantaments. Quinze anys d'experiència en operacions complexes, incloent intervencions d'emergència de 12 hores o més. Precisa, serena i metòdica. El seu historial de supervivència postoperatòria és dels millors del país. Treballa bé en equip però prefereix liderar.
+
+Bloque de prompt específico
+
+Adult woman (47), slim build, upright composed posture radiating competence and calm. Short practical brown hair tucked behind ears, no jewelry, sharp focused eyes, serene but intense expression.
+
+Wearing medium blue surgical scrubs, a surgical cap pushed back on her head (light blue, patterned), a stethoscope draped around her neck. Clean white surgical clogs. An ID badge on a teal lanyard.
+
+Standing with one hand resting on a stethoscope, the other at her side, poised and ready. Color palette: medium blue scrubs, light blue cap, professional clean medical tones.
+
+---
+
+4.3. Jordi Sala – Cirurgià format a l'estranger
+ID: c1_jordi_sala
+Rol: Cirurgià cardíac, especialista en tècniques mínimament invasives.
+
+Descripció de personatge
+
+En Jordi té 38 anys i és cirurgià cardíac amb deu anys d'experiència, format al Vall d'Hebron i amb estades a Houston i Zuric. Tècnicament molt bo, conegut per la seva habilitat amb sutures delicades. Menys experiència que els veterans, però actualitzat en tècniques mínimament invasives que alguns dels grans no dominen.
+
+Bloque de prompt específico
+
+Adult man (38), medium athletic build, confident upright posture with a slight forward lean suggesting ambition. Short brown hair neatly styled, trimmed short beard, alert intelligent eyes, focused determined expression.
+
+Wearing bright teal surgical scrubs, a surgical cap with a subtle geometric pattern hanging around his neck. Surgical loupes (magnifying glasses) pushed up on his forehead. White clogs, a pen clipped to his scrub top pocket.
+
+Standing with hands at his sides, fingers slightly spread — the posture of someone used to precision work with their hands. Color palette: bright teal scrubs, surgical steel loupes, clean modern medical tones.
+
+---
+
+4.4. Anna Martínez – Cap de servei cardiovascular
+ID: c1_anna_martinez
+Rol: Cap de servei de cirurgia cardiovascular, Hospital de Bellvitge.
+
+Descripció de personatge
+
+L'Anna té 52 anys i és cap de servei de cirurgia cardiovascular a l'Hospital de Bellvitge. Gran capacitat de coordinació d'equips quirúrgics en situacions prolongades. Ha format desenes de cirurgians joves. La seva precisió manual és bona però no excepcional — el seu fort és la visió global de l'operació i la presa de decisions sota pressió.
+
+Bloque de prompt específico
+
+Adult woman (52), medium build, commanding composed posture of a natural leader. Brown hair with visible gray streaks, pulled back in a neat low bun, reading glasses perched on top of her head. Warm but serious expression with crow's feet at the eyes.
+
+Wearing navy blue surgical scrubs under an open white lab coat, comfortable dark shoes, a hospital pager clipped to her waist. A small notebook sticking out of her coat pocket.
+
+Standing with one hand on her hip, the other holding her glasses, about to put them on — the posture of someone reviewing a situation. Color palette: navy scrubs, white coat, silver-streaked hair, authoritative medical tones.
+
+---
+
+4.5. Ibrahim Al-Nasser – Cirurgià d'origen sirià
+ID: c1_ibrahim_al_nasser
+Rol: Cirurgià cardíac, formació internacional (Londres).
+
+Descripció de personatge
+
+L'Ibrahim té 44 anys, és nascut a Damasc, format a Londres i establert a Barcelona des de fa dotze anys. Experiència internacional en hospitals d'alta exigència. Domina tant tècniques clàssiques com innovadores. Treballa bé sota pressió. El seu accent estranger i el seu nom àrab generen, injustament, reserves en alguns pacients.
+
+Bloque de prompt específico
+
+Adult man (44), medium-robust build with broad chest, calm steady posture. Short black neatly combed hair, clean-shaven, olive-toned skin, warm but professional expression with kind dark eyes.
+
+Wearing teal surgical scrubs, a surgical cap neatly in place (plain dark blue), a stethoscope in one hand. Clean white clogs. An ID badge showing a non-Catalan name on a green lanyard.
+
+Standing with an open, approachable posture, stethoscope held loosely. Color palette: teal scrubs, dark blue cap, olive skin tones, international professional medical look.
+
+---
+
+4.6. Laia Ferrer – Cirurgiana jove brillant
+ID: c1_laia_ferrer
+Rol: Cirurgiana cardíaca júnior, dos anys d'especialització.
+
+Descripció de personatge
+
+La Laia té 33 anys, és cirurgiana jove, acabada d'obtenir l'especialització en cirurgia cardíaca fa dos anys. La més jove del grup i la menys experimentada. Tanmateix, va ser la primera de la seva promoció i les seves mans són d'una precisió extraordinària. El dubte: pot aguantar la pressió de 10 hores en una intervenció tan delicada?
+
+Bloque de prompt específico
+
+Young adult woman (33), small slim build, alert eager posture with a slight nervous energy. Short blonde hair, rectangular glasses with thin frames, youthful face with sharp attentive eyes, expression mixing determination and slight anxiety.
+
+Wearing light blue surgical scrubs that look slightly large on her small frame, a plain surgical cap in her scrub pocket ready to put on, white clogs. A small notebook and pen in her breast pocket. No stethoscope — she's a surgeon, not a clinician.
+
+Standing with hands clasped in front of her, fingers interlaced — a subtle sign of contained nervous energy. Color palette: light blue scrubs, blonde hair, glasses, young professional medical tones.
+
+---
+
+4.7. Ramon Vidal – Cirurgià veteraníssim
+ID: c1_ramon_vidal
+Rol: Cirurgià cardíac sènior, a punt de jubilar-se.
+
+Descripció de personatge
+
+En Ramon té 63 anys i és cirurgià cardíac a punt de jubilar-se. Trenta-cinc anys d'experiència, ha vist de tot. Va ser un dels millors del país als anys 2000. Avui, les seves mans no són tan fermes com eren, i ho sap. Però la seva capacitat per anticipar complicacions és insuperable: ha viscut centenars de situacions imprevistes al quiròfan.
+
+Bloque de prompt específico
+
+Elderly man (63), robust build going slightly soft, slightly stooped posture but with sharp alert eyes that miss nothing. Sparse white hair, deeply lined face with a strong jaw, half-smile of someone who has seen everything. Thick fingers showing slight stiffness.
+
+Wearing dark green surgical scrubs (old-school color preference), a well-worn white lab coat with slightly frayed cuffs, comfortable old leather shoes instead of clogs. A pair of reading glasses on a cord around his neck, a coffee cup in one hand.
+
+Standing with a relaxed, unhurried posture — the confidence of decades. Color palette: dark green scrubs, worn white coat, white hair, veteran dignity tones.
+
+---
+
+4.8. Marta Soler – Cirurgiana pediàtrica reconvertida
+ID: c1_marta_soler
+Rol: Cirurgiana cardíaca, transició de pediàtrica a adults.
+
+Descripció de personatge
+
+La Marta té 41 anys i és cirurgiana cardíaca pediàtrica reconvertida a adults fa quatre anys. Opera cors de nadons des de fa quinze anys — una precisió extrema amb estructures diminutes. En adults, les dimensions canvien però l'habilitat manual és la mateixa. Li falta experiència específica en vàlvula aòrtica d'adult, però la seva precisió compensa.
+
+Bloque de prompt específico
+
+Adult woman (41), medium build, focused composed posture with very still hands (surgeon's habit). Dark brown hair in a tight low ponytail, no loose strands (surgical discipline), focused meticulous expression, steady calm eyes.
+
+Wearing medium blue surgical scrubs, a colorful surgical cap with a subtle children's pattern (hearts or stars — a holdover from pediatric surgery), white clogs. Surgical loupes hanging from her neck on a strap.
+
+Standing with hands at her sides, fingers relaxed but perfectly still — the hands of someone used to operating on structures the size of a walnut. Color palette: medium blue scrubs, colorful cap accent, precise controlled medical tones.
+
+---
+
+4.9. Andreu Costa – Ex-anestesiòleg reconvertit
+ID: c1_andreu_costa
+Rol: Cirurgià cardíac amb doble formació (anestesiologia + cirurgia).
+
+Descripció de personatge
+
+L'Andreu té 46 anys i és un cirurgià que va començar com a anestesiòleg i es va reconvertir a cirurgia cardíaca als trenta anys. Perfil inusual: coneix el cos humà des de dues perspectives. El seu coneixement farmacològic li permet anticipar reaccions del pacient que altres cirurgians no preveuen. Mans grans que, contràriament al que podríem pensar, treballen amb una delicadesa notable.
+
+Bloque de prompt específico
+
+Adult man (46), large tall build with noticeably big hands, relaxed friendly posture despite his size. Brown hair with gray at the temples, slightly messy (always running late), warm approachable expression with laugh lines, a slight five o'clock shadow.
+
+Wearing teal surgical scrubs that stretch slightly across broad shoulders, no lab coat, comfortable well-worn clogs. A pen and a small pharmacology reference card in his breast pocket. ID badge on a red lanyard (anesthesiology department color, kept out of habit).
+
+Standing with large hands visible and relaxed at his sides — surprisingly graceful hands for their size. Color palette: teal scrubs, red lanyard accent, large frame, warm approachable medical tones.
+
+---
+
+4.10. Elena Vázquez – Cirurgiana d'urgències cardíaques
+ID: c1_elena_vazquez
+Rol: Cirurgiana especialitzada en emergències cardíaques.
+
+Descripció de personatge
+
+L'Elena té 49 anys i és cirurgiana d'urgències cardíaques al 12 de Octubre de Madrid, ara a Barcelona. Especialitzada en intervencions d'emergència: infarts, disseccions aòrtiques, ruptures. Molt bona sota pressió extrema i amb temps limitat. Menys habituada a intervencions programades i llargues com aquesta. La seva resistència mental és impressionant però el seu estil és explosiu, no de fons.
+
+Bloque de prompt específico
+
+Adult woman (49), medium build, intense energetic posture suggesting someone always ready to sprint into action. Black hair with visible gray streaks in a practical tight bun, no loose strands, sharp intense eyes, a slightly impatient expression.
+
+Wearing dark blue surgical scrubs, sleeves pushed up showing toned forearms, a surgical cap hanging from her back pocket. Running shoes instead of clogs (emergency habit — needs to move fast). A pager and phone both clipped to her waistband.
+
+Standing with a slightly forward-leaning posture, arms at her sides with tension — the stance of someone used to emergencies, not waiting. Color palette: dark blue scrubs, running shoes, intense urgent medical tones.
+
+---
+
+4.11. Pau Ribas – Talent excepcional, difícil en equip
+ID: c1_pau_ribas
+Rol: Cirurgià cardíac jove, format a la Mayo Clinic.
+
+Descripció de personatge
+
+En Pau té 36 anys i és un cirurgià jove amb un talent manual excepcional. Reconegut pels seus companys com 'el de les mans d'or'. Format a la Mayo Clinic dels Estats Units. El problema: és arrogant i costa treballar-hi. En un equip de 3 durant 10 hores, la dinàmica personal importa tant com les habilitats tècniques.
+
+Bloque de prompt específico
+
+Adult man (36), slim build, very upright almost rigid posture projecting self-assurance bordering on arrogance. Short dark hair neatly styled even in a hospital setting, clean-shaven with sharp angular features, a cool appraising expression.
+
+Wearing perfectly pressed bright blue surgical scrubs (the only person whose scrubs look ironed), expensive-looking surgical clogs, a high-end surgical loupe set pushed up on his forehead. No visible ID badge — he assumes everyone knows who he is.
+
+Standing with arms crossed and chin slightly raised, looking down slightly — the body language of superiority. Color palette: bright blue scrubs, premium accessories, sharp clean lines, confident cold medical tones.
+
+---
+
+4.12. Gemma Puig – La cirurgiana equilibrada
+ID: c1_gemma_puig
+Rol: Cirurgiana cardíaca amb perfil complet i equilibrat.
+
+Descripció de personatge
+
+La Gemma té 45 anys i és cirurgiana cardíaca amb quinze anys d'experiència equilibrada: domina tant la cirurgia programada com l'urgent. No destaca espectacularment en cap àrea, però és sòlida en totes. El perfil que els residents anomenen 'la cirurgiana que voldries al teu costat a les 3 de la matinada'. Fiable, constant i sense ego.
+
+Bloque de prompt específico
+
+Adult woman (45), medium build, grounded relaxed posture suggesting total comfort in her environment. Medium-length wavy brown hair, a few strands loose around her face, warm approachable expression with a slight reassuring half-smile. Small stud earrings (her only personal touch).
+
+Wearing medium teal surgical scrubs, a well-used stethoscope slung around her neck, comfortable white clogs with a small scuff mark. ID badge on a plain blue lanyard, a pen behind one ear.
+
+Standing with an open, relaxed posture — hands loosely at her sides, weight evenly distributed, the picture of steady reliability. Color palette: medium teal scrubs, warm natural hair, approachable reliable medical tones.
+
+---
+
+4.13. Sergi Font – Resident avançat
+ID: c1_sergi_font
+Rol: Resident de 5è any de cirurgia cardíaca (encara en formació).
+
+Descripció de personatge
+
+En Sergi té 31 anys i és resident de cinquè any de cirurgia cardíaca. Encara no és especialista — li falta un any. Ha participat en desenes d'operacions com a assistent, però mai ha liderat una intervenció major. Motivat, treballador i amb unes mans excel·lents. La pregunta és si el pondries a operar el cor del teu pare quan encara no ha acabat la formació.
+
+Bloque de prompt específico
+
+Young adult man (31), medium build, eager attentive posture leaning slightly forward. Short dark hair, short neat beard, youthful face with alert wide eyes, expression mixing enthusiasm and slight nervousness — the look of someone who wants to prove himself.
+
+Wearing light blue surgical scrubs (the standard junior color), a slightly oversized white lab coat with "RESIDENT" embroidered on the chest, clean new-looking white clogs. A small pocket reference book visible in his coat pocket, multiple pens.
+
+Standing with hands in his lab coat pockets, shoulders slightly raised with contained energy. Color palette: light blue scrubs, white resident coat, youthful eager medical tones.

@@ -239,3 +239,57 @@ Composition: wide horizontal format (landscape orientation, roughly 16:9), suita
 
 Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
 ```
+
+---
+
+## C1. L'operació de cor — Quiròfan de cirurgia cardíaca
+
+```text
+Pixel art scene of a modern hospital cardiac surgery operating room, wide horizontal view. Sterile, clinical, slightly intimidating atmosphere.
+
+A spacious operating room with pale gray-green tiled walls and a smooth light gray floor. In the center, a surgical table draped with blue sterile sheets, slightly angled. Above it, two large overhead surgical lamp arrays (multi-headed, bright white) pointing down at the table, creating a bright focal area. Around the table, rolling steel instrument carts with neatly arranged surgical tools visible — scalpels, clamps, retractors, suture holders on blue cloth.
+
+On one side, an anesthesia machine with knobs, tubes, and a ventilator bag. Multiple medical monitors on articulated arms showing heart rate waveforms, blood pressure readings, and oxygen levels on dark screens with green and blue lines. An IV pole with hanging fluid bags. On the other side, a heart-lung bypass machine (cardiopulmonary bypass) — a large wheeled device with tubes and a pump visible, essential for open-heart surgery.
+
+In the background, a large glass observation window reflecting the surgical lights. A wall-mounted clock showing a time. A whiteboard with patient information (barely readable). Cabinets with glass doors showing stored supplies. The double doors to the operating room are visible on one side, with a green "in surgery" indicator light above them.
+
+Details that reinforce the setting: a foot-operated pedal on the floor near the table, a small trash bin with a biohazard symbol, a temperature display on the wall, shoe covers and caps on a shelf near the entrance.
+
+No humans, no characters, no people visible anywhere in the scene. Empty operating room only.
+
+Color palette: sterile blue-green tones from the draping and tiles, surgical steel grays, bright white from the overhead lamps, dark monitor screens with green/blue waveform glow, clean clinical whites. The overall feeling is cold, precise, and highly professional.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: bright overhead surgical lights creating a strong focal area on the central table, with softer ambient light in the rest of the room. Monitor screens provide subtle colored glow. Clinical fluorescent lighting on the walls. Consistent but with a clear bright center.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the center or foreground where character sprites could be placed on top. The surgical table and overhead lamps should be the clear focal point. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```
+
+---
+
+## C2. L'exploració de la cova — Entrada d'una cova calcària de muntanya
+
+```text
+Pixel art scene of the entrance to an unexplored limestone cave in a Catalan mountain setting, wide horizontal view. Adventurous, mysterious, slightly foreboding atmosphere.
+
+A large natural cave mouth opens in a limestone cliff face, roughly oval-shaped, about four meters high and three meters wide. The entrance is partially framed by exposed rock layers in cream and gray tones, with moss and ferns growing on the damp surfaces around the opening. Inside the mouth, the cave descends into darkness — the first few meters of the floor are visible (rocky, uneven, with some puddles of water reflecting light), but beyond that, pure blackness.
+
+Around the entrance, a rocky clearing with scattered boulders. Caving equipment laid out on a flat rock: coils of rope, carabiners, a first-aid kit, a waterproof map case, a few helmets with headlamps. A backpack leaning against a rock. The remains of a marking system — small reflective tags stuck to the rock wall near the entrance, and a faded old arrow spray-painted by previous explorers.
+
+The surrounding landscape: Mediterranean mountain vegetation — low scrubby pines, rosemary bushes, dry grass. A narrow dirt trail leads up to the cave entrance from below. In the background, a view of distant limestone ridges and a pale blue sky with scattered clouds. The cliff face extends upward above the cave entrance, showing layered sedimentary rock.
+
+No humans, no characters, no people visible anywhere in the scene. Empty landscape with cave entrance only.
+
+Color palette: limestone cream and gray for the cliff, dark black void inside the cave, green mosses and ferns at the entrance, Mediterranean mountain vegetation greens and browns, pale blue sky, equipment accents in orange and yellow. The contrast between the sunlit exterior and the dark cave interior is the visual focus.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: bright natural daylight on the exterior, harsh contrast with the dark cave interior. Sunlight illuminates the cliff face and vegetation, while the cave mouth transitions rapidly from light to total darkness. Some reflected light bounces off the wet cave floor just inside the entrance.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the center or foreground where character sprites could be placed on top. The cave entrance should be the clear focal point, creating a sense of mystery and invitation. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```

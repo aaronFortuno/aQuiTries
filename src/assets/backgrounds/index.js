@@ -6,6 +6,8 @@ import obraConstruccio from './obra-construccio.png';
 import llarInfants from './llar-infants.png';
 import cuidarPersonaGran from './cuidar-persona-gran.png';
 import nenPloraParc from './nen-plora-parc.png';
+import operacioCor from './operacio-cor.webp';
+import exploracioCova from './exploracio-cova.png';
 
 // Map scenario ID → background image URL (resolved by Vite)
 export const scenarioBackgrounds = {
@@ -17,6 +19,8 @@ export const scenarioBackgrounds = {
   B1: llarInfants,
   B2: cuidarPersonaGran,
   B3: nenPloraParc,
+  C1: operacioCor,
+  C2: exploracioCova,
 };
 
 // All available backgrounds for the gallery rotation
@@ -29,4 +33,6 @@ export const allBackgroundImages = [
   llarInfants,
   cuidarPersonaGran,
   nenPloraParc,
+  operacioCor,
+  exploracioCova,
 ];

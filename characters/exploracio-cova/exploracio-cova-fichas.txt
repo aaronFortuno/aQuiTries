@@ -1,0 +1,264 @@
+4. Fichas de personatge (14 espeleòlegs/exploradors)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c2_).
+Rol: especialitat o funció principal.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 4 persones per explorar una cova desconeguda amb
+passatges estrets, aigua freda i trams d'escalada. L'equip ideal combina perfils
+complementaris: algú petit per als passatges estrets, algú fort per als trams d'escalada,
+algú amb experiència per liderar, i algú tècnic per garantir la seguretat.
+
+---
+
+4.1. Biel Torrent – Espeleòleg veterà
+ID: c2_biel_torrent
+Rol: Espeleòleg veterà, coordinador d'expedicions.
+
+Descripció de personatge
+
+En Biel té 48 anys i porta més de vint-i-cinc anys explorant coves arreu de Catalunya i els Pirineus. Ha cartografiat desenes de cavitats i ha participat en expedicions internacionals a Mèxic i Eslovènia. Gran coneixement de formacions geològiques i tècniques de progressió vertical. La seva complexió robusta el fa excel·lent en trams d'escalada però li costa passar per passatges molt estrets.
+
+Bloque de prompt específico
+
+Adult man (48), robust stocky build with broad shoulders and thick arms, solid grounded posture of someone comfortable underground. Short graying brown hair cropped close, weathered tanned face with deep crow's feet, calm experienced expression, a small scar on his chin from a rockfall years ago.
+
+Wearing a heavy-duty orange caving overall (PVC-coated, mud-stained at the knees), a bright yellow climbing harness with multiple carabiners and a descender clipped to the side. Sturdy caving boots with ankle support. An orange hard helmet with a powerful LED headlamp and a backup lamp clipped to the side. A coil of rope slung over one shoulder.
+
+Standing with feet planted wide, arms relaxed at his sides — the confident stance of someone who has spent thousands of hours underground. Color palette: orange overall, yellow harness, safety accents, weathered earth tones, veteran explorer look.
+
+---
+
+4.2. Mireia Solà – Espeleòloga especialista en passatges estrets
+ID: c2_mireia_sola
+Rol: Espeleòloga, especialista en passatges estrets i gateres.
+
+Descripció de personatge
+
+La Mireia té 34 anys i és espeleòloga des dels disset. La seva complexió petita i prima la converteix en l'especialista natural per a passatges estrets i gateres on altres no poden passar. Ha explorat racons de coves que ningú més ha vist. Àgil com un gat, amb una capacitat extraordinària per moure's en espais reduïts. Bona tècnica general, tot i que els trams d'escalada vertical amb càrrega li costen més.
+
+Bloque de prompt específico
+
+Adult woman (34), small slim build (notably petite, about 155cm), wiry and flexible posture suggesting agility. Short dark hair in a very tight pixie cut (nothing to catch on rocks), sharp quick eyes, determined focused expression with a slight confident grin.
+
+Wearing a slim-fit dark blue caving overall (lighter material for flexibility), a thin climbing harness with minimal gear — just the essentials. Lightweight caving boots. A white hard helmet slightly too large for her small head, with a compact headlamp. A small chalk bag on her hip, thin gloves tucked into her belt.
+
+Standing with a slight crouch, knees bent, hands near her thighs — the ready-to-squeeze-through posture of someone used to tight spaces. Color palette: dark blue overall, white helmet, minimal gear, compact agile silhouette tones.
+
+---
+
+4.3. Ferran Roca – Escalador reconvertit a espeleologia
+ID: c2_ferran_roca
+Rol: Escalador esportiu amb experiència en espeleologia vertical.
+
+Descripció de personatge
+
+En Ferran té 29 anys, és escalador esportiu de competició reconvertit a espeleologia fa quatre anys. El seu fort és tot el que implica progressió vertical: pous, ressalts, escalades. Mans fortes i tècnica depurada amb cordes. Menys experiència en coves llargues i complexes que els veterans, i els passatges horitzontals inundats l'incomoden. Cos atlètic, alt i llarg.
+
+Bloque de prompt específico
+
+Young adult man (29), tall athletic lean build with visibly strong forearms and hands, upright confident posture. Short light brown hair, slight stubble, sharp jaw, alert intense eyes focused upward — the gaze of a climber assessing a route.
+
+Wearing a dark gray technical caving suit (stretch fabric at joints for mobility), a well-used climbing harness loaded with quickdraws and carabiners, specialized caving boots with sticky rubber soles. A red hard helmet with a headlamp, climbing chalk marks visible on his hands and suit. A rope ascender clipped to his chest harness.
+
+Standing with one hand raised slightly, fingers curled as if gripping an invisible hold — the instinctive posture of a climber. Color palette: dark gray suit, red helmet, chalk-white hands, climbing steel hardware, vertical athlete tones.
+
+---
+
+4.4. Carla Vidal – Geòloga espeleòloga
+ID: c2_carla_vidal
+Rol: Geòloga, especialista en formacions càrstiques.
+
+Descripció de personatge
+
+La Carla té 41 anys i és geòloga de la Universitat de Barcelona especialitzada en formacions càrstiques. Coneix la roca calcària com la palma de la seva mà: sap llegir les parets d'una cova per anticipar perills (zones inestables, possibles inundacions). Bona espeleòloga tècnica amb quinze anys d'experiència subterrània. Complexió mitjana, resistència notable. El seu coneixement científic la fa insubstituïble per avaluar riscos.
+
+Bloque de prompt específico
+
+Adult woman (41), medium build, composed upright posture radiating intellectual confidence. Medium-length dark brown hair tied back in a practical braid, rectangular glasses with a strap to keep them secure, sharp analytical eyes, thoughtful serious expression.
+
+Wearing a khaki-colored caving overall with extra pockets on the chest and thighs (for samples and instruments), a standard climbing harness, sturdy brown caving boots. A yellow hard helmet with headlamp. A geological hammer in a belt loop, a small waterproof notebook in her chest pocket, a hand lens (loupe) on a cord around her neck.
+
+Standing with one hand touching her geological hammer, the other holding a small rock sample — the posture of a scientist in the field. Color palette: khaki overall, yellow helmet, brown boots, earth scientist tones, field researcher look.
+
+---
+
+4.5. Arnau Puig – Espeleòleg de rescat
+ID: c2_arnau_puig
+Rol: Tècnic de rescat en coves, Bombers de la Generalitat.
+
+Descripció de personatge
+
+L'Arnau té 37 anys i és bomber de la Generalitat especialitzat en rescat en coves i barrancs. Format en espeleologia de rescat al GRAE (Grup de Recolzament d'Actuacions Especials). Gran i fort, entrenat per carregar equip pesat i persones ferides per galeries subterrànies. Coneix els protocols de seguretat al detall. El seu punt feble: la seva envergadura el limita en passatges molt estrets.
+
+Bloque de prompt específico
+
+Adult man (37), large muscular build with very broad shoulders, powerful confident posture suggesting someone trained for emergencies. Short dark hair in a military-style buzz cut, clean-shaven, square jaw, calm authoritative expression.
+
+Wearing a bright red heavy-duty caving overall with reflective strips on the arms and legs (rescue team gear), a professional rescue harness with multiple anchor points, heavy reinforced caving boots. A red hard helmet with dual headlamps (main + backup). A large first-aid pouch on his hip, a rescue pulley system clipped to his harness, heavy-duty gloves.
+
+Standing with arms slightly away from his body — the wide stance of someone whose broad frame fills space. Color palette: rescue red overall, reflective strips, heavy professional gear, emergency service tones.
+
+---
+
+4.6. Júlia Mestres – Espeleòloga jove i àgil
+ID: c2_julia_mestres
+Rol: Espeleòloga júnior, estudiant de ciències ambientals.
+
+Descripció de personatge
+
+La Júlia té 25 anys i és estudiant de ciències ambientals que va descobrir l'espeleologia fa tres anys al club de muntanya de la universitat. Jove, entusiasta i amb una condició física excel·lent. Cos atlètic i petit que li permet moure's amb facilitat per tota mena d'espais. Li falta experiència en expedicions llargues i en prendre decisions sota pressió, però aprèn ràpid i no es queixa mai.
+
+Bloque de prompt específico
+
+Young adult woman (25), small athletic build, eager energetic posture with a slight bounce suggesting youthful energy. Brown hair in a short ponytail pulled through the back of her helmet, bright enthusiastic eyes, wide smile of someone excited to explore.
+
+Wearing a teal caving overall (newer-looking, less worn than the veterans'), a basic climbing harness with a few carabiners, lightweight trail running shoes instead of proper caving boots (a beginner's choice). A white hard helmet with a standard headlamp. A small backpack with a water bottle visible in a side pocket. A university mountaineering club patch sewn on her shoulder.
+
+Standing with hands on her hips, weight shifted to one leg — the casual confident pose of youth. Color palette: teal overall, white helmet, fresh clean gear, youthful energetic tones.
+
+---
+
+4.7. Xavier Duran – Fotògraf espeleòleg
+ID: c2_xavier_duran
+Rol: Fotògraf professional d'espeleologia i natura subterrània.
+
+Descripció de personatge
+
+En Xavier té 44 anys i és fotògraf professional especialitzat en fotografia subterrània. Porta vint anys fotografiant coves per a revistes de ciència i natura. Coneix bé les coves perquè hi passa centenars d'hores, però el seu objectiu és documentar, no explorar. Bona tècnica amb cordes i equipament (ha de carregar càmeres per llocs impossibles). Complexió mitjana, pacient i metòdic.
+
+Bloque de prompt específico
+
+Adult man (44), medium build, patient unhurried posture of someone used to waiting for the perfect shot. Medium-length wavy dark hair slightly graying at the temples, a neatly trimmed beard, observant quiet eyes, calm contemplative expression.
+
+Wearing a dark green caving overall with reinforced knee pads, a climbing harness, sturdy black caving boots. A yellow hard helmet with headlamp. The distinctive detail: a waterproof camera case strapped to his chest with custom harness, a small tripod in a tube on his back, extra waterproof LED panels clipped to his belt for photography lighting.
+
+Standing with one hand on his camera case protectively, slightly turned — the posture of someone always framing the world visually. Color palette: dark green overall, yellow helmet, photography equipment accents, calm documentary tones.
+
+---
+
+4.8. Neus Pla – Biòloga espeleòloga
+ID: c2_neus_pla
+Rol: Biòloga, especialista en fauna cavernícola.
+
+Descripció de personatge
+
+La Neus té 38 anys i és biòloga de l'Institut de Biologia Evolutiva especialitzada en fauna cavernícola: invertebrats, ratpenats i ecosistemes subterranis. Ha passat centenars d'hores en coves recollint mostres. Bona espeleòloga per necessitat professional, amb una resistència notable en expedicions llargues. Complexió mitjana, metòdica i calmada. Coneix els indicadors biològics que avisen de mala qualitat de l'aire.
+
+Bloque de prompt específico
+
+Adult woman (38), medium build, calm methodical posture with careful deliberate movements. Shoulder-length auburn hair tied back in a low bun, no loose strands, focused gentle eyes behind round wire-frame glasses with a securing strap, serene patient expression.
+
+Wearing a medium blue caving overall with multiple small pockets (for sample vials), a standard climbing harness, waterproof knee-high boots for wading through water. A white hard helmet with headlamp and a small red-light attachment (to avoid disturbing bats). A mesh collecting bag hanging from her belt, small specimen tubes visible in her chest pockets.
+
+Standing with hands clasped in front of her, fingers delicate and precise — the hands of someone used to handling tiny fragile creatures. Color palette: medium blue overall, white helmet, scientific field equipment, careful naturalist tones.
+
+---
+
+4.9. Pol Grau – Espeleòleg amateur entusiasta
+ID: c2_pol_grau
+Rol: Espeleòleg amateur, entusiasta autodidacta.
+
+Descripció de personatge
+
+En Pol té 31 anys i és espeleòleg amateur autodidacta. Treballa d'informàtic però cada cap de setmana el passa explorant coves. Ha acumulat centenars de sortides, però sense formació reglada — ha après mirant vídeos i acompanyant gent. Cos prim i àgil, bona resistència. El seu punt feble: la seva tècnica amb cordes no és tan depurada com la dels professionals i a vegades subestima els riscos.
+
+Bloque de prompt específico
+
+Young adult man (31), slim wiry build, enthusiastic slightly restless posture of someone eager to get going. Messy curly dark hair sticking out from under his helmet, short scruffy beard, bright excited eyes, wide grin of genuine enthusiasm.
+
+Wearing a mismatched outfit: dark blue caving trousers (technical) paired with a worn orange fleece jacket instead of a proper overall (the mark of a self-taught caver), a basic climbing harness. Well-worn caving boots that have seen many trips. A green hard helmet with a headlamp that has some duct-tape repairs. A GoPro action camera mounted on the helmet. A carabiner key ring with too many gadgets clipped to his harness.
+
+Standing with a slight forward lean, one hand adjusting his helmet — the fidgety energy of an enthusiast. Color palette: mismatched blues and orange, duct-tape green helmet, DIY adventure tones.
+
+---
+
+4.10. Gemma Rius – Instructora d'espeleologia
+ID: c2_gemma_rius
+Rol: Instructora d'espeleologia, Federació Catalana d'Espeleologia.
+
+Descripció de personatge
+
+La Gemma té 46 anys i és instructora titulada d'espeleologia per la Federació Catalana. Vint anys d'experiència ensenyant i guiant grups per coves de tot Catalunya. Perfil complet i equilibrat: bona en escalada, en passatges estrets, en trams aquàtics. No destaca espectacularment en cap àrea, però és sòlida en totes. La persona que tothom vol al seu equip perquè mai falla i sempre pensa en la seguretat del grup.
+
+Bloque de prompt específico
+
+Adult woman (46), medium-robust build, grounded solid posture radiating calm competence. Medium-length wavy brown hair with a few gray streaks, practical no-fuss style, warm but serious expression with smile lines, weathered outdoorsy face showing years in the sun and underground.
+
+Wearing a well-maintained dark brown caving overall (professional quality, well-used but cared for), a complete climbing harness with neatly organized gear — each carabiner in its place. Sturdy professional caving boots. An orange hard helmet with headlamp, a whistle on a cord around her neck (group communication), a laminated cave survey map folded in her thigh pocket.
+
+Standing with an open balanced posture, weight evenly distributed, hands loosely ready — the textbook stance of an instructor. Color palette: dark brown overall, orange helmet, organized professional gear, reliable instructor tones.
+
+---
+
+4.11. Martí Serra – Espeleòleg jove i petit
+ID: c2_marti_serra
+Rol: Espeleòleg jove, especialista involuntari en passatges impossibles.
+
+Descripció de personatge
+
+En Martí té 22 anys i és l'espeleòleg més petit del grup: 160 cm i 55 kg. El que podria semblar un desavantatge en altres contextos és aquí un superpoder: passa per forats on ningú més pot entrar. Ha explorat racons verges de coves que altres ni podien intentar. Estudiant d'INEF, bona condició física malgrat la seva mida. Li falta experiència en expedicions llargues i autònomes.
+
+Bloque de prompt específico
+
+Young adult man (22), very small slim build (notably short, about 160cm), light agile posture with quick energy. Short dark hair, clean-shaven baby face making him look even younger, alert curious wide eyes, expression mixing determination and slight nervousness of youth.
+
+Wearing a light gray caving overall that fits him well (unlike most gear that's too big), a youth-sized climbing harness, small lightweight caving boots. A white hard helmet that fits properly — no wobble. Thin flexible gloves in one hand. A compact headlamp. His small frame is emphasized by the normal-sized rope coil he carries, which looks proportionally large on him.
+
+Standing with a compact, coiled posture — knees slightly bent, shoulders tucked, the instinctive body language of someone used to making himself small to fit through gaps. Color palette: light gray overall, white helmet, compact frame, small-but-capable tones.
+
+---
+
+4.12. Laia Camps – Submarinista espeleòloga
+ID: c2_laia_camps
+Rol: Espeleòloga subaquàtica, especialista en sifons.
+
+Descripció de personatge
+
+La Laia té 36 anys i és espeleòloga subaquàtica: la seva especialitat són els sifons, els passatges inundats que connecten galeries seques. Submarinista titulada amb formació en busseig en coves. Excel·lent nedadora i molt bona resistència al fred (hores dins d'aigua a 10°C). Menys experiència en trams secs d'escalada pura, però bona tècnica general. La seva presència és clau si la cova té trams aquàtics.
+
+Bloque de prompt específico
+
+Adult woman (36), athletic medium build with strong shoulders developed from swimming, straight confident posture. Long dark hair in a tight waterproof braid, tanned face with defined features, calm focused expression — the look of someone comfortable in extreme environments.
+
+Wearing a black neoprene wetsuit (3mm, visible at the neck and wrists) under a dark blue caving overall open at the chest showing the neoprene underneath. A diving-grade climbing harness. Waterproof caving boots. A yellow hard helmet with a waterproof headlamp. A small waterproof dry bag clipped to her harness, neoprene gloves tucked into her belt, a dive knife strapped to her calf.
+
+Standing with a relaxed athletic posture, one hand resting on the dry bag — the ease of someone equally comfortable on land and in water. Color palette: black neoprene, dark blue overall, yellow helmet, aquatic expedition tones.
+
+---
+
+4.13. Joan Batlle – Veterà de muntanya i espeleologia
+ID: c2_joan_batlle
+Rol: Espeleòleg sènior, excursionista veterà.
+
+Descripció de personatge
+
+En Joan té 55 anys i és excursionista i espeleòleg veterà amb trenta anys d'experiència. Ha explorat les principals coves del país i participat en campanyes d'exploració als Pirineus durant dècades. Gran coneixement del terreny i capacitat per anticipar perills. Robust i fort, però l'edat comença a notar-se: menys àgil que abans i els genolls li fan mal després d'hores d'arrossegar-se. La seva experiència, però, és insubstituïble.
+
+Bloque de prompt específico
+
+Older adult man (55), robust build going slightly stiff, upright proud posture but with a slight care in how he places his weight — protecting his knees. Sparse gray hair visible under his helmet, deeply tanned lined face with a strong nose, half-smile of quiet confidence, crow's feet from years of squinting at headlamp light.
+
+Wearing a worn olive-green caving overall with patches at the knees and elbows (decades of use), a well-used but perfectly maintained climbing harness, heavy old-style leather caving boots. An orange hard helmet (older model, heavier) with a bright headlamp. A battered metal water flask on his hip instead of a plastic bottle, a compass on a cord around his neck.
+
+Standing with a solid but slightly guarded posture — weight favoring one leg, one hand resting on his hip near the water flask. Color palette: olive green worn overall, orange helmet, aged leather, veteran endurance tones.
+
+---
+
+4.14. Anna Ferran – Topògrafa espeleòloga
+ID: c2_anna_ferran
+Rol: Enginyera topogràfica, cartògrafa de coves.
+
+Descripció de personatge
+
+L'Anna té 33 anys i és enginyera topogràfica especialitzada en cartografia subterrània. Fa mapes de coves amb precisió mil·limètrica usant eines de mesura làser i programari 3D. Excel·lent coneixement tècnic de la geometria de les coves i la seva estructura. Complexió mitjana-petita, bona agilitat. Menys experiència en trams de dificultat extrema, però la seva capacitat per orientar-se i documentar el recorregut és fonamental perquè l'equip no es perdi.
+
+Bloque de prompt específico
+
+Young adult woman (33), small-medium build, precise controlled posture of someone used to careful measurements. Straight black hair in a short practical bob, sharp focused eyes, concentrated serious expression, delicate features.
+
+Wearing a dark navy caving overall (clean, methodically maintained), a standard climbing harness with a laser distance meter clipped to it (small yellow device). Lightweight technical caving boots. A white hard helmet with headlamp. The distinctive details: a weatherproof tablet in a ruggedized case strapped to her forearm (for digital mapping), a pencil behind her ear, a small spirit level clipped to her chest pocket.
+
+Standing with a very straight precise posture, one hand touching the tablet on her forearm — the body language of someone always recording and measuring. Color palette: dark navy overall, white helmet, yellow laser device accent, precise cartographer tones.
