@@ -5,6 +5,26 @@ import '../styles/guided.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.4',
+    date: '2026-03-06',
+    changes: {
+      ca: [
+        'Mode guiat: el docent crea una sala i els alumnes s\'hi connecten amb un codi de 4 dígits',
+        'Connexió en temps real amb Firebase Firestore',
+        'Resultats agregats per gènere amb gràfic de barres',
+        'Sales efímeres amb expiració automàtica (8 hores)',
+        'Corregit el problema de càrrega de fons d\'escenari',
+      ],
+      es: [
+        'Modo guiado: el docente crea una sala y los alumnos se conectan con un código de 4 dígitos',
+        'Conexión en tiempo real con Firebase Firestore',
+        'Resultados agregados por género con gráfico de barras',
+        'Salas efímeras con expiración automática (8 horas)',
+        'Corregido el problema de carga de fondos de escenario',
+      ],
+    },
+  },
+  {
     version: '0.3.1',
     date: '2026-03-06',
     changes: {

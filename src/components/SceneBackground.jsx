@@ -9,6 +9,10 @@ export default function SceneBackground({ images, interval = 5000 }) {
   const isSingle = images.length <= 1;
 
   useEffect(() => {
+    setActiveIndex(0);
+  }, [images]);
+
+  useEffect(() => {
     if (isSingle) return;
     timerRef.current = setInterval(() => {
       setActiveIndex(prev => (prev + 1) % images.length);
