@@ -108,6 +108,55 @@ const ca = {
     finishSession: 'Finalitzar sessió',
     versionHistory: 'Historial de versions',
     version: 'Versió',
+
+    // Mode selection
+    modeIndividual: 'Mode individual',
+    createRoom: 'Crear sala (docent)',
+    joinRoom: 'Unir-me a una sala',
+
+    // Teacher lobby
+    roomCode: 'Codi de la sala',
+    studentsConnected: '{count} alumnes connectats',
+    selectScenario: 'Tria un escenari',
+    startRound: 'Iniciar ronda',
+    endSessionGuided: 'Finalitzar sessió',
+    noStudents: 'Esperant alumnes...',
+    selectScenarioFirst: 'Tria un escenari per començar',
+    roomExpiryWarning: 'Les sales es destrueixen automàticament 8 hores després de crear-se. Assegura\'t d\'acabar la dinàmica el mateix dia.',
+
+    // Teacher round
+    submittedCount: '{submitted} de {total} han triat',
+    closeRound: 'Tancar ronda',
+    waitingSelections: 'Esperant que els alumnes triïn...',
+
+    // Teacher results
+    votesForCharacter: '{count} vots',
+    oneVoteForCharacter: '1 vot',
+    nextRoundBtn: 'Propera ronda',
+    genderFilterAll: 'Tots',
+    genderFilterBoys: 'Nois',
+    genderFilterGirls: 'Noies',
+
+    // Student join
+    enterRoomCode: 'Codi de la sala',
+    joinButton: 'Unir-me',
+    roomNotFound: 'Sala no trobada. Revisa el codi.',
+    roomClosed: 'Aquesta sala ja s\'ha tancat.',
+    selectGender: 'Com et defineixes?',
+    genderBoy: 'Noi',
+    genderGirl: 'Noia',
+    genderPreferNot: 'Prefereixo no dir-ho',
+
+    // Student waiting
+    waitingForTeacher: 'Esperant el docent...',
+    waitingForOthers: 'Esperant la resta...',
+    selectionSent: 'Tria enviada!',
+
+    // Connection
+    connectionLimit: 'Hi ha massa connexions actives. Prova-ho més tard.',
+    connectionLost: 'Connexió perduda. Reconnectant...',
+    roomClosedMsg: 'La sessió ha finalitzat.',
+    backToStart: 'Tornar a l\'inici',
   },
 };
 

@@ -108,6 +108,55 @@ const es = {
     finishSession: 'Finalizar sesión',
     versionHistory: 'Historial de versiones',
     version: 'Versión',
+
+    // Mode selection
+    modeIndividual: 'Modo individual',
+    createRoom: 'Crear sala (docente)',
+    joinRoom: 'Unirme a una sala',
+
+    // Teacher lobby
+    roomCode: 'Código de la sala',
+    studentsConnected: '{count} alumnos conectados',
+    selectScenario: 'Elige un escenario',
+    startRound: 'Iniciar ronda',
+    endSessionGuided: 'Finalizar sesión',
+    noStudents: 'Esperando alumnos...',
+    selectScenarioFirst: 'Elige un escenario para empezar',
+    roomExpiryWarning: 'Las salas se destruyen automáticamente 8 horas después de crearse. Asegúrate de acabar la dinámica el mismo día.',
+
+    // Teacher round
+    submittedCount: '{submitted} de {total} han elegido',
+    closeRound: 'Cerrar ronda',
+    waitingSelections: 'Esperando que los alumnos elijan...',
+
+    // Teacher results
+    votesForCharacter: '{count} votos',
+    oneVoteForCharacter: '1 voto',
+    nextRoundBtn: 'Siguiente ronda',
+    genderFilterAll: 'Todos',
+    genderFilterBoys: 'Chicos',
+    genderFilterGirls: 'Chicas',
+
+    // Student join
+    enterRoomCode: 'Código de la sala',
+    joinButton: 'Unirme',
+    roomNotFound: 'Sala no encontrada. Revisa el código.',
+    roomClosed: 'Esta sala ya se ha cerrado.',
+    selectGender: '¿Cómo te defines?',
+    genderBoy: 'Chico',
+    genderGirl: 'Chica',
+    genderPreferNot: 'Prefiero no decirlo',
+
+    // Student waiting
+    waitingForTeacher: 'Esperando al docente...',
+    waitingForOthers: 'Esperando al resto...',
+    selectionSent: '¡Elección enviada!',
+
+    // Connection
+    connectionLimit: 'Hay demasiadas conexiones activas. Inténtalo más tarde.',
+    connectionLost: 'Conexión perdida. Reconectando...',
+    roomClosedMsg: 'La sesión ha finalizado.',
+    backToStart: 'Volver al inicio',
   },
 };
 

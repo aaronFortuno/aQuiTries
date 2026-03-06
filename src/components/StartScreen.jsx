@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useTranslation } from '../i18n';
 import '../styles/global.css';
+import '../styles/guided.css';
 
 const VERSION_HISTORY = [
   {
@@ -83,7 +84,7 @@ const VERSION_HISTORY = [
   },
 ];
 
-export default function StartScreen({ onStart }) {
+export default function StartScreen({ onStartIndividual, onCreateRoom, onJoinRoom }) {
   const { t, locale } = useTranslation();
   const [showVersions, setShowVersions] = useState(false);
 
@@ -98,9 +99,26 @@ export default function StartScreen({ onStart }) {
           <p>{t('ui.startDescription1')}</p>
           <p>{t('ui.startDescription2')}</p>
         </div>
-        <button className="start-screen__button" onClick={onStart}>
-          {t('ui.startButton')}
-        </button>
+        <div className="start-screen__modes">
+          <button
+            className="start-screen__mode-btn start-screen__mode-btn--individual"
+            onClick={onStartIndividual}
+          >
+            {t('ui.modeIndividual')}
+          </button>
+          <button
+            className="start-screen__mode-btn start-screen__mode-btn--create"
+            onClick={onCreateRoom}
+          >
+            {t('ui.createRoom')}
+          </button>
+          <button
+            className="start-screen__mode-btn start-screen__mode-btn--join"
+            onClick={onJoinRoom}
+          >
+            {t('ui.joinRoom')}
+          </button>
+        </div>
       </div>
 
       <button
