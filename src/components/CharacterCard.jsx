@@ -39,6 +39,7 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
           <Avatar character={character} />
         </div>
         <span className="character-card__name">{character.name}</span>
+        <p className="character-card__desc">{character.description}</p>
         {isSelected && <span className="character-card__badge">&#10003;</span>}
       </div>
       <div className="character-card__skills">

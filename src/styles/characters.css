@@ -67,12 +67,62 @@
   color: var(--color-text);
 }
 
+.character-card__desc {
+  font-size: 0.65rem;
+  color: var(--color-text-light);
+  text-align: center;
+  line-height: 1.3;
+  margin: 0.2rem 0 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  padding: 0 0.15rem;
+}
+
 .character-card__skills {
   display: flex;
   flex-direction: column;
   gap: 0.2rem;
   width: 100%;
   padding: 0.3rem 0.25rem 0;
+}
+
+/* ===== Skills Legend (first column) ===== */
+.skills-legend {
+  flex-shrink: 0;
+  width: 90px;
+  display: flex;
+  flex-direction: column;
+  scroll-snap-align: start;
+  position: sticky;
+  left: 0;
+  z-index: 10;
+  background: var(--color-bg);
+}
+
+.skills-legend__spacer {
+  /* Matches avatar + name + desc height so labels align with skill bars */
+  flex: 1;
+}
+
+.skills-legend__labels {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  padding: 0.3rem 0.25rem 0;
+}
+
+.skills-legend__label {
+  font-size: 0.6rem;
+  font-weight: 600;
+  color: var(--color-text-light);
+  text-transform: capitalize;
+  /* Match compact skill-bar height (5px track + vertical padding from gap) */
+  height: 5px;
+  display: flex;
+  align-items: center;
+  line-height: 1;
 }
 
 .character-card__badge {
@@ -255,6 +305,10 @@
     width: 100px;
     height: 150px;
   }
+
+  .skills-legend {
+    width: 80px;
+  }
 }
 
 @media (max-width: 600px) {
@@ -271,7 +325,20 @@
     font-size: 0.7rem;
   }
 
+  .character-card__desc {
+    font-size: 0.55rem;
+    -webkit-line-clamp: 2;
+  }
+
   .skill-bar--compact .skill-bar__label {
+    font-size: 0.5rem;
+  }
+
+  .skills-legend {
+    width: 70px;
+  }
+
+  .skills-legend__label {
     font-size: 0.5rem;
   }
 

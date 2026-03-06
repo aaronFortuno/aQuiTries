@@ -48,6 +48,16 @@ export default function ScenarioScreen({
       />
 
       <div className="scenario__grid">
+        <div className="skills-legend">
+          <div className="skills-legend__spacer" />
+          <div className="skills-legend__labels">
+            <span className="skills-legend__label">Força</span>
+            <span className="skills-legend__label">Velocitat</span>
+            <span className="skills-legend__label">Resistència</span>
+            <span className="skills-legend__label">Precisió</span>
+            <span className="skills-legend__label">Treball en equip</span>
+          </div>
+        </div>
         {scenario.characters.map(character => (
           <CharacterCard
             key={character.id}
