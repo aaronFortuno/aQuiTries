@@ -1,0 +1,353 @@
+4. Fichas de personaje (18 persones del poble i voltants)
+Cada ficha tiene:
+
+ID: identificador breve para la app.
+Rol: oficio o función principal.
+Descripción de personaje: texto narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 6 persones i assignar-les a dues tasques:
+  - Tallafocs (4 persones): obrir franja tallafocs amb pics i pales. Força i resistència.
+  - Coordinació d'evacuació (2 persones): organitzar l'evacuació del poble. Lideratge, calma, comunicació.
+
+---
+
+4.1. Oriol Camps – Bomber professional
+ID: oriol_bomber
+Rol: Bomber professional del parc comarcal.
+
+Descripció de personatge
+
+L'Oriol té 36 anys i és bomber professional. Porta més de deu anys en un parc comarcal de zona forestal, amb desenes d'intervencions en incendis reals al darrere. Té una complexió forta i entrenada, acostumada al treball físic extrem sota condicions de calor i estrès.
+Coneix perfectament la mecànica dels tallafocs: on cavar, com de profund, quina amplada cal. A més, sap coordinar equips sota pressió. És una persona calmada, metòdica i amb una autoritat natural que prové de l'experiència.
+
+Bloque de prompt específico
+
+Adult man (36), strong and fit build, broad shoulders, calm focused expression showing experience under pressure. Short dark hair, clean-shaven, slightly reddened face from sun and heat exposure.
+
+Wearing a yellow-green fire-resistant work jacket with reflective strips, dark fire-resistant trousers with cargo pockets, heavy black safety boots. A firefighter helmet pushed back on his head, work gloves hanging from a clip on his belt.
+
+Holding a Pulaski axe (combination axe-hoe tool) in one hand, resting it on his shoulder. A portable radio clipped to his chest strap. Color palette: safety yellow-green, dark navy, black boots, reflective silver accents, high-visibility emergency tones.
+
+---
+
+4.2. Marina Esteve – Infermera del CAP
+ID: marina_infermera
+Rol: Infermera del centre d'atenció primària del poble.
+
+Descripció de personatge
+
+La Marina té 45 anys i és la infermera del CAP (centre d'atenció primària) del poble. Coneix pràcticament totes les famílies, sap qui té problemes de mobilitat, qui viu sol, qui pren medicació que no pot interrompre. Té una complexió mitjana, no especialment forta, però la seva capacitat de mantenir la calma en situacions d'urgència és excepcional.
+Anys d'atendre emergències sanitàries rurals li han donat una serenitat que transmet confiança. Sap prioritzar, delegar i comunicar-se amb claredat. Per a la coordinació d'evacuació seria una peça clau.
+
+Bloque de prompt específico
+
+Adult woman (45), average build, composed and steady posture, calm reassuring expression. Brown hair with some gray, pulled back in a practical low ponytail. Rectangular glasses, warm but serious eyes.
+
+Wearing a light blue medical scrub top under an open dark fleece jacket (grabbed in a hurry), comfortable dark trousers, and white sport shoes. A stethoscope around her neck, a small first-aid bag slung across one shoulder. A clipboard with patient lists in one hand.
+
+Standing with a grounded, reassuring posture. Color palette: medical light blue, dark fleece gray, white shoes, calm professional tones.
+
+---
+
+4.3. Jaume Bosch – Pagès forestal
+ID: jaume_forestal
+Rol: Pagès i gestor forestal, tota la vida al bosc.
+
+Descripció de personatge
+
+En Jaume té 58 anys i ha treballat tota la vida gestionant boscos: tala selectiva, neteja de sotabosc, feines forestals. Té una complexió seca i fibrosa, amb braços forts marcats per dècades de feina amb pics, destrals i motosserres. No és corpulent, però la seva resistència és enorme.
+Coneix el terreny com ningú: sap per on avança el foc, on hi ha cortafocs naturals, quins camins serveixen per fugir. Ha viscut ja dos incendis forestals greus i sap què cal fer. Parla poc, actua ràpid.
+
+Bloque de prompt específico
+
+Older man (58), lean and wiry build with strong ropy forearms, weathered tough posture. Thinning gray hair under a faded green forestry cap, deeply tanned face with deep lines, serious determined expression.
+
+Wearing a worn olive green work shirt with rolled-up sleeves, dark canvas work trousers, and heavy brown leather boots caked with dried mud. A leather belt with a folding saw sheath and a small canteen.
+
+Holding a long-handled pick (mattock) in both hands, ready to work. Color palette: olive green, dark brown, dried earth tones, sun-weathered skin, forest working colors.
+
+---
+
+4.4. Sílvia Torres – Agent rural
+ID: silvia_agent_rural
+Rol: Agent rural (guarda forestal) de la Generalitat.
+
+Descripció de personatge
+
+La Sílvia té 33 anys i és agent rural, el cos de guarderia forestal de la Generalitat. Està entrenada en prevenció i extinció d'incendis, coneix la zona, sap usar eines forestals i també té formació en coordinació d'emergències i evacuació civil.
+Té una complexió atlètica i en forma, acostumada a patrullar per muntanya. És una persona versàtil: podria fer tallafocs amb garanties, però també podria coordinar l'evacuació amb competència. Això la converteix en una tria interessant — el jugador ha de decidir on la necessita més.
+
+Bloque de prompt específico
+
+Young adult woman (33), athletic fit build, confident upright posture, alert focused expression. Dark hair tied back tightly in a bun under an olive-green official cap with a small emblem. Slightly tanned skin.
+
+Wearing an olive-green uniform shirt with rolled-up sleeves showing toned forearms, dark green cargo trousers, and sturdy black hiking boots. A belt with a radio, a small utility pouch, and a folding knife. A high-visibility orange vest over the shirt.
+
+One hand on her radio, the other at her side, ready and watchful. Color palette: olive green uniform, orange high-visibility vest, black boots, official forest ranger tones.
+
+---
+
+4.5. Arnau Vidal – Jove voluntari de Protecció Civil
+ID: arnau_voluntari
+Rol: Voluntari jove de Protecció Civil.
+
+Descripció de personatge
+
+L'Arnau té 22 anys i és voluntari de Protecció Civil des de fa dos anys. Té una complexió forta i musculada — fa crossfit i treballa d'estiu a la construcció. Està ple d'energia i de ganes d'ajudar, però la seva experiència real en emergències és limitada.
+Ha fet cursos de primers auxilis i protocols d'evacuació, però mai ha estat en un incendi de debò. La seva força física és un actiu clar per al tallafocs, però la seva impulsivitat juvenil podria ser un risc si no se'l coordina bé.
+
+Bloque de prompt específico
+
+Young man (22), strong muscular build, broad chest, eager energetic posture. Short brown hair with a buzz cut, clean-shaven, youthful determined expression.
+
+Wearing an orange Protecció Civil volunteer vest over a dark gray t-shirt that shows his muscular arms, dark cargo trousers, and black work boots. A small backpack with emergency supplies, a hard hat hanging from a clip on the backpack.
+
+Standing with hands slightly forward, ready and eager to act. Color palette: bright orange vest, dark gray, black boots, emergency volunteer high-visibility tones.
+
+---
+
+4.6. Cèlia Font – Mestra jubilada
+ID: celia_mestra
+Rol: Mestra jubilada, molt coneguda i respectada al poble.
+
+Descripció de personatge
+
+La Cèlia té 65 anys i va ser mestra de l'escola del poble durant més de trenta anys. Pràcticament tothom al poble ha estat alumne seu o hi té algun vincle. Té una complexió menuda i ja no té força per a feina física pesada.
+El seu valor és un altre: coneix cada família, cada casa, cada persona vulnerable. Sap qui viu sol, qui té fills petits, qui necessitarà ajuda per moure's. A més, la seva veu transmet calma i autoritat —la gent l'escolta i li fa cas. Per a l'evacuació seria un recurs valuosíssim.
+
+Bloque de prompt específico
+
+Elderly woman (65), small and slight build, upright dignified posture, calm and kind but firm expression. Short white hair neatly styled, reading glasses on a cord around her neck. Lined face with sharp, intelligent eyes.
+
+Wearing a light beige cardigan over a white blouse, comfortable dark trousers, and practical low shoes. A small notebook and pen in her cardigan pocket, a mobile phone in her hand.
+
+Standing with hands clasped in front of her, composed and reassuring. Color palette: warm beige, white, dark trousers, gentle elderly tones with a sense of quiet authority.
+
+---
+
+4.7. Marc Puigvert – Paleta
+ID: marc_paleta
+Rol: Paleta i constructor, acostumat a la feina dura.
+
+Descripció de personatge
+
+En Marc té 44 anys i és paleta de tota la vida. Porta la construcció a la sang: obres, reformes, moviments de terra. Té una complexió robusta i forta, amb esquena ampla i mans enormes. Està perfectament acostumat a cavar, picar i moure terra durant hores sota el sol.
+No té formació en emergències, però la seva capacitat física per obrir un tallafocs és indiscutible. És un home pragmàtic, de poques paraules i molta feina, que no es queixa mai.
+
+Bloque de prompt específico
+
+Middle-aged man (44), robust and strong build with wide back and large hands, solid planted posture. Short dark hair, stubble, slightly dusty face, quiet no-nonsense expression.
+
+Wearing a faded gray work t-shirt showing broad shoulders and thick arms, dusty khaki work trousers, heavy brown steel-toe boots. A small towel draped over one shoulder for wiping sweat.
+
+Holding a heavy flat-bladed shovel in both hands, ready to dig. Color palette: faded gray, dusty khaki, brown boots, construction-worker earth tones.
+
+---
+
+4.8. Neus Armengol – Alcaldessa
+ID: neus_alcaldessa
+Rol: Alcaldessa del poble, gestora i representant institucional.
+
+Descripció de personatge
+
+La Neus té 50 anys i és l'alcaldessa del poble. En una emergència com aquesta, el seu paper és clau per a la coordinació: té autoritat legal, accés a comunicacions amb bombers i Protecció Civil, i coneix tots els recursos disponibles al poble.
+Té una complexió mitjana i no està preparada per a feina física pesada. Però la seva capacitat d'organització, presa de decisions i lideratge institucional la converteixen en una candidata natural per coordinar l'evacuació. Coneix el cens, els punts de trobada i els protocols.
+
+Bloque de prompt específico
+
+Middle-aged woman (50), average build, authoritative composed posture, serious determined expression showing leadership. Dark brown hair with silver streaks at the temples, shoulder length, practical cut. Slight frown of concentration.
+
+Wearing a dark blue waterproof jacket over a beige blouse (dressed in a hurry), dark trousers, and ankle boots. A mobile phone in one hand, a folder with emergency plans under the other arm. A small Catalan flag pin on her jacket lapel.
+
+Standing with decisive posture, slightly leaning forward as if giving instructions. Color palette: dark blue jacket, beige, professional emergency-leadership tones.
+
+---
+
+4.9. Rashid El Amrani – Jardiner municipal
+ID: rashid_jardiner
+Rol: Jardiner i manteniment municipal del poble.
+
+Descripció de personatge
+
+En Rashid té 40 anys i porta deu anys treballant com a jardiner i operari de manteniment municipal. Cada dia treballa amb pales, pics, desbrossadores i eines de jardineria pesades. Té una complexió forta i musculada, amb una resistència notable fruit del treball físic diari a l'aire lliure.
+Va arribar al poble des del Marroc fa quinze anys i s'hi ha integrat completament. Coneix cada racó del poble, cada camí i cada sortida. És treballador, fiable i discret. Per al tallafocs, la seva experiència amb eines i la seva resistència el fan un candidat excel·lent.
+
+Bloque de prompt específico
+
+Adult man (40), strong muscular build with broad shoulders and powerful arms, solid steady posture. Short black hair, neatly trimmed dark beard, calm focused expression. Olive-brown skin, slightly weathered from outdoor work.
+
+Wearing a dark green municipal work polo shirt with a small town emblem on the chest, sturdy dark work trousers, and heavy black work boots. Work gloves on his hands, a small utility belt with pruning tools.
+
+Holding a long-handled shovel upright in one hand. Color palette: municipal dark green, dark work tones, black boots, olive-brown skin, practical outdoor colors.
+
+---
+
+4.10. Dolors Sala – Farmacèutica
+ID: dolors_farmaceutica
+Rol: Farmacèutica del poble, coneix la medicació de tothom.
+
+Descripció de personatge
+
+La Dolors té 55 anys i porta la farmàcia del poble des de fa vint-i-cinc anys. Coneix la medicació de cada veí, sap qui és diabètic, qui necessita oxigen, qui pren ansiolítics. En una evacuació, aquesta informació pot ser crítica.
+Té una complexió mitjana, sedentària, i no serviria per obrir tallafocs. Però podria ser molt útil assessorant l'equip d'evacuació sobre necessitats mèdiques, o preparant un petit kit de medicaments essencials per als evacuats. El seu valor és específic i complementari.
+
+Bloque de prompt específico
+
+Adult woman (55), average to slightly heavy build, composed professional posture, concerned but controlled expression. Brown hair with prominent gray streaks in a short practical bob cut, small round glasses. Warm, familiar face.
+
+Wearing a white pharmacist's coat over a dark purple blouse, dark trousers, and comfortable black shoes. A small bag with essential medications slung across one shoulder. Reading glasses pushed up on her forehead.
+
+One hand holding the strap of her medication bag, the other holding a printed list. Color palette: white coat, dark purple, muted professional medical tones.
+
+---
+
+4.11. Biel Costa – Adolescent
+ID: biel_adolescent
+Rol: Adolescent del poble, estudiant de batxillerat.
+
+Descripció de personatge
+
+En Biel té 17 anys i està estudiant batxillerat. Té una complexió prima i llarga d'adolescent, encara en creixement. No ha fet mai feina física real i la seva experiència en emergències és nul·la. Està visiblement nerviós i espantat per la situació.
+Té bona voluntat però li falta tot: força, resistència, experiència i aplom. Per al tallafocs seria insuficient i potencialment un risc. Per a l'evacuació, no té ni l'autoritat ni la calma necessàries. Podria ajudar en tasques molt lleugeres de suport.
+
+Bloque de prompt específico
+
+Teenage boy (17), tall but thin and lanky build, narrow shoulders, anxious nervous posture with slightly hunched shoulders. Messy brown hair, a few spots of acne, wide worried eyes.
+
+Wearing a wrinkled band t-shirt, skinny jeans, and worn-out sneakers — clearly caught off-guard by the emergency. A phone clutched tightly in one hand, earbuds dangling from his neck.
+
+Standing with one arm crossed over his body, visibly uncomfortable and uncertain. Color palette: faded t-shirt colors, dark denim, worn sneaker tones, pale anxious skin.
+
+---
+
+4.12. Pilar Vázquez – Monitora de lleure
+ID: pilar_monitora
+Rol: Monitora de lleure i activitats infantils.
+
+Descripció de personatge
+
+La Pilar té 29 anys i treballa com a monitora de lleure — casal d'estiu, extraescolars, campaments. Està perfectament entrenada per gestionar grups de nens i famílies en situacions caòtiques: mantenir la calma, donar instruccions clares, entretenir per evitar el pànic.
+Té una complexió atlètica lleugera, amb bona forma però no la força necessària per cavar un tallafocs durant hores. En canvi, per a l'evacuació seria excel·lent: sap gestionar grups, comunicar-se amb nens i adults, i mantenir l'ordre amb un somriure ferm.
+
+Bloque de prompt específico
+
+Young adult woman (29), light athletic build, energetic approachable posture, warm but serious expression showing focus. Brown hair in a practical high ponytail, lightly tanned skin, friendly open face.
+
+Wearing a bright red polo shirt (leisure center uniform) with a small logo, comfortable dark shorts, and sport sandals. A whistle on a cord around her neck, a small fanny pack at her waist with basic supplies.
+
+One hand raised slightly as if about to give instructions, the other at her side. Color palette: bright red polo, dark shorts, sporty practical tones, youthful energy colors.
+
+---
+
+4.13. Francesc Riera – Avi ex-bomber
+ID: francesc_exbomber
+Rol: Bomber jubilat, veterà de múltiples incendis.
+
+Descripció de personatge
+
+En Francesc té 71 anys i va ser bomber professional durant trenta-cinc anys, especialitzat en incendis forestals. Ha obert desenes de tallafocs, ha coordinat evacuacions i ha vist de tot. El seu coneixement és enciclopèdic.
+Físicament, però, ja no pot. Té problemes d'esquena, els genolls li fallen i la resistència ja no és la d'abans. No pot cavar un tallafocs, però podria assessorar l'equip que ho faci o ajudar a coordinar l'evacuació amb un coneixement tècnic que ningú més té. La pregunta és: on aporta més?
+
+Bloque de prompt específico
+
+Elderly man (71), thin build showing his age, slightly stooped posture but with alert sharp eyes that show decades of experience. Sparse white hair, weathered lined face with a strong jaw, calm measured expression.
+
+Wearing an old dark blue firefighter fleece jacket (retired, personal keepsake) over a checked shirt, comfortable dark trousers, and sturdy walking shoes. A worn leather watch on his wrist.
+
+Standing with hands in his jacket pockets, observing the situation with experienced eyes. Color palette: faded firefighter dark blue, checked shirt muted tones, elderly weathered skin, veteran authority colors.
+
+---
+
+4.14. Aina Bernat – Estudiant de medicina
+ID: aina_estudiant
+Rol: Estudiant de medicina, de visita al poble.
+
+Descripció de personatge
+
+L'Aina té 24 anys i és estudiant de cinquè de medicina. Està de visita al poble passant uns dies a casa dels avis. Té formació en primers auxilis avançats i triatge, i manté la calma bé en situacions d'estrès gràcies a les pràctiques hospitalàries.
+Complexió mitjana, en forma però no especialment forta. No serviria per al tallafocs, però podria ser útil donant suport mèdic durant l'evacuació: atenent gent amb atacs d'ansietat, controlant els que tenen patologies prèvies, o muntant un petit punt sanitari al punt de trobada.
+
+Bloque de prompt específico
+
+Young adult woman (24), average build, composed alert posture, focused serious expression despite her youth. Dark hair pulled back in a quick messy bun, no makeup, sharp attentive eyes.
+
+Wearing a casual light gray hoodie and jeans — she was on holiday when the emergency hit — with white running shoes. A small first-aid kit she grabbed from her grandmother's house slung across her body. Latex gloves sticking out of her hoodie pocket.
+
+Standing with hands ready at her sides, calm and prepared. Color palette: casual light gray, denim blue, white shoes, medical-readiness undertones in a casual outfit.
+
+---
+
+4.15. Llorenç Mora – Ramader
+ID: llorenc_ramader
+Rol: Ramader de vaques, tota la vida a la muntanya.
+
+Descripció de personatge
+
+En Llorenç té 52 anys i és ramader: cria vaques en pastures de muntanya. Cada dia fa feines pesades — moure tanques, carregar bales de farratge, reparar tancats, caminar hores per terreny difícil. Té una complexió gran i massissa, amb una força bruta notable i una resistència de ferro.
+No té formació en emergències, però la seva capacitat física per cavar un tallafocs és de les millors del grup. A més, coneix el terreny perfectament i sap per on pot avançar el foc. Home de poques paraules, pragmàtic i dur.
+
+Bloque de prompt específico
+
+Adult man (52), large and heavy build with massive shoulders and thick arms, solid grounded posture like a man rooted to the earth. Gray-streaked dark hair under a flat brown cap, full graying beard, weathered ruddy face, quiet stoic expression.
+
+Wearing a heavy dark flannel shirt over a thermal undershirt, thick dark work trousers, and tall rubber farm boots muddied from the fields. A thick leather belt with a multi-tool sheath.
+
+Arms at his sides, large calloused hands visible, standing like an immovable rock. Color palette: dark flannel browns and greens, muddy rubber boots, earthy mountain farmer tones.
+
+---
+
+4.16. Teresa Grau – Treballadora social
+ID: teresa_social
+Rol: Treballadora social de serveis comarcals.
+
+Descripció de personatge
+
+La Teresa té 47 anys i és treballadora social als serveis socials comarcals. Coneix en profunditat les situacions de vulnerabilitat del poble: gent gran sola, famílies amb pocs recursos, persones amb discapacitat, nens en acolliment. Aquesta informació és crítica en una evacuació.
+Té una complexió mitjana i no té cap capacitat especial per a feina física. Però la seva empatia, la seva capacitat de comunicació i el seu coneixement de les persones vulnerables la fan molt valuosa per a la coordinació d'evacuació. Sap on cal posar l'atenció que ningú més recorda.
+
+Bloque de prompt específico
+
+Adult woman (47), average build, attentive warm posture, empathetic but focused expression. Shoulder-length auburn hair, light freckles, kind eyes with slight worry lines.
+
+Wearing a practical dark green parka over a cream-colored knit sweater, dark jeans, and comfortable ankle boots. A large tote bag with folders and documents, a mobile phone in her hand showing a contacts list.
+
+Standing slightly leaning forward, engaged and ready to help. Color palette: dark green parka, cream sweater, warm empathetic tones, social-worker practical colors.
+
+---
+
+4.17. Nil Batista – Ciclista de muntanya
+ID: nil_ciclista
+Rol: Ciclista de muntanya, visitant de pas.
+
+Descripció de personatge
+
+En Nil té 27 anys i és ciclista de muntanya semi-professional. Estava fent una ruta per la zona quan s'ha trobat amb l'emergència. Té una complexió atlètica excel·lent: cames potentíssimes, bona resistència cardiovascular i força general notable.
+El problema: no coneix el terreny, no coneix la gent del poble, no té cap eina i no té experiència en emergències. Però la seva forma física és de les millors del grup. Si algú li diu on cavar, pot cavar durant hores sense parar. És col·laborador i vol ajudar, però necessita direcció.
+
+Bloque de prompt específico
+
+Young adult man (27), lean athletic build with powerful legs and defined calves, fit and energetic posture. Short blond hair, slightly sweaty, tanned skin with goggle tan lines on his face, willing eager expression.
+
+Wearing a tight-fitting cycling jersey (bright blue and white) unzipped halfway showing a base layer, padded cycling shorts, and cycling shoes with cleats. A cycling helmet pushed back on his head, small hydration backpack on his back.
+
+Standing with hands on his hips, slightly out of breath but ready to help. Color palette: bright cycling blue, white, sporty modern tones — clearly an outsider to the village context.
+
+---
+
+4.18. Roser Pla – Veterinària
+ID: roser_veterinaria
+Rol: Veterinària rural de la comarca.
+
+Descripció de personatge
+
+La Roser té 38 anys i és veterinària rural. Atén les granges i els animals de la zona. En un incendi forestal, hi ha un aspecte que sovint s'oblida: els animals. Cavalls, vaques, gossos, gats — també cal evacuar-los o protegir-los, i algú que sàpiga tractar amb animals espantats és molt útil.
+Té una complexió mitjana-forta, acostumada a subjectar animals grans i a feina física moderada. Podria contribuir al tallafocs, però el seu valor diferencial és un altre: sap gestionar l'evacuació dels animals, que si no es fa pot provocar el caos (animals solts bloquejant carreteres, gent que no vol marxar sense el seu gos, etc.).
+
+Bloque de prompt específico
+
+Adult woman (38), medium-strong build with practical capable hands, steady confident posture. Dark curly hair tied back loosely, a few strands loose, focused determined expression. Lightly tanned skin.
+
+Wearing a dark olive field vest with many pockets over a gray long-sleeve t-shirt, sturdy dark jeans, and waterproof hiking boots. A veterinary field bag across one shoulder with a visible stethoscope, a lead rope coiled on her belt.
+
+One hand resting on her field bag strap, the other holding a lead rope. Color palette: dark olive, field gray, brown boots, rural veterinary practical tones.

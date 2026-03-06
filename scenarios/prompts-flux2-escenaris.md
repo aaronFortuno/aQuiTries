@@ -73,3 +73,29 @@ Composition: wide horizontal format (landscape orientation, roughly 16:9), suita
 
 Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
 ```
+
+---
+
+## A3. L'incendi forestal — Poble de muntanya amenaçat per un incendi
+
+```text
+Pixel art landscape of a Catalan mountain village threatened by a forest fire, wide horizontal view. Dramatic emergency atmosphere.
+
+A small mountain village seen from a slight distance. A cluster of stone and terracotta-roofed houses nestled in a valley, with a church bell tower visible. A narrow road leads out of the village toward the viewer. On the hillside behind and above the village, a forest fire is advancing: orange and red flames visible among the dark pine trees, thick columns of gray and brown smoke rising into the sky, darkening the sunlight.
+
+In the foreground, the area between the viewer and the village: a cleared field or dirt road where a firebreak could be dug. The earth is dry and rocky, Mediterranean mountain terrain. A few abandoned tools (a wheelbarrow, some wooden stakes) sit near the edge of the field, suggesting hasty preparation.
+
+The sky is split: on one side, ominous dark smoke blending with clouds in orange-brown tones; on the other side, pale hazy blue barely visible through the smoke haze. The light has a warm, unsettling orange tint from the fire. Embers or ash particles drift in the air.
+
+No humans, no characters, no people visible anywhere in the scene. No animals. Empty landscape only.
+
+Color palette: fire oranges and reds on the hillside, smoke grays and dark browns, warm amber haze in the sky, stone village neutrals (beige, gray, terracotta), dry earth yellows and browns. The overall tone is warm and threatening.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: dramatic warm light from the fire mixing with hazy daylight. The fire-side of the scene is brighter and warmer, the opposite side slightly cooler and darker from smoke shadow. Consistent but atmospheric.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the foreground where character sprites could be placed on top. The burning hillside and village should create depth and urgency. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```

@@ -31,26 +31,24 @@
 
 html {
   font-size: 16px;
+  background-color: var(--color-bg);
 }
 
 body {
   font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
-  background-color: var(--color-bg);
+  background-color: transparent;
   color: var(--color-text);
   line-height: 1.5;
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
 }
 
-/* When background images are active, body bg must be transparent */
-body:has(.scene-bg) {
-  background-color: transparent;
-}
-
 #root {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  position: relative;
+  z-index: 1;
 }
 
 button {

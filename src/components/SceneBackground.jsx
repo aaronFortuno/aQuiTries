@@ -1,11 +1,11 @@
 import { useState, useEffect, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import '../styles/background.css';
 
 export default function SceneBackground({ images, interval = 5000 }) {
   const [activeIndex, setActiveIndex] = useState(0);
   const timerRef = useRef(null);
 
-  // Single image mode — no rotation
   const isSingle = images.length <= 1;
 
   useEffect(() => {
@@ -16,7 +16,7 @@ export default function SceneBackground({ images, interval = 5000 }) {
     return () => clearInterval(timerRef.current);
   }, [images, interval, isSingle]);
 
-  return (
+  return createPortal(
     <div className="scene-bg" aria-hidden="true">
       {images.map((src, i) => (
         <div
@@ -26,6 +26,7 @@ export default function SceneBackground({ images, interval = 5000 }) {
         />
       ))}
       <div className="scene-bg__overlay" />
-    </div>
+    </div>,
+    document.body
   );
 }
