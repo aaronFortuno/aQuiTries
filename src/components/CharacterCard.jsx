@@ -1,5 +1,6 @@
 import { useState, useCallback } from 'react';
 import Avatar from './Avatar';
+import SkillBar from './SkillBar';
 import CharacterTooltip from './CharacterTooltip';
 import '../styles/characters.css';
 
@@ -37,7 +38,13 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
         <div className="character-card__avatar">
           <Avatar character={character} />
         </div>
+        <span className="character-card__name">{character.name}</span>
         {isSelected && <span className="character-card__badge">&#10003;</span>}
+      </div>
+      <div className="character-card__skills">
+        {Object.entries(character.skills).map(([skill, value]) => (
+          <SkillBar key={skill} label={skill} value={value} compact />
+        ))}
       </div>
       {showTooltip && (
         <CharacterTooltip

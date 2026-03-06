@@ -1,7 +1,6 @@
 /* ===== Scenario Screen ===== */
 .scenario {
-  max-width: 1100px;
-  margin: 0 auto;
+  width: 100%;
   padding: 1.5rem 1rem 3rem;
 }
 
@@ -78,25 +77,35 @@
   transform: scale(1.2);
 }
 
-/* Character Grid */
+/* Character Grid — Horizontal gallery */
 .scenario__grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-  gap: 0.6rem;
+  display: flex;
+  overflow-x: auto;
+  gap: 0.5rem;
+  padding-bottom: 0.5rem;
   margin-bottom: 2rem;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
 }
 
-@media (min-width: 768px) {
-  .scenario__grid {
-    grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
-    gap: 0.8rem;
-  }
+/* Styled scrollbar */
+.scenario__grid::-webkit-scrollbar {
+  height: 6px;
 }
 
-@media (min-width: 1024px) {
-  .scenario__grid {
-    grid-template-columns: repeat(7, 1fr);
-  }
+.scenario__grid::-webkit-scrollbar-track {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+.scenario__grid::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+  border-radius: 3px;
+}
+
+.scenario__grid {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-accent) var(--color-border);
 }
 
 /* Actions */
