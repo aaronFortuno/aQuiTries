@@ -122,6 +122,7 @@ const ca = {
     endSessionGuided: 'Finalitzar sessió',
     noStudents: 'Esperant alumnes...',
     selectScenarioFirst: 'Tria un escenari per començar',
+    randomScenario: 'Escenari aleatori',
     roomExpiryWarning: 'Les sales es destrueixen automàticament 8 hores després de crear-se. Assegura\'t d\'acabar la dinàmica el mateix dia.',
 
     // Teacher round

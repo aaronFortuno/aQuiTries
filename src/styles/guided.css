@@ -58,8 +58,15 @@
   margin-bottom: 0.5rem;
 }
 
+.guided-lobby__scenario-row {
+  display: flex;
+  gap: 0.5rem;
+  align-items: stretch;
+}
+
 .guided-lobby__scenario-select select {
-  width: 100%;
+  flex: 1;
+  min-width: 0;
   padding: 0.75rem 1rem;
   font-size: 1rem;
   border-radius: var(--radius-sm);
@@ -67,6 +74,22 @@
   background: var(--color-bg-card);
   color: var(--color-text);
   cursor: pointer;
+}
+
+.guided-lobby__random-btn {
+  padding: 0.75rem 1rem;
+  font-size: 1.3rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-bg-card);
+  cursor: pointer;
+  transition: background var(--transition), transform var(--transition);
+  line-height: 1;
+}
+
+.guided-lobby__random-btn:hover {
+  background: rgba(52, 152, 219, 0.1);
+  transform: scale(1.1);
 }
 
 .guided-lobby__expiry-warning {

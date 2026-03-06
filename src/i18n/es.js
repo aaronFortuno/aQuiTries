@@ -122,6 +122,7 @@ const es = {
     endSessionGuided: 'Finalizar sesión',
     noStudents: 'Esperando alumnos...',
     selectScenarioFirst: 'Elige un escenario para empezar',
+    randomScenario: 'Escenario aleatorio',
     roomExpiryWarning: 'Las salas se destruyen automáticamente 8 horas después de crearse. Asegúrate de acabar la dinámica el mismo día.',
 
     // Teacher round

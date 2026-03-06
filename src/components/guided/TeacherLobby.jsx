@@ -15,6 +15,11 @@ export default function TeacherLobby({
 
   const canStart = playerCount > 0 && selectedScenarioId;
 
+  const handleRandomScenario = () => {
+    const idx = Math.floor(Math.random() * scenarios.length);
+    setSelectedScenarioId(scenarios[idx].id);
+  };
+
   const handleStart = () => {
     if (canStart) {
       onStartRound(selectedScenarioId);
@@ -37,18 +42,27 @@ export default function TeacherLobby({
 
         <div className="guided-lobby__scenario-select">
           <label htmlFor="scenario-select">{t('ui.selectScenario')}</label>
-          <select
-            id="scenario-select"
-            value={selectedScenarioId}
-            onChange={(e) => setSelectedScenarioId(e.target.value)}
-          >
-            <option value="">{t('ui.selectScenarioFirst')}</option>
-            {scenarios.map((s) => (
-              <option key={s.id} value={s.id}>
-                {s.title} ({s.category})
-              </option>
-            ))}
-          </select>
+          <div className="guided-lobby__scenario-row">
+            <select
+              id="scenario-select"
+              value={selectedScenarioId}
+              onChange={(e) => setSelectedScenarioId(e.target.value)}
+            >
+              <option value="">{t('ui.selectScenarioFirst')}</option>
+              {scenarios.map((s) => (
+                <option key={s.id} value={s.id}>
+                  {s.title} ({s.category})
+                </option>
+              ))}
+            </select>
+            <button
+              className="guided-lobby__random-btn"
+              onClick={handleRandomScenario}
+              title={t('ui.randomScenario')}
+            >
+              🎲
+            </button>
+          </div>
         </div>
 
         <p className="guided-lobby__expiry-warning">{t('ui.roomExpiryWarning')}</p>
