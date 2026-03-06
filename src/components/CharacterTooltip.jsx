@@ -1,17 +1,20 @@
 import SkillBar from './SkillBar';
+import { useTranslation } from '../i18n';
 import '../styles/characters.css';
 
 export default function CharacterTooltip({ character, onClose }) {
+  const { t } = useTranslation();
+
   return (
     <div className="tooltip" onClick={(e) => e.stopPropagation()}>
-      <button className="tooltip__close" onClick={onClose} aria-label="Tancar">
+      <button className="tooltip__close" onClick={onClose} aria-label={t('ui.close')}>
         &times;
       </button>
       <h3 className="tooltip__name">{character.name}</h3>
       <div className="tooltip__details">
-        <span>{character.age} anys</span>
-        <span>{character.height} cm</span>
-        <span>{character.weight} kg</span>
+        <span>{character.age} {t('ui.years')}</span>
+        <span>{character.height} {t('ui.cm')}</span>
+        <span>{character.weight} {t('ui.kg')}</span>
       </div>
       <p className="tooltip__description">{character.description}</p>
       <div className="tooltip__traits">

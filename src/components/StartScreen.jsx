@@ -1,24 +1,22 @@
+import { useTranslation } from '../i18n';
 import '../styles/global.css';
 
 export default function StartScreen({ onStart }) {
+  const { t } = useTranslation();
+
   return (
     <div className="start-screen">
       <div className="start-screen__content">
-        <h1 className="start-screen__title">A qui tries?</h1>
+        <h1 className="start-screen__title">{t('ui.startTitle')}</h1>
         <p className="start-screen__subtitle">
-          Un joc per pensar sobre com triem les persones
+          {t('ui.startSubtitle')}
         </p>
         <div className="start-screen__description">
-          <p>
-            Se't presentaran diferents situacions on hauràs de triar persones
-            per fer una tasca concreta.
-          </p>
-          <p>
-            Fixa't bé en les habilitats de cada persona abans de decidir!
-          </p>
+          <p>{t('ui.startDescription1')}</p>
+          <p>{t('ui.startDescription2')}</p>
         </div>
         <button className="start-screen__button" onClick={onStart}>
-          Començar
+          {t('ui.startButton')}
         </button>
       </div>
     </div>

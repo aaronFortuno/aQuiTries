@@ -2,7 +2,16 @@ import { useState } from 'react';
 import CharacterCard from './CharacterCard';
 import SelectionCounter from './SelectionCounter';
 import ReflectionModal from './ReflectionModal';
+import { useTranslation } from '../i18n';
 import '../styles/scenario.css';
+
+const SKILL_KEYS = [
+  { shortKey: 'F', i18nKey: 'skills.forca' },
+  { shortKey: 'V', i18nKey: 'skills.velocitat' },
+  { shortKey: 'R', i18nKey: 'skills.resistencia' },
+  { shortKey: 'P', i18nKey: 'skills.precisio' },
+  { shortKey: 'TE', i18nKey: 'skills.treballEnEquip' },
+];
 
 export default function ScenarioScreen({
   scenario,
@@ -15,6 +24,7 @@ export default function ScenarioScreen({
   totalScenarios,
 }) {
   const [showReflection, setShowReflection] = useState(false);
+  const { t } = useTranslation();
   const selectionComplete = currentSelection.length === scenario.toSelect;
 
   const handleConfirm = () => {
@@ -35,7 +45,7 @@ export default function ScenarioScreen({
     <div className="scenario">
       <header className="scenario__header">
         <span className="scenario__progress">
-          Escenari {scenarioNumber} de {totalScenarios}
+          {t('ui.scenarioProgress', { current: scenarioNumber, total: totalScenarios })}
         </span>
         <h2 className="scenario__title">{scenario.title}</h2>
         <p className="scenario__context">{scenario.context}</p>
@@ -48,16 +58,6 @@ export default function ScenarioScreen({
       />
 
       <div className="scenario__grid">
-        <div className="skills-legend">
-          <div className="skills-legend__spacer" />
-          <div className="skills-legend__labels">
-            <span className="skills-legend__label">Força</span>
-            <span className="skills-legend__label">Velocitat</span>
-            <span className="skills-legend__label">Resistència</span>
-            <span className="skills-legend__label">Precisió</span>
-            <span className="skills-legend__label">Treball en equip</span>
-          </div>
-        </div>
         {scenario.characters.map(character => (
           <CharacterCard
             key={character.id}
@@ -69,13 +69,21 @@ export default function ScenarioScreen({
         ))}
       </div>
 
+      <div className="skills-legend">
+        {SKILL_KEYS.map(({ shortKey, i18nKey }) => (
+          <span key={shortKey} className="skills-legend__item">
+            {shortKey}: {t(i18nKey)}
+          </span>
+        ))}
+      </div>
+
       <div className="scenario__actions">
         <button
           className="scenario__confirm-btn"
           onClick={handleConfirm}
           disabled={!selectionComplete}
         >
-          Confirmar tria
+          {t('ui.confirmButton')}
         </button>
       </div>
 

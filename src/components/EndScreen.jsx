@@ -1,6 +1,9 @@
+import { useTranslation } from '../i18n';
 import '../styles/global.css';
 
 export default function EndScreen({ selections, onRestart }) {
+  const { t } = useTranslation();
+
   const totalMale = selections.reduce(
     (sum, s) => sum + s.selected.filter(c => c.sex === 'home').length,
     0
@@ -14,20 +17,20 @@ export default function EndScreen({ selections, onRestart }) {
   return (
     <div className="end-screen">
       <div className="end-screen__content">
-        <h1 className="end-screen__title">Resum de la sessió</h1>
+        <h1 className="end-screen__title">{t('ui.summaryTitle')}</h1>
 
         <div className="end-screen__stats">
           <div className="end-screen__stat">
             <span className="end-screen__stat-number">{totalSelected}</span>
-            <span className="end-screen__stat-label">persones triades</span>
+            <span className="end-screen__stat-label">{t('ui.peopleSelected')}</span>
           </div>
           <div className="end-screen__stat">
             <span className="end-screen__stat-number">{totalMale}</span>
-            <span className="end-screen__stat-label">homes</span>
+            <span className="end-screen__stat-label">{t('ui.men')}</span>
           </div>
           <div className="end-screen__stat">
             <span className="end-screen__stat-number">{totalFemale}</span>
-            <span className="end-screen__stat-label">dones</span>
+            <span className="end-screen__stat-label">{t('ui.women')}</span>
           </div>
         </div>
 
@@ -46,8 +49,8 @@ export default function EndScreen({ selections, onRestart }) {
           </div>
         </div>
         <div className="end-screen__bar-legend">
-          <span>Homes</span>
-          <span>Dones</span>
+          <span>{t('ui.menLabel')}</span>
+          <span>{t('ui.womenLabel')}</span>
         </div>
 
         <div className="end-screen__scenarios">
@@ -70,14 +73,11 @@ export default function EndScreen({ selections, onRestart }) {
         </div>
 
         <div className="end-screen__message">
-          <p>
-            Recordeu: les habilitats de les persones no depenen del seu gènere.
-            El que importa és el que saben fer, no qui són.
-          </p>
+          <p>{t('ui.endMessage')}</p>
         </div>
 
         <button className="end-screen__button" onClick={onRestart}>
-          Tornar a començar
+          {t('ui.restart')}
         </button>
       </div>
     </div>

@@ -78,6 +78,18 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
   padding: 0 0.15rem;
+  transition: all 0.25s ease;
+}
+
+.character-card:hover .character-card__desc {
+  display: block;
+  -webkit-line-clamp: unset;
+  overflow: visible;
+  background: var(--color-bg-card, #fff);
+  border-radius: var(--radius-sm, 4px);
+  padding: 0.25rem;
+  position: relative;
+  z-index: 5;
 }
 
 .character-card__skills {
@@ -86,43 +98,6 @@
   gap: 0.2rem;
   width: 100%;
   padding: 0.3rem 0.25rem 0;
-}
-
-/* ===== Skills Legend (first column) ===== */
-.skills-legend {
-  flex-shrink: 0;
-  width: 90px;
-  display: flex;
-  flex-direction: column;
-  scroll-snap-align: start;
-  position: sticky;
-  left: 0;
-  z-index: 10;
-  background: var(--color-bg);
-}
-
-.skills-legend__spacer {
-  /* Matches avatar + name + desc height so labels align with skill bars */
-  flex: 1;
-}
-
-.skills-legend__labels {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
-  padding: 0.3rem 0.25rem 0;
-}
-
-.skills-legend__label {
-  font-size: 0.6rem;
-  font-weight: 600;
-  color: var(--color-text-light);
-  text-transform: capitalize;
-  /* Match compact skill-bar height (5px track + vertical padding from gap) */
-  height: 5px;
-  display: flex;
-  align-items: center;
-  line-height: 1;
 }
 
 .character-card__badge {
@@ -305,10 +280,6 @@
     width: 100px;
     height: 150px;
   }
-
-  .skills-legend {
-    width: 80px;
-  }
 }
 
 @media (max-width: 600px) {
@@ -331,14 +302,6 @@
   }
 
   .skill-bar--compact .skill-bar__label {
-    font-size: 0.5rem;
-  }
-
-  .skills-legend {
-    width: 70px;
-  }
-
-  .skills-legend__label {
     font-size: 0.5rem;
   }
 

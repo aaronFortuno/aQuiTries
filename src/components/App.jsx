@@ -2,9 +2,23 @@ import { useState } from 'react';
 import StartScreen from './StartScreen';
 import ScenarioScreen from './ScenarioScreen';
 import EndScreen from './EndScreen';
+import { I18nProvider, useTranslation } from '../i18n';
 import { useScenarioManager } from '../hooks/useScenarioManager';
 
-export default function App() {
+function LanguageToggle() {
+  const { locale, setLocale } = useTranslation();
+
+  return (
+    <button
+      className="lang-toggle"
+      onClick={() => setLocale(locale === 'ca' ? 'es' : 'ca')}
+    >
+      {locale === 'ca' ? 'ES' : 'CA'}
+    </button>
+  );
+}
+
+function AppContent() {
   const [screen, setScreen] = useState('start');
   const {
     currentScenario,
@@ -34,12 +48,12 @@ export default function App() {
     setScreen('start');
   };
 
-  if (screen === 'start') {
-    return <StartScreen onStart={handleStart} />;
-  }
+  let content = null;
 
-  if (screen === 'scenario' && currentScenario) {
-    return (
+  if (screen === 'start') {
+    content = <StartScreen onStart={handleStart} />;
+  } else if (screen === 'scenario' && currentScenario) {
+    content = (
       <ScenarioScreen
         scenario={currentScenario}
         currentSelection={currentSelection}
@@ -51,11 +65,22 @@ export default function App() {
         totalScenarios={totalScenarios}
       />
     );
+  } else if (screen === 'end') {
+    content = <EndScreen selections={selections} onRestart={handleRestart} />;
   }
 
-  if (screen === 'end') {
-    return <EndScreen selections={selections} onRestart={handleRestart} />;
-  }
+  return (
+    <>
+      <LanguageToggle />
+      {content}
+    </>
+  );
+}
 
-  return null;
+export default function App() {
+  return (
+    <I18nProvider>
+      <AppContent />
+    </I18nProvider>
+  );
 }
