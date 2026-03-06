@@ -1,0 +1,239 @@
+4. Fichas de personaje (12 professionals)
+Cada ficha tiene:
+
+ID: identificador breve para la app.
+Rol: cargo o función profesional.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 2 persones i assignar-les a dues tasques:
+  - Reducció física (1 persona): entrar al local i reduir l'agressor. Força, mida, entrenament de combat.
+  - Negociació (1 persona): negociar des de fora per guanyar temps. Psicologia, calma, comunicació.
+
+---
+
+4.1. Gerard Molina – Agent del GEI (Grup Especial d'Intervenció)
+ID: gerard_gei
+Rol: Agent d'elit dels Mossos d'Esquadra, unitat d'intervenció especial.
+
+Descripció de personatge
+
+En Gerard té 34 anys i és agent del GEI, la unitat d'intervenció especial dels Mossos d'Esquadra. Està entrenat específicament per a situacions d'alt risc: segrestos, atrincheraments, alliberament d'ostatges. Té una complexió gran i molt forta, amb entrenament avançat en combat cos a cos, tècniques de reducció i ús d'armes.
+És fred, calculador i extremadament disciplinat. En una situació de reducció física, és el professional més preparat del grup. La seva debilitat: no està entrenat per negociar, i la seva presència física pot escalar la tensió si se'l veu des de fora.
+
+Bloque de prompt específico
+
+Adult man (34), large and very strong build, broad shoulders, thick neck, imposing but controlled posture. Short dark hair in a military buzz cut, clean-shaven, cold focused expression showing intense concentration.
+
+Wearing full black tactical gear: a black tactical vest with pouches over a black long-sleeve compression shirt, black tactical trousers with knee pads, heavy black combat boots. Black tactical gloves. A small police badge visible on his chest, a radio earpiece in one ear.
+
+Standing in a ready tactical stance, hands at his sides, weight balanced. Color palette: all black tactical gear, dark skin tones from training outdoors, minimal silver/metal accents on equipment.
+
+---
+
+4.2. Laura Prats – Negociadora policial
+ID: laura_negociadora
+Rol: Negociadora de crisi dels Mossos d'Esquadra.
+
+Descripció de personatge
+
+La Laura té 42 anys i és negociadora de crisi professional. Ha participat en més de trenta situacions d'atrincherament i segrest. Té una formació dual en psicologia i criminologia, i porta anys entrenant-se específicament en tècniques de negociació en crisi: escolta activa, desescalada, gestió emocional.
+Complexió mitjana, res d'imposant físicament. Però la seva veu, la seva calma i la seva capacitat d'empatitzar fins i tot amb persones violentes són armes molt més poderoses que qualsevol força bruta. Per a la negociació, és la professional més qualificada.
+
+Bloque de prompt específico
+
+Adult woman (42), average build, composed and deliberately calm posture, steady warm but professional expression. Brown hair at shoulder length, neatly kept, no flashy accessories. Slight lines around her eyes from years of intense focused work.
+
+Wearing a dark navy police windbreaker jacket with a small Mossos d'Esquadra emblem, a dark blouse underneath, dark trousers, and practical black shoes. A radio handset in one hand, a small notepad in the other. Police ID badge on a lanyard around her neck.
+
+Standing slightly turned, as if listening carefully. Color palette: dark navy, muted professional tones, minimal police insignia accents.
+
+---
+
+4.3. Àlex Domènech – Mosso de patrulla
+ID: alex_patrulla
+Rol: Agent de patrulla dels Mossos d'Esquadra.
+
+Descripció de personatge
+
+L'Àlex té 29 anys i és mosso de patrulla. Ha sigut la primera unitat en arribar a l'escena. Té una complexió atlètica mitjana-forta, amb entrenament bàsic en defensa personal i reducció, però no l'entrenament especialitzat del GEI.
+És valent, decidit i té experiència en situacions de carrer, però un enfrontament directe amb un agressor armat és un nivell de risc que supera la seva formació habitual. Podria fer-ho, però amb més risc que un especialista. És impulsiu i de vegades actua abans de pensar.
+
+Bloque de prompt específico
+
+Young adult man (29), athletic medium-strong build, upright alert posture, determined but slightly tense expression. Short brown hair, clean-shaven, youthful face with serious eyes.
+
+Wearing the standard Mossos d'Esquadra patrol uniform: dark navy blue polo shirt with police emblem, dark navy cargo trousers, black duty belt with handcuffs, radio, and utility pouches, black patrol boots. A high-visibility reflective vest over the polo.
+
+One hand resting on his duty belt, the other at his side, on-alert posture. Color palette: standard Mossos dark navy blue, black belt and boots, reflective yellow vest accents.
+
+---
+
+4.4. Mònica Valls – Psicòloga clínica d'emergències
+ID: monica_psicologa
+Rol: Psicòloga especialitzada en crisi i emergències.
+
+Descripció de personatge
+
+La Mònica té 38 anys i és psicòloga clínica especialitzada en situacions d'emergència. Treballa habitualment amb víctimes d'accidents, catàstrofes i violència. Sap com funciona la ment d'una persona en crisi: què la pot calmar, què la pot fer escalar, i com generar confiança en segons.
+Complexió petita i prima, zero capacitat per a una reducció física. Però la seva comprensió profunda del comportament humà sota estrès extrem la converteix en una negociadora natural, tot i no tenir formació policial específica. La diferència respecte a Laura: Mònica entén la ment de l'agressor; Laura entén la mecànica de la negociació policial.
+
+Bloque de prompt específico
+
+Adult woman (38), small and slight build, calm composed posture that radiates quiet confidence, gentle but intensely focused expression. Dark hair in a practical short bob, minimal jewelry, warm brown eyes.
+
+Wearing a simple dark gray blazer over a white blouse, dark trousers, and flat black professional shoes. A small shoulder bag with emergency psychology documentation. A lanyard with a crisis intervention ID badge.
+
+Hands loosely at her sides, open body language, as if ready to listen. Color palette: professional dark gray, white, muted clinical tones, understated and non-threatening.
+
+---
+
+4.5. Ivan Sokolov – Mosso, ex-militar
+ID: ivan_exmilitar
+Rol: Agent dels Mossos, antic militar professional.
+
+Descripció de personatge
+
+L'Ivan té 37 anys. Abans de ser mosso va ser militar professional durant vuit anys, incloent missions a l'exterior. Té una complexió molt gran i extremadament forta —és probablement la persona més físicament imponent del grup. El seu entrenament en combat cos a cos és extensiu i provat en situacions reals.
+Com a agent de policia és competent, però la seva formació militar el predisposa a reaccions més directes i contundents. Pot ser exactament el que cal per reduir algú armat, però també pot escalar la situació si no se'l coordina bé. No és home de paraules.
+
+Bloque de prompt específico
+
+Adult man (37), very large and extremely muscular build, imposing height, squared jaw, rock-solid posture. Very short blond hair almost shaved, pale blue eyes, stern expressionless face showing military discipline.
+
+Wearing a dark navy Mossos polo shirt stretched tight over his massive frame, dark tactical trousers, heavy black boots. A duty belt with standard equipment. His forearms are thick and visible where sleeves strain around his biceps.
+
+Standing with arms crossed over his broad chest, feet apart, immovable presence. Color palette: dark navy, black, pale skin with military bearing, severe austere tones.
+
+---
+
+4.6. Carla Reguant – Sergent de Mossos
+ID: carla_sergent
+Rol: Sergent dels Mossos d'Esquadra, cap d'unitat al terreny.
+
+Descripció de personatge
+
+La Carla té 45 anys i és sergent dels Mossos. Porta vint anys al cos, amb experiència en tot tipus de situacions. Té una complexió mitjana-forta, manté bona forma i encara supera les proves físiques amb nota. A més, la seva experiència li dona una capacitat de lectura de situacions que pocs tenen.
+És el perfil "comodí": podria fer una reducció física (no és la més forta, però és competent i entrenada) i podria negociar (no és especialista, però té molta experiència). La pregunta per al jugador: val més una especialista en una tasca, o algú decent en ambdues?
+
+Bloque de prompt específico
+
+Adult woman (45), medium-strong build, confident authoritative posture showing years of command experience, calm assessing expression. Dark hair with a few gray streaks pulled back in a tight professional bun, strong jawline, experienced eyes.
+
+Wearing the Mossos d'Esquadra sergeant uniform: dark navy shirt with sergeant stripes on the sleeves, dark navy trousers, polished black boots. A duty belt with radio, handcuffs, and equipment. A small commander's notebook in her breast pocket.
+
+Standing with hands behind her back, observing and evaluating the scene. Color palette: dark navy with sergeant stripe accents, polished professional police tones, authoritative bearing.
+
+---
+
+4.7. Dani Herrera – Agent jove, expert en arts marcials
+ID: dani_arts_marcials
+Rol: Agent dels Mossos, cinturó negre de judo i jiu-jitsu.
+
+Descripció de personatge
+
+En Dani té 25 anys i és un dels agents més joves del cos. El que el fa especial: és cinturó negre de judo i porpra de jiu-jitsu brasiler, amb anys de competició. Coneix tècniques de reducció i immobilització que molts agents més veterans no dominen.
+Complexió mitjana — no és gran ni especialment musculós, cosa que podria fer que el jugador el descartés per a la reducció. Però en combat cos a cos real, la tècnica sovint supera la força bruta. El dilema: fiar-se de les dades (entrenament) o de la impressió visual (mida)?
+
+Bloque de prompt específico
+
+Young adult man (25), medium lean build with wiry athletic frame, light on his feet stance, focused intense expression. Short black hair, clean-shaven, youthful but serious face. Olive skin.
+
+Wearing a fitted dark navy Mossos polo shirt, dark tactical trousers, lightweight black tactical boots. Duty belt with minimal equipment. His build is compact and agile rather than bulky — a martial artist's physique.
+
+Standing in a slightly balanced stance, weight centered, hands relaxed but ready at his sides. Color palette: dark navy, black, olive skin tones, compact efficient appearance.
+
+---
+
+4.8. Núria Soldevila – Mediadora comunitària
+ID: nuria_mediadora
+Rol: Mediadora de conflictes comunitaris de l'Ajuntament.
+
+Descripció de personatge
+
+La Núria té 50 anys i és mediadora professional de l'Ajuntament. Porta anys resolent conflictes veïnals, familiars i interculturals. No és policia ni psicòloga clínica, però la seva habilitat per escoltar, rebaixar tensions i trobar punts de connexió amb persones enfadades és excepcional.
+Complexió mitjana, sense cap capacitat física rellevant. El seu valor per a la negociació és real però diferent: on Laura (negociadora policial) segueix protocols, la Núria treballa des de l'empatia pura i la intuïció humana. El risc: no ha negociat mai amb algú armat.
+
+Bloque de prompt específico
+
+Adult woman (50), average build, relaxed approachable posture, warm empathetic expression with a slight concerned frown. Shoulder-length graying brown hair, glasses with thin frames, kind face with laugh lines.
+
+Wearing a practical burgundy wool jacket over a cream blouse, dark trousers, and comfortable flat shoes. A small messenger bag with mediation documents, a notepad visible in her jacket pocket. A city council ID badge on a lanyard.
+
+Standing with open body language, hands slightly raised and apart as if in mid-conversation. Color palette: warm burgundy, cream, dark trousers, approachable professional tones.
+
+---
+
+4.9. Omar Benali – Mosso, unitat canina
+ID: omar_canina
+Rol: Agent de la unitat canina dels Mossos d'Esquadra.
+
+Descripció de personatge
+
+L'Omar té 33 anys i és agent de la unitat canina. Té una complexió forta i atlètica — cal estar en bona forma per treballar amb gossos de servei. A més del seu entrenament policial estàndard, la feina amb la unitat canina li ha donat una paciència i una capacitat de lectura del llenguatge corporal (d'animals i persones) poc habitual.
+Per a la reducció física té la força i l'entrenament bàsic, però no és un especialista del GEI. Per a la negociació, la seva paciència i capacitat de lectura no verbal podrien ser un actiu inesperat, tot i no tenir formació específica.
+
+Bloque de prompt específico
+
+Adult man (33), strong athletic build, solid steady posture, patient calm expression. Short black hair, neatly trimmed dark beard, dark brown skin, observant attentive eyes.
+
+Wearing the Mossos d'Esquadra uniform: dark navy polo shirt, dark tactical trousers with reinforced knees (from working with dogs), sturdy black boots. A duty belt with standard equipment plus a dog lead clip and treat pouch. No dog present.
+
+Standing with relaxed but alert posture, hands loosely at his belt. Color palette: dark navy, black, dark brown skin tones, standard police unit colors.
+
+---
+
+4.10. Elena Vidal – Psiquiatra forense
+ID: elena_psiquiatra
+Rol: Psiquiatra forense, consultora dels Mossos.
+
+Descripció de personatge
+
+L'Elena té 47 anys i és psiquiatra forense. Treballa com a consultora pels Mossos en casos que impliquen persones amb trastorns mentals greus o comportaments violents. Entén com funciona la ment d'algú en un brot psicòtic, sota l'efecte de substàncies, o en un estat de desesperació extrema.
+Complexió petita, cap utilitat per a la reducció. Però per a la negociació ofereix una perspectiva única: pot intentar diagnosticar l'estat mental de l'agressor en temps real i adaptar l'estratègia de comunicació en conseqüència. El risc: la seva comunicació és més clínica que empàtica.
+
+Bloque de prompt específico
+
+Adult woman (47), small petite build, very composed cerebral posture, analytical penetrating expression. Dark hair streaked with gray pulled back tightly, sharp features, glasses with dark frames, intense observant eyes.
+
+Wearing a tailored dark charcoal blazer over a dark turtleneck, slim dark trousers, and black low-heeled shoes. A small leather briefcase or folder with case files. A forensic services ID badge clipped to her blazer pocket.
+
+Standing with one hand on her chin, studying the scene with clinical detachment. Color palette: dark charcoal, black turtleneck, severe intellectual professional tones, minimal color.
+
+---
+
+4.11. Pol Garcia – Bomber del parc comarcal
+ID: pol_bomber
+Rol: Bomber professional, present per protocol d'emergència.
+
+Descripció de personatge
+
+En Pol té 31 anys i és bomber professional. Està present a l'escena perquè el protocol d'emergències activa bombers en situacions amb ostatges (per si cal accés tècnic a l'edifici, rescats, etc.). Té una complexió molt forta i gran, acostumada a l'esforç físic extrem.
+No té cap formació policial, ni en combat ni en negociació. Però la seva força bruta és de les més altes del grup. La pregunta: val la pena enviar algú molt fort però sense entrenament de combat, o és millor algú menys fort però amb tècnica?
+
+Bloque de prompt específico
+
+Adult man (31), very strong and tall build with broad chest and thick arms, sturdy confident posture. Short light brown hair, friendly open face with a strong jaw, slightly out-of-context expression (a firefighter at a police scene).
+
+Wearing a dark red firefighter technical jacket (no helmet, just the jacket), dark work trousers, and heavy black fire boots. A firefighter radio clipped to his chest, reflective strips on his jacket sleeves.
+
+Standing with arms crossed, looking around the scene, not quite sure of his role here. Color palette: dark firefighter red, black, reflective silver strips, emergency-services tones contrasting with the police presence.
+
+---
+
+4.12. Sònia Martínez – Inspectora de Mossos
+ID: sonia_inspectora
+Rol: Inspectora dels Mossos d'Esquadra, comandament superior present.
+
+Descripció de personatge
+
+La Sònia té 52 anys i és inspectora, el rang més alt present a l'escena. Porta trenta anys al cos i ha gestionat centenars d'operacions. Té una complexió mitjana, ja no està en la seva millor forma física, però la seva experiència, autoritat i capacitat de presa de decisions sota pressió són enormes.
+Per a la reducció física no serveix. Per a la negociació directa podria funcionar — té experiència i calma —, però el seu valor real és en el comandament: decidir qui va on, quan actuar, quan esperar. El dilema: l'assignes a negociar (desaprofitant el seu rol de coordinació) o no la tries i perds el seu lideratge?
+
+Bloque de prompt específico
+
+Adult woman (52), average build showing desk-work years but with authoritative bearing, commanding composed posture. Dark hair with prominent silver streaks, short practical cut, sharp experienced eyes, firm decisive expression.
+
+Wearing a formal dark navy Mossos inspector's jacket with rank insignia on the shoulders, a white shirt underneath, dark trousers, and polished black shoes. A mobile phone and a tactical radio in each hand. A police ID badge prominent on her jacket.
+
+Standing with squared shoulders, surveying the scene with the weight of command. Color palette: formal dark navy, white shirt, polished black, inspector rank insignia gold accents, senior authority tones.

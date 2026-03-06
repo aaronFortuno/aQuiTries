@@ -99,3 +99,29 @@ Composition: wide horizontal format (landscape orientation, roughly 16:9), suita
 
 Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
 ```
+
+---
+
+## A4. La persona armada amb un ganivet — Situació d'ostatges en un local
+
+```text
+Pixel art scene of a tense hostage situation on a small urban street in Catalonia, wide horizontal view. Night or late evening atmosphere.
+
+A narrow street in a small Catalan town. In the center, a small commercial building (a bar or small shop) with its metal shutter half-lowered and the door slightly ajar. Warm yellow light spills out from inside through the gap under the shutter, creating a tense contrast with the dark street. The shop sign above is partially lit by a flickering neon light.
+
+Outside the building, a police perimeter: blue and red police car lights casting rotating colored reflections on the wet pavement and nearby walls. A police car parked at an angle blocking the street, its doors open. Yellow police tape stretched across the street in front of the scene. A megaphone and a tactical shield left leaning against the police car, suggesting the team is preparing.
+
+The street is empty and eerily quiet. Other shops along the street have their shutters fully closed. A few streetlights cast pools of cold white light. Wet pavement from recent rain reflects the colored lights. A narrow alley visible on one side of the target building.
+
+No humans, no characters, no people visible anywhere in the scene. No animals. Empty street only.
+
+Color palette: dark night blues and blacks, warm yellow light from inside the shop, rotating blue and red police light reflections, cold white streetlights, wet pavement reflections. Tense, cinematic urban tones.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: dramatic contrast between the dark street, the warm light from inside the building, and the rotating blue-red police reflections. The scene should feel tense and urgent through lighting alone.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the foreground where character sprites could be placed on top. The half-open shop should be the focal point in the center-back. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```
