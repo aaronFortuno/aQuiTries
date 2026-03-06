@@ -5,16 +5,7 @@ import CharacterTooltip from './CharacterTooltip';
 import '../styles/characters.css';
 
 export default function CharacterCard({ character, isSelected, onToggle, disabled }) {
-  const [showTooltip, setShowTooltip] = useState(false);
-
-  const handleClick = useCallback(() => {
-    if (showTooltip) {
-      onToggle(character.id);
-      setShowTooltip(false);
-    } else {
-      setShowTooltip(true);
-    }
-  }, [showTooltip, character.id, onToggle]);
+  const [showPreview, setShowPreview] = useState(false);
 
   const handleDesktopClick = useCallback((e) => {
     if ('ontouchstart' in window) return;
@@ -23,8 +14,13 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
 
   const handleTouchEnd = useCallback((e) => {
     e.preventDefault();
-    handleClick();
-  }, [handleClick]);
+    if (showPreview) {
+      onToggle(character.id);
+      setShowPreview(false);
+    } else {
+      setShowPreview(true);
+    }
+  }, [showPreview, character.id, onToggle]);
 
   return (
     <div className={`character-card ${isSelected ? 'character-card--selected' : ''} ${disabled ? 'character-card--disabled' : ''}`}>
@@ -32,8 +28,8 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
         className="character-card__body"
         onClick={handleDesktopClick}
         onTouchEnd={handleTouchEnd}
-        onMouseEnter={() => !('ontouchstart' in window) && setShowTooltip(true)}
-        onMouseLeave={() => !('ontouchstart' in window) && setShowTooltip(false)}
+        onMouseEnter={() => !('ontouchstart' in window) && setShowPreview(true)}
+        onMouseLeave={() => !('ontouchstart' in window) && setShowPreview(false)}
       >
         <div className="character-card__avatar">
           <Avatar character={character} />
@@ -47,10 +43,10 @@ export default function CharacterCard({ character, isSelected, onToggle, disable
           <SkillBar key={skill} label={skill} value={value} compact />
         ))}
       </div>
-      {showTooltip && (
+      {showPreview && (
         <CharacterTooltip
           character={character}
-          onClose={() => setShowTooltip(false)}
+          onClose={() => setShowPreview(false)}
         />
       )}
     </div>

@@ -1,14 +1,18 @@
 import { useState, useMemo, useCallback } from 'react';
-import scenariosData from '../data/scenarios.json';
+import scenariosCa from '../data/scenarios.json';
+import scenariosEs from '../data/scenarios_es.json';
 import { shuffle } from '../utils/shuffle';
 
-export function useScenarioManager() {
+const scenariosByLocale = { ca: scenariosCa, es: scenariosEs };
+
+export function useScenarioManager(locale = 'ca') {
   const scenarios = useMemo(() => {
-    return scenariosData.map(scenario => ({
+    const data = scenariosByLocale[locale] || scenariosCa;
+    return data.map(scenario => ({
       ...scenario,
       characters: shuffle(scenario.characters),
     }));
-  }, []);
+  }, [locale]);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selections, setSelections] = useState([]);

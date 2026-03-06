@@ -20,6 +20,7 @@ function LanguageToggle() {
 
 function AppContent() {
   const [screen, setScreen] = useState('start');
+  const { locale } = useTranslation();
   const {
     currentScenario,
     currentIndex,
@@ -31,7 +32,7 @@ function AppContent() {
     confirmSelection,
     nextScenario,
     reset,
-  } = useScenarioManager();
+  } = useScenarioManager(locale);
 
   const handleStart = () => setScreen('scenario');
 
