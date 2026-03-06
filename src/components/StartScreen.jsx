@@ -4,6 +4,26 @@ import '../styles/global.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.3',
+    date: '2026-03-06',
+    changes: {
+      ca: [
+        'Nou escenari: "L\'obra de construcció" amb 16 personatges',
+        'Nou escenari: "La llar d\'infants" amb 17 candidats i selecció de 3',
+        'Layout compacte de la pantalla d\'escenari (tot visible sense scroll)',
+        'Context de la situació col·lapsable',
+        'Nous fons al carrusel inicial (obra de construcció, llar d\'infants)',
+      ],
+      es: [
+        'Nuevo escenario: "La obra de construcción" con 16 personajes',
+        'Nuevo escenario: "La guardería" con 17 candidatos y selección de 3',
+        'Layout compacto de la pantalla de escenario (todo visible sin scroll)',
+        'Contexto de la situación colapsable',
+        'Nuevos fondos en el carrusel inicial (obra de construcción, guardería)',
+      ],
+    },
+  },
+  {
     version: '0.2',
     date: '2026-03-06',
     changes: {
@@ -77,18 +97,24 @@ export default function StartScreen({ onStart }) {
       </button>
 
       {showVersions && (
-        <div className="start-screen__versions">
-          {VERSION_HISTORY.map(v => (
-            <div key={v.version} className="start-screen__version-entry">
-              <h3>{t('ui.version')} {v.version} <span className="start-screen__version-date">({v.date})</span></h3>
-              <ul>
-                {(v.changes[locale] || v.changes.ca).map((change, i) => (
-                  <li key={i}>{change}</li>
-                ))}
-              </ul>
-            </div>
-          ))}
-        </div>
+        <>
+          <div
+            className="start-screen__versions-backdrop"
+            onClick={() => setShowVersions(false)}
+          />
+          <div className="start-screen__versions">
+            {VERSION_HISTORY.map(v => (
+              <div key={v.version} className="start-screen__version-entry">
+                <h3>{t('ui.version')} {v.version} <span className="start-screen__version-date">({v.date})</span></h3>
+                <ul>
+                  {(v.changes[locale] || v.changes.ca).map((change, i) => (
+                    <li key={i}>{change}</li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </>
       )}
     </div>
   );

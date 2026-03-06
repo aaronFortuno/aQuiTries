@@ -1,0 +1,334 @@
+4. Fichas de personaje (17 candidats)
+Cada ficha tiene:
+
+ID: identificador breve para la app.
+Rol: formació i perfil professional.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 3 educadors/es per a un grup de nens de 2 anys.
+Requeriments: formació en educació infantil o atenció primerenca, paciència, empatia,
+capacitat de gestionar grups de nens molt petits, coneixement del desenvolupament infantil.
+
+---
+
+4.1. Marta Ribas – Educadora infantil titulada
+ID: marta_educadora
+Rol: Tècnica superior en Educació Infantil amb experiència.
+
+Descripció de personatge
+
+La Marta té 28 anys i és tècnica superior en Educació Infantil. Porta cinc anys treballant en llars d'infants, els tres últims amb grups de 1-2 anys. Coneix perfectament les rutines, les necessitats i els ritmes d'aquesta edat: canvis de bolquers, sestes, alimentació, joc simbòlic, gestió d'enrabiades.
+Té un caràcter càlid i pacient, però també ferm quan cal posar límits. Les famílies la valoren molt. És el perfil clàssic que qualsevol llar d'infants voldria contractar: jove, formada, amb experiència i vocació clara.
+
+Bloque de prompt específico
+
+Young adult woman (28), average build, warm approachable posture, kind patient expression with a natural smile. Brown hair in a practical ponytail with a small colorful hair clip, friendly round face.
+
+Wearing a comfortable soft green polo shirt (nursery uniform style), dark leggings, and clean white sneakers — practical for sitting on the floor with toddlers. A small lanyard with an ID badge around her neck, a tissue pack visible in her pocket.
+
+Hands relaxed at her sides, open welcoming posture. Color palette: soft nursery green, dark leggings, white shoes, warm approachable early-childhood tones.
+
+---
+
+4.2. Laia Torrents – Mestra d'educació infantil
+ID: laia_mestra
+Rol: Mestra amb especialitat en educació infantil (0-6).
+
+Descripció de personatge
+
+La Laia té 34 anys i és mestra d'educació infantil amb deu anys d'experiència. Ha treballat tant a llars d'infants com a P3 d'escoles públiques. Té formació universitària completa (Grau de Mestre en Educació Infantil) i un postgrau en atenció primerenca.
+És probablement la candidata amb la formació més sòlida del grup. Metòdica, organitzada i amb molta experiència programant activitats adaptades a cada edat. El seu únic "punt feble": és una mica més acadèmica que intuitiva, i de vegades les famílies la troben distant.
+
+Bloque de prompt específico
+
+Adult woman (34), average build, professional composed posture, intelligent calm expression. Dark hair in a neat low bun, minimal makeup, small stud earrings, smart attentive eyes.
+
+Wearing a smart-casual outfit for an interview: a light navy cardigan over a white scoop-neck t-shirt, dark blue jeans, and clean ballet flats. A structured tote bag with a portfolio folder visible inside. A small silver watch on her wrist.
+
+Standing with one hand holding the strap of her tote bag, poised and professional. Color palette: light navy, white, clean blue denim, polished professional-but-approachable tones.
+
+---
+
+4.3. Fàtima El Idrissi – Tècnica en educació infantil
+ID: fatima_tecnica
+Rol: Tècnica en Educació Infantil, recent titulada.
+
+Descripció de personatge
+
+La Fàtima té 26 anys, és filla de família marroquina i ha crescut al poble. Acaba d'obtenir el títol de Tècnica Superior en Educació Infantil amb excel·lents qualificacions. Ha fet pràctiques en dues llars d'infants i en ambdues l'han valorat molt positivament.
+Té un caràcter dolç i una paciència natural amb els nens. A més, és bilingüe català-àrab, cosa que pot ser un actiu en llars amb famílies d'orígens diversos. Li falta experiència laboral real (encara no ha tingut un contracte formal), però la seva formació i actitud són excel·lents.
+
+Bloque de prompt específico
+
+Young adult woman (26), slim average build, slightly nervous but warm posture (interview nerves), gentle kind expression. Dark hair covered with a simple hijab in soft dusty pink, olive skin, bright earnest eyes.
+
+Wearing a modest long-sleeve light lavender blouse, comfortable dark trousers, and clean flat shoes. A neat folder with her CV and certificates in both hands. Small silver earrings just visible.
+
+Standing with the folder held in front of her, slightly formal but friendly. Color palette: dusty pink hijab, soft lavender blouse, dark trousers, gentle warm interview tones.
+
+---
+
+4.4. Neus Carbonell – Educadora, especialitat en necessitats especials
+ID: neus_especial
+Rol: Educadora infantil amb formació en atenció a la diversitat funcional.
+
+Descripció de personatge
+
+La Neus té 40 anys i és educadora infantil amb una especialització addicional en necessitats educatives especials. Ha treballat deu anys en centres d'atenció primerenca amb nens amb trastorns del desenvolupament, autisme i discapacitats.
+Coneix molt bé les etapes del desenvolupament i sap detectar senyals d'alerta que altres educadores no veurien. El seu perfil és valuós però molt específic: en un grup ordinari de nens de 2 anys, les seves habilitats extres potser no són imprescindibles, però la seva base com a educadora és molt sòlida.
+
+Bloque de prompt específico
+
+Adult woman (40), average build, grounded confident posture, warm but observant expression — the look of someone who watches children carefully. Light brown hair at shoulder length, a few gray streaks, friendly face with gentle laugh lines.
+
+Wearing a comfortable teal long-sleeve t-shirt, dark practical trousers, and soft-soled flat shoes. A small sensory toy (a textured ball) clipped to a carabiner on her belt — a professional habit. A lanyard with multiple ID badges.
+
+Standing with hands loosely at her sides, calm and attentive. Color palette: teal, dark practical tones, soft-soled shoes, experienced-educator warmth.
+
+---
+
+4.5. Gemma Sala – Psicòloga infantil
+ID: gemma_psicologa
+Rol: Psicòloga amb especialitat en desenvolupament infantil.
+
+Descripció de personatge
+
+La Gemma té 36 anys i és psicòloga clínica especialitzada en desenvolupament infantil. Ha treballat en gabinets i equips d'assessorament, però mai directament com a educadora en una aula.
+Coneix a fons la teoria del desenvolupament, l'attachament, la regulació emocional i la detecció de trastorns. Però la gestió pràctica d'un grup de deu nens de 2 anys (canviar bolquers, donar berenar, gestionar plors simultanis) és una altra cosa. Sap molt, però ho sap des del despatx.
+
+Bloque de prompt específico
+
+Adult woman (36), slim build, professional intellectual posture, thoughtful warm expression. Dark curly hair at shoulder length, stylish rectangular glasses, a confident but non-maternal air.
+
+Wearing a structured dark gray blazer over a soft cream blouse, dark tailored trousers, and low-heeled leather shoes. A professional leather bag with a notebook and psychology reference book visible. A university alumni pin on her blazer.
+
+Standing with one hand adjusting her glasses, poised and analytical. Color palette: dark gray blazer, cream blouse, professional academic tones — slightly too formal for a nursery.
+
+---
+
+4.6. Carla Vives – Monitora de lleure
+ID: carla_monitora
+Rol: Monitora de lleure, experiència amb nens en casals i campaments.
+
+Descripció de personatge
+
+La Carla té 24 anys i és monitora de lleure titulada. Porta cinc anys fent casals d'estiu, campaments i extraescolars. Té molta experiència gestionant grups de nens, organitzant activitats i resolent conflictes.
+El problema: la seva experiència és amb nens de 6-12 anys, no amb nadons de 2 anys. Sap fer jocs, tallers i dinàmiques de grup, però no té formació específica en atenció primerenca. Un nen de 2 anys és una criatura completament diferent d'un de 8. Energia i ganes no li falten, formació sí.
+
+Bloque de prompt específico
+
+Young adult woman (24), light athletic build, energetic bubbly posture, enthusiastic bright expression. Light brown hair in two short braids, freckles, youthful open face.
+
+Wearing a colorful red leisure-center t-shirt with a camp logo, comfortable denim shorts, and worn sport sandals. A whistle on a cord around her neck, several friendship bracelets on one wrist, a small fanny pack.
+
+Standing with an animated posture, hands slightly gesturing as if mid-story. Color palette: bright red t-shirt, denim, youthful colorful accents, summer-camp energy tones.
+
+---
+
+4.7. Roser Pla – Infermera pediàtrica
+ID: roser_infermera
+Rol: Infermera especialitzada en pediatria.
+
+Descripció de personatge
+
+La Roser té 45 anys i és infermera pediàtrica. Ha treballat vint anys a l'hospital, a la planta de pediatria i a la UCI neonatal. Coneix la salut infantil a fons: alimentació, vacunes, malalties comunes, al·lèrgies, primers auxilis pediàtrics.
+No té formació pedagògica: no sap programar activitats educatives ni gestionar un grup a l'aula. Però la seva competència sanitària és un actiu enorme en una llar d'infants, on els nens emmalalteixen constantment, es fan ferides i cal vigilar al·lèrgies. El seu perfil és complementari, no central.
+
+Bloque de prompt específico
+
+Adult woman (45), average build, calm steady posture of a healthcare professional, reassuring warm expression. Brown hair with gray streaks in a short practical cut, no fuss appearance.
+
+Wearing a light blue medical-style polo shirt (not full scrubs), comfortable dark trousers, and white nursing shoes. A small penlight in her breast pocket, a digital thermometer clipped next to it. A watch with a seconds hand for taking pulses.
+
+Standing with hands clasped in front of her, composed and reliable. Color palette: medical light blue, dark trousers, white shoes, healthcare-professional calm tones.
+
+---
+
+4.8. Àngels Estrada – Auxiliar de llar d'infants
+ID: angels_auxiliar
+Rol: Auxiliar amb 25 anys d'experiència pràctica però sense titulació superior.
+
+Descripció de personatge
+
+L'Àngels té 52 anys i porta vint-i-cinc anys treballant de auxiliar en llars d'infants. No té el títol superior en educació infantil (va començar en una època on no es demanava), però la seva experiència pràctica amb centenars de nens de 0-3 anys és immensa.
+Coneix cada plor, cada gest, cada etapa. Sap canviar bolquers amb els ulls tancats, calmar un nen que no para de plorar i detectar una otitis abans que aparegui la febre. La seva limitació: no té formació teòrica actualitzada i li costa adaptar-se a noves metodologies pedagògiques.
+
+Bloque de prompt específico
+
+Older woman (52), slightly heavy maternal build, comfortable grounded posture, warm tired but kind expression — the face of someone who has cared for hundreds of children. Gray-streaked dark hair in a short practical cut, reading glasses on a cord around her neck.
+
+Wearing a comfortable patterned smock (typical nursery auxiliary uniform) over a simple dark t-shirt, elastic-waist dark trousers, and soft comfortable shoes. A tissue always ready in her smock pocket, a small plush toy peeking out of the other pocket.
+
+Standing with hands on her hips in a familiar no-fuss maternal pose. Color palette: patterned smock in muted colors, practical dark underneath, comfortable veteran-caregiver tones.
+
+---
+
+4.9. Sònia Bermúdez – Estudiant de magisteri
+ID: sonia_estudiant
+Rol: Estudiant de 3r de Grau en Mestre d'Educació Infantil.
+
+Descripció de personatge
+
+La Sònia té 21 anys i està a tercer curs del Grau de Mestre en Educació Infantil. Ha fet unes pràctiques de sis setmanes en una llar d'infants i li va agradar molt. Està plena de teoria recent i idees noves, però la seva experiència real és molt limitada.
+Té entusiasme, ganes d'aprendre i una energia pròpia de la joventut. Però posar-la sola amb un grup de nens de 2 anys seria arriscat: encara li falta la seguretat, la capacitat de reacció ràpida i el colmillo que dona l'experiència.
+
+Bloque de prompt específico
+
+Young woman (21), slim youthful build, slightly nervous eager posture, bright enthusiastic expression with a hint of insecurity. Long dark hair loose over her shoulders, young fresh face, minimal makeup.
+
+Wearing a casual university-student outfit: a soft yellow sweatshirt with a university logo barely visible, light jeans, and white canvas sneakers. A large tote bag with university books and a bright children's picture book sticking out of the top.
+
+Standing slightly fidgeting with the strap of her tote bag, keen but green. Color palette: soft yellow sweatshirt, light denim, white sneakers, fresh young-student tones.
+
+---
+
+4.10. Cristina Duran – Administrativa en atur
+ID: cristina_atur
+Rol: Administrativa, sense formació en educació infantil.
+
+Descripció de personatge
+
+La Cristina té 38 anys i és administrativa. Està a l'atur des de fa un any i ha vist l'oferta de treball a la llar d'infants. No té cap formació en educació infantil, cap experiència amb nens (més enllà dels seus nebots), i sol·licita el lloc simplement perquè necessita feina.
+Té bona voluntat i és organitzada, però la realitat és que no té cap de les competències que el lloc requereix. Posar-la en una aula amb nens de 2 anys seria un risc per als nens i una frustració per a ella.
+
+Bloque de prompt específico
+
+Adult woman (38), average build, formal stiff posture (trying to make a good impression), anxious hopeful expression. Shoulder-length highlighted brown hair, carefully applied makeup, small gold earrings.
+
+Wearing a formal dark blazer over a pink blouse, smart dark trousers, and heeled shoes — dressed for a corporate job interview, not a nursery. A printed CV folder clutched in her hands.
+
+Standing upright and formal, clearly out of her element. Color palette: dark blazer, pink blouse, formal corporate tones — visually mismatched with the nursery context.
+
+---
+
+4.11. Teresa López – Mare de quatre fills
+ID: teresa_mare
+Rol: Mare sense formació professional, "experiència com a mare".
+
+Descripció de personatge
+
+La Teresa té 42 anys i té quatre fills (de 3 a 12 anys). La seva candidatura es basa en el que ella considera la millor qualificació possible: ser mare. "Sé més de nens que qualsevol persona amb un títol", sol dir.
+La realitat és que ser mare i ser educadora professional són coses molt diferents. Tenir fills no ensenya pedagogia, programació d'activitats, detecció de trastorns del desenvolupament ni gestió d'un grup de deu nens que no són teus. La seva experiència és real però no professional, i la seva confiança pot ser un problema.
+
+Bloque de prompt específico
+
+Adult woman (42), slightly heavy maternal build, confident assertive posture, determined expression that says "I know what I'm doing." Brown hair in a messy practical bun, minimal accessories, the look of a busy mother.
+
+Wearing a practical floral blouse, comfortable dark capri trousers, and worn flat sandals. A large everyday handbag overflowing with random items (a child's toy, a snack wrapper, tissues). No portfolio or CV visible.
+
+Standing with one hand on her hip, confident and slightly defiant. Color palette: practical floral, everyday-mom tones, lived-in comfortable colors — not professional, not formal.
+
+---
+
+4.12. Júlia Ferrer – Recent graduada en filologia
+ID: julia_filologa
+Rol: Graduada en filologia catalana, busca qualsevol feina.
+
+Descripció de personatge
+
+La Júlia té 23 anys i acaba de graduar-se en filologia catalana. No troba feina del seu camp i ha decidit apuntar-se a l'oferta de la llar d'infants perquè "li agraden els nens" i necessita treballar.
+No té cap formació en educació infantil, ni pràctiques, ni experiència rellevant. El seu únic argument és que li agraden els nens i que aprèn ràpid. Té una actitud agradable però és completament verda per a aquest lloc. Confon "m'agraden els nens" amb "sé cuidar-los professionalment".
+
+Bloque de prompt específico
+
+Young woman (23), slim build, relaxed casual posture, friendly somewhat clueless expression. Long straight light brown hair, glasses with trendy round frames, youthful face.
+
+Wearing a casual oversized literary-style cardigan over a band t-shirt, slim dark jeans, and ankle boots. A tote bag with a feminist slogan and a novel sticking out. No professional documents visible.
+
+Standing with a hand in her cardigan pocket, relaxed and a bit too casual. Color palette: muted cardigan tones, dark jeans, bookish casual, recent-graduate-looking-for-anything vibes.
+
+---
+
+4.13. Marc Soler – Educador infantil titulat
+ID: marc_educador
+Rol: Tècnic superior en Educació Infantil amb experiència.
+
+Descripció de personatge
+
+En Marc té 30 anys i és tècnic superior en Educació Infantil. Ha treballat tres anys en una llar d'infants a Barcelona i dos en un centre d'atenció primerenca. Té formació completa, experiència directa amb nens de 0-3 anys i excel·lents valoracions dels centres on ha treballat.
+Objectivament, és un dels candidats més ben preparats. Però sap que la seva presència genera preguntes. Ha viscut la desconfiança de famílies que no volen que "un home" canviï els bolquers al seu fill. Ho porta amb professionalitat, però li pesa. El seu expedient parla sol; el prejudici, també.
+
+Bloque de prompt específico
+
+Adult man (30), average build, warm open posture deliberately non-threatening, gentle patient expression. Short brown hair neatly kept, clean-shaven, kind approachable face, soft eyes.
+
+Wearing a comfortable light blue henley shirt with sleeves pushed up to the elbows, dark chinos, and clean simple sneakers — practical and appropriate for working with toddlers. A small backpack with a children's book and a portfolio folder visible.
+
+Standing with hands loosely at his sides, approachable and calm. Color palette: warm light blue, dark chinos, clean sneaker white, gentle non-threatening tones — deliberately soft and approachable.
+
+---
+
+4.14. Pau Domènech – Mestre d'educació infantil
+ID: pau_mestre
+Rol: Mestre amb especialitat en educació infantil i psicomotricitat.
+
+Descripció de personatge
+
+En Pau té 27 anys i és mestre d'educació infantil amb una formació addicional en psicomotricitat relacional. Ha fet pràctiques en tres centres diferents (llar d'infants, escola bressol i CDIAP) i en tots ha rebut valoracions excel·lents.
+Té un estil educatiu basat en el moviment lliure, el joc corporal i l'acompanyament emocional. Amb nens de 2 anys, la psicomotricitat és fonamental. Sobre el paper, és un dels millors candidats del grup. La pregunta és si el jugador serà capaç de veure'l com el que és: un professional, no "un home en un lloc de dones".
+
+Bloque de prompt específico
+
+Young adult man (27), medium lean build, relaxed natural posture, warm genuine smile. Light brown tousled hair (intentionally relaxed style), slight stubble, youthful friendly face, expressive eyes.
+
+Wearing a comfortable dark green t-shirt with a small logo, loose-fit light chinos, and barefoot-style shoes (typical of psychomotricity professionals). A soft fabric backpack with a yoga mat rolled and attached to it.
+
+Standing in a relaxed, grounded stance with hands visible and open. Color palette: comfortable dark green, light chinos, natural barefoot-shoe tones, relaxed body-movement-professional vibes.
+
+---
+
+4.15. Arnau Vila – Psicòleg infantil
+ID: arnau_psicoleg
+Rol: Psicòleg amb orientació infantil, poca experiència directa amb bebès.
+
+Descripció de personatge
+
+L'Arnau té 35 anys i és psicòleg amb orientació en psicologia infantil. Ha treballat en gabinets fent assessorament a famílies i avaluacions de desenvolupament. Coneix molt bé la teoria de l'attachament, les fases del desenvolupament i la gestió emocional.
+Però, com la Gemma (psicòloga), la seva experiència és de despatx: sessions d'una hora amb un nen i els pares, no la gestió diària d'un grup de deu criatures de 2 anys. A més, sent que com a home ha de "demostrar més" que les candidates femenines, cosa que el tens una mica.
+
+Bloque de prompt específico
+
+Adult man (35), average build, thoughtful slightly tense posture, serious professional expression with underlying warmth. Short dark hair neatly styled, trimmed beard, rectangular glasses.
+
+Wearing a smart casual outfit: a dark navy button-down shirt, well-fitting gray trousers, and clean brown leather shoes. A professional messenger bag with a psychology journal visible inside.
+
+Standing with one hand holding the strap of his bag, the other adjusted at his side — composed but slightly self-conscious. Color palette: dark navy shirt, gray trousers, brown leather, professional-academic tones.
+
+---
+
+4.16. David Ruiz – Monitor esportiu
+ID: david_monitor
+Rol: Monitor esportiu, experiència amb nens de 6-12 anys.
+
+Descripció de personatge
+
+En David té 26 anys i és monitor esportiu. Porta extraescolars d'educació física i campus d'estiu esportius. Li agraden els nens i es porta bé amb ells, però la seva experiència és amb nens grans que ja corren, salten i segueixen instruccions.
+Un nen de 2 anys no corre cap a una porteria: plorant, gatea, es posa coses a la boca i necessita que li canviïn el bolquer. En David no té cap formació en atenció primerenca ni experiència amb criatures tan petites. La seva energia i bon tracte no supleixen la manca total de preparació per a aquesta edat.
+
+Bloque de prompt específico
+
+Young adult man (26), fit athletic build, energetic sporty posture, friendly enthusiastic expression. Short dark hair with a sporty headband, slight tan, youthful open face.
+
+Wearing a sporty polo shirt (bright blue, sports-center style), comfortable dark sport trousers, and clean white training shoes. A sports whistle around his neck, a small gym bag over one shoulder.
+
+Standing with a confident sporty stance, arms slightly apart. Color palette: bright sporty blue polo, dark sport trousers, white shoes, athletic-youth-worker tones — slightly too energetic for a toddler nursery.
+
+---
+
+4.17. Xavi Camps – Treballador social
+ID: xavi_social
+Rol: Graduat en treball social, orientat a famílies i infància en risc.
+
+Descripció de personatge
+
+En Xavi té 32 anys i és treballador social amb experiència en serveis d'infància i família: casos de negligència, acolliment, famílies en risc. Coneix molt bé el context social dels nens i sap detectar situacions de vulnerabilitat.
+La seva formació és valuosa en un sentit ampli, però no inclou pedagogia infantil ni atenció directa a nens de 2 anys. Sap treballar amb famílies, no amb grups de nens. Podria aportar una mirada complementària, però com a educador d'aula principal no té el perfil adequat.
+
+Bloque de prompt específico
+
+Adult man (32), average build, calm composed posture, empathetic serious expression. Short dark hair with a side part, slight beard, attentive caring eyes.
+
+Wearing a casual but presentable outfit: a dark gray crew-neck sweater over a collared shirt, dark jeans, and clean brown shoes. A messenger bag with folders and a social services handbook visible.
+
+Standing with arms loosely crossed, thoughtful and observant. Color palette: dark gray sweater, muted collared shirt, brown shoes, social-sector professional tones — caring but not nursery-specific.

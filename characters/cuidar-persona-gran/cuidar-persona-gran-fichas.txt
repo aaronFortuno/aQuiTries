@@ -1,0 +1,315 @@
+4. Fichas de personaje (16 candidats)
+Cada ficha tiene:
+
+ID: identificador breve para la app.
+Rol: perfil i situació professional.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 1 persona per cuidar la Carme (87 anys) cada dia.
+Tasques: ajudar-la a vestir-se, cuinar, portar-la al metge, fer-li companyia.
+Requeriments: paciència, empatia, fiabilitat, coneixement bàsic de cura de gent gran.
+
+---
+
+4.1. Montse Ferran – Auxiliar de geriatria
+ID: montse_geriatria
+Rol: Auxiliar de geriatria titulada, experiència en residències.
+
+Descripció de personatge
+
+La Montse té 38 anys i és auxiliar de geriatria titulada. Ha treballat set anys en residències de gent gran i dos anys en atenció domiciliària. Coneix les rutines: higiene, mobilitzacions, alimentació adaptada, control de medicació. Sap tractar amb persones amb demència, mobilitat reduïda i solitud.
+Té contracte en regla, està donada d'alta a la Seguretat Social i cobra un sou modest però legal. És el perfil "correcte": formada, experimentada, legal. La pregunta és per què la majoria de famílies acaben buscant alternatives més barates i informals.
+
+Bloque de prompt específico
+
+Adult woman (38), average build, practical grounded posture, warm professional expression. Brown hair in a short practical cut, minimal accessories, kind reliable face.
+
+Wearing a simple light lilac care-worker polo shirt, comfortable dark trousers, and clean white sport shoes. A small watch on her wrist, a lanyard with a professional care services ID. A small bag with care supplies over one shoulder.
+
+Standing with hands clasped in front of her, composed and approachable. Color palette: soft lilac polo, dark trousers, white shoes, professional but warm caregiver tones.
+
+---
+
+4.2. Elena Ibáñez – Infermera d'atenció domiciliària
+ID: elena_infermera
+Rol: Infermera amb experiència en atenció domiciliària a gent gran.
+
+Descripció de personatge
+
+L'Elena té 50 anys i és infermera d'atenció primària. Ha fet atenció domiciliària durant anys: cures de ferides, control de diabetis, seguiment de pacients crònics. Coneix molt bé la salut de la gent gran.
+El seu perfil és excel·lent en la dimensió sanitària, però la feina de cuidadora diària va més enllà: cuinar, fer companyia, acompanyar al mercat, escoltar històries repetides amb paciència. L'Elena és competent però eficient — fa la feina i se'n va. La Carme potser necessita algú que s'hi quedi una mica més.
+
+Bloque de prompt específico
+
+Adult woman (50), average build, professional efficient posture, competent calm expression. Brown hair with prominent gray, short practical cut, small rectangular glasses, no-nonsense face.
+
+Wearing a light blue polo shirt (medical style), dark comfortable trousers, and clean white nursing shoes. A small medical bag with a blood pressure cuff visible, a pen clipped to her shirt pocket.
+
+Standing with a professional medical posture, hands at her sides. Color palette: medical light blue, dark trousers, white shoes, efficient healthcare-worker tones.
+
+---
+
+4.3. Carla Pons – Treballadora familiar
+ID: carla_familiar
+Rol: Treballadora familiar, formació en dependència.
+
+Descripció de personatge
+
+La Carla té 33 anys i és treballadora familiar. Té formació específica en atenció a persones en situació de dependència: ajuda a domicili, acompanyament, suport en activitats de la vida diària. Ha treballat per un servei municipal d'atenció a domicili.
+Coneix bé la feina: no és només higiene i menjar, sinó també estímul cognitiu, passejos, conversa, vincle. És jove, dinàmica i empàtica. Potser li falta l'experiència que dona l'edat per connectar amb una persona de 87 anys, però la seva formació és molt adequada.
+
+Bloque de prompt específico
+
+Young adult woman (33), average build, approachable friendly posture, warm empathetic expression. Light brown hair at shoulder length, casually styled, open friendly face.
+
+Wearing a comfortable dark green long-sleeve t-shirt, practical light jeans, and clean flat sneakers. A small crossbody bag, a phone in her back pocket. A simple city council volunteer-services lanyard.
+
+Standing relaxed with a slight lean, approachable and natural. Color palette: dark green shirt, light denim, everyday comfortable tones, social-services warmth.
+
+---
+
+4.4. Yolanda Mamani – Cuidadora boliviana, sense papers
+ID: yolanda_cuidadora
+Rol: Cuidadora informal, originària de Bolívia, situació irregular.
+
+Descripció de personatge
+
+La Yolanda té 42 anys i va arribar de Bolívia fa vuit anys. No té papers ni permís de residència. Treballa cuidant gent gran des que va arribar: primer va cuidar una senyora a Madrid durant quatre anys (interna, sis dies a la setmana), després es va traslladar a Catalunya i en porta quatre més cuidant avis a domicili.
+No té cap títol reconegut, però la seva experiència pràctica és immensa: sap cuinar, netejar, fer companyia, gestionar medicacions, moure persones amb mobilitat reduïda, i sobretot, tractar amb paciència i afecte persones grans soles. Cobra en negre, molt per sota del salari mínim, i no pot queixar-se. Envia diners a Bolívia cada mes per als seus dos fills.
+
+Bloque de prompt específico
+
+Adult woman (42), slightly heavy build, tired but warm posture, kind experienced expression with a hint of permanent fatigue. Black straight hair pulled back in a simple low ponytail, indigenous Andean features, brown skin, deep dark caring eyes.
+
+Wearing a simple practical patterned blouse (floral, modest), dark elastic-waist trousers, and worn but clean flat shoes. A small zippered pouch (for bus money and keys) in one hand. No professional ID, no lanyard, no uniform.
+
+Standing with hands together in front of her, humble but dignified posture. Color palette: modest floral blouse, dark practical trousers, worn shoes, invisible-worker everyday tones — nothing stands out, which is the point.
+
+---
+
+4.5. Luz Marina Herrera – Cuidadora colombiana, amb permís
+ID: luz_marina_cuidadora
+Rol: Cuidadora, originària de Colòmbia, amb permís de residència.
+
+Descripció de personatge
+
+La Luz Marina té 35 anys i és colombiana. Té permís de residència i ha regularitzat la seva situació fa dos anys gràcies a un contracte d'una família que la va avalar. Treballa com a cuidadora de gent gran des de fa sis anys a Catalunya.
+No té formació reglada però ha fet un curs de geriatria de 200 hores que li ha pagat una ONG. És alegre, parladora, carinyosa — les persones grans que ha cuidat l'estimen molt. Cuina bé, és neta, puntual i molt atenta. Cobra una mica més que la Yolanda perquè té contracte, però segueix sent un sou molt baix.
+
+Bloque de prompt específico
+
+Adult woman (35), medium build, warm energetic posture, bright friendly expression with a natural wide smile. Dark curly hair at shoulder length, light brown skin, expressive brown eyes, a cheerful open face.
+
+Wearing a colorful but modest short-sleeve blouse (warm yellow with a simple pattern), dark leggings, and clean white sneakers. A small practical shoulder bag, a phone in her hand.
+
+Standing with a slightly animated posture, as if about to greet someone warmly. Color palette: warm yellow blouse, dark leggings, white shoes, bright warm Latina-everyday tones — approachable, lively.
+
+---
+
+4.6. Patricia Quispe – Cuidadora peruana, tres avis simultanis
+ID: patricia_cuidadora
+Rol: Cuidadora informal, originària del Perú, cuida tres persones grans a la vegada.
+
+Descripció de personatge
+
+La Patricia té 48 anys i és peruana. Porta dotze anys a Catalunya cuidant gent gran. Actualment cuida tres avis a la vegada: matí amb un, tarda amb un altre, i dues nits a la setmana amb un tercer. Treballa sense contracte formal en dos dels tres casos.
+Està físicament exhausta i sobrecarregada, però necessita els tres sous per mantenir la seva família (marit sense feina, dos fills adolescents). Coneix la feina a fons per pura experiència acumulada. És eficient, fiable i discreta. El seu problema no és la qualitat del treball sinó la quantitat: si agafa la Carme, amb quina energia arribarà?
+
+Bloque de prompt específico
+
+Adult woman (48), slightly worn build showing physical fatigue, slumped tired posture but with capable steady hands, experienced weary expression. Black hair with visible gray roots tied back in a quick bun, indigenous Peruvian features, brown skin, tired but alert eyes.
+
+Wearing a plain dark practical polo shirt, worn dark trousers with elastic waist, and comfortable well-worn flat shoes. A large practical bag (almost a tote) with random care supplies visible: a folded apron, a packet of wet wipes, reading glasses.
+
+Standing slightly leaning to one side, one hand holding her large bag strap, the tiredness visible in her posture. Color palette: plain dark polo, worn practical tones, faded comfortable clothing — the uniform of invisible overwork.
+
+---
+
+4.7. Rosa Castillo – Cuidadora equatoriana, veterana amb papers
+ID: rosa_cuidadora
+Rol: Cuidadora, originària de l'Equador, quinze anys d'experiència, papers en regla.
+
+Descripció de personatge
+
+La Rosa té 55 anys i va arribar de l'Equador fa quinze anys. Ha cuidat sis persones grans al llarg d'aquests anys, algunes durant molt de temps. Té els papers en regla, contracte formal i cotitza a la Seguretat Social. Ha aconseguit estabilitzar la seva situació a base d'anys de feina i de famílies que l'han anat recomanant.
+Coneix l'ofici millor que moltes professionals amb títol: sap cuinar per a persones amb disfàgia, adaptar l'entorn per evitar caigudes, gestionar la solitud i la tristesa dels avis. Ja ha acompanyat dues persones en el final de la vida. És maternal, sòlida i molt experimentada.
+
+Bloque de prompt específico
+
+Older woman (55), slightly heavy but solid build, calm grounded posture radiating reliability, warm maternal expression with knowing experienced eyes. Dark hair with significant gray streaks in a practical short cut, brown skin, round friendly face with deep expression lines.
+
+Wearing a clean simple dark blue blouse, comfortable black trousers, and low sturdy black shoes. A small practical purse, a phone in a protective case. A thin gold chain barely visible at her neck — her one personal touch.
+
+Standing with arms loosely at her sides, a solid reassuring presence. Color palette: simple dark blue and black, minimal but neat, dignified veteran-caregiver tones.
+
+---
+
+4.8. Anna Roca – Estudiant d'infermeria
+ID: anna_estudiant
+Rol: Estudiant d'infermeria, busca feina parcial.
+
+Descripció de personatge
+
+L'Anna té 22 anys i estudia tercer d'infermeria. Busca una feina a temps parcial que li permeti compatibilitzar amb els estudis. Té coneixements de salut, primers auxilis i ha fet pràctiques a l'hospital, però mai ha cuidat una persona gran a domicili.
+Té ganes, és responsable i la seva formació sanitària és un plus. Però la feina de cuidadora requereix una constància i una disponibilitat que un estudiant difícilment pot garantir: els exàmens, les pràctiques, els treballs... I li falta la maduresa emocional per gestionar la solitud d'una persona de 87 anys.
+
+Bloque de prompt específico
+
+Young woman (22), slim youthful build, alert attentive posture, eager helpful expression. Long dark hair in a quick ponytail, young fresh face, a pen clipped to her shirt collar (student habit).
+
+Wearing a simple white t-shirt under an open light gray hoodie, comfortable dark jeans, and white canvas sneakers. A university backpack with textbooks and a stethoscope case visible. A phone in her hand.
+
+Standing with an attentive student posture, slightly leaning forward. Color palette: white, light gray hoodie, dark jeans, clean young-student tones.
+
+---
+
+4.9. Mercè Blanch – Veïna jubilada
+ID: merce_veina
+Rol: Veïna jubilada, s'ofereix desinteressadament.
+
+Descripció de personatge
+
+La Mercè té 68 anys i és veïna de la Carme des de fa trenta anys. S'ofereix a ajudar-la perquè la coneix, li té afecte i li sap greu veure-la sola. No vol cobrar: diu que ho fa per amistat i perquè "algun dia també serà ella".
+El problema: la Mercè ja té 68 anys, amb els seus propis problemes de salut (hipertensió, artrosi), i no pot garantir una atenció diària constant. A més, confon ser amiga amb ser cuidadora: pot fer companyia, sí, però no sap gestionar medicacions, fer mobilitzacions segures ni detectar senyals d'alarma sanitària.
+
+Bloque de prompt específico
+
+Older woman (68), slightly heavy build with visible age-related stiffness, kind familiar posture of a longtime neighbor, warm but already-tired expression. White permed hair, reading glasses, lined friendly face.
+
+Wearing a house cardigan over a floral blouse, comfortable elastic-waist dark trousers, and flat house-style shoes. No professional gear — just a neighbor who came from next door. A small plate of homemade biscuits in one hand (she always brings something).
+
+Standing with a slight lean, one hand on her lower back. Color palette: house cardigan muted tones, floral blouse, neighbor-at-home comfortable colors.
+
+---
+
+4.10. Sandra Gil – Desocupada sense formació
+ID: sandra_atur
+Rol: Desocupada, sense formació en cura, busca qualsevol feina.
+
+Descripció de personatge
+
+La Sandra té 40 anys i fa dos anys que està a l'atur. Treballava en un magatzem fins que la van acomiadar. No té cap formació en geriatria, infermeria ni atenció a persones. El seu argument: "he cuidat la meva mare els últims anys abans que morís".
+Com la Teresa de la llar d'infants, confon experiència personal amb competència professional. Cuidar un familiar malalt és dur i respectable, però no és el mateix que cuidar una persona aliena amb les tècniques, la paciència professional i els límits emocionals que la feina requereix.
+
+Bloque de prompt específico
+
+Adult woman (40), average build, slightly tense anxious posture (job-seeker nerves), determined but worried expression. Medium-length brown hair with visible roots needing a touch-up, minimal accessories, everyday face.
+
+Wearing a simple dark v-neck top, dark jeans, and comfortable ankle boots — an everyday outfit trying to look presentable. A small handbag with a printed CV folded inside.
+
+Standing with hands clasped tightly in front of her, nervous but resolute. Color palette: simple dark top, dark jeans, muted job-seeker everyday tones — nothing distinctive.
+
+---
+
+4.11. Noemí Salas – Psicòloga especialista en envelliment
+ID: noemi_psicologa
+Rol: Psicòloga amb especialitat en envelliment i solitud.
+
+Descripció de personatge
+
+La Noemí té 44 anys i és psicòloga especialitzada en envelliment actiu i gestió de la solitud. Treballa en un centre de dia i fa tallers de memòria i estimulació cognitiva. Coneix perfectament el món emocional de la gent gran.
+Però la seva feina és de despatx i de grup: sessions d'una hora, tallers estructurats. No ha vestit mai ningú, no ha cuinat per a una persona gran, no l'ha acompanyat al metge. Sap per què la Carme se sent sola, però no sap fer-li el dinar.
+
+Bloque de prompt específico
+
+Adult woman (44), slim build, professional composed posture, empathetic intellectual expression. Dark hair with subtle highlights, neatly styled, small elegant earrings, professional but warm face.
+
+Wearing a smart dark teal wrap blouse, tailored dark trousers, and low-heeled black shoes. A structured leather bag with a notebook and psychology journals visible.
+
+Standing with a professional thoughtful posture, one hand touching her chin. Color palette: dark teal, tailored dark trousers, professional-psychology tones — too polished for daily home care.
+
+---
+
+4.12. Irina Kovach – Infermera ucraïnesa, títol no homologat
+ID: irina_infermera
+Rol: Infermera titulada a Ucraïna, títol no homologat a Espanya.
+
+Descripció de personatge
+
+La Irina té 50 anys i va arribar d'Ucraïna fa tres anys. Al seu país era infermera amb vint anys d'experiència, incloent geriatria hospitalària. Sap fer cures, controlar constants, administrar medicació i fer mobilitzacions — el seu nivell tècnic és excel·lent.
+El problema: el seu títol no està homologat a Espanya i el procés d'homologació és llarg i car. Oficialment, a Espanya "no és infermera". Treballa de cuidadora perquè és l'única feina que pot fer sense homologació. Parla castellà amb dificultat i català gens, cosa que pot dificultar la comunicació amb la Carme.
+
+Bloque de prompt específico
+
+Adult woman (50), average sturdy build, upright disciplined posture (medical training shows), composed serious expression with a hint of frustration. Light brown hair in a tight neat bun, pale skin, light blue-gray eyes, strong Slavic features.
+
+Wearing a clean but plain white long-sleeve shirt (reminiscent of medical wear), dark practical trousers, and sturdy flat shoes. A small folder with documents (homologation papers, references) in one hand.
+
+Standing with very correct upright posture, almost military — years of hospital discipline. Color palette: clean white shirt, dark trousers, stark minimal tones — clinical precision in a non-clinical context.
+
+---
+
+4.13. Jordi Prat – Auxiliar de geriatria
+ID: jordi_auxiliar
+Rol: Auxiliar de geriatria titulat, jove i ben format.
+
+Descripció de personatge
+
+En Jordi té 29 anys i és auxiliar de geriatria. Ha treballat dos anys en una residència i un any en atenció domiciliària. Té formació completa, experiència pràctica i excel·lents valoracions dels llocs on ha treballat.
+Objectivament, és un bon candidat. Però el sector de la cura de gent gran és encara més feminitzat que les llars d'infants: la idea d'un home jove que vesteix, banya i acompanya una senyora de 87 anys genera incomoditat en moltes famílies. En Jordi ho sap i ho viu amb una barreja de resignació i frustració. La seva feina no hauria de tenir gènere, però en la pràctica en té.
+
+Bloque de prompt específico
+
+Young adult man (29), average build, warm approachable posture, gentle calm expression. Short brown hair neatly kept, clean-shaven, soft friendly face, patient eyes.
+
+Wearing a comfortable soft gray polo shirt, dark chinos, and clean white sneakers — practical and appropriate for care work. A small professional care-worker lanyard around his neck, a portfolio folder in one hand.
+
+Standing with open body language, hands visible and relaxed. Color palette: soft gray polo, dark chinos, white shoes, gentle non-threatening caregiver tones.
+
+---
+
+4.14. Hamid Benali – Marroquí, experiència familiar
+ID: hamid_familiar
+Rol: Originari del Marroc, ha cuidat el seu pare gran, sense formació.
+
+Descripció de personatge
+
+En Hamid té 45 anys i és d'origen marroquí. Va cuidar el seu pare malalt durant tres anys al Marroc fins que va morir, i posteriorment el seu sogre durant dos anys a Catalunya. Coneix la cura de gent gran per experiència personal directa: mobilitzacions, higiene, alimentació, companyia.
+No té cap formació reglada i el seu castellà és funcional però limitat. Parla àrab i una mica de francès. Té molta paciència i respecte per la gent gran (és un valor cultural fort). Però la comunicació amb la Carme podria ser un obstacle, i moltes famílies catalanes no s'imaginen un home marroquí cuidant la seva àvia.
+
+Bloque de prompt específico
+
+Adult man (45), average stocky build, respectful composed posture, quiet serious expression with kind eyes. Short black hair with gray at the temples, neatly trimmed beard, olive-brown skin, dignified steady face.
+
+Wearing a clean simple button-down shirt in pale blue, dark practical trousers, and clean black shoes — trying to look presentable and reliable. No professional ID, no lanyard.
+
+Standing with hands together in front of him, formal and respectful posture. Color palette: pale blue shirt, dark trousers, clean black shoes, modest dignified tones.
+
+---
+
+4.15. Àlex Duran – Fisioterapeuta
+ID: alex_fisio
+Rol: Fisioterapeuta, experiència en rehabilitació geriàtrica.
+
+Descripció de personatge
+
+L'Àlex té 36 anys i és fisioterapeuta. Ha treballat en una residència de gent gran fent rehabilitació: mobilitat, equilibri, prevenció de caigudes. Coneix molt bé el cos de les persones grans i sap com moure algú amb mobilitat reduïda de manera segura.
+Però ser fisio i ser cuidador són feines molt diferents. La seva feina és fer sessions de 45 minuts, no passar el dia sencer amb algú. No sap cuinar, no té experiència en companyia quotidiana, i la seva visió és clínica: veu una pacient, no una persona que necessita que li escoltin la mateixa història per quinzena vegada.
+
+Bloque de prompt específico
+
+Adult man (36), athletic medium build, professional confident posture, focused practical expression. Short dark hair, slight stubble, clean-cut face.
+
+Wearing a fitted dark blue technical polo shirt (physiotherapy clinic style), dark sport trousers, and clean white sport shoes. A small physio kit bag over one shoulder.
+
+Standing with a professional clinical stance, hands at his belt. Color palette: dark blue polo, sport trousers, white shoes, clinical-rehabilitation tones — too technical for daily home companionship.
+
+---
+
+4.16. Pilar Vázquez – Auxiliar d'infermeria
+ID: pilar_auxiliar
+Rol: Auxiliar d'infermeria, experiència en residència, busca feina domiciliària.
+
+Descripció de personatge
+
+La Pilar té 58 anys i és auxiliar d'infermeria. Ha treballat vint anys en una residència de gent gran, fins que la residència va tancar fa sis mesos. Ara busca feina i prefereix atenció domiciliària: "estic cansada de torns de nit i de córrer per passadissos".
+Té una experiència immensa, coneix la feina a fons i té un tracte càlid amb la gent gran. L'edat juga al seu favor (connecta bé amb persones de 87 anys perquè "parlen el mateix idioma emocional") i en contra (ella mateixa ja comença a tenir limitacions físiques).
+
+Bloque de prompt específico
+
+Older woman (58), average build with visible age, comfortable steady posture, warm tired but deeply kind expression. Gray hair in a practical short perm, reading glasses pushed up on her head, a face that has smiled a lot.
+
+Wearing a simple mauve cardigan over a white t-shirt, comfortable dark elastic-waist trousers, and soft flat shoes. A small purse and a folded nursing smock (habit from the residence) in one hand.
+
+Standing with a relaxed familiar posture, as if already at home here. Color palette: mauve cardigan, white, comfortable muted veteran-care tones — the look of someone who has done this a thousand times.

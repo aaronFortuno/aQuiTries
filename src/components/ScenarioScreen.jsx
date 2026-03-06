@@ -92,23 +92,28 @@ export default function ScenarioScreen({
 
   return (
     <div className="scenario">
-      <div className="scenario__toolbar">
-        <button className="scenario__toolbar-btn" onClick={onSkip}>
-          {t('ui.skipScenario')}
-        </button>
-        <button className="scenario__toolbar-btn scenario__toolbar-btn--finish" onClick={onFinish}>
-          {t('ui.finishSession')}
-        </button>
-      </div>
-
-      <header className="scenario__header">
-        <span className="scenario__progress">
-          {t('ui.scenarioProgress', { current: scenarioNumber, total: totalScenarios })}
-        </span>
+      <header className="scenario__topbar">
         <h2 className="scenario__title">{scenario.title}</h2>
-        <p className="scenario__context">{scenario.context}</p>
-        <p className="scenario__instruction">{scenario.description}</p>
+        <div className="scenario__topbar-right">
+          <span className="scenario__progress">
+            {t('ui.scenarioProgress', { current: scenarioNumber, total: totalScenarios })}
+          </span>
+          <button className="scenario__toolbar-btn" onClick={onSkip}>
+            {t('ui.skipScenario')}
+          </button>
+          <button className="scenario__toolbar-btn scenario__toolbar-btn--finish" onClick={onFinish}>
+            {t('ui.finishSession')}
+          </button>
+        </div>
       </header>
+
+      <div className="scenario__briefing">
+        <p className="scenario__instruction">{scenario.description}</p>
+        <details className="scenario__context-details">
+          <summary className="scenario__context-summary">{t('ui.moreContext')}</summary>
+          <p className="scenario__context">{scenario.context}</p>
+        </details>
+      </div>
 
       <SelectionCounter
         current={currentSelection.length}

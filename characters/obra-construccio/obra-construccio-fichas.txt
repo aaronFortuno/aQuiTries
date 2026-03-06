@@ -1,0 +1,315 @@
+4. Fichas de personaje (16 persones de l'obra i voltants)
+Cada ficha tiene:
+
+ID: identificador breve para la app.
+Rol: oficio o función en l'obra.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal triar 4 persones per aixecar una paret de maons.
+Tasca: carregar sacs de ciment de 25 kg, pujar bastides, treballar a ple sol 8 hores.
+Requeriments: força física, resistència, experiència en paleteria.
+
+---
+
+4.1. Josep Arnau – Paleta veterà
+ID: josep_paleta
+Rol: Paleta amb trenta anys d'experiència.
+
+Descripció de personatge
+
+En Josep té 52 anys i és paleta de tota la vida. Ha aixecat parets, posat rajoles, fet forjats i construït des de cases fins a naus industrials. Té una complexió forta però ja castigada pels anys: mal d'esquena crònic, genolls gastats, mans plenes de durícies.
+Tot i el desgast, la seva tècnica és impecable. Treballa ràpid, net i sense malgastar ni un gram de ciment. Coneix l'ofici com ningú i és la referència tècnica de l'obra. De caràcter sec i pragmàtic, no perd el temps amb xerrameca.
+
+Bloque de prompt específico
+
+Older man (52), strong weathered build showing decades of heavy labor, slightly stiff posture from chronic back issues, tough no-nonsense expression. Short graying hair under a dusty white hard hat, deeply tanned leathery face, calloused large hands.
+
+Wearing a faded gray work t-shirt stained with cement dust, worn-out dark work trousers with reinforced knees, heavy brown steel-toe boots caked with dried mortar. A high-visibility yellow vest over the t-shirt, a small tool belt with a trowel and a level.
+
+Holding a bricklaying trowel in one hand, cement dust on his forearms. Color palette: cement gray, dusty yellow vest, worn brown boots, sun-weathered skin, veteran construction tones.
+
+---
+
+4.2. Rubén Díaz – Manobre jove
+ID: ruben_manobre
+Rol: Manobre, fa la feina pesada de l'obra.
+
+Descripció de personatge
+
+En Rubén té 24 anys i treballa de manobre des que va deixar els estudis als 18. La seva feina és la més bàsica i física de l'obra: carregar sacs, barrejar ciment, pujar material a les bastides, netejar. Té una complexió forta i jove, amb molta energia i resistència.
+No té formació en paleteria (no sap aixecar una paret tècnicament), però per a la tasca de carregar 25 kg i treballar 8 hores al sol, és dels més capaços. No li agrada gaire la feina però necessita els diners. Escolata reggaeton pels auriculars sempre que pot.
+
+Bloque de prompt específico
+
+Young man (24), strong and fit build with broad shoulders, energetic but slightly bored posture. Short dark hair under a backward-turned baseball cap (under the hard hat when required), light stubble, young tough expression.
+
+Wearing a tight sleeveless gray tank top showing muscular tattooed arms, baggy dark cargo work trousers, and dusty black work boots. A high-visibility orange vest worn loosely unbuttoned. Wireless earbuds in his ears.
+
+Carrying a cement bag on one shoulder with one arm, the other hand hanging loose. Color palette: gray tank top, orange vest, dark cargo, dusty black boots, young urban-labor tones.
+
+---
+
+4.3. Khalid Bouazza – Manobre
+ID: khalid_manobre
+Rol: Manobre amb experiència, treballador de confiança.
+
+Descripció de personatge
+
+En Khalid té 35 anys i va arribar del Marroc fa dotze anys. Porta deu anys treballant en obres de construcció a Catalunya. Té una complexió forta i resistent, acostumada a jornades llargues i feina dura sense queixar-se. És un dels treballadors més fiables de l'obra.
+Coneix bé l'ofici de manobre i ha après bastant de paleteria observant els paletes veterans. Podria aixecar una paret si calgués, tot i no ser oficialment paleta. És reservat, puntual i molt treballador. Envia diners a la família cada mes.
+
+Bloque de prompt específico
+
+Adult man (35), strong and enduring build with solid shoulders and thick forearms, steady reliable posture. Short black hair, neatly trimmed beard, dark brown skin, calm focused expression.
+
+Wearing a dusty navy blue work t-shirt, sturdy dark work trousers, and heavy brown steel-toe boots. A high-visibility yellow vest, a white hard hat. Work gloves on his hands, slightly dusty and cement-stained all over.
+
+Standing ready with a flat-bladed shovel resting on the ground beside him. Color palette: dusty navy, yellow vest, white hard hat, brown boots, hard-working practical tones.
+
+---
+
+4.4. Toni Puig – Cap d'obra
+ID: toni_cap_obra
+Rol: Cap d'obra, coordina l'equip i el calendari.
+
+Descripció de personatge
+
+En Toni té 48 anys i és el cap d'obra. Va començar de manobre als 16 i ha anat pujant fins a encarregat. Coneix cada ofici de l'obra perquè els ha fet tots. Té una complexió robusta, encara fort tot i que fa anys que la seva feina és més de coordinació que de pico i pala.
+Podria perfectament agafar un sac de 25 kg i treballar 8 hores, però el seu valor real és organitzar: sap quanta barreja cal, com repartir la feina, i com evitar que la paret quedi tort. Si ell treballa de paleta, qui coordina?
+
+Bloque de prompt específico
+
+Middle-aged man (48), stocky robust build still showing underlying strength, confident commanding posture. Thinning dark hair under a white hard hat, short graying beard, tanned face with crow's feet, authoritative expression.
+
+Wearing a clean dark blue polo shirt (slightly nicer than the laborers), dark work trousers, and sturdy black boots. A high-visibility vest with "ENCARREGAT" or similar text. A clipboard in one hand, a mobile phone in the other. A measuring tape and pen clipped to his belt.
+
+Standing with a surveying posture, looking over the site. Color palette: clean dark blue, yellow vest, white hard hat, site-management tones slightly sharper than the laborers.
+
+---
+
+4.5. Adrià Martí – Gruista
+ID: adria_gruista
+Rol: Operador de grua torre.
+
+Descripció de personatge
+
+L'Adrià té 40 anys i és gruista: opera la grua torre de l'obra. Passa la jornada tancat a la cabina de la grua a dalt de tot, movent material. Té una complexió mitjana — la seva feina és tècnica i de precisió, no de força bruta.
+Si baixa de la grua per fer de paleta, la grua queda aturada i no es pot pujar material als pisos superiors. A més, no té experiència en paleteria. Podria carregar sacs, sí, però no és la seva feina ni la seva fortalesa.
+
+Bloque de prompt específico
+
+Adult man (40), average build, not particularly muscular, steady calm expression of someone used to precision work. Short brown hair, clean-shaven, slight squint from looking into the distance from the crane cabin.
+
+Wearing a dark gray work jacket over a simple t-shirt, dark work trousers, and black boots. A yellow hard hat, a high-visibility vest. A small radio clipped to his belt for communicating with ground crew.
+
+Standing with hands in his jacket pockets, looking up slightly as if checking the crane. Color palette: dark gray jacket, yellow safety, muted technical-worker tones.
+
+---
+
+4.6. Miquel Solé – Aprenent de paleta
+ID: miquel_aprenent
+Rol: Aprenent de paleta, primer any d'ofici.
+
+Descripció de personatge
+
+En Miquel té 19 anys i fa tres mesos que ha començat com a aprenent de paleta, sortint d'un cicle de formació professional. Té una complexió prima d'adolescent que encara no s'ha fet al treball físic. Les primeres setmanes va acabar amb ampolles a les mans i mal de tot el cos.
+Està aprenent: sap posar maons però lentament, i la barreja li surt irregular. Té ganes però li falta força i ofici. Podria comptar com a mitja persona en termes d'eficiència real.
+
+Bloque de prompt específico
+
+Teenage boy (19), thin and lanky build, slightly awkward posture of someone new to physical labor. Short messy brown hair under an oversized white hard hat that looks slightly too big, smooth young face, uncertain but willing expression.
+
+Wearing a new-looking high-visibility yellow vest over a plain white t-shirt, stiff new work trousers that haven't been broken in yet, and new-looking brown work boots. Clean work gloves that still look unused.
+
+Holding a trowel awkwardly in one hand, looking at it as if still learning. Color palette: clean new-looking yellows and whites contrasting with the worn tones of veterans, apprentice-freshness tones.
+
+---
+
+4.7. Paco Herrero – Paleta jubilat
+ID: paco_jubilat
+Rol: Paleta jubilat, viu a prop de l'obra i s'ofereix a ajudar.
+
+Descripció de personatge
+
+En Paco té 62 anys i es va jubilar fa dos de la construcció. Viu al costat de l'obra i s'ha ofert a ajudar perquè "s'avorreix a casa". Coneix l'ofici de memòria i la seva tècnica és excel·lent, però el cos ja no li respon com abans: té una hèrnia discal, els genolls destrossats i es cansa ràpid.
+Podria aixecar mitja paret perfecta en dues hores, però després hauria de parar. Carregar sacs de 25 kg li és arriscat pel tema de l'esquena. El seu coneixement és or, però la seva resistència és limitada.
+
+Bloque de prompt específico
+
+Older man (62), once-strong build now showing significant wear, slightly hunched posture protecting his lower back, experienced but tired expression. Thin gray hair, weathered wrinkled face with deep sun damage, thick glasses.
+
+Wearing an old flannel shirt with rolled-up sleeves showing thin but scarred forearms, comfortable loose trousers (not work trousers — he came from home), and old but comfortable walking shoes (not steel-toe boots). No hard hat, no vest — he's not officially on the payroll.
+
+Standing with one hand on his lower back, the other gesturing as if explaining how something should be done. Color palette: faded flannel, comfortable retired tones, clearly not dressed for the site.
+
+---
+
+4.8. Víctor Romero – Peó d'obra
+ID: victor_peo
+Rol: Peó d'obra, contractat temporal.
+
+Descripció de personatge
+
+En Víctor té 30 anys i està contractat com a peó temporal. Ha passat per moltes obres i moltes empreses de treball temporal. Té una complexió forta i aguanta bé la feina física, però no té cap formació ni interès especial en la construcció — és un sou.
+Fa el que li manen sense iniciativa pròpia. No sap aixecar una paret, però pot carregar sacs durant hores sense queixar-se. Fuma molt, arriba just a l'hora i se'n va en punt. Fiable per a feina bàsica, inútil per a res que requereixi criteri.
+
+Bloque de prompt específico
+
+Adult man (30), strong stocky build, slightly slouched unmotivated posture, neutral blank expression. Short dark hair, unshaven with a few days' stubble, slightly tired eyes.
+
+Wearing a plain dark t-shirt under a dirty orange high-visibility vest, worn dark work trousers with holes at the knees, and scuffed black steel-toe boots. A crumpled cigarette pack visible in his vest pocket.
+
+Standing with arms hanging at his sides, waiting to be told what to do. Color palette: dirty orange vest, worn-out dark tones, scuffed boots, unremarkable laborer appearance.
+
+---
+
+4.9. Anna Güell – Arquitecta
+ID: anna_arquitecta
+Rol: Arquitecta del projecte.
+
+Descripció de personatge
+
+L'Anna té 36 anys i és l'arquitecta que ha dissenyat l'edifici. Visita l'obra regularment per supervisar que l'execució segueixi el projecte. Té una complexió prima i mitjana, acostumada a la feina d'oficina i despatx.
+Sap perfectament com ha de ser la paret en termes tècnics: gruix, materials, armadures, acabats. Però no ha posat un maó a la vida ni ha carregat un sac de ciment. La seva aportació és intel·lectual i de supervisió. Posar-la a fer de paleta seria absurd i ineficient.
+
+Bloque de prompt específico
+
+Adult woman (36), slim average build, professional composed posture, sharp intelligent expression. Dark hair in a neat low bun, light makeup, modern rectangular glasses.
+
+Wearing a fitted dark blazer over a white blouse, tailored dark trousers, and clean leather ankle boots (clearly not work boots). A white hard hat carried in one hand (visitor's hat). A rolled-up blueprint tube under one arm, a tablet in the other hand.
+
+Standing looking at the construction with an evaluating professional eye. Color palette: professional dark blazer, white blouse, clean leather, visitor-on-site contrast with the dusty workers.
+
+---
+
+4.10. Cristina Bonet – Aparelladora (Arquitecta tècnica)
+ID: cristina_aparelladora
+Rol: Aparelladora, direcció d'execució d'obra.
+
+Descripció de personatge
+
+La Cristina té 44 anys i és aparelladora (arquitecta tècnica). La seva feina és la direcció d'execució: verificar que els materials siguin correctes, que les mesures quadrin, que la normativa es compleixi. Està a l'obra cada dia, coneix el procés de construcció a fons.
+Complexió mitjana, no fa feina física però porta casc i botes de seguretat perquè trepitja l'obra constantment. Sap com s'ha d'aixecar una paret millor que molts paletes, però en teoria, no en pràctica. El seu valor és tècnic i de control de qualitat, no manual.
+
+Bloque de prompt específico
+
+Adult woman (44), average build, practical professional posture, no-nonsense focused expression. Short brown hair in a practical cut that fits under a hard hat, no flashy accessories, pen behind one ear.
+
+Wearing a dark quilted vest over a light blue button shirt, dark work-appropriate trousers, and actual safety boots (she walks the site). A white hard hat on her head, a high-visibility vest. A clipboard with checklists, a laser measuring device in her vest pocket.
+
+Standing checking something on her clipboard, pen in hand. Color palette: practical dark vest, light blue shirt, white hard hat, site-management professional tones — on-site but not laboring.
+
+---
+
+4.11. Sílvia Ramos – Administrativa de l'empresa
+ID: silvia_administrativa
+Rol: Administrativa de la constructora, gestió de nòmines i documentació.
+
+Descripció de personatge
+
+La Sílvia té 33 anys i és l'administrativa de l'empresa constructora. Avui ha vingut a l'obra a portar uns papers i a recollir uns albarans. Normalment treballa a l'oficina de l'empresa, al centre del poble.
+Complexió mitjana-prima, no ha fet feina física a la vida. Porta sabates de vestir, no botes de seguretat. Si li donessin un sac de ciment de 25 kg, no podria ni aixecar-lo del terra. Està fora de context en una tasca de paleteria, però forma part del personal de l'empresa i per tant "hi és".
+
+Bloque de prompt específico
+
+Young adult woman (33), slim build, office-worker posture, slightly out-of-place expression on a construction site. Shoulder-length dark hair, light makeup, small earrings.
+
+Wearing a light cream blouse, dark fitted trousers, and low-heeled office shoes — clearly not construction attire. Carrying a folder of documents and a handbag. An ill-fitting borrowed hard hat perched awkwardly on her head (visitor requirement).
+
+Standing holding her folder close to her chest, looking around the site carefully where she steps. Color palette: office cream and dark professional tones, completely contrasting with the dusty work environment.
+
+---
+
+4.12. Montse Pujol – Prevencionista de riscos laborals
+ID: montse_prevencio
+Rol: Tècnica de prevenció de riscos laborals.
+
+Descripció de personatge
+
+La Montse té 41 anys i és la tècnica de prevenció de riscos laborals assignada a l'obra. La seva feina és garantir que es compleixin les normes de seguretat: que tothom porti casc, que les bastides estiguin ben muntades, que els treballadors facin pauses.
+Complexió mitjana, en bona forma però no forta. Coneix molt bé els riscos de cada tasca (sap exactament per què carregar 25 kg malament et destrossa l'esquena). La seva aportació no és de força sinó de seguretat. Si la poses a fer de paleta, qui vigila que ningú es faci mal?
+
+Bloque de prompt específico
+
+Adult woman (41), average fit build, upright attentive posture, watchful serious expression. Brown hair pulled back in a ponytail under a white hard hat, no-nonsense face.
+
+Wearing a clean high-visibility orange vest with "PREVENCIÓ" text over a dark polo shirt, dark work trousers, and proper safety boots. A clipboard with safety checklists, a camera hanging from her neck for documenting conditions, safety glasses pushed up on her hard hat.
+
+Standing with arms crossed, scanning the work area for hazards. Color palette: bright safety orange vest, clean professional field-worker tones, safety-authority colors.
+
+---
+
+4.13. Eduard Mas – Arquitecte tècnic (director d'obra)
+ID: eduard_director
+Rol: Arquitecte tècnic, director d'obra.
+
+Descripció de personatge
+
+L'Eduard té 38 anys i és l'arquitecte tècnic que fa de director d'obra. Està a l'obra cada dia coordinant amb el cap d'obra, verificant planificació i resolent problemes tècnics. Va estudiar la carrera i porta quinze anys en el sector.
+Complexió mitjana, mai ha posat un maó. La seva feina és intel·lectual i de gestió. Podria carregar algun sac si calgués, però seria completament ineficient com a paleta. A més, si ell fa de peó, qui resol els problemes tècnics que van sorgint?
+
+Bloque de prompt específico
+
+Adult man (38), average build, professional but site-adapted posture, thoughtful problem-solving expression. Short brown hair, trimmed beard, rectangular glasses slightly dusty.
+
+Wearing a clean light gray polo shirt under a high-visibility yellow vest, dark chinos (not work trousers but not office trousers either), and sturdy brown shoes. A white hard hat, a tablet in one hand, a rolled-up plan in the other.
+
+Standing looking at a plan and then at the building, comparing. Color palette: clean gray polo, yellow vest, in-between tones — neither laborer nor full office.
+
+---
+
+4.14. Jordi Castelló – Electricista
+ID: jordi_electricista
+Rol: Electricista de l'obra, instal·lació elèctrica.
+
+Descripció de personatge
+
+En Jordi té 29 anys i és l'electricista contractat per a la instal·lació elèctrica de l'edifici. Té una complexió atlètica mitjana, acostumada a treballar amb les mans però no a carregar grans pesos. La seva feina és de precisió: cables, quadres, endolls.
+Podria carregar sacs si fes falta, té la forma física. Però no sap res de paleteria i si fa de manobre, la instal·lació elèctrica s'atura. A més, les bastides no li fan por — hi puja cada dia per passar cables.
+
+Bloque de prompt específico
+
+Young adult man (29), athletic medium build with capable hands, practical relaxed posture. Short dark hair, slight stubble, friendly approachable expression.
+
+Wearing a dark gray technical work shirt with many small pockets (for screwdrivers, testers), dark work trousers, and black safety boots. A yellow hard hat, a high-visibility vest. A tool belt with electrician-specific tools: wire strippers, voltage tester, rolls of electrical tape.
+
+Holding a coil of electrical cable in one hand. Color palette: dark gray technical shirt, yellow vest, electrician tool accents, skilled-trade tones.
+
+---
+
+4.15. Iván Petrov – Ferrallista
+ID: ivan_ferrallista
+Rol: Ferrallista, muntar armadures de ferro.
+
+Descripció de personatge
+
+L'Iván té 33 anys i va arribar de Bulgària fa vuit anys. És ferrallista: munta les armadures de ferro que van dins del formigó. El seu ofici requereix una força brutal — doblegar barres d'acer, carregar feixos de ferralla, treballar amb tenalles pesades tot el dia.
+Complexió molt forta i massissa. Probablement és la persona amb més força bruta de tota l'obra. Podria carregar sacs de 25 kg com si fossin coixins. Però no sap res de paleteria: el seu ofici és un altre. Per carregar i aguantar, és ideal. Per aixecar una paret recta, no.
+
+Bloque de prompt específico
+
+Adult man (33), very strong and heavy muscular build, thick arms and wide back, solid immovable posture. Short light brown hair, square face, broad jaw, stoic quiet expression. Pale skin slightly reddened from sun.
+
+Wearing a tight dirty white tank top showing massive arms and shoulders, heavy dark work trousers, and steel-toe boots. A high-visibility yellow vest, a white hard hat. Thick leather work gloves, steel wire marks on his forearms.
+
+Holding a heavy rebar bending tool or a bundle of steel rebar over one shoulder. Color palette: dirty white tank top, yellow vest, steel-gray rebar accents, raw industrial strength tones.
+
+---
+
+4.16. Lluís Cabot – Veí voluntari
+ID: lluis_vei
+Rol: Veí del costat de l'obra, s'ofereix a ajudar.
+
+Descripció de personatge
+
+En Lluís té 55 anys i viu al costat de l'obra. És comptable i treballa des de casa. Ha sortit al carrer a veure l'obra i, en veure que busquen gent, s'ha ofert voluntari perquè "de jove ajudava al pare a fer obres a casa".
+Complexió mitjana amb sobrepès, sedentari. Fa trenta anys que no agafa un maó. No té assegurança d'obra, no porta botes de seguretat i probablement es faria mal a l'esquena a la primera hora. Bona voluntat i zero utilitat real.
+
+Bloque de prompt específico
+
+Middle-aged man (55), soft overweight build with a noticeable belly, casual relaxed posture of someone who works from home, well-meaning but out-of-shape expression. Thinning gray hair, reading glasses pushed up on his forehead, pale untanned skin.
+
+Wearing a casual polo shirt tucked into khaki shorts, comfortable sandals with socks (absolutely not work footwear), and no safety gear whatsoever. A cup of coffee still in one hand.
+
+Standing at the edge of the scene, looking at the workers with interested but clueless enthusiasm. Color palette: casual summer polo, khaki shorts, sandal-and-socks combo, neighborly suburban tones — comically out of place.

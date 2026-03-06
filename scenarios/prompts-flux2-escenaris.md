@@ -125,3 +125,87 @@ Composition: wide horizontal format (landscape orientation, roughly 16:9), suita
 
 Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
 ```
+
+---
+
+## A5. L'obra de construcció — Obra en curs a ple sol
+
+```text
+Pixel art scene of an active building construction site in Catalonia on a hot sunny day, wide horizontal view.
+
+A partially built residential building, about three stories high, with exposed concrete columns and rebar sticking up from the top floor. Red brick walls partially raised on the second level, some sections still just the concrete structure. Metal scaffolding wraps around the front and side of the building with wooden planks as walkways. A concrete mixer and piles of construction materials in the foreground: stacked cement bags, pallets of bricks, mounds of sand, a wheelbarrow.
+
+The ground is dusty bare earth with tire tracks from trucks. A portable construction fence with orange mesh surrounds part of the site. A small portable toilet cabin (blue) in one corner. A makeshift shelter with a corrugated metal roof provides shade where a water cooler and some lunch boxes sit on a plywood table. Hard hats hanging from hooks on the scaffolding.
+
+Bright, harsh summer sunlight. Clear blue sky with no clouds. The shadows are short and sharp (midday sun). Heat haze barely suggested near the ground. A crane tower visible in the background against the sky.
+
+No humans, no characters, no people visible anywhere in the scene. No animals. Empty construction site only.
+
+Color palette: harsh sunlight yellows and whites, concrete gray, red brick, scaffolding metal silver, dusty earth brown, bright blue sky, orange construction mesh, safety yellow accents. Hot, exposed, industrial-labor atmosphere.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: harsh overhead midday sun with strong highlights and sharp short shadows. Everything feels exposed and hot. Consistent bright lighting across the scene.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the foreground where character sprites could be placed on top. The partially built structure should dominate the background. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```
+
+---
+
+## B1. La llar d'infants — Interior d'una llar d'infants amb aula de 2 anys
+
+```text
+Pixel art scene of the interior of a nursery school classroom for toddlers (2-year-olds) in Catalonia, wide horizontal view. Warm, bright, welcoming atmosphere.
+
+A spacious rectangular classroom with soft natural light coming through large windows on one wall. The floor is covered with colorful foam puzzle mats in soft primary colors. Low shelves along the walls hold baskets of toys: wooden blocks, soft dolls, picture books, stacking cups. A small reading corner with floor cushions and a tiny bookshelf in one corner.
+
+In the center, a low circular table with tiny chairs (toddler-sized), with some crayons and paper scattered on it. A play kitchen set in another corner with plastic pots and fake food. On the wall, children's artwork (finger paintings, handprints) pinned to a cork board at adult height. A growth chart near the door. Coat hooks at low height with small smocks hanging from them.
+
+Near the entrance, a changing station with shelves of diapers, wipes, and small labeled cubbies for each child's belongings. A small sink at child height next to a regular sink at adult height. A stack of small cots or mats for nap time visible in a corner.
+
+Soft warm lighting, clean and tidy but clearly lived-in and used. Colorful but not garish — warm yellows, soft blues, gentle greens, natural wood tones.
+
+No humans, no characters, no people visible anywhere in the scene. No children, no adults. Empty classroom only.
+
+Color palette: warm soft primary colors on the floor mats, natural wood shelving, white walls with colorful artwork, gentle pastels throughout. Clean, welcoming, safe-feeling tones.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: warm natural daylight from the windows, supplemented by soft overhead lights. Bright, cheerful and safe atmosphere. Consistent even lighting with gentle shadows.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the center or foreground where character sprites could be placed on top. The classroom environment should feel inviting and clearly designed for very small children. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```
+
+---
+
+## B2. Cuidar una persona gran — Interior del pis d'una persona gran que viu sola
+
+```text
+Pixel art scene of the interior of an elderly person's apartment in a medium-sized Catalan city, wide horizontal view. Warm, quiet, slightly melancholic atmosphere.
+
+A modest but dignified living room connected to a small open kitchen. The apartment is clean but showing signs of age and solitude. A well-worn sofa with a crocheted blanket draped over it, facing an old TV set on a wooden cabinet. A small side table next to the sofa holds a pill organizer, a glass of water, reading glasses, and a remote control. A walking cane leans against the armrest.
+
+The walls have floral wallpaper slightly faded with time. Framed family photographs hang on the wall — old black-and-white photos and some color ones from decades ago. A china cabinet with decorative plates and small figurines. A wall clock with a pendulum. A calendar from a pharmacy pinned near the kitchen entrance with some dates circled in pen.
+
+The kitchen area is small and practical: white tiles, a gas stove with a coffee pot on it, a small table with a checkered tablecloth set for one person — a single plate, a cup, a napkin. A basket of fruit (some slightly overripe) on the counter. Medication bottles lined up near the sink. A shopping list written on a notepad stuck to the fridge with magnets.
+
+Near the entrance door, a coat rack with a light jacket and a small handbag. A pair of orthopedic shoes on the floor. A landline telephone on a small table in the hallway.
+
+The overall feeling is of a life lived long and fully, now reduced to a quiet routine. Everything is in place but suggests loneliness — one cup, one plate, silence.
+
+No humans, no characters, no people visible anywhere in the scene. No pets. Empty apartment only.
+
+Color palette: warm faded tones — soft yellows, cream walls, brown wood furniture, muted floral patterns, warm lamp light, touches of white from the kitchen tiles. Nothing bright or modern — everything speaks of decades of use and comfort.
+
+Art style: pixel art aesthetic inspired by classic video game backgrounds. Visible blocky pixels, limited color palette (no gradients), clean hard edges, no anti-aliasing, no soft shading, no glow effects. Use 3–5 tones per color (light, mid, dark). The image should look like a high-resolution pixel art scene — large visible pixels as a stylistic choice, not a low-resolution image.
+
+Lighting: warm interior light, a mix of natural daylight coming through lace curtains and a soft table lamp turned on. The atmosphere should feel quiet and intimate, slightly dim but not dark. Consistent gentle lighting with soft shadows.
+
+Composition: wide horizontal format (landscape orientation, roughly 16:9), suitable for a game background, with visual space in the center or foreground where character sprites could be placed on top. The apartment should feel lived-in, personal, and slightly sad in its solitude. The scene should feel like a stage or diorama.
+
+Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
+```

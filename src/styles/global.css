@@ -170,6 +170,16 @@ button {
   color: var(--color-text);
 }
 
+/* Version History Backdrop */
+.start-screen__versions-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+}
+
 /* Version History Panel */
 .start-screen__versions {
   position: fixed;
