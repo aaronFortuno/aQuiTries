@@ -7,6 +7,8 @@ import personaArmada from './persona-armada.png';
 export const scenarioBackgrounds = {
   P1: tribuPaleolitica,
   A2: arbreCaigut,
+  A3: incendiForestal,
+  A4: personaArmada,
 };
 
 // All available backgrounds for the gallery rotation

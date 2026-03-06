@@ -9,6 +9,8 @@ const VERSION_HISTORY = [
     changes: {
       ca: [
         'Nou escenari: "L\'arbre caigut" amb 20 personatges',
+        'Nou escenari: "L\'incendi forestal" amb 18 personatges i doble tasca',
+        'Nou escenari: "La persona armada" amb 12 professionals i selecció de 2',
         'Selecció aleatòria d\'escenaris',
         'Botons per saltar situació i finalitzar sessió',
         'Fons dinàmics per escenari amb transició suau',
@@ -18,6 +20,8 @@ const VERSION_HISTORY = [
       ],
       es: [
         'Nuevo escenario: "El árbol caído" con 20 personajes',
+        'Nuevo escenario: "El incendio forestal" con 18 personajes y doble tarea',
+        'Nuevo escenario: "La persona armada" con 12 profesionales y selección de 2',
         'Selección aleatoria de escenarios',
         'Botones para saltar situación y finalizar sesión',
         'Fondos dinámicos por escenario con transición suave',
