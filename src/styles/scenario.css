@@ -7,6 +7,12 @@
 .scenario__header {
   text-align: center;
   margin-bottom: 1.5rem;
+  background: rgba(250, 246, 241, 0.82);
+  border-radius: var(--radius-md);
+  padding: 1.5rem 1.5rem 1rem;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .scenario__progress {
@@ -117,12 +123,15 @@
   cursor: pointer;
   user-select: none;
   transition: color 0.15s ease, background 0.15s ease;
-  background: linear-gradient(to right, rgba(250, 246, 241, 0.85) 40%, transparent);
+  background: rgba(250, 246, 241, 0.85);
   z-index: 5;
+  border-radius: var(--radius-md) 0 0 var(--radius-md);
+  margin: 0.25rem 0;
+  align-self: stretch;
 }
 
 .scenario__arrow--right {
-  background: linear-gradient(to left, rgba(250, 246, 241, 0.85) 40%, transparent);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
 }
 
 .scenario__arrow:hover {
@@ -143,6 +152,12 @@
   font-size: 0.75rem;
   color: var(--color-text-light);
   margin-bottom: 1.5rem;
+  background: rgba(250, 246, 241, 0.82);
+  border-radius: var(--radius-md);
+  padding: 0.5rem 1rem;
+  max-width: 750px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .skills-legend__item {
