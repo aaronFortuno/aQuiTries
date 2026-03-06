@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useRef } from 'react';
 import scenariosCa from '../data/scenarios.json';
 import scenariosEs from '../data/scenarios_es.json';
 import { shuffle } from '../utils/shuffle';
@@ -8,15 +8,16 @@ const scenariosByLocale = { ca: scenariosCa, es: scenariosEs };
 export function useScenarioManager(locale = 'ca') {
   const scenarios = useMemo(() => {
     const data = scenariosByLocale[locale] || scenariosCa;
-    return data.map(scenario => ({
+    return shuffle(data.map(scenario => ({
       ...scenario,
       characters: shuffle(scenario.characters),
-    }));
+    })));
   }, [locale]);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selections, setSelections] = useState([]);
   const [currentSelection, setCurrentSelection] = useState([]);
+  const [completedIds, setCompletedIds] = useState([]);
 
   const currentScenario = scenarios[currentIndex] || null;
   const totalScenarios = scenarios.length;
@@ -53,6 +54,7 @@ export function useScenarioManager(locale = 'ca') {
         totalCharacters: currentScenario.characters.length,
       },
     ]);
+    setCompletedIds(prev => [...prev, currentScenario.id]);
     return true;
   }, [currentScenario, currentSelection]);
 
@@ -61,10 +63,33 @@ export function useScenarioManager(locale = 'ca') {
     setCurrentIndex(prev => prev + 1);
   }, []);
 
+  const skipScenario = useCallback(() => {
+    setCurrentSelection([]);
+    // Find next scenario not yet completed; if all done, just advance
+    const nextIdx = scenarios.findIndex(
+      (s, i) => i > currentIndex && !completedIds.includes(s.id)
+    );
+    if (nextIdx !== -1) {
+      setCurrentIndex(nextIdx);
+    } else {
+      // Wrap around to find any uncompleted
+      const wrapIdx = scenarios.findIndex(
+        (s) => !completedIds.includes(s.id) && s.id !== currentScenario?.id
+      );
+      if (wrapIdx !== -1) {
+        setCurrentIndex(wrapIdx);
+      } else {
+        // All completed or only one left, just go next
+        setCurrentIndex(prev => prev + 1);
+      }
+    }
+  }, [scenarios, currentIndex, completedIds, currentScenario]);
+
   const reset = useCallback(() => {
     setCurrentIndex(0);
     setSelections([]);
     setCurrentSelection([]);
+    setCompletedIds([]);
   }, []);
 
   return {
@@ -77,6 +102,7 @@ export function useScenarioManager(locale = 'ca') {
     toggleCharacter,
     confirmSelection,
     nextScenario,
+    skipScenario,
     reset,
   };
 }

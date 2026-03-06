@@ -4,6 +4,40 @@
   padding: 1.5rem 1rem 3rem;
 }
 
+/* Toolbar — skip & finish buttons */
+.scenario__toolbar {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.scenario__toolbar-btn {
+  background: rgba(250, 246, 241, 0.82);
+  color: var(--color-text-light);
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 0.4rem 1rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  transition: background var(--transition), color var(--transition);
+}
+
+.scenario__toolbar-btn:hover {
+  background: var(--color-bg-card);
+  color: var(--color-text);
+}
+
+.scenario__toolbar-btn--finish {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+.scenario__toolbar-btn--finish:hover {
+  background: var(--color-accent);
+  color: white;
+}
+
 .scenario__header {
   text-align: center;
   margin-bottom: 1.5rem;

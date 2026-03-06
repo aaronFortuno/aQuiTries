@@ -33,6 +33,7 @@ function AppContent() {
     toggleCharacter,
     confirmSelection,
     nextScenario,
+    skipScenario,
     reset,
   } = useScenarioManager(locale);
 
@@ -44,6 +45,14 @@ function AppContent() {
     } else {
       nextScenario();
     }
+  };
+
+  const handleSkip = () => {
+    skipScenario();
+  };
+
+  const handleFinish = () => {
+    setScreen('end');
   };
 
   const handleRestart = () => {
@@ -70,6 +79,8 @@ function AppContent() {
         onToggle={toggleCharacter}
         onConfirm={confirmSelection}
         onNext={handleNext}
+        onSkip={handleSkip}
+        onFinish={handleFinish}
         isLast={isLastScenario}
         scenarioNumber={currentIndex + 1}
         totalScenarios={totalScenarios}

@@ -5,6 +5,8 @@ const es = {
     resistencia: 'Resistencia',
     precisio: 'Precisión',
     treballEnEquip: 'Trabajo en equipo',
+    habilitatEines: 'Habilidad con herramientas',
+    coneixementTecnic: 'Conocimiento técnico',
   },
   skillsShort: {
     força: 'F',
@@ -12,6 +14,17 @@ const es = {
     resistència: 'R',
     precisió: 'P',
     'treball en equip': 'TE',
+    'habilitat amb eines': 'HH',
+    'coneixement tècnic': 'CT',
+  },
+  skillNames: {
+    força: 'Fuerza',
+    velocitat: 'Velocidad',
+    resistència: 'Resistencia',
+    precisió: 'Precisión',
+    'treball en equip': 'Trabajo en equipo',
+    'habilitat amb eines': 'Habilidad con herramientas',
+    'coneixement tècnic': 'Conocimiento técnico',
   },
   legend: '{short}: {name}',
   ui: {
@@ -41,6 +54,10 @@ const es = {
     endMessage: 'Recordad: las habilidades de las personas no dependen de su género. Lo que importa es lo que saben hacer, no quiénes son.',
     menLabel: 'Hombres',
     womenLabel: 'Mujeres',
+    skipScenario: 'Saltar situación',
+    finishSession: 'Finalizar sesión',
+    versionHistory: 'Historial de versiones',
+    version: 'Versión',
   },
 };
 

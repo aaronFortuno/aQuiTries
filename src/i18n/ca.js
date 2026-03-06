@@ -5,6 +5,8 @@ const ca = {
     resistencia: 'Resistència',
     precisio: 'Precisió',
     treballEnEquip: 'Treball en equip',
+    habilitatEines: 'Habilitat amb eines',
+    coneixementTecnic: 'Coneixement tècnic',
   },
   skillsShort: {
     força: 'F',
@@ -12,6 +14,17 @@ const ca = {
     resistència: 'R',
     precisió: 'P',
     'treball en equip': 'TE',
+    'habilitat amb eines': 'HE',
+    'coneixement tècnic': 'CT',
+  },
+  skillNames: {
+    força: 'Força',
+    velocitat: 'Velocitat',
+    resistència: 'Resistència',
+    precisió: 'Precisió',
+    'treball en equip': 'Treball en equip',
+    'habilitat amb eines': 'Habilitat amb eines',
+    'coneixement tècnic': 'Coneixement tècnic',
   },
   legend: '{short}: {name}',
   ui: {
@@ -41,6 +54,10 @@ const ca = {
     endMessage: 'Recordeu: les habilitats de les persones no depenen del seu gènere. El que importa és el que saben fer, no qui són.',
     menLabel: 'Homes',
     womenLabel: 'Dones',
+    skipScenario: 'Saltar situació',
+    finishSession: 'Finalitzar sessió',
+    versionHistory: 'Historial de versions',
+    version: 'Versió',
   },
 };
 

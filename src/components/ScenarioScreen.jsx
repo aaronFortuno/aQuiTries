@@ -1,17 +1,9 @@
-import { useState, useRef, useEffect, useCallback } from 'react';
+import { useState, useRef, useEffect, useCallback, useMemo } from 'react';
 import CharacterCard from './CharacterCard';
 import SelectionCounter from './SelectionCounter';
 import ReflectionModal from './ReflectionModal';
 import { useTranslation } from '../i18n';
 import '../styles/scenario.css';
-
-const SKILL_KEYS = [
-  { shortKey: 'F', i18nKey: 'skills.forca' },
-  { shortKey: 'V', i18nKey: 'skills.velocitat' },
-  { shortKey: 'R', i18nKey: 'skills.resistencia' },
-  { shortKey: 'P', i18nKey: 'skills.precisio' },
-  { shortKey: 'TE', i18nKey: 'skills.treballEnEquip' },
-];
 
 const SCROLL_SPEED = 6;
 
@@ -21,12 +13,25 @@ export default function ScenarioScreen({
   onToggle,
   onConfirm,
   onNext,
+  onSkip,
+  onFinish,
   isLast,
   scenarioNumber,
   totalScenarios,
 }) {
   const [showReflection, setShowReflection] = useState(false);
   const { t } = useTranslation();
+
+  // Derive skill keys dynamically from the first character's skills
+  const skillKeys = useMemo(() => {
+    if (!scenario.characters.length) return [];
+    const skills = scenario.characters[0].skills;
+    return Object.keys(skills).map(key => ({
+      key,
+      short: t(`skillsShort.${key}`) || key.charAt(0).toUpperCase(),
+      name: t(`skillNames.${key}`) || key,
+    }));
+  }, [scenario, t]);
   const selectionComplete = currentSelection.length === scenario.toSelect;
 
   const gridRef = useRef(null);
@@ -87,6 +92,15 @@ export default function ScenarioScreen({
 
   return (
     <div className="scenario">
+      <div className="scenario__toolbar">
+        <button className="scenario__toolbar-btn" onClick={onSkip}>
+          {t('ui.skipScenario')}
+        </button>
+        <button className="scenario__toolbar-btn scenario__toolbar-btn--finish" onClick={onFinish}>
+          {t('ui.finishSession')}
+        </button>
+      </div>
+
       <header className="scenario__header">
         <span className="scenario__progress">
           {t('ui.scenarioProgress', { current: scenarioNumber, total: totalScenarios })}
@@ -132,9 +146,9 @@ export default function ScenarioScreen({
       </div>
 
       <div className="skills-legend">
-        {SKILL_KEYS.map(({ shortKey, i18nKey }) => (
-          <span key={shortKey} className="skills-legend__item">
-            {shortKey}: {t(i18nKey)}
+        {skillKeys.map(({ key, short, name }) => (
+          <span key={key} className="skills-legend__item">
+            {short}: {name}
           </span>
         ))}
       </div>
