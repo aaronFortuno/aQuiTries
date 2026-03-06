@@ -77,35 +77,59 @@
   transform: scale(1.2);
 }
 
-/* Character Grid — Horizontal gallery */
+/* Character Gallery — grid + arrow wrapper */
+.scenario__gallery {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 2rem;
+}
+
 .scenario__grid {
   display: flex;
   overflow-x: auto;
   gap: 0.5rem;
   padding: 0.5rem 0.25rem;
-  margin-bottom: 2rem;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
+  flex: 1;
+  min-width: 0;
+  /* Hide scrollbar */
+  scrollbar-width: none;
 }
 
-/* Styled scrollbar */
 .scenario__grid::-webkit-scrollbar {
-  height: 6px;
+  display: none;
 }
 
-.scenario__grid::-webkit-scrollbar-track {
-  background: var(--color-border);
-  border-radius: 3px;
+/* Scroll Arrows */
+.scenario__arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  flex-shrink: 0;
+  font-size: 2rem;
+  font-weight: 300;
+  color: var(--color-text-light);
+  cursor: pointer;
+  user-select: none;
+  transition: color 0.15s ease, background 0.15s ease;
+  background: linear-gradient(to right, var(--color-bg) 60%, transparent);
+  z-index: 5;
 }
 
-.scenario__grid::-webkit-scrollbar-thumb {
-  background: var(--color-accent);
-  border-radius: 3px;
+.scenario__arrow--right {
+  background: linear-gradient(to left, var(--color-bg) 60%, transparent);
 }
 
-.scenario__grid {
-  scrollbar-width: thin;
-  scrollbar-color: var(--color-accent) var(--color-border);
+.scenario__arrow:hover {
+  color: var(--color-accent);
+}
+
+.scenario__arrow--hidden {
+  opacity: 0;
+  pointer-events: none;
 }
 
 /* Skills Legend — horizontal below grid */

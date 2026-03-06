@@ -1,0 +1,347 @@
+4. Fichas de personaje (20 vecinos del pueblo)
+Cada ficha tiene:
+
+ID: identificador breve para la app.
+Rol: oficio o función principal en el pueblo.
+Descripción de personaje: texto narrativo para el juego.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+4.1. Jordi Pla – Llenyataire
+ID: jordi_llenyataire
+Rol: Leñador profesional, experto en tala y manejo de madera.
+
+Descripción de personaje
+
+Jordi és un home de 45 anys, de complexió forta i espatlles amples, curtit per anys de feina al bosc tallant llenya i gestionant masses forestals. Té les mans grosses i calloses, i es mou amb una seguretat tranquil·la pròpia de qui coneix bé la feina física pesada.
+Al poble tothom sap que si cal tallar un arbre, en Jordi és la primera persona a qui trucar. Coneix cada tipus de fusta, sap per on tallar i com fer caure un tronc sense riscos. És pragmàtic, de poques paraules, i sempre porta la destral a mà.
+
+Bloque de prompt específico
+
+Middle-aged man (45), strong and broad-shouldered build, large calloused hands, calm and confident expression. Short brown hair with a few gray streaks, slight stubble. Tanned, weathered skin from years of outdoor work.
+
+Wearing a dark green work jacket over a flannel shirt, sturdy blue work jeans, and heavy brown leather boots. A wide leather belt with a small utility pouch. Work gloves tucked into his belt.
+
+Holding a large wood-splitting axe resting on one shoulder with his right hand. Color palette: forest greens, dark browns, denim blue, muted flannel reds.
+
+4.2. Marta Valls – Pagesa ramadera
+ID: marta_pagesa
+Rol: Agricultora y ganadera, lleva una explotación de cabras y ovejas.
+
+Descripción de personaje
+
+La Marta té 38 anys i porta tota la vida treballant al camp. Gestiona un petit ramat de cabres i ovelles, i a temporades també fa feines d'hort i de manteniment de terres. Té una complexió forta i musculada, amb braços poderosos acostumats a carregar bales de palla, moure tanques i subjectar animals.
+No li fa cap por la feina dura. Sovint és més forta que molts homes del poble, i ho sap sense necessitat de demostrar-ho. Té un caràcter directe i resolutiu.
+
+Bloque de prompt específico
+
+Adult woman (38), strong and muscular build with powerful arms and shoulders, upright confident posture. Brown hair tied back in a practical ponytail, no-nonsense expression. Slightly tanned, healthy skin.
+
+Wearing a dark work vest over a long-sleeved gray t-shirt, sturdy brown canvas trousers tucked into tall rubber farm boots. A leather belt with a multi-tool pouch.
+
+Hands at her sides, one hand resting on a coiled rope hanging from her belt. Color palette: earthy browns, dark gray, olive green, muted khaki.
+
+4.3. Pere Soler – Ferrer jubilat
+ID: pere_ferrer
+Rol: Herrero jubilado, todavía activo en el taller para trabajos puntuales.
+
+Descripción de personaje
+
+En Pere té 67 anys i va ser el ferrer del poble durant dècades. Tot i estar jubilat, encara manté el taller obert per a petites feines: afilar eines, reparar reixes, forjar ganivets. Conserva una força considerable al tren superior, fruit d'anys movent el martell sobre l'enclusa.
+Camina una mica més lent que abans i li costa la feina de llarga durada, però per a un esforç intens i curt encara és molt capaç. Té un caràcter afable i sempre està disposat a ajudar.
+
+Bloque de prompt específico
+
+Older man (67), still broad and strong in the upper body but showing his age in posture, slightly slower gait. Gray hair, short and practical, full gray beard neatly kept. Kind, steady expression with deep smile lines.
+
+Wearing a heavy leather work apron over a dark wool sweater, sturdy dark trousers, and old but solid leather work boots. Thick forearms visible where sleeves are rolled up.
+
+Holding a medium-sized blacksmith hammer in one hand, resting it at his side. Color palette: dark leather brown, charcoal gray, deep wool blue, iron accents.
+
+4.4. Laia Comes – Monitora esportiva
+ID: laia_monitora
+Rol: Monitora de fitness y actividades a l'aire lliure a la comarca.
+
+Descripción de personaje
+
+La Laia té 32 anys i va arribar al poble fa cinc anys buscant un canvi de vida. Porta classes de fitness, rutes de senderisme i activitats esportives per la comarca. Té una complexió atlètica, molt en forma, amb una resistència física notable.
+Tot i no tenir experiència amb destrals ni eines forestals, la seva força, agilitat i resistència la fan perfectament capaç de feina física pesada. És entusiasta, col·laborativa i sempre es presenta voluntària.
+
+Bloque de prompt específico
+
+Young adult woman (32), athletic and fit build, toned arms and legs, energetic and confident posture. Dark hair in a short practical cut above the shoulders. Bright, determined expression.
+
+Wearing a fitted technical sport jacket (dark blue) with zip, comfortable hiking trousers in dark gray, and trail running shoes. A small sport watch on her wrist. No heavy accessories.
+
+Hands relaxed at her sides, posture upright and ready. Color palette: navy blue, dark gray, touches of bright orange on shoes and jacket details.
+
+4.5. Ramon Grau – Paleta
+ID: ramon_paleta
+Rol: Albañil y constructor, manitas del pueblo.
+
+Descripción de personaje
+
+En Ramon té 50 anys i és el paleta de referència del poble i els voltants. Ha construït i reparat mitges cases de la zona. Té una complexió robusta i compacta, amb mans grans i esquena ampla. Està acostumat a carregar sacs de ciment, moure pedres i treballar amb eines pesades durant hores.
+És un home sociable, bromista i sempre disposat a donar un cop de mà. Coneix bé la mecànica de les estructures i sap com moure pesos grans de manera segura.
+
+Bloque de prompt específico
+
+Middle-aged man (50), stocky and compact build with wide back and large hands, relaxed but sturdy posture. Balding head with short remaining hair on the sides, slight belly but clearly strong underneath. Friendly, approachable expression.
+
+Wearing a dusty beige work jacket with many pockets, a faded blue t-shirt underneath, heavy-duty khaki work trousers, and scuffed brown steel-toe boots. A measuring tape clipped to his belt.
+
+One hand in a pocket, the other holding a pair of thick work gloves. Color palette: dusty beige, faded blue, khaki brown, muted work tones.
+
+4.6. Núria Font – Veterinària
+ID: nuria_veterinaria
+Rol: Veterinaria rural de la comarca.
+
+Descripción de personaje
+
+La Núria té 40 anys i és la veterinària que atén les granges de la zona. Està acostumada a treballar amb animals grans —vaques, cavalls, eugues de part— i per tant no li és estranya la feina física. Té una complexió mitjana, ni especialment forta ni feble.
+És metòdica, pràctica i resolutiva. Davant d'un problema, analitza primer i actua després. Al poble la respecten per la seva competència i el seu tracte proper.
+
+Bloque de prompt específico
+
+Adult woman (40), average build, practical and composed posture. Medium-length brown hair tied in a low bun, rectangular glasses, calm professional expression.
+
+Wearing a dark green quilted field vest over a light blue button shirt, dark jeans, and sturdy waterproof boots. A small leather satchel or field bag across one shoulder.
+
+One hand adjusting her glasses, the other resting on the strap of her bag. Color palette: dark green, light blue, brown leather, navy denim.
+
+4.7. Txell Roca – Carpintera
+ID: txell_carpintera
+Rol: Carpintera, especialista en fusta i restauració.
+
+Descripción de personaje
+
+La Txell té 35 anys i regenta un petit taller de fusteria al poble. Fa mobles a mida, restaura bigues antigues i repara teulades. Coneix la fusta millor que la majoria: sap quines eines calen per a cada tipus, com serrar sense malmetre i com calcular el pes d'un tronc.
+Té una complexió mitjana-forta, braços definits per la feina manual constant. És meticulosa, independent i una mica reservada, però quan parla de fusta se li il·luminen els ulls.
+
+Bloque de prompt específico
+
+Adult woman (35), medium-strong build with defined forearms and practical hands, focused and slightly reserved expression. Light brown hair pulled back under a simple cloth bandana. Sawdust lightly visible on her clothes.
+
+Wearing a canvas work apron over a dark red long-sleeve henley shirt, sturdy brown cargo trousers, and solid work boots. A pencil tucked behind one ear, a folding ruler sticking out of her apron pocket.
+
+Holding a hand saw in one hand, blade pointing down. Color palette: canvas tan, dark red, warm brown, natural wood tones.
+
+4.8. Andreu Mas – Mestre d'escola
+ID: andreu_mestre
+Rol: Maestro de la escuela rural del pueblo.
+
+Descripción de personaje
+
+L'Andreu té 42 anys i és el mestre de l'escola rural. Passa la major part del dia en un entorn interior, i la seva forma física és mitjana tirant a sedentària. No està acostumat a la feina física pesada, tot i que de jove feia senderisme.
+És una persona culta, empàtica i amb bona voluntat, sempre disposat a ajudar. Però la realitat és que la seva aportació en una tasca de força bruta seria limitada. Podria col·laborar en tasques de suport o organització.
+
+Bloque de prompt específico
+
+Adult man (42), average build with a slightly soft physique, upright but not particularly sturdy posture. Brown hair neatly combed to the side, clean-shaven, warm friendly expression behind round glasses.
+
+Wearing a light gray wool cardigan over a white button-down shirt, dark brown corduroy trousers, and brown leather casual shoes (not work boots). A small book or notebook visible in his cardigan pocket.
+
+Hands together in front of him, relaxed and approachable pose. Color palette: soft gray, white, brown corduroy, warm muted tones.
+
+4.9. Gemma Pujol – Pastora
+ID: gemma_pastora
+Rol: Pastora de muntanya, gestiona un ramat d'ovelles.
+
+Descripción de personaje
+
+La Gemma té 55 anys i és pastora de tota la vida. Cada dia camina quilòmetres per la muntanya amb el seu ramat. Té una complexió prima però extremadament resistent i fibrosa, acostumada a l'esforç sostingut, el fred i el terreny difícil.
+No té la força explosiva d'un llenyataire, però aguanta hores i hores de feina sense queixar-se. Coneix el terreny, els camins i el bosc com ningú. Parla poc, observa molt, i quan diu alguna cosa, val la pena escoltar-la.
+
+Bloque de prompt específico
+
+Older woman (55), lean and wiry build, tough and weather-hardened appearance, steady calm expression with sharp observant eyes. Gray-streaked dark hair under a worn wool beret, deeply tanned and lined face.
+
+Wearing a thick dark wool sweater with a high collar, faded olive work trousers, tall leather hiking boots well-worn from mountain use. A shepherd's crook-style walking stick in one hand.
+
+Standing with a slightly forward lean, as if used to walking uphill. Color palette: dark wool charcoal, olive green, worn leather brown, muted earth tones.
+
+4.10. Miquel Serra – Informàtic / teletreball
+ID: miquel_informatic
+Rol: Programador que teletreballa des del poble.
+
+Descripción de personaje
+
+En Miquel té 34 anys i va venir al poble fa dos anys per teletreballar com a programador. Passa la major part del dia assegut davant l'ordinador. Té una complexió corpulenta amb sobrepès evident, poca resistència física i gairebé cap experiència amb feina manual.
+És simpàtic, intel·ligent i amb ganes de fer comunitat, però la realitat és que per tallar un arbre amb destral no és la persona més indicada. Podria ajudar en tasques lleugeres o logístiques.
+
+Bloque de prompt específico
+
+Young adult man (34), overweight build with round belly, soft arms, slightly slouched posture. Short curly dark hair, patchy beard, friendly but slightly uncertain expression. Pale skin from indoor lifestyle.
+
+Wearing a dark hoodie with a visible tech company logo, comfortable loose jeans, and white sneakers (not work shoes). Wireless earbuds around his neck, a smartphone visible in his hand.
+
+Standing with hands slightly apart, looking a bit out of place. Color palette: dark hoodie gray, denim blue, white sneakers, pale skin tones, tech-modern accents.
+
+4.11. Rosa Batlle – Àvia activa
+ID: rosa_avia
+Rol: Abuela activa del pueblo, hortelana incansable.
+
+Descripción de personaje
+
+La Rosa té 70 anys i és una de les àvies més actives del poble. Cada dia treballa el seu hort, porta llenya, neteja, i camina amunt i avall sense parar. Tot i l'edat, manté una energia i una fortalesa sorprenents.
+Tothom la coneix i la respecta. Ella mateixa diria que està "en plena forma", i no aniria del tot desencaminada, encara que evidentment ja no té la força d'una persona jove. Té un caràcter fort, directe i una mica brusca però amb bon cor.
+
+Bloque de prompt específico
+
+Elderly woman (70), small but surprisingly sturdy build, upright posture for her age, determined and slightly stern expression. White hair in a practical short cut, deeply lined face with sharp lively eyes.
+
+Wearing a simple dark floral-print house dress under a thick brown knitted cardigan, dark stockings, and sturdy low black shoes. A small gardening apron still tied around her waist.
+
+Holding a small garden hoe or rake in one hand, other hand on her hip in a no-nonsense pose. Color palette: dark floral muted tones, brown cardigan, black shoes, natural elderly skin tones.
+
+4.12. Sergi Ferrer – Jove atleta
+ID: sergi_atleta
+Rol: Estudiant universitari i esportista, fill del poble.
+
+Descripción de personaje
+
+En Sergi té 19 anys i estudia CAFE (Ciències de l'Activitat Física i l'Esport) a la universitat, però els caps de setmana torna al poble. Fa crossfit, juga a rugby i té una forma física excel·lent: complexió forta, musculada i amb molta energia.
+No té experiència amb eines forestals, però la força i la resistència no li falten. És entusiasta, una mica impulsiu, i sempre vol demostrar que pot amb tot. Encara li falta l'experiència i la calma dels veterans.
+
+Bloque de prompt específico
+
+Young man (19), tall and muscular athletic build, broad shoulders, energetic and eager expression. Short buzz-cut dark hair, clean-shaven, youthful face. Healthy tanned skin.
+
+Wearing a tight-fitting dark gray athletic t-shirt that shows his muscular build, black sport joggers, and bright-colored training shoes. A small sports backpack slung over one shoulder.
+
+Standing with arms slightly crossed, confident youthful posture. Color palette: dark gray, black, bright accent color on shoes (orange or red), youthful and modern tones.
+
+4.13. Carme Puig – Alcaldessa
+ID: carme_alcaldessa
+Rol: Alcaldessa del poble, gestora i representant institucional.
+
+Descripción de personaje
+
+La Carme té 52 anys i és l'alcaldessa del poble des de fa dos mandats. Té una complexió mitjana, ni forta ni feble, i una presència que imposa més per l'autoritat personal que pel físic. Està acostumada a gestionar, organitzar i coordinar, però no a la feina física pesada.
+El seu valor en una situació com aquesta seria més de coordinació i lideratge que de força bruta. Coneix tothom, sap delegar i té accés a recursos (pot trucar bombers, demanar ajuda comarcal, etc.).
+
+Bloque de prompt específico
+
+Middle-aged woman (52), average build, composed and authoritative posture, calm leadership expression. Dark brown hair with gray streaks, cut at shoulder length, neat and professional. Reading glasses pushed up on her head.
+
+Wearing a practical dark blue fleece jacket over a beige blouse, dark trousers, and comfortable but presentable ankle boots. A small folder or clipboard under one arm, a mobile phone in the other hand.
+
+Standing with an organized, decisive posture. Color palette: navy blue, beige, dark brown, professional but rural-practical tones.
+
+4.14. Pau Sala – Adolescent
+ID: pau_adolescent
+Rol: Adolescent del poble, estudiant d'ESO.
+
+Descripción de personaje
+
+En Pau té 16 anys i encara està creixent. Té una complexió alta però prima, amb cames llargues i braços d'adolescent que encara no han agafat cos. No ha treballat mai en feina física real més enllà d'ajudar al pare ocasionalment.
+Té bona voluntat i ganes de participar, però li falta força, resistència i experiència. Podria ajudar en tasques lleugeres, però per tallar un arbre amb destral seria clarament insuficient. És tímid, una mica insegur, i mira el mòbil constantment.
+
+Bloque de prompt específico
+
+Teenage boy (16), tall but very thin and lanky build, narrow shoulders, slightly awkward adolescent posture. Messy medium-length brown hair falling over his forehead, a few pimples, shy uncertain expression.
+
+Wearing an oversized dark hoodie with the sleeves slightly too long, skinny jeans, and worn-out skate shoes. Wired earphones dangling from one ear, a smartphone half-visible in his front pocket.
+
+Standing with one hand in his hoodie pocket, slightly hunched and unsure. Color palette: dark hoodie tones, faded denim, muted adolescent-casual colors.
+
+4.15. Montse Badia – Bombera voluntària
+ID: montse_bombera
+Rol: Bombera voluntària del parc comarcal.
+
+Descripción de personaje
+
+La Montse té 37 anys i és bombera voluntària al parc comarcal. Ha participat en desenes d'intervencions forestals: incendis, arbres caiguts, esllavissades. Té una complexió forta i entrenada, amb experiència directa en exactament el tipus de feina que cal fer ara.
+A més de la força, aporta coneixement tècnic: sap com tallar un arbre de manera segura, com coordinar un equip i com evitar accidents. És decidida, competent i acostumada a treballar sota pressió.
+
+Bloque de prompt específico
+
+Adult woman (37), strong and trained build, solid shoulders, firm confident posture. Dark hair pulled back tightly in a practical bun, serious focused expression. Slightly weathered skin from outdoor emergency work.
+
+Wearing a dark red technical work jacket with reflective strips on the sleeves, heavy-duty dark cargo trousers, and thick-soled black safety boots. Work gloves tucked into her belt, a small radio clipped to her chest.
+
+Standing with feet slightly apart, hands at her sides, ready and alert posture. Color palette: dark red, black, reflective silver accents, high-visibility practical tones.
+
+4.16. Quim Rovira – Pagès gran
+ID: quim_pages
+Rol: Pagès gran, tota la vida treballant la terra.
+
+Descripción de personaje
+
+En Quim té 63 anys i ha estat pagès tota la vida: camps de cereal, arbres fruiters, llenya. Té una complexió seca i fibrosa, amb els braços marcats per dècades de feina manual. No és un home corpulent, però la seva resistència i el seu coneixement pràctic són enormes.
+Els anys comencen a pesar-li a l'esquena i als genolls, però per un esforç puntual encara rendeix molt bé. Coneix el bosc, les eines i la fusta. Parla amb accent marcat i frases curtes.
+
+Bloque de prompt específico
+
+Older man (63), lean and wiry build with ropy forearms, slightly weathered posture but still solid. Thinning gray hair under a faded brown flat cap, deeply tanned and lined face, serious quiet expression.
+
+Wearing a faded plaid flannel shirt with rolled-up sleeves showing sinewy forearms, dark work trousers held up by old suspenders, and worn brown leather ankle boots. A small folding knife sheath on his belt.
+
+Holding a small hand axe or hatchet loosely in one hand. Color palette: faded plaid blues and reds, dark work brown, worn leather, sun-weathered skin tones.
+
+4.17. Berta Solé – Fisioterapeuta
+ID: berta_fisio
+Rol: Fisioterapeuta, consulta al poble.
+
+Descripción de personaje
+
+La Berta té 44 anys i porta una petita consulta de fisioteràpia al poble. Coneix molt bé el cos humà, les lesions i els límits físics. Té una complexió mitjana, manté certa forma però no és especialment forta.
+En una situació com tallar un arbre, podria ajudar d'una manera diferent: assessorar sobre postures segures, prevenir lesions, i atendre a qualsevol que es fes mal. La seva aportació seria més tècnica-sanitària que de força.
+
+Bloque de prompt específico
+
+Adult woman (44), average build, good posture from professional habit, calm and observant expression. Shoulder-length light brown hair, neatly styled, friendly approachable face.
+
+Wearing a light gray zip-up fleece over a white polo shirt, comfortable dark trousers, and clean white sport shoes. A small first-aid kit bag hanging from one shoulder.
+
+Standing with arms loosely folded, observing with a professional eye. Color palette: light gray, white, clean practical tones, medical-adjacent calm colors.
+
+4.18. Xavi Costa – Cambrer
+ID: xavi_cambrer
+Rol: Cambrer del bar del poble.
+
+Descripción de personaje
+
+En Xavi té 28 anys i porta el bar del poble des de fa tres anys. Té una complexió prima i no gaire musculada: passa el dia de peu, sí, però la feina del bar no requereix força bruta. Fuma, no fa esport, i la seva experiència amb eines manuals és pràcticament nul·la.
+És xerraire, simpàtic i coneix tothom perquè tothom passa pel bar. Podria ajudar a organitzar logística (begudes, menjar per als que treballin), però amb una destral seria més un risc que una ajuda.
+
+Bloque de prompt específico
+
+Young adult man (28), thin and not muscular build, relaxed casual posture with a slight slouch. Medium-length wavy dark hair, light stubble, easygoing friendly expression. Slightly pale skin.
+
+Wearing a slightly stained white short-sleeve shirt (bar uniform), dark apron tied at the waist, black slim trousers, and black casual shoes. A small notepad and pen sticking out of his apron pocket. A cigarette tucked behind one ear.
+
+Leaning slightly with one hand in his pocket, casual and approachable. Color palette: white shirt, dark apron, black trousers, bar-service muted tones.
+
+4.19. Àngels Martí – Mecànica
+ID: angels_mecanica
+Rol: Mecànica de vehicles i maquinària agrícola.
+
+Descripción de personaje
+
+L'Àngels té 30 anys i regenta el petit taller mecànic del poble, heretat del seu pare. Repara cotxes, tractors, motosserres i tot el que tingui motor. Té una complexió mitjana-forta, mans hàbils i plenes de greix, i està molt acostumada a treballar amb eines pesades.
+A més de força, aporta coneixement tècnic: si hi ha una motoserra disponible, ella és qui la pot posar en marxa i mantenir. Té un caràcter obert, una mica brusca, i no suporta que li diguin que una feina "no és per a dones".
+
+Bloque de prompt específico
+
+Young adult woman (30), medium-strong build with strong capable hands, practical confident posture. Dark hair pulled back in a messy ponytail, a few grease smudges on her cheek and forearms, direct no-nonsense expression.
+
+Wearing a dark blue mechanic's jumpsuit unzipped to the waist and tied with the sleeves around her hips, revealing a black tank top underneath showing defined arms. Heavy steel-toe work boots, a wrench sticking out of a side pocket.
+
+One hand holding a rag, the other resting on her hip. Color palette: mechanic blue, black, grease-stained tones, industrial working colors.
+
+4.20. Tomàs Giralt – Carnisser
+ID: tomas_carnisser
+Rol: Carnisser del poble, gestiona la botiga i el sacrifici d'animals.
+
+Descripción de personaje
+
+En Tomàs té 48 anys i és el carnisser del poble. Cada dia manipula peces de carn pesades, talla ossos amb la serra i carrega caixes des del magatzem. Té una complexió gran i forta, amb braços gruixuts i mans poderoses acostumades a l'esforç.
+A més, el seu ofici li dona una habilitat especial amb eines de tall: destrals, ganivets i serres no li són estranys. És un home tranquil, metòdic i amb molta paciència, que prefereix fer les coses bé que fer-les ràpid.
+
+Bloque de prompt específico
+
+Middle-aged man (48), large and strong build with thick arms and broad chest, solid grounded posture. Short-cropped dark hair with some gray at the temples, round face, calm methodical expression. Reddish complexion.
+
+Wearing a white butcher's apron (clean, not bloody) over a dark blue long-sleeve shirt, dark work trousers, and sturdy black rubber-sole boots. Thick forearms visible where sleeves are rolled up.
+
+Standing with both hands resting on the handle of a large cleaver held in front of him, blade down. Color palette: white apron, dark blue, black boots, ruddy skin tones, clean professional butcher look.
