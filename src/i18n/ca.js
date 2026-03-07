@@ -302,6 +302,13 @@ const ca = {
     aboutKeyIdea3: 'Cada tria revela biaixos inconscients que val la pena qüestionar.',
     aboutKeyIdea4: 'Les habilitats de les persones no depenen del seu gènere. El que importa és el que saben fer.',
 
+    // Persistent connection badge
+    connectionsBadge: 'Connexions: {count} / 100',
+
+    // Next round from results
+    selectNextScenario: 'Propera ronda',
+    startNextRound: 'Iniciar ronda',
+
     // Connection
     connectionLimit: 'Hi ha massa connexions actives. Prova-ho més tard.',
     connectionLost: 'Connexió perduda. Reconnectant...',

@@ -31,7 +31,7 @@ function LanguageToggle() {
 function AppContent() {
   const [screen, setScreen] = useState('start');
   const [mode, setMode] = useState(null); // null | 'individual' | 'guided-teacher' | 'guided-student'
-  const { locale } = useTranslation();
+  const { t, locale } = useTranslation();
 
   const {
     currentScenario,
@@ -202,7 +202,6 @@ function AppContent() {
       <TeacherLobby
         roomCode={guidedRoom.roomCode}
         playerCount={guidedRoom.playerCount}
-        connectionCount={guidedRoom.connectionCount}
         onStartRound={handleStartRound}
         onEndSession={handleEndSession}
       />
@@ -224,6 +223,7 @@ function AppContent() {
         aggregatedByGender={guidedRoom.aggregatedByGender}
         playerCount={guidedRoom.playerCount}
         onNextRound={handleNextRound}
+        onStartRound={handleStartRound}
         onEndSession={handleEndSession}
       />
     );
@@ -263,6 +263,11 @@ function AppContent() {
     <>
       <SceneBackground images={bgImages} />
       <LanguageToggle />
+      {mode === 'guided-teacher' && guidedRoom.connectionCount !== null && (
+        <div className={`guided-conn-badge ${guidedRoom.connectionCount >= 80 ? 'guided-conn-badge--warning' : ''}`}>
+          {t('ui.connectionsBadge', { count: guidedRoom.connectionCount })}
+        </div>
+      )}
       {content}
     </>
   );

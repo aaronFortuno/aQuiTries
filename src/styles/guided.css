@@ -1,5 +1,27 @@
 /* ===== Guided Mode - Shared ===== */
 
+/* ===== Persistent Connection Badge (Teacher) ===== */
+.guided-conn-badge {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 200;
+  background: rgba(39, 174, 96, 0.15);
+  border: 1px solid rgba(39, 174, 96, 0.4);
+  color: #1e8449;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.3rem 0.6rem;
+  border-radius: var(--radius-sm);
+  font-variant-numeric: tabular-nums;
+}
+
+.guided-conn-badge--warning {
+  background: rgba(231, 76, 60, 0.15);
+  border-color: rgba(231, 76, 60, 0.4);
+  color: #c0392b;
+}
+
 /* ===== Lobby (Teacher) ===== */
 .guided-lobby {
   display: flex;
@@ -478,6 +500,24 @@
 
 .guided-results__debate li {
   margin-bottom: 0.3rem;
+}
+
+.guided-results__next-round {
+  margin-bottom: 1.5rem;
+  text-align: left;
+}
+
+.guided-results__next-round label {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--color-text);
+  margin-bottom: 0.5rem;
+}
+
+.guided-results__next-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .guided-results__end-reminder {

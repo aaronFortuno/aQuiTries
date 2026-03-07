@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { useTranslation } from '../../i18n';
-import { getScenarioById } from '../../utils/getScenarios';
+import { getScenarioById, getAllScenarios } from '../../utils/getScenarios';
 import Avatar from '../Avatar';
 import '../../styles/guided.css';
 
@@ -10,11 +10,25 @@ export default function TeacherResultsView({
   aggregatedByGender,
   playerCount,
   onNextRound,
+  onStartRound,
   onEndSession,
 }) {
   const { t, locale } = useTranslation();
   const scenario = useMemo(() => getScenarioById(scenarioId, locale), [scenarioId, locale]);
+  const scenarios = useMemo(() => getAllScenarios(locale), [locale]);
   const [genderFilter, setGenderFilter] = useState('all');
+  const [selectedScenarioId, setSelectedScenarioId] = useState('');
+
+  const handleRandomScenario = () => {
+    const idx = Math.floor(Math.random() * scenarios.length);
+    setSelectedScenarioId(scenarios[idx].id);
+  };
+
+  const handleStartNextRound = () => {
+    if (selectedScenarioId) {
+      onStartRound(selectedScenarioId);
+    }
+  };
 
   const characterMap = useMemo(() => {
     if (!scenario) return {};
@@ -141,11 +155,40 @@ export default function TeacherResultsView({
           </div>
         )}
 
+        <div className="guided-results__next-round">
+          <label htmlFor="next-scenario-select">{t('ui.selectNextScenario')}</label>
+          <div className="guided-lobby__scenario-row">
+            <select
+              id="next-scenario-select"
+              value={selectedScenarioId}
+              onChange={(e) => setSelectedScenarioId(e.target.value)}
+            >
+              <option value="">{t('ui.selectScenarioFirst')}</option>
+              {scenarios.map((s) => (
+                <option key={s.id} value={s.id}>
+                  {s.title} ({s.category})
+                </option>
+              ))}
+            </select>
+            <button
+              className="guided-lobby__random-btn"
+              onClick={handleRandomScenario}
+              title={t('ui.randomScenario')}
+            >
+              <i className="fa-solid fa-dice" />
+            </button>
+          </div>
+        </div>
+
         <p className="guided-results__end-reminder">{t('ui.endSessionReminder')}</p>
 
         <div className="guided-results__actions">
-          <button className="guided-results__next-btn" onClick={onNextRound}>
-            {t('ui.nextRoundBtn')}
+          <button
+            className="guided-results__next-btn"
+            onClick={handleStartNextRound}
+            disabled={!selectedScenarioId}
+          >
+            {t('ui.startNextRound')}
           </button>
           <button className="guided-results__end-btn" onClick={onEndSession}>
             {t('ui.endSessionGuided')}

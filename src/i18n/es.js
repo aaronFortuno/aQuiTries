@@ -302,6 +302,13 @@ const es = {
     aboutKeyIdea3: 'Cada elección revela sesgos inconscientes que vale la pena cuestionar.',
     aboutKeyIdea4: 'Las habilidades de las personas no dependen de su género. Lo que importa es lo que saben hacer.',
 
+    // Persistent connection badge
+    connectionsBadge: 'Conexiones: {count} / 100',
+
+    // Next round from results
+    selectNextScenario: 'Siguiente ronda',
+    startNextRound: 'Iniciar ronda',
+
     // Connection
     connectionLimit: 'Hay demasiadas conexiones activas. Inténtalo más tarde.',
     connectionLost: 'Conexión perdida. Reconectando...',
