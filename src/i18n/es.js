@@ -282,6 +282,23 @@ const es = {
     waitingForOthers: 'Esperando al resto...',
     selectionSent: '¡Elección enviada!',
 
+    // About / Pedagogical intro
+    aboutButton: 'Sobre esta herramienta',
+    aboutTitle: '¿Qué es "¿A quién eliges?"',
+    aboutIntro: 'Esta herramienta nace de la necesidad de trabajar la igualdad de género de una manera honesta, crítica y no dogmática. El discurso habitual sobre igualdad a menudo repite consignas sin cuestionarlas. La realidad es más compleja, y esta herramienta ayuda a explorarla.',
+    aboutHowTitle: '¿Cómo funciona?',
+    aboutHow: 'Se te presentarán situaciones reales donde tendrás que elegir personas para realizar una tarea concreta: operar un corazón, cazar un mamut, reparar una conexión submarina, seleccionar personal para un trabajo... Después de cada elección, una reflexión te ayudará a pensar por qué has elegido a quien has elegido. No hay respuestas correctas ni incorrectas: el objetivo es pensar.',
+    aboutWhyTitle: '¿Por qué es importante?',
+    aboutWhy1: 'El debate sobre igualdad a menudo se plantea en términos absolutos: o bien "hombres y mujeres somos exactamente iguales en todo" o bien posiciones retrógradas. La realidad es más matizada: hay diferencias biológicas objetivas que hacen que en ciertos contextos una elección sea razonable, pero hay ámbitos donde las elecciones se hacen por prejuicio y no por razón.',
+    aboutWhy2: 'Esta herramienta ayuda a distinguir entre las dos cosas y a cuestionar los modelos que damos por descontado: ¿por qué pedimos paridad en consejos de administración pero no en obras de construcción? ¿Por qué la falta de paridad en educación infantil no genera debate? ¿Por qué cuando pensamos en "astronauta" imaginamos a alguien grande y fuerte?',
+    aboutAudienceTitle: '¿Para quién es?',
+    aboutAudience: 'La herramienta está pensada para usar a partir de los últimos cursos de primaria (5.º-6.º), pero funciona igualmente bien con jóvenes de secundaria o adultos. Las reflexiones son las mismas e igualmente útiles a cualquier edad. En contexto de aula, el docente puede crear una sala con el modo guiado para que todos los alumnos jueguen a la vez y ver los resultados agregados.',
+    aboutKeyIdeasTitle: 'Ideas clave',
+    aboutKeyIdea1: 'No hay respuestas correctas: el objetivo es pensar, no acertar.',
+    aboutKeyIdea2: 'La igualdad no es uniformidad: igualdad de derechos y oportunidades no implica igualdad de capacidades físicas.',
+    aboutKeyIdea3: 'Cada elección revela sesgos inconscientes que vale la pena cuestionar.',
+    aboutKeyIdea4: 'Las habilidades de las personas no dependen de su género. Lo que importa es lo que saben hacer.',
+
     // Connection
     connectionLimit: 'Hay demasiadas conexiones activas. Inténtalo más tarde.',
     connectionLost: 'Conexión perdida. Reconectando...',

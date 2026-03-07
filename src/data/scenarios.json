@@ -7234,7 +7234,11 @@
   {
     "id": "E1",
     "title": "El submarinista",
+    "category": "Escenari trampa",
+    "description": "Cal reparar una connexió submarina a 30 metres de profunditat davant l'Estartit. La tasca requereix calma, precisió manual i resistència al fred — no força. Tria les 2 persones més adequades d'un equip de 12 bussejadors. Fixa't bé en les habilitats de cadascú!",
     "context": "Cal reparar una connexió d'un observatori científic submarí a 30 metres de profunditat, davant la costa de l'Estartit (Costa Brava). La reparació requereix: calma sota pressió (a 30 metres qualsevol error pot ser greu), precisió manual (cal manipular connectors petits amb guants de neoprè), i resistència al fred (l'aigua a 30 metres al Mediterrani és a 13-14°C, la immersió durarà 45-60 minuts). Cal triar 2 persones d'un equip de 12 bussejadors disponibles.",
+    "reflectionTitle": "Reflexionem!",
+    "reflectionText": "Cap de les habilitats requerides — calma, precisió, resistència al fred — depèn del sexe. Les dues millors candidates són dones (Mireia, biòloga marina amb 14 anys de busseig científic en aigües fredes, i Lena, soldadora industrial amb certificació de busseig). Però la majoria de jugadors trien homes grans i forts, perquè 'busseig profund' evoca força i aventura. La trampa: la tasca no requereix força, sinó paciència i mans hàbils.",
     "task": "Tria les 2 persones més adequades per fer la reparació submarina.",
     "toSelect": 2,
     "skillLabels": [
@@ -7546,7 +7550,11 @@
   {
     "id": "E2",
     "title": "L'astronauta",
+    "category": "Escenari trampa",
+    "description": "L'ESA i l'ISRO envien una missió conjunta de 6 mesos a l'estació espacial. La càpsula té espai per a 2 tripulants. Aquí ser petit és un avantatge: menys consum d'oxigen, aigua i aliment. Tria les 2 persones més adequades de 12 candidats. Fixa't bé en les dades!",
     "context": "L'ESA (Agència Espacial Europea) i l'ISRO (Indian Space Research Organisation) envien una missió conjunta a l'estació espacial amb una durada de 6 mesos. La càpsula té espai limitat per a 2 tripulants. La missió requereix: resistència psicològica a l'aïllament prolongat, eficiència en l'ús de recursos (oxigen, aigua, aliment — cada quilo de pes corporal consumeix més), i habilitats tècniques per als experiments programats. Cal triar 2 persones d'un equip de 12 candidats preseleccionats (6 homes i 6 dones).",
+    "reflectionTitle": "Reflexionem!",
+    "reflectionText": "L'escenari inverteix la intuïció. Un astronauta de 90 kg consumeix un 40-50% més d'oxigen i calories que un de 55 kg — en 6 mesos, això són 500 kg més de subministraments a 20.000€/kg. La NASA ho sap fa dècades: les dones, de mitjana, són més eficients per a missions espacials. El pilot suec que 'sembla' astronauta és el pitjor candidat. Les millors candidatures són dones petites i l'home petit jainista, que ningú triaria a primer cop d'ull.",
     "task": "Tria les 2 persones més adequades per a la missió espacial de 6 mesos.",
     "toSelect": 2,
     "skillLabels": [
@@ -7858,7 +7866,11 @@
   {
     "id": "C7",
     "title": "Les escombriaires",
+    "category": "Escenari de reflexió social",
+    "description": "L'Ajuntament d'un poble de 800 habitants convoca 4 places d'escombriaire amb sou mínim. S'hi presenten 16 persones molt diverses: locals aturats, immigrants amb i sense papers, dones amb treball invisible, joves sobrequalificats. Aquí el dilema no és 'qui ho farà millor' sinó 'qui mereix la feina'. Tria 4 persones.",
     "context": "L'Ajuntament de Valdecampos (poble fictici de Castella-La Manxa, uns 800 habitants) convoca 4 places de personal de neteja viària — escombriaires. El sou és el salari mínim, contracte temporal de 12 mesos renovable. No es requereix formació específica ni experiència prèvia. S'hi presenten 16 persones: locals que han perdut la feina per la crisi industrial, immigrants amb i sense papers, dones que mai han treballat formalment, joves sobrequalificats sense sortida laboral, persones grans en situació de vulnerabilitat.",
+    "reflectionTitle": "Reflexionem!",
+    "reflectionText": "La feina no requereix habilitats especials — el dilema no és 'qui ho farà millor' sinó 'qui mereix la feina'. Cada tria revela un sistema de valors: localisme (prioritzar 'els d'aquí'), papers (descartar per il·legalitat persones que ja contribueixen a l'economia local), gènere i treball invisible (28 anys de feina domèstica no compten com a 'experiència'), edat i desgast (castigar per haver treballat massa), sobrequalificació (el graduat 'ja trobarà una altra cosa' — però no la troba).",
     "task": "Tria les 4 persones que haurien d'obtenir les places d'escombriaire.",
     "toSelect": 4,
     "skillLabels": [
@@ -8268,7 +8280,11 @@
   {
     "id": "C8",
     "title": "L'equip mèdic",
+    "category": "Escenari de reflexió social",
+    "description": "Un camp de refugiats a Kenya amb 45.000 persones necessita reforçar l'equip mèdic amb 3 persones. Hi ha metges occidentals, sanitaris kenyans locals i treballadors sanitaris que són ells mateixos refugiats. Qui és realment 'el millor' per a un camp de refugiats? Tria 3 persones.",
     "context": "Un camp de refugiats al nord de Kenya acull 45.000 persones, majoritàriament somalis i sud-sudanesos. La clínica del camp necessita reforçar el seu equip mèdic amb 3 persones per cobrir atenció primària, salut materna i gestió d'una epidèmia de còlera. Hi ha 14 candidats disponibles: professionals mèdics internacionals (occidentals), sanitaris kenyans locals i treballadors sanitaris que són ells mateixos refugiats.",
+    "reflectionTitle": "Reflexionem!",
+    "reflectionText": "El millor equip per a aquest camp concret no inclou cap metge occidental. Cap títol de Harvard substitueix 9 anys de coneixement directe de la comunitat. El cirurgià americà és tècnicament brillant però pràcticament inútil aquí: no parla l'idioma, no coneix la cultura, i la clínica no té quiròfan. L'escenari toca el 'complex del salvador blanc' i la invisibilitat dels treballadors sanitaris locals i refugiats.",
     "task": "Tria les 3 persones més adequades per reforçar l'equip mèdic del camp.",
     "toSelect": 3,
     "skillLabels": [

@@ -5,6 +5,36 @@ import '../styles/guided.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.5.1',
+    date: '2026-03-07',
+    changes: {
+      ca: [
+        'Modal de reflexió redissenyat: galeria visual de personatges triats amb avatar i barres d\'habilitat',
+        'Descripció del personatge accessible amb hover/tap, no visible per defecte',
+      ],
+      es: [
+        'Modal de reflexión rediseñado: galería visual de personajes elegidos con avatar y barras de habilidad',
+        'Descripción del personaje accesible con hover/tap, no visible por defecto',
+      ],
+    },
+  },
+  {
+    version: '0.5',
+    date: '2026-03-07',
+    changes: {
+      ca: [
+        'Corregides 4 situacions (E1, E2, C7, C8) que no mostraven la descripció ni la categoria correctament',
+        'Introducció pedagògica accessible des de la pantalla d\'inici',
+        'Reorganització d\'arquitectura: eliminades imatges duplicades, conversió a WebP',
+      ],
+      es: [
+        'Corregidas 4 situaciones (E1, E2, C7, C8) que no mostraban la descripción ni la categoría correctamente',
+        'Introducción pedagógica accesible desde la pantalla de inicio',
+        'Reorganización de arquitectura: eliminadas imágenes duplicadas, conversión a WebP',
+      ],
+    },
+  },
+  {
     version: '0.4.2',
     date: '2026-03-07',
     changes: {
@@ -139,6 +169,7 @@ const VERSION_HISTORY = [
 export default function StartScreen({ onStartIndividual, onCreateRoom, onJoinRoom }) {
   const { t, locale } = useTranslation();
   const [showVersions, setShowVersions] = useState(false);
+  const [showAbout, setShowAbout] = useState(false);
 
   return (
     <div className="start-screen">
@@ -151,6 +182,12 @@ export default function StartScreen({ onStartIndividual, onCreateRoom, onJoinRoo
           <p>{t('ui.startDescription1')}</p>
           <p>{t('ui.startDescription2')}</p>
         </div>
+        <button
+          className="start-screen__about-btn"
+          onClick={() => setShowAbout(true)}
+        >
+          {t('ui.aboutButton')}
+        </button>
         <div className="start-screen__modes">
           <button
             className="start-screen__mode-btn start-screen__mode-btn--individual"
@@ -197,6 +234,41 @@ export default function StartScreen({ onStartIndividual, onCreateRoom, onJoinRoo
                 </ul>
               </div>
             ))}
+          </div>
+        </>
+      )}
+
+      {showAbout && (
+        <>
+          <div
+            className="start-screen__about-backdrop"
+            onClick={() => setShowAbout(false)}
+          />
+          <div className="start-screen__about-modal">
+            <button
+              className="start-screen__about-close"
+              onClick={() => setShowAbout(false)}
+            >
+              {t('ui.close')}
+            </button>
+            <h2 className="start-screen__about-title">{t('ui.aboutTitle')}</h2>
+            <div className="start-screen__about-content">
+              <p>{t('ui.aboutIntro')}</p>
+              <h3>{t('ui.aboutHowTitle')}</h3>
+              <p>{t('ui.aboutHow')}</p>
+              <h3>{t('ui.aboutWhyTitle')}</h3>
+              <p>{t('ui.aboutWhy1')}</p>
+              <p>{t('ui.aboutWhy2')}</p>
+              <h3>{t('ui.aboutAudienceTitle')}</h3>
+              <p>{t('ui.aboutAudience')}</p>
+              <h3>{t('ui.aboutKeyIdeasTitle')}</h3>
+              <ul>
+                <li>{t('ui.aboutKeyIdea1')}</li>
+                <li>{t('ui.aboutKeyIdea2')}</li>
+                <li>{t('ui.aboutKeyIdea3')}</li>
+                <li>{t('ui.aboutKeyIdea4')}</li>
+              </ul>
+            </div>
           </div>
         </>
       )}

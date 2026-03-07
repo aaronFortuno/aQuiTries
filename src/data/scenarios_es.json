@@ -7234,7 +7234,11 @@
   {
     "id": "E1",
     "title": "El submarinista",
+    "category": "Escenario trampa",
+    "description": "Hay que reparar una conexión submarina a 30 metros de profundidad frente a l'Estartit. La tarea requiere calma, precisión manual y resistencia al frío — no fuerza. Elige a las 2 personas más adecuadas de un equipo de 12 buceadores. ¡Fíjate bien en las habilidades de cada uno!",
     "context": "Hay que reparar una conexión de un observatorio científico submarino a 30 metros de profundidad, frente a la costa de l'Estartit (Costa Brava). La reparación requiere: calma bajo presión (a 30 metros cualquier error puede ser grave), precisión manual (hay que manipular conectores pequeños con guantes de neopreno), y resistencia al frío (el agua a 30 metros en el Mediterráneo está a 13-14°C, la inmersión durará 45-60 minutos). Hay que elegir a 2 personas de un equipo de 12 buceadores disponibles.",
+    "reflectionTitle": "¡Reflexionemos!",
+    "reflectionText": "Ninguna de las habilidades requeridas — calma, precisión, resistencia al frío — depende del sexo. Las dos mejores candidatas son mujeres (Mireia, bióloga marina con 14 años de buceo científico en aguas frías, y Lena, soldadora industrial con certificación de buceo). Pero la mayoría de jugadores eligen hombres grandes y fuertes, porque 'buceo profundo' evoca fuerza y aventura. La trampa: la tarea no requiere fuerza, sino paciencia y manos hábiles.",
     "task": "Elige a las 2 personas más adecuadas para hacer la reparación submarina.",
     "toSelect": 2,
     "skillLabels": [
@@ -7546,7 +7550,11 @@
   {
     "id": "E2",
     "title": "El astronauta",
+    "category": "Escenario trampa",
+    "description": "La ESA y la ISRO envían una misión conjunta de 6 meses a la estación espacial. La cápsula tiene espacio para 2 tripulantes. Aquí ser pequeño es una ventaja: menos consumo de oxígeno, agua y alimento. Elige a las 2 personas más adecuadas de 12 candidatos. ¡Fíjate bien en los datos!",
     "context": "La ESA (Agencia Espacial Europea) y la ISRO (Indian Space Research Organisation) envían una misión conjunta a la estación espacial con una duración de 6 meses. La cápsula tiene espacio limitado para 2 tripulantes. La misión requiere: resistencia psicológica al aislamiento prolongado, eficiencia en el uso de recursos (oxígeno, agua, alimento — cada kilo de peso corporal consume más), y habilidades técnicas para los experimentos programados. Hay que elegir a 2 personas de un equipo de 12 candidatos preseleccionados (6 hombres y 6 mujeres).",
+    "reflectionTitle": "¡Reflexionemos!",
+    "reflectionText": "El escenario invierte la intuición. Un astronauta de 90 kg consume un 40-50% más de oxígeno y calorías que uno de 55 kg — en 6 meses, esto son 500 kg más de suministros a 20.000€/kg. La NASA lo sabe desde hace décadas: las mujeres, de media, son más eficientes para misiones espaciales. El piloto sueco que 'parece' astronauta es el peor candidato. Las mejores candidaturas son mujeres pequeñas y el hombre pequeño jainista, que nadie elegiría a primera vista.",
     "task": "Elige a las 2 personas más adecuadas para la misión espacial de 6 meses.",
     "toSelect": 2,
     "skillLabels": [
@@ -7858,7 +7866,11 @@
   {
     "id": "C7",
     "title": "Las barrenderas",
+    "category": "Escenario de reflexión social",
+    "description": "El Ayuntamiento de un pueblo de 800 habitantes convoca 4 plazas de barrendero/a con sueldo mínimo. Se presentan 16 personas muy diversas: locales desempleados, inmigrantes con y sin papeles, mujeres con trabajo invisible, jóvenes sobrecualificados. Aquí el dilema no es 'quién lo hará mejor' sino 'quién merece el trabajo'. Elige 4 personas.",
     "context": "El Ayuntamiento de Valdecampos (pueblo ficticio de Castilla-La Mancha, unos 800 habitantes) convoca 4 plazas de personal de limpieza viaria — barrenderos/as. El sueldo es el salario mínimo, contrato temporal de 12 meses renovable. No se requiere formación específica ni experiencia previa. Se presentan 16 personas: locales que han perdido el trabajo por la crisis industrial, inmigrantes con y sin papeles, mujeres que nunca han trabajado formalmente, jóvenes sobrecualificados sin salida laboral, personas mayores en situación de vulnerabilidad.",
+    "reflectionTitle": "¡Reflexionemos!",
+    "reflectionText": "El trabajo no requiere habilidades especiales — el dilema no es 'quién lo hará mejor' sino 'quién merece el trabajo'. Cada elección revela un sistema de valores: localismo (priorizar 'los de aquí'), papeles (descartar por ilegalidad a personas que ya contribuyen a la economía local), género y trabajo invisible (28 años de trabajo doméstico no cuentan como 'experiencia'), edad y desgaste (castigar por haber trabajado demasiado), sobrecualificación (el graduado 'ya encontrará otra cosa' — pero no la encuentra).",
     "task": "Elige a las 4 personas que deberían obtener las plazas de barrendero/a.",
     "toSelect": 4,
     "skillLabels": [
@@ -8268,7 +8280,11 @@
   {
     "id": "C8",
     "title": "El equipo médico",
+    "category": "Escenario de reflexión social",
+    "description": "Un campo de refugiados en Kenya con 45.000 personas necesita reforzar el equipo médico con 3 personas. Hay médicos occidentales, sanitarios kenianos locales y trabajadores sanitarios que son ellos mismos refugiados. ¿Quién es realmente 'el mejor' para un campo de refugiados? Elige 3 personas.",
     "context": "Un campo de refugiados en el norte de Kenya acoge a 45.000 personas, mayoritariamente somalíes y sursudaneses. La clínica del campo necesita reforzar su equipo médico con 3 personas para cubrir atención primaria, salud materna y gestión de una epidemia de cólera. Hay 14 candidatos disponibles: profesionales médicos internacionales (occidentales), sanitarios kenianos locales y trabajadores sanitarios que son ellos mismos refugiados.",
+    "reflectionTitle": "¡Reflexionemos!",
+    "reflectionText": "El mejor equipo para este campo concreto no incluye ningún médico occidental. Ningún título de Harvard sustituye 9 años de conocimiento directo de la comunidad. El cirujano americano es técnicamente brillante pero prácticamente inútil aquí: no habla el idioma, no conoce la cultura, y la clínica no tiene quirófano. El escenario toca el 'complejo del salvador blanco' y la invisibilidad de los trabajadores sanitarios locales y refugiados.",
     "task": "Elige a las 3 personas más adecuadas para reforzar el equipo médico del campo.",
     "toSelect": 3,
     "skillLabels": [

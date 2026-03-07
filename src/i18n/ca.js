@@ -282,6 +282,23 @@ const ca = {
     waitingForOthers: 'Esperant la resta...',
     selectionSent: 'Tria enviada!',
 
+    // About / Pedagogical intro
+    aboutButton: 'Sobre aquesta eina',
+    aboutTitle: 'Què és "A qui tries?"',
+    aboutIntro: 'Aquesta eina neix de la necessitat de treballar la igualtat de gènere d\'una manera honesta, crítica i no dogmàtica. El discurs habitual sobre igualtat sovint repeteix consignes sense qüestionar-les. La realitat és més complexa, i aquesta eina ajuda a explorar-la.',
+    aboutHowTitle: 'Com funciona?',
+    aboutHow: 'Se\'t presentaran situacions reals on hauràs de triar persones per fer una tasca concreta: operar un cor, caçar un mamut, reparar una connexió submarina, seleccionar personal per a una feina... Després de cada tria, una reflexió t\'ajudarà a pensar per què has triat qui has triat. No hi ha respostes correctes ni incorrectes: l\'objectiu és pensar.',
+    aboutWhyTitle: 'Per què és important?',
+    aboutWhy1: 'El debat sobre igualtat sovint es planteja en termes absoluts: o bé "homes i dones som exactament iguals en tot" o bé posicions retrògrades. La realitat és més matisada: hi ha diferències biològiques objectives que fan que en certs contextos una tria sigui raonable, però hi ha àmbits on les tries es fan per prejudici i no per raó.',
+    aboutWhy2: 'Aquesta eina ajuda a distingir entre les dues coses i a qüestionar els models que donem per descomptat: per què demanem paritat en consells d\'administració però no en obres de construcció? Per què la falta de paritat en educació infantil no genera debat? Per què quan pensem en "astronauta" imaginem algú gran i fort?',
+    aboutAudienceTitle: 'Per a qui és?',
+    aboutAudience: 'L\'eina està pensada per utilitzar a partir dels últims cursos de primària (5è-6è), però funciona igualment bé amb joves d\'institut o adults. Les reflexions són les mateixes i igualment útils a qualsevol edat. En context d\'aula, el docent pot crear una sala amb el mode guiat perquè tots els alumnes juguin alhora i veure els resultats agregats.',
+    aboutKeyIdeasTitle: 'Idees clau',
+    aboutKeyIdea1: 'No hi ha respostes correctes: l\'objectiu és pensar, no encertar.',
+    aboutKeyIdea2: 'La igualtat no és uniformitat: igualtat de drets i oportunitats no implica igualtat de capacitats físiques.',
+    aboutKeyIdea3: 'Cada tria revela biaixos inconscients que val la pena qüestionar.',
+    aboutKeyIdea4: 'Les habilitats de les persones no depenen del seu gènere. El que importa és el que saben fer.',
+
     // Connection
     connectionLimit: 'Hi ha massa connexions actives. Prova-ho més tard.',
     connectionLost: 'Connexió perduda. Reconnectant...',

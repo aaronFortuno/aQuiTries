@@ -65,6 +65,15 @@ Desplegament automàtic a GitHub Pages via GitHub Actions (`.github/workflows/de
 
 ## Historial de versions
 
+### v0.5.1 (2026-03-07)
+- Modal de reflexió redissenyat: galeria visual de personatges triats amb avatar i barres d'habilitat
+- Descripció del personatge accessible amb hover/tap, no visible per defecte
+
+### v0.5 (2026-03-07)
+- Corregides 4 situacions (E1, E2, C7, C8) que no mostraven la descripció ni la categoria
+- Introducció pedagògica accessible des de la pantalla d'inici
+- Reorganització d'arquitectura: eliminades imatges duplicades (~72 MB), conversió PNG a WebP
+
 ### v0.4.2 (2026-03-07)
 - 14 noves situacions: categories C3-C9, D1-D5 i E1-E2
 - Corregit: canviar d'idioma ja no canvia l'escenari actual
