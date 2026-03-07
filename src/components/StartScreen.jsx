@@ -5,6 +5,24 @@ import '../styles/guided.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.4.1',
+    date: '2026-03-07',
+    changes: {
+      ca: [
+        'Nova situació: C1 – L\'operació de cor (13 cirurgians cardíacs)',
+        'Nova situació: C2 – L\'exploració de la cova (14 espeleòlegs)',
+        'Suport d\'imatges WebP per als avatars dels personatges',
+        'Corregit el botó ln-tip-jar que tapava el modal de detall en mòbil',
+      ],
+      es: [
+        'Nueva situación: C1 – La operación de corazón (13 cirujanos cardíacos)',
+        'Nueva situación: C2 – La exploración de la cueva (14 espeleólogos)',
+        'Soporte de imágenes WebP para los avatares de personajes',
+        'Corregido el botón ln-tip-jar que tapaba el modal de detalle en móvil',
+      ],
+    },
+  },
+  {
     version: '0.4',
     date: '2026-03-06',
     changes: {

@@ -1,8 +1,14 @@
+import { useEffect } from 'react';
 import { useTranslation } from '../i18n';
 import '../styles/modal.css';
 
 export default function ReflectionModal({ scenario, selectedCharacters, onNext, isLast }) {
   const { t } = useTranslation();
+
+  useEffect(() => {
+    document.body.classList.add('overlay-open');
+    return () => document.body.classList.remove('overlay-open');
+  }, []);
   const maleCount = selectedCharacters.filter(c => c.sex === 'home').length;
   const femaleCount = selectedCharacters.filter(c => c.sex === 'dona').length;
 

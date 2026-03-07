@@ -1,4 +1,5 @@
 import { createPortal } from 'react-dom';
+import { useEffect } from 'react';
 import Avatar from './Avatar';
 import SkillBar from './SkillBar';
 import { useTranslation } from '../i18n';
@@ -6,6 +7,11 @@ import '../styles/characters.css';
 
 export default function CharacterTooltip({ character, onClose }) {
   const { t } = useTranslation();
+
+  useEffect(() => {
+    document.body.classList.add('overlay-open');
+    return () => document.body.classList.remove('overlay-open');
+  }, []);
 
   return createPortal(
     <div className="character-preview-backdrop" onClick={onClose}>

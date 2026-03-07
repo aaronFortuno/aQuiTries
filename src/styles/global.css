@@ -377,3 +377,10 @@ button {
   background: var(--color-accent-hover);
   transform: translateY(-2px);
 }
+
+/* ===== Hide ln-tip-jar on mobile when overlay is open ===== */
+@media (max-width: 767px) {
+  body.overlay-open ln-tip-jar {
+    display: none !important;
+  }
+}
