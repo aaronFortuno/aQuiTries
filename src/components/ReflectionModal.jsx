@@ -119,15 +119,17 @@ export default function ReflectionModal({ scenario, selectedCharacters, onNext, 
           </p>
         </div>
 
-        <p className="modal__reflection">{scenario.reflectionText}</p>
+        <div className="modal__body-columns">
+          <p className="modal__reflection">{scenario.reflectionText}</p>
 
-        <div className="modal__debate">
-          <h3>{t('ui.debateQuestions')}</h3>
-          <ul className="modal__debate-list">
-            {scenario.debateQuestions.map((q, i) => (
-              <li key={i}>{q}</li>
-            ))}
-          </ul>
+          <div className="modal__debate">
+            <h3>{t('ui.debateQuestions')}</h3>
+            <ul className="modal__debate-list">
+              {scenario.debateQuestions.map((q, i) => (
+                <li key={i}>{q}</li>
+              ))}
+            </ul>
+          </div>
         </div>
 
         <button className="modal__button" onClick={onNext}>

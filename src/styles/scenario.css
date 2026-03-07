@@ -185,7 +185,6 @@
   background: rgba(250, 246, 241, 0.85);
   z-index: 5;
   border-radius: var(--radius-md) 0 0 var(--radius-md);
-  margin: 0.25rem 0;
   align-self: stretch;
 }
 
