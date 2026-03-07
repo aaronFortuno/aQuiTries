@@ -202,6 +202,7 @@ function AppContent() {
       <TeacherLobby
         roomCode={guidedRoom.roomCode}
         playerCount={guidedRoom.playerCount}
+        connectionCount={guidedRoom.connectionCount}
         onStartRound={handleStartRound}
         onEndSession={handleEndSession}
       />

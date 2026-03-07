@@ -141,6 +141,8 @@ export default function TeacherResultsView({
           </div>
         )}
 
+        <p className="guided-results__end-reminder">{t('ui.endSessionReminder')}</p>
+
         <div className="guided-results__actions">
           <button className="guided-results__next-btn" onClick={onNextRound}>
             {t('ui.nextRoundBtn')}

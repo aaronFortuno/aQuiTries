@@ -6,6 +6,7 @@ import '../../styles/guided.css';
 export default function TeacherLobby({
   roomCode,
   playerCount,
+  connectionCount,
   onStartRound,
   onEndSession,
 }) {
@@ -65,7 +66,17 @@ export default function TeacherLobby({
           </div>
         </div>
 
+        {connectionCount !== null && (
+          <div className={`guided-lobby__capacity ${connectionCount >= 80 ? 'guided-lobby__capacity--warning' : ''}`}>
+            <span className="guided-lobby__capacity-label">{t('ui.serverCapacity')}</span>
+            <span className="guided-lobby__capacity-value">
+              {t('ui.availableSlots', { available: Math.max(0, 100 - connectionCount), total: 100 })}
+            </span>
+          </div>
+        )}
+
         <p className="guided-lobby__expiry-warning">{t('ui.roomExpiryWarning')}</p>
+        <p className="guided-lobby__end-reminder">{t('ui.endSessionReminder')}</p>
 
         <div className="guided-lobby__actions">
           <button

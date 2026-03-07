@@ -1,0 +1,139 @@
+RESUM DEL PROJECTE [aQuiTries]
+==================================================
+ARCHITECTURE.md - 107 línies
+README.md - 111 línies
+SITUATIONS-GUIDE.md - 296 línies
+eslint.config.js - 29 línies
+index.html - 22 línies
+package-lock.json - 4160 línies
+package.json - 32 línies
+qui-tries-project-brief.md - 385 línies
+scan_project.py - 220 línies
+vite.config.js - 8 línies
+characters/prompts-flux2-escenaris.md - 295 línies
+characters/arbre-caigut/arbre-caigut-fichas.txt - 347 línies
+characters/arbre-caigut/arbre-caigut-master.md - 63 línies
+characters/arbre-caigut/prompts-flux2.md - 564 línies
+characters/astronauta/astronauta-fichas.txt - 387 línies
+characters/astronauta/astronauta-master.md - 63 línies
+characters/astronauta/prompts-flux2.md - 368 línies
+characters/avio-combat/avio-combat-fichas.txt - 229 línies
+characters/avio-combat/avio-combat-master.md - 63 línies
+characters/avio-combat/prompts-flux2.md - 366 línies
+characters/beca-enginyeria/beca-enginyeria-fichas.txt - 373 línies
+characters/beca-enginyeria/beca-enginyeria-master.md - 63 línies
+characters/beca-enginyeria/prompts-flux2.md - 480 línies
+characters/consell-administracio/consell-administracio-fichas.txt - 271 línies
+characters/consell-administracio/consell-administracio-master.md - 63 línies
+characters/consell-administracio/prompts-flux2.md - 368 línies
+characters/cuidar-persona-gran/cuidar-persona-gran-fichas.txt - 315 línies
+characters/cuidar-persona-gran/cuidar-persona-gran-master.md - 51 línies
+characters/cuidar-persona-gran/prompts-flux2.md - 452 línies
+characters/equip-medic/equip-medic-fichas.txt - 501 línies
+characters/equip-medic/equip-medic-master.md - 63 línies
+characters/equip-medic/prompts-flux2.md - 424 línies
+characters/escombriaires/escombriaires-fichas.txt - 517 línies
+characters/escombriaires/escombriaires-master.md - 63 línies
+characters/escombriaires/prompts-flux2.md - 480 línies
+characters/expedicio-riu/expedicio-riu-fichas.txt - 301 línies
+characters/expedicio-riu/expedicio-riu-master.md - 62 línies
+characters/expedicio-riu/prompts-flux2.md - 480 línies
+characters/exploracio-cova/exploracio-cova-fichas.txt - 264 línies
+characters/exploracio-cova/exploracio-cova-master.md - 63 línies
+characters/exploracio-cova/prompts-flux2.md - 422 línies
+characters/incendi-forestal/incendi-forestal-fichas.txt - 353 línies
+characters/incendi-forestal/incendi-forestal-master.md - 63 línies
+characters/incendi-forestal/prompts-flux2.md - 508 línies
+characters/llar-infants/llar-infants-fichas.txt - 334 línies
+characters/llar-infants/llar-infants-master.md - 52 línies
+characters/llar-infants/prompts-flux2.md - 480 línies
+characters/llista-electoral/llista-electoral-fichas.txt - 323 línies
+characters/llista-electoral/llista-electoral-master.md - 63 línies
+characters/llista-electoral/prompts-flux2.md - 590 línies
+characters/mestre-infantil/mestre-infantil-fichas.txt - 300 línies
+characters/mestre-infantil/mestre-infantil-master.md - 63 línies
+characters/mestre-infantil/prompts-flux2.md - 370 línies
+characters/nen-plora-parc/nen-plora-parc-fichas.txt - 129 línies
+characters/nen-plora-parc/nen-plora-parc-master.md - 51 línies
+characters/nen-plora-parc/prompts-flux2.md - 363 línies
+characters/obra-construccio/obra-construccio-fichas.txt - 315 línies
+characters/obra-construccio/obra-construccio-master.md - 52 línies
+characters/obra-construccio/prompts-flux2.md - 452 línies
+characters/operacio-cor/operacio-cor-fichas.txt - 244 línies
+characters/operacio-cor/operacio-cor-master.md - 63 línies
+characters/operacio-cor/prompts-flux2.md - 368 línies
+characters/oposicions-bomber/oposicions-bomber-fichas.txt - 401 línies
+characters/oposicions-bomber/oposicions-bomber-master.md - 64 línies
+characters/oposicions-bomber/prompts-flux2.md - 534 línies
+characters/persona-armada/persona-armada-fichas.txt - 239 línies
+characters/persona-armada/persona-armada-master.md - 62 línies
+characters/persona-armada/prompts-flux2.md - 340 línies
+characters/rescat-militar/prompts-flux2.md - 534 línies
+characters/rescat-militar/rescat-militar-fichas.txt - 451 línies
+characters/rescat-militar/rescat-militar-master.md - 64 línies
+characters/restaurant/prompts-flux2.md - 424 línies
+characters/restaurant/restaurant-fichas.txt - 518 línies
+characters/restaurant/restaurant-master.md - 63 línies
+characters/submarinista/prompts-flux2.md - 368 línies
+characters/submarinista/submarinista-fichas.txt - 332 línies
+characters/submarinista/submarinista-master.md - 63 línies
+characters/tribu-paleolitica/prompts-flux2.md - 438 línies
+characters/tribu-paleolitica/tribu-paleolitica-fichas.txt - 291 línies
+characters/tribu-paleolitica/tribu-paleolitica-master.md - 65 línies
+characters/vaixell-avariat/prompts-flux2.md - 394 línies
+characters/vaixell-avariat/vaixell-avariat-fichas.txt - 249 línies
+characters/vaixell-avariat/vaixell-avariat-master.md - 63 línies
+public/vite.svg - 1 línies
+src/main.jsx - 10 línies
+src/assets/backgrounds/index.js - 80 línies
+src/components/App.jsx - 276 línies
+src/components/Avatar.jsx - 36 línies
+src/components/CharacterCard.jsx - 59 línies
+src/components/CharacterTooltip.jsx - 52 línies
+src/components/EndScreen.jsx - 85 línies
+src/components/GeneratedAvatar.jsx - 129 línies
+src/components/ReflectionModal.jsx - 141 línies
+src/components/ScenarioScreen.jsx - 178 línies
+src/components/SceneBackground.jsx - 36 línies
+src/components/SelectionCounter.jsx - 25 línies
+src/components/SkillBar.jsx - 24 línies
+src/components/StartScreen.jsx - 293 línies
+src/components/guided/StudentJoin.jsx - 95 línies
+src/components/guided/StudentResultsView.jsx - 15 línies
+src/components/guided/StudentScenarioWrapper.jsx - 56 línies
+src/components/guided/StudentWaiting.jsx - 35 línies
+src/components/guided/TeacherLobby.jsx - 88 línies
+src/components/guided/TeacherResultsView.jsx - 155 línies
+src/components/guided/TeacherRoundView.jsx - 57 línies
+src/data/scenarios.json - 9002 línies
+src/data/scenarios_es.json - 9002 línies
+src/firebase/config.js - 14 línies
+src/firebase/roomService.js - 224 línies
+src/hooks/useGuidedRoom.js - 306 línies
+src/hooks/useScenarioManager.js - 134 línies
+src/i18n/ca.js - 310 línies
+src/i18n/es.js - 310 línies
+src/i18n/index.jsx - 33 línies
+src/styles/background.css - 38 línies
+src/styles/characters.css - 398 línies
+src/styles/global.css - 500 línies
+src/styles/guided.css - 712 línies
+src/styles/modal.css - 262 línies
+src/styles/scenario.css - 256 línies
+src/utils/getScenarios.js - 13 línies
+src/utils/shuffle.js - 12 línies
+
+==================================================
+FITXERS I CARPETES IGNORATS
+==================================================
+.claude (ignorat)
+.env (ignorat)
+.env.example (ignorat)
+.git (ignorat)
+.github (ignorat)
+.gitignore (ignorat)
+dist (ignorat)
+node_modules (ignorat)
+
+==================================================
+TOTAL: 49136 línies en 122 fitxers

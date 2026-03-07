@@ -92,11 +92,54 @@
   transform: scale(1.1);
 }
 
+.guided-lobby__capacity {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(39, 174, 96, 0.1);
+  border: 1px solid rgba(39, 174, 96, 0.3);
+  border-radius: var(--radius-sm);
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.85rem;
+}
+
+.guided-lobby__capacity--warning {
+  background: rgba(231, 76, 60, 0.1);
+  border-color: rgba(231, 76, 60, 0.3);
+}
+
+.guided-lobby__capacity-label {
+  color: var(--color-text-light);
+  font-weight: 600;
+}
+
+.guided-lobby__capacity-value {
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.guided-lobby__capacity--warning .guided-lobby__capacity-value {
+  color: #c0392b;
+}
+
 .guided-lobby__expiry-warning {
   font-size: 0.82rem;
   color: #b07d10;
   background: rgba(243, 196, 68, 0.15);
   border: 1px solid rgba(243, 196, 68, 0.35);
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 1rem;
+  margin-bottom: 0.75rem;
+  line-height: 1.4;
+  text-align: left;
+}
+
+.guided-lobby__end-reminder {
+  font-size: 0.82rem;
+  color: #2471a3;
+  background: rgba(52, 152, 219, 0.1);
+  border: 1px solid rgba(52, 152, 219, 0.25);
   border-radius: var(--radius-sm);
   padding: 0.6rem 1rem;
   margin-bottom: 1.5rem;
@@ -435,6 +478,18 @@
 
 .guided-results__debate li {
   margin-bottom: 0.3rem;
+}
+
+.guided-results__end-reminder {
+  font-size: 0.82rem;
+  color: #2471a3;
+  background: rgba(52, 152, 219, 0.1);
+  border: 1px solid rgba(52, 152, 219, 0.25);
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 1rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+  text-align: left;
 }
 
 .guided-results__actions {

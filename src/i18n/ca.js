@@ -253,6 +253,9 @@ const ca = {
     selectScenarioFirst: 'Tria un escenari per començar',
     randomScenario: 'Escenari aleatori',
     roomExpiryWarning: 'Les sales es destrueixen automàticament 8 hores després de crear-se. Assegura\'t d\'acabar la dinàmica el mateix dia.',
+    serverCapacity: 'Capacitat del servidor',
+    availableSlots: '{available} de {total} places disponibles',
+    endSessionReminder: 'Si us plau, en acabar l\'activitat premeu "Finalitzar sessió" per alliberar recursos al servidor i permetre que altres docents puguin fer servir l\'eina.',
 
     // Teacher round
     submittedCount: '{submitted} de {total} han triat',

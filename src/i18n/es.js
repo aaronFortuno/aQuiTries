@@ -253,6 +253,9 @@ const es = {
     selectScenarioFirst: 'Elige un escenario para empezar',
     randomScenario: 'Escenario aleatorio',
     roomExpiryWarning: 'Las salas se destruyen automáticamente 8 horas después de crearse. Asegúrate de acabar la dinámica el mismo día.',
+    serverCapacity: 'Capacidad del servidor',
+    availableSlots: '{available} de {total} plazas disponibles',
+    endSessionReminder: 'Por favor, al terminar la actividad pulsa "Finalizar sesión" para liberar recursos en el servidor y permitir que otros docentes puedan usar la herramienta.',
 
     // Teacher round
     submittedCount: '{submitted} de {total} han elegido',

@@ -27,6 +27,7 @@ export function useGuidedRoom() {
   const [role, setRole] = useState(null); // 'teacher' | 'student'
   const [error, setError] = useState(null);
   const [hasSubmitted, setHasSubmitted] = useState(false);
+  const [connectionCount, setConnectionCount] = useState(null);
 
   const unsubscribeRef = useRef(null);
   const cleanupPresenceRef = useRef(null);
@@ -94,6 +95,19 @@ export function useGuidedRoom() {
       }
     };
   }, [roomCode, playerId, role]);
+
+  // Poll connection count for teachers (every 30s)
+  useEffect(() => {
+    if (role !== 'teacher') return;
+
+    const poll = () => {
+      getConnectionCount(db).then(setConnectionCount).catch(() => {});
+    };
+    poll(); // initial fetch
+    const interval = setInterval(poll, 30_000);
+
+    return () => clearInterval(interval);
+  }, [role]);
 
   // Reset hasSubmitted when round changes
   useEffect(() => {
@@ -284,6 +298,7 @@ export function useGuidedRoom() {
     hasSubmitted,
     players,
     playerCount,
+    connectionCount,
     submittedCount,
     aggregatedResults,
     aggregatedByGender,
