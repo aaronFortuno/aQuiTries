@@ -45,7 +45,7 @@
         "age": 30,
         "height": 168,
         "weight": 60,
-        "build": "prim i fibrós",
+        "build": "prima i fibrosa",
         "hair": "llarg fosc lligat amb cordill",
         "description": "Rastreadora experta en seguir empremtes i llegir l'entorn. Complexió prima i fibrosa, acostumada a caminar llargues distàncies. Coneix bé els hàbits dels animals i els canvis subtils del clima. S'encarrega d'explorar abans dels desplaçaments i anticipar possibles perills.",
         "traits": [
@@ -91,7 +91,7 @@
         "age": 35,
         "height": 163,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "mitjà amb petites perles d'os",
         "description": "Curandera i recol·lectora de plantes medicinals. Mans àgils i marcades pel treball amb herbes i arrels. Sap preparar ungüents i cataplasmes. La seva posició la situa al centre de les relacions quotidianes: escolta tant els dolors físics com les preocupacions de la tribu.",
         "traits": [
@@ -137,7 +137,7 @@
         "age": 11,
         "height": 138,
         "weight": 34,
-        "build": "prim a mitjà",
+        "build": "prima a mitjana",
         "hair": "llarg fosc en cua baixa",
         "description": "Nena guardiana del foc, una mica més gran que Nao. Expressió concentrada i seriosa per la seva edat. Se li confia la tasca de cuidar del foc quan el grup està assentat, vigilant les brases i afegint combustible. És responsable i se sent orgullosa del seu paper perquè sap que el foc és vital per a tothom.",
         "traits": [
@@ -183,7 +183,7 @@
         "age": 29,
         "height": 160,
         "weight": 58,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "mitjà parcialment lligat",
         "description": "Artesana d'os i pedra. Mans fortes i hàbils, passa molt de temps tallant ossos i pedres per crear eines, puntes de llança i penjolls. És pacient i minuciosa. Moltes de les peces que porta la resta del grup han passat per les seves mans.",
         "traits": [
@@ -229,7 +229,7 @@
         "age": 34,
         "height": 170,
         "weight": 68,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "mitjà recollit amb cordill",
         "description": "Guardiana del campament. Postura ferma i mirada atenta. S'encarrega d'organitzar l'espai del campament: on es col·loquen els llits, el foc, les reserves de menjar i qui fa guàrdia. És una de les primeres a detectar canvis o perills propers.",
         "traits": [
@@ -275,7 +275,7 @@
         "age": 58,
         "height": 155,
         "weight": 62,
-        "build": "arrodonit",
+        "build": "arrodonida",
         "hair": "gris en monyo baix",
         "description": "Anciana cuidadora dels nens i del campament. Complexió una mica més robusta que Oran, però ja sense la força d'abans. Sol romandre al campament, cuidant dels més petits i supervisant tasques lleugeres. Caràcter ferm però afectuós, combina la memòria de les tradicions amb la paciència per tractar amb els nens.",
         "traits": [
@@ -321,7 +321,7 @@
         "age": 24,
         "height": 162,
         "weight": 55,
-        "build": "lleuger",
+        "build": "lleugera",
         "hair": "llarg parcialment lligat",
         "description": "Jove recol·lectora de fruits, arrels, llavors i materials útils. Treballa sovint en grups petits, allunyant-se del campament sense arribar a les distàncies d'un explorador. Atenta al detall: reconeix plantes útils i perilloses, i sap tornar a trobar zones riques en recursos.",
         "traits": [
@@ -408,7 +408,7 @@
         "age": 38,
         "height": 168,
         "weight": 68,
-        "build": "fort i musculat",
+        "build": "forta i musculada",
         "hair": "castany en cua de cavall pràctica",
         "description": "Pagesa ramadera que gestiona un ramat de cabres i ovelles. Complexió forta i musculada, acostumada a carregar bales de palla, moure tanques i subjectar animals. Sovint és més forta que molts homes del poble. Caràcter directe i resolutiu.",
         "traits": [
@@ -431,7 +431,7 @@
         "age": 67,
         "height": 172,
         "weight": 78,
-        "build": "ample de tren superior",
+        "build": "ample d'espatlles",
         "hair": "curt gris, barba curta grisa",
         "description": "Ferrer jubilat que encara manté el taller obert per a petites feines. Conserva una força considerable al tren superior, fruit d'anys movent el martell. Camina una mica més lent que abans i li costa la feina de llarga durada, però per a un esforç intens és molt capaç. Afable i sempre disposat.",
         "traits": [
@@ -454,7 +454,7 @@
         "age": 32,
         "height": 170,
         "weight": 62,
-        "build": "atlètic",
+        "build": "atlètica",
         "hair": "fosc curt per sobre les espatlles",
         "description": "Monitora de fitness i activitats a l'aire lliure. Complexió atlètica, molt en forma, amb una resistència física notable. No té experiència amb destrals ni eines forestals, però la seva força i agilitat la fan perfectament capaç de feina pesada. Entusiasta i col·laborativa.",
         "traits": [
@@ -500,7 +500,7 @@
         "age": 40,
         "height": 165,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany en monyo baix, ulleres",
         "description": "Veterinària rural de la comarca. Acostumada a treballar amb animals grans —vaques, cavalls— i per tant no li és estranya la feina física. Complexió mitjana. Metòdica, pràctica i resolutiva. Al poble la respecten per la seva competència.",
         "traits": [
@@ -523,7 +523,7 @@
         "age": 35,
         "height": 164,
         "weight": 60,
-        "build": "mitjà-fort",
+        "build": "mitjana-forta",
         "hair": "castany clar sota mocador de tela",
         "description": "Carpintera que regenta un petit taller al poble. Fa mobles, restaura bigues i repara teulades. Coneix la fusta millor que la majoria: sap quines eines calen, com serrar sense malmetre i com calcular el pes d'un tronc. Braços definits per la feina manual. Meticulosa i independent.",
         "traits": [
@@ -615,7 +615,7 @@
         "age": 70,
         "height": 155,
         "weight": 58,
-        "build": "petit però robust",
+        "build": "petita però robusta",
         "hair": "blanc curt",
         "description": "Àvia activa del poble. Cada dia treballa l'hort, porta llenya, neteja i camina amunt i avall. Tot i l'edat, manté una energia sorprenent. Caràcter fort, directe i una mica brusc però amb bon cor. Ja no té la força d'una persona jove, però no es queda mai de braços plegats.",
         "traits": [
@@ -707,7 +707,7 @@
         "age": 37,
         "height": 172,
         "weight": 70,
-        "build": "fort i entrenat",
+        "build": "forta i entrenada",
         "hair": "fosc en monyo pràctic",
         "description": "Bombera voluntària al parc comarcal. Ha participat en desenes d'intervencions forestals: incendis, arbres caiguts, esllavissades. Complexió forta i entrenada, amb experiència directa en exactament el tipus de feina que cal fer. Sap com tallar un arbre de manera segura i com coordinar un equip.",
         "traits": [
@@ -799,7 +799,7 @@
         "age": 30,
         "height": 166,
         "weight": 64,
-        "build": "mitjà-fort",
+        "build": "mitjana-forta",
         "hair": "fosc en cua de cavall desordenada",
         "description": "Mecànica de vehicles i maquinària agrícola. Repara cotxes, tractors i motosserres. Mans hàbils i plenes de greix, acostumada a eines pesades. Si hi ha una motoserra disponible, ella és qui la pot posar en marxa. Caràcter obert, una mica brusca, i no suporta que li diguin que una feina no és per a dones.",
         "traits": [
@@ -886,7 +886,7 @@
         "age": 45,
         "height": 165,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany amb canes en cua baixa",
         "description": "Infermera del CAP del poble. Coneix pràcticament totes les famílies, sap qui té problemes de mobilitat, qui viu sol, qui pren medicació. Anys d'atendre emergències sanitàries li han donat una serenitat excepcional. Sap prioritzar, delegar i comunicar amb claredat.",
         "traits": [
@@ -932,7 +932,7 @@
         "age": 33,
         "height": 170,
         "weight": 64,
-        "build": "atlètic",
+        "build": "atlètica",
         "hair": "fosc en monyo sota gorra oficial",
         "description": "Agent rural de la Generalitat. Entrenada en prevenció i extinció d'incendis, coneix la zona, sap usar eines forestals i té formació en coordinació d'emergències i evacuació civil. Versàtil: podria fer tallafocs o coordinar l'evacuació amb competència. On la necessites més?",
         "traits": [
@@ -1024,7 +1024,7 @@
         "age": 50,
         "height": 166,
         "weight": 64,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany fosc amb canes, fins les espatlles",
         "description": "Alcaldessa del poble. Autoritat legal, accés a comunicacions amb bombers i Protecció Civil, coneix tots els recursos. No preparada per feina física, però la seva capacitat d'organització i lideratge institucional és excepcional. Coneix el cens, els punts de trobada i els protocols.",
         "traits": [
@@ -1070,7 +1070,7 @@
         "age": 55,
         "height": 162,
         "weight": 68,
-        "build": "mitjà, sedentària",
+        "build": "mitjana, sedentària",
         "hair": "castany amb canes en bob curt",
         "description": "Farmacèutica del poble. Coneix la medicació de cada veí: qui és diabètic, qui necessita oxigen, qui pren ansiolítics. En una evacuació, aquesta informació pot ser crítica. No serviria per al tallafocs, però el seu valor per assessorar l'evacuació és únic.",
         "traits": [
@@ -1116,7 +1116,7 @@
         "age": 29,
         "height": 166,
         "weight": 58,
-        "build": "atlètic lleuger",
+        "build": "atlètica lleugera",
         "hair": "castany en cua de cavall alta",
         "description": "Monitora de lleure i activitats infantils. Entrenada per gestionar grups de nens i famílies en situacions caòtiques: mantenir la calma, donar instruccions clares, evitar el pànic. Complexió atlètica lleugera. Per al tallafocs no té prou força, però per a l'evacuació seria excel·lent.",
         "traits": [
@@ -1162,8 +1162,8 @@
         "age": 24,
         "height": 167,
         "weight": 58,
-        "build": "mitjà",
-        "hair": "fosc en monyo ràpid",
+        "build": "mitjana",
+        "hair": "fosc en monyo improvisat",
         "description": "Estudiant de cinquè de medicina, de visita al poble. Formació en primers auxilis avançats i triatge. Manté la calma en situacions d'estrès. No serviria per al tallafocs, però podria donar suport mèdic durant l'evacuació: atendre ansietat, controlar patologies i muntar un punt sanitari.",
         "traits": [
           "formada en salut",
@@ -1208,7 +1208,7 @@
         "age": 47,
         "height": 164,
         "weight": 64,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany rogenc fins les espatlles",
         "description": "Treballadora social dels serveis comarcals. Coneix en profunditat les situacions de vulnerabilitat: gent gran sola, famílies amb pocs recursos, persones amb discapacitat. Aquesta informació és crítica en una evacuació. Empatia, comunicació i coneixement de les persones vulnerables.",
         "traits": [
@@ -1254,7 +1254,7 @@
         "age": 38,
         "height": 168,
         "weight": 66,
-        "build": "mitjà-fort",
+        "build": "mitjana-forta",
         "hair": "fosc arrissat lligat",
         "description": "Veterinària rural. En un incendi, sovint s'obliden els animals: cavalls, vaques, gossos. Algú que sàpiga tractar amb animals espantats és molt útil. Complexió mitjana-forta. Podria contribuir al tallafocs, però el seu valor diferencial és gestionar l'evacuació dels animals per evitar el caos.",
         "traits": [
@@ -1318,7 +1318,7 @@
         "age": 42,
         "height": 166,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany fins les espatlles",
         "description": "Negociadora de crisi professional dels Mossos. Més de trenta situacions d'atrincherament i segrest. Formació en psicologia i criminologia, experta en escolta activa, desescalada i gestió emocional. Complexió mitjana, res d'imposant. La seva veu i calma són armes més poderoses que la força bruta.",
         "traits": [
@@ -1364,7 +1364,7 @@
         "age": 38,
         "height": 160,
         "weight": 52,
-        "build": "petit i prim",
+        "build": "petita i prima",
         "hair": "fosc curt bob",
         "description": "Psicòloga clínica especialitzada en emergències. Sap com funciona la ment d'una persona en crisi: què la pot calmar, què la pot fer escalar. Complexió petita, zero capacitat per a reducció. Però la seva comprensió del comportament humà sota estrès la converteix en una negociadora natural.",
         "traits": [
@@ -1410,7 +1410,7 @@
         "age": 45,
         "height": 172,
         "weight": 68,
-        "build": "mitjà-fort",
+        "build": "mitjana-forta",
         "hair": "fosc amb canes en monyo",
         "description": "Sergent dels Mossos amb vint anys d'experiència. Complexió mitjana-forta, bona forma física. Perfil comodí: podria fer reducció (competent, no la millor) i podria negociar (experiència, no especialista). La pregunta: val més una especialista o algú decent en ambdues tasques?",
         "traits": [
@@ -1435,7 +1435,7 @@
         "weight": 68,
         "build": "mitjà, àgil",
         "hair": "curt negre",
-        "description": "Agent jove dels Mossos, cinturó negre de judo i porpra de jiu-jitsu brasiler. Complexió mitjana — no gran ni musculós, cosa que podria fer-lo descartar per a la reducció. Però en combat real, la tècnica sovint supera la força bruta. El dilema: fiar-se de les dades o de la impressió visual?",
+        "description": "Agent jove dels Mossos, cinturó negre de judo i cinturó porpra de jiu-jitsu brasiler. Complexió mitjana — no gran ni musculós, cosa que podria fer-lo descartar per a la reducció. Però en combat real, la tècnica sovint supera la força bruta. El dilema: fiar-se de les dades o de la impressió visual?",
         "traits": [
           "expert en arts marcials",
           "àgil",
@@ -1456,7 +1456,7 @@
         "age": 50,
         "height": 164,
         "weight": 64,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany grisenc fins les espatlles, ulleres",
         "description": "Mediadora de conflictes comunitaris de l'Ajuntament. Anys resolent conflictes veïnals i familiars. No és policia ni psicòloga, però la seva habilitat per escoltar i rebaixar tensions és excepcional. On Laura segueix protocols policials, la Núria treballa des de l'empatia pura. El risc: no ha negociat mai amb algú armat.",
         "traits": [
@@ -1502,7 +1502,7 @@
         "age": 47,
         "height": 158,
         "weight": 54,
-        "build": "petit",
+        "build": "petita",
         "hair": "fosc amb canes, recollit",
         "description": "Psiquiatra forense, consultora dels Mossos. Entén com funciona la ment d'algú en brot psicòtic, sota substàncies o en desesperació extrema. Pot diagnosticar l'estat mental de l'agressor en temps real. Complexió petita, cap utilitat per a reducció. La seva comunicació és més clínica que empàtica.",
         "traits": [
@@ -1548,7 +1548,7 @@
         "age": 52,
         "height": 168,
         "weight": 66,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "fosc amb canes, curt pràctic",
         "description": "Inspectora dels Mossos, rang més alt a l'escena. Trenta anys al cos, centenars d'operacions. No està en la seva millor forma física, però la seva experiència, autoritat i presa de decisions sota pressió són enormes. Per a la negociació podria funcionar, però el seu valor real és el comandament.",
         "traits": [
@@ -1752,7 +1752,7 @@
         "weight": 84,
         "build": "fort",
         "hair": "curt fosc, barba de dies",
-        "description": "Peó d'obra temporal. Ha passat per moltes obres i empreses de treball temporal. Complexió forta, aguanta bé la feina física. No té formació ni interès en la construcció — és un sou. Fa el que li manen sense iniciativa. No sap aixecar una paret, però pot carregar sacs durant hores sense queixar-se.",
+        "description": "Peó d'obra temporal. Ha passat per moltes obres i empreses de treball temporal. Complexió forta, aguanta bé la feina física. No té formació ni interès en la construcció — treballa per un sou, no per vocació. Fa el que li manen sense iniciativa. No sap aixecar una paret, però pot carregar sacs durant hores sense queixar-se.",
         "traits": [
           "fort",
           "sense iniciativa",
@@ -1998,7 +1998,7 @@
         "age": 34,
         "height": 167,
         "weight": 60,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "fosc en monyo baix, arracades petites",
         "description": "Mestra d'educació infantil amb deu anys d'experiència en llars d'infants i P3. Grau universitari complet i postgrau en atenció primerenca. Probablement la candidata amb la formació més sòlida. Metòdica, organitzada i amb molta experiència programant activitats. Una mica més acadèmica que intuitiva; de vegades les famílies la troben distant.",
         "traits": [
@@ -2044,7 +2044,7 @@
         "age": 40,
         "height": 166,
         "weight": 65,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany clar fins les espatlles, algun cabell gris",
         "description": "Educadora infantil amb especialització en necessitats educatives especials. Deu anys en centres d'atenció primerenca amb nens amb trastorns del desenvolupament, autisme i discapacitats. Sap detectar senyals d'alerta que altres no veurien. La seva base com a educadora és molt sòlida, tot i que el seu perfil és molt específic.",
         "traits": [
@@ -2067,7 +2067,7 @@
         "age": 36,
         "height": 165,
         "weight": 56,
-        "build": "prim",
+        "build": "prima",
         "hair": "fosc arrissat, ulleres rectangulars",
         "description": "Psicòloga clínica especialitzada en desenvolupament infantil. Ha treballat en gabinets i equips d'assessorament, però mai directament com a educadora en una aula. Coneix a fons la teoria del desenvolupament, però la gestió pràctica d'un grup de deu nens de 2 anys és una altra cosa. Sap molt, però ho sap des del despatx.",
         "traits": [
@@ -2090,7 +2090,7 @@
         "age": 24,
         "height": 163,
         "weight": 55,
-        "build": "lleuger atlètic",
+        "build": "lleugera atlètica",
         "hair": "castany clar en dues trenes curtes, pigues",
         "description": "Monitora de lleure titulada amb cinc anys d'experiència en casals d'estiu, campaments i extraescolars. Molta experiència gestionant grups de nens, organitzant activitats i resolent conflictes. Problema: la seva experiència és amb nens de 6-12 anys, no amb criatures de 2 anys. Un nen de 2 anys és completament diferent d'un de 8.",
         "traits": [
@@ -2113,7 +2113,7 @@
         "age": 45,
         "height": 164,
         "weight": 66,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany amb canes, curt pràctic",
         "description": "Infermera pediàtrica amb vint anys d'experiència a l'hospital. Coneix la salut infantil a fons: alimentació, vacunes, malalties, al·lèrgies, primers auxilis pediàtrics. No té formació pedagògica: no sap programar activitats educatives ni gestionar un grup a l'aula. El seu perfil és complementari, no central.",
         "traits": [
@@ -2136,7 +2136,7 @@
         "age": 52,
         "height": 160,
         "weight": 72,
-        "build": "maternal, robust",
+        "build": "maternal, robusta",
         "hair": "fosc amb canes, curt pràctic, ulleres penjades al coll",
         "description": "Auxiliar de llar d'infants amb vint-i-cinc anys d'experiència pràctica però sense titulació superior. Coneix cada plor, cada gest, cada etapa. Sap canviar bolquers amb els ulls tancats, calmar un nen que no para de plorar i detectar una otitis abans de la febre. Limitació: no té formació teòrica actualitzada i li costa adaptar-se a noves metodologies.",
         "traits": [
@@ -2159,7 +2159,7 @@
         "age": 21,
         "height": 165,
         "weight": 53,
-        "build": "prim jove",
+        "build": "prima jove",
         "hair": "llarg fosc solt",
         "description": "Estudiant de tercer curs del Grau de Mestre en Educació Infantil. Ha fet unes pràctiques de sis setmanes en una llar d'infants. Plena de teoria recent i idees noves, però experiència real molt limitada. Té entusiasme i ganes d'aprendre, però posar-la sola amb un grup de nens seria arriscat: li falta seguretat i capacitat de reacció.",
         "traits": [
@@ -2182,7 +2182,7 @@
         "age": 38,
         "height": 166,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany amb metxes, arracades d'or petites",
         "description": "Administrativa en atur des de fa un any. Ha vist l'oferta i sol·licita el lloc perquè necessita feina. No té cap formació en educació infantil, cap experiència amb nens (més enllà dels nebots). Té bona voluntat i és organitzada, però no té cap de les competències que el lloc requereix.",
         "traits": [
@@ -2205,7 +2205,7 @@
         "age": 42,
         "height": 163,
         "weight": 70,
-        "build": "maternal robust",
+        "build": "maternal robusta",
         "hair": "castany en monyo descuidat",
         "description": "Mare de quatre fills (de 3 a 12 anys). La seva candidatura es basa en 'ser mare'. La realitat: ser mare i ser educadora professional són coses molt diferents. Tenir fills no ensenya pedagogia, programació d'activitats ni detecció de trastorns del desenvolupament. La seva experiència és real però no professional.",
         "traits": [
@@ -2228,7 +2228,7 @@
         "age": 23,
         "height": 168,
         "weight": 55,
-        "build": "prim",
+        "build": "prima",
         "hair": "llarg castany clar, ulleres rodones",
         "description": "Recent graduada en filologia catalana. No troba feina del seu camp i s'apunta a l'oferta perquè 'li agraden els nens' i necessita treballar. No té cap formació en educació infantil, ni pràctiques, ni experiència rellevant. Confon 'm'agraden els nens' amb 'sé cuidar-los professionalment'.",
         "traits": [
@@ -2384,7 +2384,7 @@
         "age": 38,
         "height": 164,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany curt pràctic",
         "description": "Auxiliar de geriatria titulada amb set anys en residències i dos en atenció domiciliària. Coneix les rutines: higiene, mobilitzacions, alimentació adaptada, control de medicació. Contracte en regla, sou modest però legal. És el perfil 'correcte': formada, experimentada, legal. La pregunta és per què la majoria de famílies busquen alternatives més barates.",
         "traits": [
@@ -2407,7 +2407,7 @@
         "age": 50,
         "height": 165,
         "weight": 64,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany amb canes, curt, ulleres",
         "description": "Infermera d'atenció primària amb anys d'atenció domiciliària: cures de ferides, control de diabetis, seguiment de crònics. Excel·lent en la dimensió sanitària, però la feina de cuidadora diària va més enllà: cuinar, fer companyia, escoltar històries repetides. L'Elena és competent però eficient — fa la feina i se'n va.",
         "traits": [
@@ -2430,7 +2430,7 @@
         "age": 33,
         "height": 166,
         "weight": 58,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany clar fins les espatlles",
         "description": "Treballadora familiar amb formació en dependència. Ha treballat en un servei municipal d'atenció a domicili. Coneix bé la feina: no és només higiene i menjar, sinó estímul cognitiu, passejos, conversa, vincle. Jove, dinàmica i empàtica. Potser li falta l'experiència que dona l'edat per connectar amb algú de 87 anys.",
         "traits": [
@@ -2453,7 +2453,7 @@
         "age": 42,
         "height": 157,
         "weight": 65,
-        "build": "robust lleuger",
+        "build": "robusta lleugera",
         "hair": "negre llis en cua baixa",
         "description": "Cuidadora boliviana, vuit anys a Espanya, sense papers. Ha cuidat gent gran des que va arribar: quatre anys interna a Madrid, quatre més a Catalunya. Experiència immensa: cuinar, netejar, companyia, medicacions, mobilitzacions. Cobra en negre, molt per sota del salari mínim. Envia diners a Bolívia per als seus fills.",
         "traits": [
@@ -2476,7 +2476,7 @@
         "age": 35,
         "height": 162,
         "weight": 60,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "fosc arrissat fins les espatlles",
         "description": "Cuidadora colombiana amb permís de residència. Sis anys cuidant gent gran a Catalunya. Ha fet un curs de geriatria de 200 hores. Alegre, parladora, carinyosa — les persones grans l'estimen molt. Cuina bé, és neta, puntual i atenta. Cobra poc tot i tenir contracte.",
         "traits": [
@@ -2500,7 +2500,7 @@
         "height": 158,
         "weight": 63,
         "build": "desgastat",
-        "hair": "negre amb arrels grises, monyo ràpid",
+        "hair": "negre amb arrels grises, monyo improvisat",
         "description": "Cuidadora peruana, dotze anys a Catalunya. Cuida tres avis a la vegada: matí amb un, tarda amb un altre, nits amb un tercer. Dos sense contracte. Exhausta i sobrecarregada. Coneix la feina a fons per experiència acumulada. El problema: si agafa la Carme, amb quina energia hi arribarà?",
         "traits": [
           "molt experimentada",
@@ -2522,7 +2522,7 @@
         "age": 55,
         "height": 160,
         "weight": 70,
-        "build": "robust maternal",
+        "build": "robusta maternal",
         "hair": "fosc amb canes, curt pràctic",
         "description": "Cuidadora equatoriana, quinze anys d'experiència, papers en regla i contracte formal. Ha cuidat sis persones grans. Sap cuinar per a persones amb disfàgia, adaptar l'entorn per evitar caigudes, gestionar la solitud. Ha acompanyat dues persones en el final de la vida. Maternal, sòlida i molt experimentada.",
         "traits": [
@@ -2545,7 +2545,7 @@
         "age": 22,
         "height": 167,
         "weight": 55,
-        "build": "prim jove",
+        "build": "prima jove",
         "hair": "llarg fosc en cua ràpida",
         "description": "Estudiant de tercer d'infermeria, busca feina parcial. Coneixements de salut i primers auxilis, però mai ha cuidat una persona gran a domicili. Responsable i amb formació sanitària de base. Però la feina requereix constància i disponibilitat que una estudiant no pot garantir: exàmens, pràctiques, treballs...",
         "traits": [
@@ -2568,7 +2568,7 @@
         "age": 68,
         "height": 158,
         "weight": 68,
-        "build": "robust amb edat",
+        "build": "robusta amb edat",
         "hair": "blanc permanent, ulleres de llegir",
         "description": "Veïna de la Carme des de fa trenta anys. S'ofereix a ajudar per amistat, sense cobrar. Problema: té 68 anys amb hipertensió i artrosi, no pot garantir atenció diària constant. Confon ser amiga amb ser cuidadora: pot fer companyia, però no sap gestionar medicacions ni fer mobilitzacions segures.",
         "traits": [
@@ -2591,7 +2591,7 @@
         "age": 40,
         "height": 165,
         "weight": 63,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany amb arrels, longitud mitja",
         "description": "Desocupada des de fa dos anys, treballava en un magatzem. Sense formació en geriatria ni atenció a persones. El seu argument: 'he cuidat la meva mare els últims anys'. Confon experiència personal amb competència professional. Cuidar un familiar és dur i respectable, però no és el mateix que cuidar professionalment.",
         "traits": [
@@ -2614,7 +2614,7 @@
         "age": 44,
         "height": 167,
         "weight": 58,
-        "build": "prim",
+        "build": "prima",
         "hair": "fosc amb metxes, ben pentinat, arracades",
         "description": "Psicòloga especialitzada en envelliment actiu i gestió de la solitud. Tallers de memòria i estimulació cognitiva. Coneix el món emocional de la gent gran. Però la seva feina és de despatx: sessions d'una hora. No ha vestit mai ningú, no ha cuinat per a una persona gran, no l'ha acompanyat al metge.",
         "traits": [
@@ -2637,7 +2637,7 @@
         "age": 50,
         "height": 168,
         "weight": 66,
-        "build": "mitjà robust",
+        "build": "mitjana robusta",
         "hair": "castany clar en monyo estret",
         "description": "Infermera ucraïnesa amb vint anys d'experiència, inclosa geriatria hospitalària. Títol no homologat a Espanya — oficialment 'no és infermera'. Nivell tècnic excel·lent: cures, constants, medicació, mobilitzacions. Parla castellà amb dificultat i català gens, cosa que pot dificultar la comunicació amb la Carme.",
         "traits": [
@@ -2729,7 +2729,7 @@
         "age": 58,
         "height": 161,
         "weight": 67,
-        "build": "mitjà amb edat",
+        "build": "mitjana amb edat",
         "hair": "gris en permanent curt, ulleres al cap",
         "description": "Auxiliar d'infermeria amb vint anys en una residència que va tancar. Busca feina domiciliària. Experiència immensa i tracte càlid amb la gent gran. L'edat juga al seu favor (connecta bé amb persones de 87 anys perquè 'parlen el mateix idioma emocional') i en contra (ja té limitacions físiques pròpies).",
         "traits": [
@@ -2770,7 +2770,7 @@
         "age": 34,
         "height": 163,
         "weight": 58,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany recollit en cua",
         "description": "Mare de dos fills (6 i 3 anys), al parc amb el petit als gronxadors. Porta texans, samarreta i bambas. Sempre porta tiretes a la bossa de tela. Administrativa en una gestoria. Acostumada a gestionar plors i caigudes. Empàtica i resolutiva.",
         "traits": [
@@ -2816,7 +2816,7 @@
         "age": 42,
         "height": 157,
         "weight": 70,
-        "build": "robust",
+        "build": "robusta",
         "hair": "sota hijab lila",
         "description": "Dona marroquina amb hijab de color lila. Ve de fer la compra amb dues bosses plenes. Mestressa de casa, mare de quatre fills. Molt experimentada amb nens. Parla català amb accent però es fa entendre perfectament. Caràcter càlid i maternal.",
         "traits": [
@@ -2862,7 +2862,7 @@
         "age": 72,
         "height": 155,
         "weight": 65,
-        "build": "petit amb edat",
+        "build": "petita amb edat",
         "hair": "blanc curt arrissat",
         "description": "Senyora gran, vestit de flors, rebeca fina, sabates còmodes. Asseguda a un banc mirant les colomes. Jubilada, antiga mestra de parvulari durant 35 anys. Ha vist mil caigudes i sap exactament què dir a un nen que plora. Però li costa aixecar-se ràpid i les articulacions li fan mal.",
         "traits": [
@@ -2908,7 +2908,7 @@
         "age": 55,
         "height": 160,
         "weight": 68,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany tenyit, ulleres de vista",
         "description": "Dona de mitja edat, pantalons de pinça, brusa clara, sabatilles de caminar. Fa la seva volta diària pel parc. Infermera de pediatria amb 25 anys d'experiència a urgències. Sap avaluar una ferida en segons. Porta un petit necessaire de primers auxilis a la bossa per costum professional.",
         "traits": [
@@ -3001,7 +3001,7 @@
         "height": 165,
         "weight": 63,
         "build": "prim, desgastat",
-        "hair": "barba llarga grisa, descurada",
+        "hair": "barba llarga grisa, descurat",
         "description": "Home sense sostre. Pell bruna curtida pel sol. Diverses capes de roba: jersei fosc, jaqueta massa gran, pantalons desgastats, sabates trencades. Estirat en un parterre mig amagat. Antic mestre de música que va perdre la feina i el pis durant la crisi. Viu al carrer des de fa 6 anys. Coneix tots els nens del parc.",
         "traits": [
           "antic mestre",
@@ -3023,7 +3023,7 @@
         "age": 30,
         "height": 168,
         "weight": 62,
-        "build": "atlètic",
+        "build": "atlètica",
         "hair": "castany curt",
         "description": "Dona jove atlètica, mallot de running, malles, sabatilles esportives, rellotge esportiu. Fent estiraments a prop del camí de córrer. Fisioterapeuta. Bona forma física, podria arribar ràpid al nen. Sap avaluar lesions. No té fills ni experiència especial amb nens petits, però és eficient i resolutiva.",
         "traits": [
@@ -3050,7 +3050,7 @@
         "hair": "blanc escàs, bigoti blanc, bastó",
         "description": "Senyor gran, camisa de quadres, pantalons de pana, sabates marrons, bastó de passeig. Assegut a un banc llegint el diari. Jubilat, antic pediatra durant 35 anys. Ha vist milers de nens plorant. Sap exactament com actuar davant una ferida menor. Però camina lent i li costa ajupir-se.",
         "traits": [
-          "expediatre",
+          "ex-pediatre",
           "molt expert",
           "mobilitat reduïda"
         ],
@@ -3069,7 +3069,7 @@
         "age": 35,
         "height": 160,
         "weight": 64,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "negre llarg en trena",
         "description": "Dona llatina, uniforme de neteja (bata blava), pantalons foscos, sabates còmodes. Creua el parc de camí a la feina. Treballadora de neteja amb 3 feines. Mare de dos fills que viuen a Hondures amb l'àvia. Veient un nen plorar se li encongeix el cor. Molt afectuosa i resolutiva amb nens.",
         "traits": [
@@ -3156,7 +3156,7 @@
         "age": 47,
         "height": 165,
         "weight": 60,
-        "build": "prim",
+        "build": "prima",
         "hair": "castany curt, pràctic",
         "description": "Cirurgiana cardíaca especialitzada en trasplantaments. Quinze anys d'experiència en operacions complexes, incloent-hi intervencions d'emergència de 12 hores o més. Precisa, serena i metòdica. El seu historial de supervivència postoperatòria és dels millors del país. Treballa bé en equip però prefereix liderar.",
         "traits": [
@@ -3202,7 +3202,7 @@
         "age": 52,
         "height": 170,
         "weight": 68,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany amb canes, recollit",
         "description": "Cap de servei de cirurgia cardiovascular a l'Hospital de Bellvitge. Gran capacitat de coordinació d'equips quirúrgics en situacions prolongades. Ha format desenes de cirurgians joves. La seva precisió manual és bona però no excepcional — el seu fort és la visió global de l'operació i la presa de decisions sota pressió.",
         "traits": [
@@ -3248,7 +3248,7 @@
         "age": 33,
         "height": 162,
         "weight": 55,
-        "build": "prim petit",
+        "build": "prima petita",
         "hair": "ros curt, ulleres",
         "description": "Cirurgiana jove, acabada d'obtenir l'especialització en cirurgia cardíaca fa dos anys. La més jove del grup i la menys experimentada. Tanmateix, va ser la primera de la seva promoció i les seves mans són d'una precisió extraordinària. El dubte: pot aguantar la pressió de 10 hores en una intervenció tan delicada?",
         "traits": [
@@ -3294,7 +3294,7 @@
         "age": 41,
         "height": 168,
         "weight": 63,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany fosc, cua",
         "description": "Cirurgiana cardíaca pediàtrica reconvertida a adults fa quatre anys. Opera cors de nadons des de fa quinze anys — una precisió extrema amb estructures diminutes. En adults, les dimensions canvien però l'habilitat manual és la mateixa. Li falta experiència específica en vàlvula aòrtica d'adult, però la seva precisió compensa.",
         "traits": [
@@ -3340,7 +3340,7 @@
         "age": 49,
         "height": 166,
         "weight": 64,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "negre amb canes, recollit pràctic",
         "description": "Cirurgiana d'urgències cardíaques al 12 de Octubre de Madrid, ara a Barcelona. Especialitzada en intervencions d'emergència: infarts, disseccions aòrtiques, ruptures. Molt bona sota pressió extrema i amb temps limitat. Menys habituada a intervencions programades i llargues com aquesta. La seva resistència mental és impressionant però el seu estil és explosiu, no de fons.",
         "traits": [
@@ -3386,7 +3386,7 @@
         "age": 45,
         "height": 171,
         "weight": 66,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany ondulat, mitjà",
         "description": "Cirurgiana cardíaca amb quinze anys d'experiència equilibrada: domina tant la cirurgia programada com l'urgent. No destaca espectacularment en cap àrea, però és sòlida en totes. El perfil que els residents anomenen 'la cirurgiana que voldries al teu costat a les 3 de la matinada'. Fiable, constant i sense ego.",
         "traits": [
@@ -3522,7 +3522,7 @@
         "age": 41,
         "height": 167,
         "weight": 63,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany fosc, trena",
         "description": "Geòloga de la UB especialitzada en formacions càrstiques. Coneix la roca calcària com la palma de la seva mà: sap llegir les parets d'una cova per anticipar perills com zones inestables o possibles inundacions. Bona espeleòloga tècnica amb quinze anys d'experiència subterrània. El seu coneixement científic la fa insubstituïble per avaluar riscos.",
         "traits": [
@@ -3570,7 +3570,7 @@
         "age": 25,
         "height": 160,
         "weight": 53,
-        "build": "petit i atlètic",
+        "build": "petita i atlètica",
         "hair": "castany, cua curta",
         "description": "Estudiant de ciències ambientals que va descobrir l'espeleologia fa tres anys al club de muntanya de la universitat. Jove, entusiasta i amb una condició física excel·lent. Cos atlètic i petit que li permet moure's amb facilitat per tota mena d'espais. Li falta experiència en expedicions llargues i en prendre decisions sota pressió.",
         "traits": [
@@ -3618,7 +3618,7 @@
         "age": 38,
         "height": 165,
         "weight": 60,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "castany rogenc, monyo baix",
         "description": "Biòloga de l'Institut de Biologia Evolutiva especialitzada en fauna cavernícola. Ha passat centenars d'hores en coves recollint mostres. Bona espeleòloga per necessitat professional, amb una resistència notable en expedicions llargues. Coneix els indicadors biològics que avisen de mala qualitat de l'aire.",
         "traits": [
@@ -3666,7 +3666,7 @@
         "age": 46,
         "height": 168,
         "weight": 68,
-        "build": "robust mitjà",
+        "build": "robusta mitjana",
         "hair": "castany ondulat amb fils grisos",
         "description": "Instructora titulada d'espeleologia per la Federació Catalana. Vint anys d'experiència ensenyant i guiant grups. Perfil complet i equilibrat: bona en escalada, en passatges estrets, en trams aquàtics. No destaca espectacularment en cap àrea, però és sòlida en totes. La persona que tothom vol al seu equip perquè mai falla.",
         "traits": [
@@ -3714,7 +3714,7 @@
         "age": 36,
         "height": 170,
         "weight": 65,
-        "build": "atlètic",
+        "build": "atlètica",
         "hair": "fosc llarg, trena impermeable",
         "description": "Espeleòloga subaquàtica: la seva especialitat són els sifons, els passatges inundats que connecten galeries seques. Submarinista titulada amb formació en busseig en coves. Excel·lent nedadora i molt bona resistència al fred. Menys experiència en trams secs d'escalada pura, però bona tècnica general. Clau si la cova té trams aquàtics.",
         "traits": [
@@ -3762,7 +3762,7 @@
         "age": 33,
         "height": 162,
         "weight": 55,
-        "build": "mitjà-petit",
+        "build": "mitjana-petita",
         "hair": "negre curt, bob pràctic",
         "description": "Enginyera topogràfica especialitzada en cartografia subterrània. Fa mapes de coves amb precisió mil·limètrica usant eines de mesura làser. Excel·lent coneixement tècnic de la geometria de les coves. Complexió mitjana-petita, bona agilitat. Menys experiència en trams de dificultat extrema, però la seva capacitat per orientar l'equip és fonamental.",
         "traits": [
@@ -3828,7 +3828,7 @@
         "age": 31,
         "height": 160,
         "weight": 54,
-        "build": "petit atlètic",
+        "build": "petita atlètica",
         "hair": "castany fosc, monyo reglamentari",
         "description": "Considerada una de les millors pilots de caça de la seva generació. Reflexos excepcionals i una resistència a forces G superior a la majoria dels seus companys masculins — en part gràcies a la seva complexió petita i lleugera. Freda sota pressió, pren decisions ràpides i precises. 1.200 hores de vol i ha guanyat competicions de combat aeri simulat.",
         "traits": [
@@ -3972,7 +3972,7 @@
         "age": 38,
         "height": 172,
         "weight": 65,
-        "build": "prim atlètic alt",
+        "build": "prima atlètica alta",
         "hair": "fosc recollit, gorra de vol",
         "description": "Pilot de proves: la seva feina és volar avions en condicions extremes per trobar-ne els límits. Freda com el gel sota pressió, amb una calma en situacions crítiques que és llegendària. Resistència G molt bona, reflexos excel·lents, 2.500 hores de vol. Decisions metòdiques i calculades. El seu punt feble: pot ser massa prudent en situacions que requereixen agressivitat tàctica.",
         "traits": [
@@ -4068,7 +4068,7 @@
         "age": 40,
         "height": 166,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "fosc amb fils grisos, curt pràctic",
         "description": "Una de les pilots més respectades de la base, amb 3.200 hores de vol i missions reals. Fa dos anys va patir una lesió a la columna durant una ejecció d'emergència. S'ha recuperat i ha estat readmesa, però la lesió li limita la tolerància a forces G prolongades. La seva experiència tàctica i capacitat de decisió segueixen sent extraordinàries, però el seu cos ja no aguanta el que aguantava.",
         "traits": [
@@ -4182,7 +4182,7 @@
         "age": 33,
         "height": 168,
         "weight": 65,
-        "build": "mitjà-fort",
+        "build": "mitjana-forta",
         "hair": "bob curt fosc, despentinat",
         "description": "Mecànica d'automòbils. Mans fortes, acostumades a desmuntar i reparar motors, canonades, sistemes hidràulics. No ha tocat mai un motor marítim, però la mecànica és mecànica: sap improvisar solucions, identificar d'on ve una fuita i tapar-la amb materials de fortuna. Forta i resistent, no es mareja gens. No sap navegar. Parla francès nadiu, anglès funcional.",
         "traits": [
@@ -4208,7 +4208,7 @@
         "weight": 95,
         "build": "molt alt i musculós",
         "hair": "curt ros estilitzat",
-        "description": "Monitor de fitness, molt alt, musculós i en una forma física impressionant. Sembla la persona perfecta per a qualsevol tasca física. Però l'aigua el fa pànic: de petit va estar a punt d'ofegar-se i no ha superat mai la por. En el moment de l'accident, està blanc com el paper, tremola i gairebé no pot moure's. La seva força física és inútil si el pànic el paralitza. Parla anglès nadiu, gens de francès.",
+        "description": "Monitor de fitness, molt alt, musculós i en una forma física impressionant. Sembla la persona perfecta per a qualsevol tasca física. Però l'aigua li fa pànic: de petit va estar a punt d'ofegar-se i no ha superat mai la por. En el moment de l'accident, està blanc com el paper, tremola i gairebé no pot moure's. La seva força física és inútil si el pànic el paralitza. Parla anglès nadiu, gens de francès.",
         "traits": [
           "cos impressionant",
           "paralitzat pel pànic",
@@ -4230,7 +4230,7 @@
         "age": 39,
         "height": 165,
         "weight": 62,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "negre, trenes curtes naturals",
         "description": "Infermera d'urgències d'origen senegalès. Acostumada a emergències mèdiques, és la persona més calmada del vaixell. Ja està atenent la persona inconscient. Bona comunicadora, parla francès perfecte i anglès correcte. Va créixer a la costa del Senegal i coneix el mar, tot i que no ha navegat mai una embarcació a motor. La seva calma i capacitat de gestió de crisis la fan valuosa per a qualsevol rol.",
         "traits": [
@@ -4326,7 +4326,7 @@
         "age": 36,
         "height": 163,
         "weight": 58,
-        "build": "mitjà",
+        "build": "mitjana",
         "hair": "llis castany rogenc, cua de cavall",
         "description": "Operadora del centre d'emergències 112 de Rouen. Cada dia rep trucades de gent en crisi: sap exactament com comunicar una emergència, quina informació donar, com mantenir la calma al telèfon i com guiar els serveis de rescat fins a un punt. Sap la diferència entre el 112, el CROSS (rescat marítim francès) i la Guàrdia Costanera britànica. Cap experiència marítima ni mecànica. Parla francès nadiu i anglès correcte.",
         "traits": [
@@ -4422,7 +4422,7 @@
     "title": "L'expedició al riu",
     "category": "Escenari paleolític",
     "description": "Fa dies que no plou i les reserves d'aigua s'estan esgotant. Cal que 3 persones caminin 20 km fins al riu més proper per portar aigua. Caldrà resistència per caminar tot el dia, orientació per trobar el camí i força per portar pes de tornada. Tria 3 persones entre els 16 membres de la tribu.",
-    "context": "Portar aigua és una tasca que requereix resistència (caminar 20 km amb pes), orientació (trobar el camí d'anada i tornada) i capacitat de càrrega (portar els odres plens). En moltes cultures africanes actuals, són les dones qui fan aquesta tasca cada dia. La 'obvietat' de triar els homes més forts desapareix quan es consideren la resistència de fons, el coneixement del terreny i la capacitat de dosificar l'energia. Estem triant per biologia o per cultura?",
+    "context": "Portar aigua és una tasca que requereix resistència (caminar 20 km amb pes), orientació (trobar el camí d'anada i tornada) i capacitat de càrrega (portar els odres plens). En moltes cultures africanes actuals, són les dones qui fan aquesta tasca cada dia. L'\"obvietat\" de triar els homes més forts desapareix quan es consideren la resistència de fons, el coneixement del terreny i la capacitat de dosificar l'energia. Estem triant per biologia o per cultura?",
     "toSelect": 3,
     "reflectionTitle": "Reflexionem!",
     "reflectionText": "Has triat els homes més forts? O t'has fixat en qui coneix el camí, qui té més resistència de fons i qui sap dosificar l'energia? En moltes cultures actuals, portar aigua és una tasca femenina perquè requereix exactament el que les dones de la tribu tenen: resistència, coneixement del terreny i capacitat de càrrega constant. La força bruta no és el factor decisiu en un viatge de 40 km (anada i tornada) per terreny difícil.",
@@ -4586,7 +4586,7 @@
         "weight": 16,
         "build": "molt petit",
         "hair": "curt castany, desordenat",
-        "description": "Té 5 anys. Apenas camina sense caure, i el viatge al riu seria impossible per a ell. No pot carregar pes, es cansaria al cap d'una hora i alentiria qualsevol grup. Però la seva presència obliga a preguntar-se: per què és obvi que no el triaríem? Perquè és petit, feble i inexpert. Aquestes raons s'apliquen en graus a altres membres de la tribu, però amb ells no sembla tan clar.",
+        "description": "Té 5 anys. Apenas camina sense caure, i el viatge al riu seria impossible per a ell. No pot carregar pes, es cansaria al cap d'una hora i alentiria qualsevol grup. Però la seva presència obliga a preguntar-se: per què és obvi que no el triaríem? Perquè és petit, feble i inexpert. Aquestes raons s'apliquen en diferent mesura a altres membres de la tribu, però amb ells no sembla tan clar.",
         "traits": [
           "nen molt petit",
           "no pot fer el viatge",
@@ -4634,7 +4634,7 @@
         "weight": 72,
         "build": "mitjà, resistent",
         "hair": "mitjà fosc, una mica apelmaçat",
-        "description": "Expert de la tribu en rius i cursos d'aigua. Sap on són els guals, on el corrent és massa fort, on l'aigua és neta. Complexió mitjana, resistent, acostumat a terrenys humits i relliscosos. Bona resistència i coneixement del camí al riu, ja que hi va sovint a pescar. No és gaire fort i portar grans càrregues no és el seu punt fort.",
+        "description": "Expert de la tribu en rius i cursos d'aigua. Sap on són els guals, on el corrent és massa fort, on l'aigua és neta. Complexió mitjana, resistent, acostumat a terrenys humits i relliscosos. Bona resistència i coneixement del camí al riu, ja que hi va sovint a pescar. No és gaire fort i portar grans càrregues és el seu punt feble.",
         "traits": [
           "expert en rius",
           "resistent",
@@ -5342,7 +5342,7 @@
         "weight": 73,
         "build": "mitjà-prim",
         "hair": "castany, ulleres",
-        "description": "Regidor d'Hisenda des de fa 8 anys. Economista. Ha equilibrat els pressupostos durant la crisi, ha negociat refinançaments i ha implementat un sistema de transparència pressupostària premiat. Rigorós, tècnic. Poc conegut pel ciutadà de a peu, però fonamental per a la credibilitat econòmica.",
+        "description": "Regidor d'Hisenda des de fa 8 anys. Economista. Ha equilibrat els pressupostos durant la crisi, ha negociat refinançaments i ha implementat un sistema de transparència pressupostària premiat. Rigorós, tècnic. Poc conegut pel ciutadà del carrer, però fonamental per a la credibilitat econòmica.",
         "traits": [
           "mestre dels números",
           "premiat en transparència",
@@ -5840,7 +5840,7 @@
         "weight": 74,
         "build": "mitjà, casual tech",
         "hair": "castany curt, modern",
-        "description": "Enginyer de telecomunicacions. 6 anys a Google Zurich com a enginyer sènior d'infraestructura. Després va fundar una empresa de serveis cloud: 200 treballadors, 45M€ de facturació. Coneix la tecnologia de dins cap a fora: ha escrit codi, ha dissenyat arquitectures, ha escalar equips. Competeix directament en el segment de NeoCom. Dinàmic, amb mentalitat de creixement.",
+        "description": "Enginyer de telecomunicacions. 6 anys a Google Zurich com a enginyer sènior d'infraestructura. Després va fundar una empresa de serveis cloud: 200 treballadors, 45M€ de facturació. Coneix la tecnologia de dins cap a fora: ha escrit codi, ha dissenyat arquitectures, ha escalat equips. Competeix directament en el segment de NeoCom. Dinàmic, amb mentalitat de creixement.",
         "traits": [
           "exGoogle",
           "fundador de cloud company",
@@ -6078,15 +6078,15 @@
     "title": "Les oposicions a bomber",
     "category": "Escenari de reflexió social",
     "description": "S'han convocat oposicions per cobrir 5 places de bomber en un parc de bombers d'una ciutat mitjana catalana. Les proves inclouen: carregar 40 kg pujant 4 pisos, arrossegar un maniquí de 80 kg, córrer 1.500 m, pujar corda, circuit amb ERA i natació. A més hi ha proves teòriques, psicotècniques i entrevista. Hi ha 18 aspirants (12 homes i 6 dones). Tria els 5 que aprovaran.",
-    "context": "El cos de bombers és un dels àmbits on el debat sobre les quotes de gènere xoca amb la realitat física. Un bomber ha de poder carregar una persona inconscient escales avall en un edifici en flames. Algunes convocatòries estableixen barems físics diferenciats per sexe. Això permet que més dones aprovin, però si una bombera ha d'arrossegar algú de 90 kg i no pot, la quota l'ha ajudat o l'ha posat en perill? Hi ha dones excepcionalment fortes que superen molts homes, i ser bomber és molt més que força bruta. Però la biologia imposa diferències mitjanes. Com ho resolem? Barem únic? Barem diferenciat? Rols especialitzats dins el cos?",
+    "context": "El cos de bombers és un dels àmbits on el debat sobre les quotes de gènere xoca amb la realitat física. Un bomber ha de poder carregar una persona inconscient escales avall en un edifici en flames. Algunes convocatòries estableixen barems físics diferenciats per sexe. Això permet que més dones aprovin, però si una bombera ha d'arrossegar algú de 90 kg i no pot, la quota l'ha ajudat o l'ha posat en perill? Hi ha dones excepcionalment fortes que superen molts homes, i ser bomber és molt més que força bruta. Però la biologia imposa diferències mitjanes. Com ho resolem? Barem únic? Barem diferenciat? Rols especialitzats dins del cos?",
     "toSelect": 5,
     "reflectionTitle": "Reflexionem!",
-    "reflectionText": "Quantes dones has seleccionat? Si has triat per proves físiques, probablement cap o una (la Neus). Si has valorat l'experiència, potser la Laura o en Miquel. El dilema és real: la Neus pot fer la feina (està a la franja dels homes en força), però si apliquem quota per posar-ne dues, la segona dona tindrà dificultats en rescats que requereixin força pura. Aprovar amb barem diferenciat no canvia la física: el maniquí segueix pesant 80 kg. Potser la solució no són quotes ni barems diferenciats, sinó rols especialitzats dins el cos (prevenció, logística, sanitari, investigació) on la força bruta no sigui el factor crític.",
+    "reflectionText": "Quantes dones has seleccionat? Si has triat per proves físiques, probablement cap o una (la Neus). Si has valorat l'experiència, potser la Laura o en Miquel. El dilema és real: la Neus pot fer la feina (està a la franja dels homes en força), però si apliquem quota per posar-ne dues, la segona dona tindrà dificultats en rescats que requereixin força pura. Aprovar amb barem diferenciat no canvia la física: el maniquí segueix pesant 80 kg. Potser la solució no són quotes ni barems diferenciats, sinó rols especialitzats dins del cos (prevenció, logística, sanitari, investigació) on la força bruta no sigui el factor crític.",
     "debateQuestions": [
       "Si ordenes els 18 aspirants per proves físiques amb barem únic, quantes dones queden entre els 5 primers? Per què?",
       "La Neus és excepcionalment forta per a una dona. Però per què diem 'per a una dona'? Seria justa una oposició amb barem diferenciat?",
       "Si un barem diferenciat permet aprovar a algú que després no pot arrossegar una persona de 90 kg en un incendi, qui n'és responsable?",
-      "Hi ha tasques dins el cos de bombers (prevenció, sanitari, investigació) on la força bruta no és el factor crític. Seria una bona alternativa crear rols especialitzats?"
+      "Hi ha tasques dins del cos de bombers (prevenció, sanitari, investigació) on la força bruta no és el factor crític. Seria una bona alternativa crear rols especialitzats?"
     ],
     "characters": [
       {
@@ -6486,7 +6486,7 @@
         "traits": [
           "triatleta competitiva",
           "resistència excepcional",
-          "molt poc força de tren superior"
+          "molt poca força de tren superior"
         ],
         "skills": {
           "condició física": 7,
@@ -6924,7 +6924,7 @@
         "age": 26,
         "height": 179,
         "weight": 77,
-        "build": "mitjà, serio",
+        "build": "mitjà, seriós",
         "hair": "fosc curt, formal",
         "description": "Nascut a Moscou, fill d'enginyer de Roscosmos, traslladat a Alemanya als 14 anys. Graduat a la TU Dresden (1,5). Ha treballat en el laboratori de materials compostos, coautor d'un article sobre estructures lleugeres per a fuselatges. Parla alemany, rus i anglès. Bon candidat, posició 4-6: notes bones però no excepcionals, projectes sòlids però no brillants, entrevista correcta.",
         "traits": [
@@ -7253,7 +7253,7 @@
       "Quines característiques heu buscat primer? Força, cos gran, experiència militar... o calma, precisió i resistència al fred?",
       "Les dues millors candidates per a aquesta tasca són dones (Mireia i Lena). Les heu considerat? Si no, per què creieu que no?",
       "En Gerard (bomber) i en Nil (militar) impressionen molt, però la tasca no és un rescat ni una operació militar. Heu confós «semblar fort» amb «ser adequat»?",
-      "La Mireia és petita, prima i silenciosa — però és la millor candidata objectivament. Quins biaixos ens fan ignorar a algú que no «sembla» el que busquem?",
+      "La Mireia és petita, prima i silenciosa — però és la millor candidata objectivament. Quins biaixos ens fan ignorar algú que no «sembla» el que busquem?",
       "Busseig profund evoca perill i aventura — i el cervell ho associa amb homes. Però la tasca és una reparació fina en aigües fredes. Com influeix la primera impressió?"
     ],
     "characters": [
@@ -7510,7 +7510,7 @@
         "traits": [
           "fisioterapeuta (mans entrenades)",
           "120 immersions",
-          "destresa manual inesperable"
+          "destresa manual insuperable"
         ],
         "skills": {
           "experiència de busseig": 4,
@@ -7528,7 +7528,7 @@
         "gender": "D",
         "height": 162,
         "weight": 55,
-        "build": "molt petita, prim",
+        "build": "molt petita, prima",
         "hair": "fosc, llarg, monyo baix",
         "description": "Apneista competitiva. Rècord català d'apnea estàtica (6 minuts 45 segons) i d'immersió lliure a 55 metres. Control de la respiració i calma sota l'aigua excepcionals — baixa el ritme cardíac a 35 pulsacions per minut. Però l'apnea i el busseig amb equip autònom són disciplines molt diferents. Certificació Open Water Diver però poques immersions amb SCUBA (unes 40). No coneix els protocols de descompressió a 30 metres, i la seva experiència en aigües fredes és limitada.",
         "traits": [
@@ -7796,7 +7796,7 @@
         "gender": "D",
         "height": 164,
         "weight": 57,
-        "build": "normal, actiu",
+        "build": "normal, activa",
         "hair": "castany fosc, ondulat",
         "description": "Enginyera de materials de l'ESA, de Sevilla. Ha treballat en escuts tèrmics i recobriments per a satèl·lits. 35 dies d'aïllament amb bons resultats — «capacitat d'adaptar-se a qualsevol entorn sense perdre l'humor». Consum d'oxigen: 0,47 L/min. Necessitat calòrica: 1.750 kcal/dia. Coneix els materials de la càpsula i pot diagnosticar problemes estructurals. Candidata equilibrada: bona en tot, excel·lent en res.",
         "traits": [
@@ -8018,7 +8018,7 @@
         "gender": "D",
         "height": 162,
         "weight": 70,
-        "build": "normal, robust",
+        "build": "normal, robusta",
         "hair": "castany fosc, recollit",
         "description": "48 anys, tota la vida a Valdecampos. Casada als 20. 3 fills (ja grans). Ha dedicat 28 anys a cuidar-los, portar la casa, cuidar els sogres grans. No ha treballat mai fora de casa. No té prestació d'atur perquè no ha cotitzat. No té currículum. Però ha portat una casa, tres fills, i ha cuidat dues persones grans fins a la seva mort. 28 anys de feina que el sistema no compta. «Necessitem els diners, però a més necessito sortir, sentir-me útil.»",
         "traits": [
