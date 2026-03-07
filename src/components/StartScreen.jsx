@@ -214,7 +214,7 @@ export default function StartScreen({ onStartIndividual, onCreateRoom, onJoinRoo
         className="start-screen__version-btn"
         onClick={() => setShowVersions(v => !v)}
       >
-        {t('ui.versionHistory')}
+        v{VERSION_HISTORY[0].version}
       </button>
 
       {showVersions && (

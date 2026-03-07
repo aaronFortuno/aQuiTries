@@ -150,21 +150,24 @@ button {
   transform: translateY(0);
 }
 
-/* Version History Button */
+/* Version History Button — mirrors ln-tip-jar position on opposite side */
 .start-screen__version-btn {
   position: fixed;
-  bottom: 1.5rem;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(250, 246, 241, 0.82);
+  bottom: 24px;
+  left: 24px;
+  height: 52px;
+  padding: 0 14px;
+  border-radius: 26px;
+  background: rgba(250, 246, 241, 0.92);
   color: var(--color-text-light);
-  font-size: 0.75rem;
+  font-size: 14px;
   font-weight: 600;
-  padding: 0.4rem 1rem;
-  border-radius: var(--radius-sm);
   border: 1px solid var(--color-border);
   transition: background var(--transition), color var(--transition);
   z-index: 10;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
 }
 
 .start-screen__version-btn:hover {
@@ -185,9 +188,8 @@ button {
 /* Version History Panel */
 .start-screen__versions {
   position: fixed;
-  bottom: 3.5rem;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: calc(24px + 52px + 8px);
+  left: 24px;
   background: rgba(250, 246, 241, 0.95);
   border-radius: var(--radius-md);
   padding: 1.5rem;
