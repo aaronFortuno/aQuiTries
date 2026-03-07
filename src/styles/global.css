@@ -34,6 +34,11 @@
 html {
   font-size: 16px;
   background-color: var(--color-bg);
+  scrollbar-width: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
 }
 
 body {
@@ -197,9 +202,14 @@ button {
   width: 90%;
   max-height: 60vh;
   overflow-y: auto;
+  scrollbar-width: none;
   box-shadow: var(--shadow-lg);
   z-index: 10;
   text-align: left;
+}
+
+.start-screen__versions::-webkit-scrollbar {
+  display: none;
 }
 
 .start-screen__version-entry {
@@ -275,9 +285,14 @@ button {
   width: 90vw;
   max-height: 80vh;
   overflow-y: auto;
+  scrollbar-width: none;
   z-index: 101;
   box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
   text-align: left;
+}
+
+.start-screen__about-modal::-webkit-scrollbar {
+  display: none;
 }
 
 .start-screen__about-close {

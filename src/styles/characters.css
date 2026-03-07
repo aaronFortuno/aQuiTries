@@ -233,11 +233,16 @@
   max-width: 92vw;
   max-height: 90vh;
   overflow-y: auto;
+  scrollbar-width: none;
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
   animation: scaleIn 0.15s ease;
   cursor: default;
+}
+
+.character-preview::-webkit-scrollbar {
+  display: none;
 }
 
 @keyframes scaleIn {

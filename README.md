@@ -65,6 +65,11 @@ Desplegament automàtic a GitHub Pages via GitHub Actions (`.github/workflows/de
 
 ## Historial de versions
 
+### v0.5.2 (2026-03-07)
+- Favicon personalitzat del projecte
+- Corregides cantonades dels modals (scrollbar ja no tapa el border-radius)
+- Fletxes de la galeria de personatges ara ocupen tota l'alçada
+
 ### v0.5.1 (2026-03-07)
 - Modal de reflexió redissenyat: galeria visual de personatges triats amb avatar i barres d'habilitat
 - Descripció del personatge accessible amb hover/tap, no visible per defecte

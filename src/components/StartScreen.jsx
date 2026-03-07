@@ -5,6 +5,22 @@ import '../styles/guided.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.5.2',
+    date: '2026-03-07',
+    changes: {
+      ca: [
+        'Favicon personalitzat del projecte',
+        'Corregides cantonades dels modals (scrollbar ja no tapa el border-radius)',
+        'Fletxes de la galeria de personatges ara ocupen tota l\'alçada',
+      ],
+      es: [
+        'Favicon personalizado del proyecto',
+        'Corregidas esquinas de los modales (scrollbar ya no tapa el border-radius)',
+        'Flechas de la galería de personajes ahora ocupan toda la altura',
+      ],
+    },
+  },
+  {
     version: '0.5.1',
     date: '2026-03-07',
     changes: {
