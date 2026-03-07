@@ -1,0 +1,387 @@
+4. Fichas de personatge (12 candidats a astronauta)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix e2_).
+Rol: perfil professional, dades físiques i resultats.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: L'ESA (Agència Espacial Europea) i l'ISRO (Indian Space Research
+Organisation) envien una missió conjunta a l'estació espacial amb una durada de 6 mesos.
+La càpsula té espai limitat per a 2 tripulants. La missió requereix: resistència
+psicològica a l'aïllament prolongat, eficiència en l'ús de recursos (oxigen, aigua,
+aliment — cada quilo de pes corporal consumeix més), capacitat de treball en espais
+confinats i habilitats tècniques per als experiments programats. Cal triar 2 persones
+d'un equip de 12 candidats preseleccionats (6 homes i 6 dones), procedents de països
+europeus i de l'Índia.
+
+Context pedagògic: Quan pensem en "astronauta", la imatge mental és un home alt, fort,
+atlètic — el perfil de pel·lícula. Però la realitat de les missions espacials és
+exactament l'oposada: en un entorn on cada litre d'oxigen, cada gram d'aliment i cada
+centímetre cúbic d'espai compten, una persona petita i lleugera és objectivament més
+eficient que una de gran. Un astronauta de 90 kg consumeix un 40-50% més d'oxigen i
+calories que un de 55 kg. En una missió de 6 mesos, aquesta diferència es tradueix en
+centenars de quilos de subministraments addicionals que cal llançar a l'espai a un cost
+de 20.000€ per quilo.
+
+La NASA i altres agències ho saben fa dècades: les dones, de mitjana, tenen avantatge
+en missions espacials per la seva menor massa corporal, menor consum d'oxigen i menor
+necessitat calòrica. Valentina Tereshkova ocupava menys espai a la Vostok 6 que
+qualsevol dels seus companys masculins. La biologia, en aquest cas, afavoreix el perfil
+femení — contràriament a la intuïció de la majoria de gent.
+
+La trampa: els jugadors probablement triaran el pilot suec alt i el pilot indi atlètic
+perquè "semblen astronautes". Però per a aquesta missió concreta, les millors candidatures
+són persones petites, eficients, calmades i tècnicament competents — un perfil que
+coincideix més amb algunes de les candidates femenines i amb un candidat masculí petit
+que probablement serà ignorat.
+
+---
+
+HOMES (6 candidats)
+
+---
+
+4.1. Henrik Lindberg – Pilot de proves, suec
+ID: e2_henrik_lindberg
+Rol: Pilot de proves de l'ESA, 38 anys. 1,91 m, 90 kg.
+
+Descripció de personatge
+
+En Henrik té 38 anys i és pilot de proves de l'ESA. Suec, de Linköping, explot de
+combat del Flygvapnet (forces aèries sueques) durant 8 anys. Mesura 1,91 m i pesa
+90 kg — espatlles amples, mandíbula quadrada, cabell ros curt, ulls blaus, somriure
+d'anunci de reclutament. És l'astronauta de pel·lícula: carismàtic, valent, amb un
+currículum impressionant (2.000 hores de vol, proves en avions experimentals, formació
+en supervivència extrema).
+
+Resultats psicològics: bons, però no excel·lents. Tolera bé la pressió aguda (combat,
+aterratges d'emergència) però les proves d'aïllament prolongat mostren inquietud a
+partir del dia 20 — necessita estímuls, activitat, interacció social. Les seves proves
+mèdiques revelen un consum d'oxigen de 0,84 litres/minut en repòs (el més alt del
+grup) i una necessitat calòrica de 2.800 kcal/dia. En 6 mesos, el seu cos requerirà
+uns 500 kg més de subministraments que el candidat més eficient del grup. A 20.000€/kg
+de llançament, això són 10 milions d'euros addicionals. Sembla un astronauta, però el
+seu cos és una despesa de recursos difícil de justificar per a aquesta missió concreta.
+
+---
+
+4.2. Ravi Krishnamurthy – Enginyer de sistemes, indi
+ID: e2_ravi_krishnamurthy
+Rol: Enginyer de sistemes de l'ISRO, 36 anys. 1,73 m, 68 kg.
+
+Descripció de personatge
+
+En Ravi té 36 anys i és enginyer de sistemes de l'ISRO, de Chennai (Tamil Nadu).
+Hindú, vegetarià. Ha treballat en el disseny de sistemes de suport vital per a la
+missió Gaganyaan (el programa tripulat indi). Coneix els sistemes de la càpsula des
+de dins — literalment els ha dissenyat. Mesura 1,73 m i pesa 68 kg — cos normal, ni
+gran ni petit.
+
+Resultats psicològics: molt bons. Calmat, metòdic, amb una capacitat de concentració
+en tasques repetitives que els avaluadors han descrit com "excepcional". Ha completat
+una simulació d'aïllament de 30 dies sense signes d'estrès significatiu. Consum
+d'oxigen: 0,62 litres/minut. Necessitat calòrica: 2.200 kcal/dia. Perfil tècnic
+excel·lent, eficiència de recursos bona (no la millor), estabilitat psicològica alta.
+Candidat sòlid, posició 3-5 global. El seu punt fort és que coneix els sistemes de la
+nau millor que ningú — si alguna cosa falla, ell sap arreglar-ho.
+
+---
+
+4.3. Thomas Weber – Enginyer aeroespacial, alemany
+ID: e2_thomas_weber
+Rol: Enginyer aeroespacial de l'ESA, 41 anys. 1,80 m, 78 kg.
+
+Descripció de personatge
+
+En Thomas té 41 anys i és enginyer aeroespacial de l'ESA, de Darmstadt. Protestant.
+Ha treballat en el control de missió de l'ESA durant 12 anys, participant en missions
+de la ISS, Rosetta i ExoMars. Coneix els protocols operatius espacials millor que ningú
+al grup. Mesura 1,80 m i pesa 78 kg — cos normal, lleugerament per sobre de la
+mitjana.
+
+Resultats psicològics: correctes però amb un punt feble significatiu. Les proves en
+simulador d'espais confinats han revelat una tendència lleu a la claustrofòbia que
+augmenta amb el temps — als 15 dies d'aïllament mostrava símptomes d'ansietat que els
+altres candidats no tenien. Ho gestiona, però és un factor de risc en una missió de 6
+mesos en un espai del volum d'una furgoneta. Consum d'oxigen: 0,68 litres/minut.
+Necessitat calòrica: 2.400 kcal/dia. Tècnicament brillant, psicològicament qüestionable
+per a aquesta missió.
+
+---
+
+4.4. Arjun Singh – Pilot de combat, indi
+ID: e2_arjun_singh
+Rol: Pilot de combat de l'IAF (Indian Air Force), 33 anys. 1,83 m, 82 kg.
+
+Descripció de personatge
+
+L'Arjun té 33 anys i és pilot de combat de les Forces Aèries Índies, de Chandigarh
+(Punjab). Sikh — porta turbant, barba cuidada, presència imponent. Mesura 1,83 m i
+pesa 82 kg — cos atlètic, musculat, l'aspecte d'un heroi de Bollywood. Ha pilotat
+caces Su-30MKI, té 1.500 hores de vol i ha completat la formació bàsica d'astronauta
+de l'ISRO.
+
+Resultats psicològics: mixtos. Excel·lent en situacions de pressió aguda (decisions
+en mil·lisegons, tolerància a forces G), però les proves d'aïllament prolongat mostren
+impaciència significativa. Als 10 dies de simulació confinada ja mostrava irritabilitat
+i necessitat de moviment — és un pilot de combat, no un monjo. Consum d'oxigen: 0,78
+litres/minut (alt — cos gran i metabolisme ràpid). Necessitat calòrica: 2.600 kcal/dia.
+El seu turbant i la barba, tot i no ser un impediment tècnic amb els cascos moderns,
+generen un biaix visual que pot fer que els jugadors el descartin per raons equivocades
+— o que el triïn per raons igualment equivocades.
+
+---
+
+4.5. Pierre Moreau – Metge de vol, francès
+ID: e2_pierre_moreau
+Rol: Metge de vol de l'ESA, 37 anys. 1,76 m, 73 kg.
+
+Descripció de personatge
+
+En Pierre té 37 anys i és metge de vol de l'ESA, de Lió. Catòlic (no practicant).
+Especialista en medicina aeroespacial i fisiologia de microgravitat. Ha supervisat la
+salut d'astronautes a la ISS des de terra i ha dissenyat protocols mèdics per a
+missions de llarga durada. Mesura 1,76 m i pesa 73 kg — cos normal.
+
+Resultats psicològics: bons. Calmat, racional, amb una capacitat de gestió de l'estrès
+que ve de la seva formació mèdica (ha treballat a urgències abans d'entrar a l'ESA).
+Ha completat 25 dies d'aïllament sense problemes significatius. Consum d'oxigen: 0,65
+litres/minut. Necessitat calòrica: 2.300 kcal/dia. El seu punt fort és la capacitat
+mèdica: en una missió de 6 mesos, tenir un metge a bord és un avantatge real (pot
+gestionar emergències sanitàries, monitoritzar la salut de l'altre tripulant, ajustar
+protocols de nutrició). Candidat equilibrat, posició 4-6, amb un actiu específic
+(medicina) que cap altre candidat ofereix.
+
+---
+
+4.6. Sanjay Patel – Informàtic, indi
+ID: e2_sanjay_patel
+Rol: Científic informàtic de l'ISRO, 30 anys. 1,64 m, 57 kg.
+
+Descripció de personatge
+
+En Sanjay té 30 anys i és científic informàtic de l'ISRO, d'Ahmedabad (Gujarat).
+Jainista, vegetarià estricte. Mesura 1,64 m i pesa 57 kg — el candidat masculí més
+petit i lleuger del grup. Ulleres, cos prim, veu suau — no impressiona físicament.
+Sembla un programador, no un astronauta.
+
+Resultats psicològics: els millors de tots els homes, i entre els millors del grup
+complet. Ha completat 45 dies d'aïllament en simulador sense cap signe d'estrès — de
+fet, els avaluadors han notat que semblava còmode, gairebé content, en la solitud
+confinada. La seva pràctica jainista de meditació i austeritat li dona una tolerància
+a l'aïllament i a la restricció de recursos que és difícil d'entrenar. Consum
+d'oxigen: 0,52 litres/minut (el més baix dels homes). Necessitat calòrica: 1.800
+kcal/dia (la dieta jainista vegetariana requereix menys energia digestiva). El seu
+cos petit ocupa menys espai a la càpsula.
+
+Tècnicament, és expert en els sistemes informàtics de la nau — programació de bord,
+diagnòstic de sistemes, gestió de dades. En Sanjay és, objectivament, un dels millors
+candidats per a aquesta missió concreta. Però ningú el triaria a primer cop d'ull:
+és petit, prim, silenciós, porta ulleres i sembla fràgil. La trampa és total.
+
+---
+
+DONES (6 candidates)
+
+---
+
+4.7. Priya Nair – Enginyera aeroespacial, índia
+ID: e2_priya_nair
+Rol: Enginyera aeroespacial de l'ISRO, 34 anys. 1,58 m, 51 kg.
+
+Descripció de personatge
+
+La Priya té 34 anys i és enginyera aeroespacial de l'ISRO, de Thiruvananthapuram
+(Kerala). Hindú. Ha treballat en el disseny del mòdul orbital de Gaganyaan i en
+sistemes de propulsió per a satèl·lits. Mesura 1,58 m i pesa 51 kg — petita, prima,
+amb un somriure tranquil i uns ulls brillants d'intel·ligència.
+
+Resultats psicològics: excel·lents. Ha completat 50 dies d'aïllament en simulador —
+el millor registre de tot el grup, homes i dones. Els avaluadors l'han descrita com
+"extraordinàriament estable, amb una calma interior que no depèn de l'entorn extern".
+Consum d'oxigen: 0,44 litres/minut (el segon més baix del grup). Necessitat calòrica:
+1.650 kcal/dia. El seu cos petit és una màquina d'eficiència: en 6 mesos, consumirà
+menys de la meitat de recursos que en Henrik (el pilot suec).
+
+Tècnicament, coneix els sistemes de propulsió i navegació, sap reparar components
+electrònics, i ha demostrat una capacitat de resolució de problemes en simulacions
+que ha impressionat el comitè. La Priya és, per dades objectives, la millor candidata
+del procés: la més eficient en recursos, la més estable psicològicament, i tècnicament
+excel·lent. Però és una dona menuda i silenciosa d'una ciutat del sud de l'Índia — no
+és la imatge que la gent té d'un astronauta.
+
+---
+
+4.8. Elena Fischer – Metgessa i biofísica, alemanya
+ID: e2_elena_fischer
+Rol: Metgessa i biofísica de l'ESA, 36 anys. 1,67 m, 59 kg.
+
+Descripció de personatge
+
+L'Elena té 36 anys i és metgessa i biofísica de l'ESA, de Heidelberg. Luterana.
+Doctora en medicina amb especialització en fisiologia humana en microgravitat. Ha
+passat 3 mesos a l'Antàrtida a l'estació Concordia (un dels anàlegs terrestres més
+propers a una missió espacial: aïllament, fred, confinament, equip reduït). Mesura
+1,67 m i pesa 59 kg.
+
+Resultats psicològics: molt bons. L'experiència antàrtica li dona un avantatge real:
+ja ha viscut l'aïllament prolongat en un entorn hostil i sap què li passa al cos i a
+la ment. Consum d'oxigen: 0,48 litres/minut. Necessitat calòrica: 1.800 kcal/dia.
+La seva doble formació (metgessa + biofísica) és un actiu potent: pot gestionar
+emergències sanitàries, monitoritzar l'adaptació fisiològica a la microgravitat, i
+dur a terme experiments biològics. Candidata top 2-3. Comparteix l'avantatge mèdic
+amb en Pierre, però amb millor eficiència de recursos i experiència real en aïllament.
+
+---
+
+4.9. Ananya Begum – Biòloga, índia
+ID: e2_ananya_begum
+Rol: Biòloga molecular de l'ISRO, 31 anys. 1,56 m, 49 kg.
+
+Descripció de personatge
+
+L'Ananya té 31 anys i és biòloga molecular de l'ISRO, de Kolkata (Bengala Occidental).
+Musulmana. Porta hijab. Mesura 1,56 m i pesa 49 kg — la candidata més petita i
+lleugera de tot el grup. Un cos diminut que és, per a la missió espacial, un avantatge
+enorme.
+
+Resultats psicològics: excel·lents. Introvertida per naturalesa, ha completat 40 dies
+d'aïllament amb resultats que els avaluadors han qualificat de "notablement estables —
+sembla que l'aïllament no l'afecta negativament". Consum d'oxigen: 0,41 litres/minut
+— el MÉS BAIX de tot el grup. Necessitat calòrica: 1.550 kcal/dia — la MÉS BAIXA.
+En termes purs d'eficiència de recursos, l'Ananya és la candidata òptima: el seu cos
+és la inversió energètica més baixa possible.
+
+Tècnicament, és biòloga molecular — excel·lent per als experiments de biologia en
+microgravitat programats per a la missió, però menys versàtil en reparacions mecàniques
+o pilotatge que altres candidats. El seu hijab no suposa cap impediment tècnic amb els
+cascos espacials actuals, però pot generar un biaix visual doble: de gènere i de
+religió. Candidata posició 2-4 per eficiència i psicologia, amb un perfil tècnic
+específic però no universal.
+
+---
+
+4.10. Marta Fernández – Enginyera de materials, espanyola
+ID: e2_marta_fernandez
+Rol: Enginyera de materials de l'ESA, 35 anys. 1,64 m, 57 kg.
+
+Descripció de personatge
+
+La Marta té 35 anys i és enginyera de materials de l'ESA, de Sevilla. Catòlica (no
+practicant). Ha treballat en el desenvolupament de materials per a escuts tèrmics i
+recobriments per a satèl·lits. Mesura 1,64 m i pesa 57 kg — cos normal, actiu, en
+bona forma.
+
+Resultats psicològics: molt bons. Sociable però autosuficient — un equilibri difícil
+de trobar. Ha completat 35 dies d'aïllament amb bons resultats i els avaluadors han
+destacat la seva "capacitat d'adaptar-se a qualsevol entorn sense perdre l'humor".
+Consum d'oxigen: 0,47 litres/minut. Necessitat calòrica: 1.750 kcal/dia. Perfil
+tècnic sòlid: coneix els materials de la càpsula i pot diagnosticar i reparar
+problemes estructurals. Candidata equilibrada, posició 4-6: bona en tot, excel·lent
+en res. El tipus de persona que fa funcionar un equip sense que ningú se n'adoni.
+
+---
+
+4.11. Lakshmi Subramaniam – Científica veterana, índia
+ID: e2_lakshmi_subramaniam
+Rol: Científica sènior de l'ISRO, 42 anys. 1,62 m, 54 kg.
+
+Descripció de personatge
+
+La Lakshmi té 42 anys i és científica sènior de l'ISRO, de Madurai (Tamil Nadu).
+Hindú. Porta 18 anys treballant en el programa espacial indi — és la candidata amb
+més experiència del grup, i la que millor coneix la interfície entre els sistemes ESA
+i ISRO (ha treballat en projectes conjunts durant 6 anys). Mesura 1,62 m i pesa
+54 kg.
+
+Resultats psicològics: excel·lents. La seva edat i experiència li donen una serenitat
+que els candidats més joves no tenen. Ha completat 38 dies d'aïllament sense cap signe
+d'estrès, i els avaluadors han notat que "exerceix un efecte estabilitzador sobre la
+resta del grup — la seva presència calma els altres". Consum d'oxigen: 0,45
+litres/minut. Necessitat calòrica: 1.700 kcal/dia. El seu hàndicap: l'edat. A 42
+anys, la seva adaptació a la microgravitat pot ser més lenta (pèrdua de massa òssia
+més ràpida, recuperació post-missió més llarga). Però la seva experiència i el seu
+rol d'interfície ESA-ISRO la fan insubstituïble per a una missió conjunta.
+
+---
+
+4.12. Sophie Laurent – Pilot d'helicòpter, francesa
+ID: e2_sophie_laurent
+Rol: Pilot d'helicòpter de l'Armée de l'Air, 33 anys. 1,74 m, 64 kg.
+
+Descripció de personatge
+
+La Sophie té 33 anys i és pilot d'helicòpter militar francesa, de Bordeus. Laica. Ha
+pilotat helicòpters en missions a Mali i al Líban, amb 1.200 hores de vol. Seleccionada
+per l'ESA per la seva capacitat de pilotatge i sang freda en situacions d'emergència.
+Mesura 1,74 m i pesa 64 kg — la dona més alta i pesant del grup, amb un cos atlètic i
+una presència que imposa. La imatge més pròxima a l'"astronauta de pel·lícula" entre
+les candidates femenines.
+
+Resultats psicològics: bons. Acostumada a la pressió del combat aeri, gestiona bé les
+emergències. Però les proves d'aïllament prolongat mostren un perfil similar al d'en
+Arjun (el pilot de combat sikh): necessitat d'activitat, dificultat per estar quieta,
+inquietud a partir del dia 15. Consum d'oxigen: 0,54 litres/minut (el més alt entre
+les dones). Necessitat calòrica: 2.000 kcal/dia. La Sophie és una pilot excel·lent —
+si la missió fos un vol d'anada i tornada de 3 dies, seria la candidata ideal. Però per
+a 6 mesos confinada en un espai de 10 m³, el seu perfil no és el més adequat.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Per a una missió de 6 mesos en una càpsula de volum limitat, els factors crítics són:
+(1) Eficiència de recursos (O₂ + calories → massa corporal baixa)
+(2) Estabilitat psicològica en aïllament prolongat
+(3) Competència tècnica per als experiments i manteniment
+
+Rànquing per eficiència de recursos (consum O₂ + necessitats calòriques):
+
+1. Ananya Begum (dona, 49 kg) — 0,41 L/min, 1.550 kcal/dia
+2. Priya Nair (dona, 51 kg) — 0,44 L/min, 1.650 kcal/dia
+3. Lakshmi Subramaniam (dona, 54 kg) — 0,45 L/min, 1.700 kcal/dia
+4. Marta Fernández (dona, 57 kg) — 0,47 L/min, 1.750 kcal/dia
+5. Sanjay Patel (home, 57 kg) — 0,52 L/min, 1.800 kcal/dia
+6. Elena Fischer (dona, 59 kg) — 0,48 L/min, 1.800 kcal/dia
+7. Sophie Laurent (dona, 64 kg) — 0,54 L/min, 2.000 kcal/dia
+8. Ravi Krishnamurthy (home, 68 kg) — 0,62 L/min, 2.200 kcal/dia
+9. Pierre Moreau (home, 73 kg) — 0,65 L/min, 2.300 kcal/dia
+10. Thomas Weber (home, 78 kg) — 0,68 L/min, 2.400 kcal/dia
+11. Arjun Singh (home, 82 kg) — 0,78 L/min, 2.600 kcal/dia
+12. Henrik Lindberg (home, 90 kg) — 0,84 L/min, 2.800 kcal/dia
+
+Rànquing per estabilitat psicològica en aïllament prolongat:
+
+1. Priya Nair (dona) — 50 dies sense estrès
+2. Sanjay Patel (home) — 45 dies, pràctica meditativa
+3. Ananya Begum (dona) — 40 dies, introvertida estable
+4. Lakshmi Subramaniam (dona) — 38 dies, efecte estabilitzador
+5. Marta Fernández (dona) — 35 dies, adaptable
+6. Ravi Krishnamurthy (home) — 30 dies, metòdic
+7. Elena Fischer (dona) — experiència antàrtica real (90 dies)
+8. Pierre Moreau (home) — 25 dies, calmat per formació mèdica
+9. Sophie Laurent (dona) — inquieta a partir del dia 15
+10. Arjun Singh (home) — irritable a partir del dia 10
+11. Thomas Weber (home) — tendència claustrofòbica
+12. Henrik Lindberg (home) — inquiet a partir del dia 20
+
+Combinació òptima de recursos + psicologia + tècnica:
+
+1. Priya Nair (dona) — eficient + estable + enginyera de sistemes
+2. Ananya Begum (dona) — la més eficient + estable + biòloga per experiments
+3. Sanjay Patel (home) — eficient + estable + informàtic de sistemes
+4. Elena Fischer (dona) — eficient + experiència antàrtica + metgessa
+5. Lakshmi Subramaniam (dona) — eficient + veterana + interfície ESA-ISRO
+
+El millor equip de 2 per a la missió: Priya + Elena (eficiència + estabilitat +
+enginyeria + medicina) o Priya + Ananya (eficiència màxima + estabilitat + biologia).
+
+La trampa: els jugadors probablement triaran Henrik (el pilot suec alt i ros) i/o
+Arjun (el pilot de combat indi). Són els que "semblen" astronautes. Però són els
+candidats 11-12è en eficiència de recursos i 10-12è en tolerància a l'aïllament. Per
+a una missió de 6 mesos en una càpsula petita, són objectivament els pitjors
+candidats del grup.
+
+La reflexió: "T'ha sorprès que aquí ser petit sigui un avantatge? Per què, quan penses
+en 'astronauta', imagines algú gran i fort? D'on ve aquesta imatge, i com condiciona
+les teves decisions?"

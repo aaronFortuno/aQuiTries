@@ -1,0 +1,301 @@
+4. Fichas de personatge (16 membres de la tribu)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c5_).
+Rol: funció principal a la tribu.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Fa dies que no plou. Cal que 3 persones caminin 20 km fins al
+riu més proper per portar aigua. Caldrà resistència, orientació i força per portar pes
+de tornada. La tribu té 16 membres disponibles, des de nens petits fins a ancians.
+L'escenari vol mostrar que la tasca de portar aigua no és "òbvia": en moltes cultures
+actuals són les dones qui la fan. Estem triant per biologia o per cultura?
+
+---
+
+4.1. Bran – Caçador fort
+ID: c5_bran
+Rol: Caçador principal, especialista en preses grans.
+
+Descripció de personatge
+
+En Bran té uns 32 anys i és un dels homes més forts de la tribu. Cos poderós, espatlles amples, capaç de carregar una presa sencera sobre les espatlles. Sembla la tria òbvia per a qualsevol tasca de força. Però té dos problemes: primer, el seu cos gran consumeix molta aigua — en un viatge llarg per terreny sec, ell necessitarà beure més que els altres; segon, té un sentit de l'orientació pèssim. Sempre ha caçat seguint els rastrejadors, mai sol.
+
+Bloque de prompt específico
+
+Adult man (32), tall powerfully built with broad shoulders and thick arms, imposing strong posture. Short dark hair, square heavy jaw, deep-set determined eyes, confident but slightly blank expression — someone who follows rather than leads in navigation.
+
+Wearing a thick fur tunic over one shoulder leaving one arm free, tied at the waist with a wide leather belt. Heavy fur leggings, sturdy primitive sandals. A large wooden club hanging from his belt, a leather pouch at his hip.
+
+Standing with a solid planted wide stance, arms slightly out from his muscular body — the physical presence of the tribe's strongest hunter. Color palette: dark browns, thick furs, heavy earth tones, raw physical power.
+
+---
+
+4.2. Yara – Recol·lectora experta
+ID: c5_yara
+Rol: Recol·lectora principal, coneixedora del terreny.
+
+Descripció de personatge
+
+La Yara té uns 34 anys. Cada dia camina hores buscant arrels, fruits i herbes, sovint carregant cistells pesants a l'esquena. La seva resistència és superior a la de molts caçadors: pot caminar tot el dia sense aturar-se. Coneix cada pujada, cada baixada, cada senyal del terreny entre el campament i els punts d'aigua. Ha fet el camí al riu almenys deu vegades. Complexió mitjana, fibrosa, peus durs com pedra.
+
+Bloque de prompt específico
+
+Adult woman (34), medium wiry build with lean strong legs from daily long walks, upright enduring posture. Medium-length dark hair tied back with a leather cord, tanned weathered face with defined cheekbones, steady calm eyes, expression of quiet determination.
+
+Wearing a practical light fur wrap tied at the waist for freedom of movement, bare legs with hardened bare feet (no sandals — she walks barefoot by choice). A large woven carrying basket strapped to her back with leather straps, a small leather pouch at her belt with dried herbs.
+
+Standing with a relaxed but ready walking posture, one foot slightly forward, hands resting on the basket straps — someone always ready to walk. Color palette: light browns, natural fiber basket, weathered practical tones.
+
+---
+
+4.3. Gael – Jove impulsiu
+ID: c5_gael
+Rol: Caçador jove, ràpid però inexpert.
+
+Descripció de personatge
+
+En Gael té uns 19 anys i és el més ràpid de la tribu: corre com un cérvol i té una energia inesgotable. Però és jove i impulsiu: mai ha fet un viatge llarg sol, no sap orientar-se sense algú experimentat que el guiï, i tendeix a gastar tota l'energia al principi i quedar-se sense forces al final. El seu entusiasme pot ser un avantatge o un problema segons qui el dirigeixi.
+
+Bloque de prompt específico
+
+Young man (19), lean athletic build with long legs built for running, eager restless posture. Messy medium-length dark hair, youthful smooth face, bright excited eyes, expression of impatient energy — someone who wants to go NOW.
+
+Wearing a minimal short fur wrap tied loosely at the waist, bare chest showing a lean young physique, bare legs and feet. A light throwing spear in one hand held loosely, a small leather water skin slung over one shoulder.
+
+Standing with a forward-leaning dynamic posture, weight on the balls of his feet as if about to sprint — the coiled energy of youth. Color palette: light minimal furs, youthful skin tones, energetic motion tones.
+
+---
+
+4.4. Seren – Mare resistent
+ID: c5_seren
+Rol: Mare de dos fills, recol·lectora i portadora de càrregues.
+
+Descripció de personatge
+
+La Seren té uns 29 anys i és mare de dos fills petits (un dels quals és la petita Lys). Cada dia carrega el seu fill petit a l'esquena mentre recol·lecta, i porta cistells plens de tornada al campament. La seva resistència és extraordinària: el seu cos està adaptat a caminar hores amb pes. Coneix el camí al riu perquè hi ha anat diverses vegades a buscar aigua amb les altres dones. Complexió mitjana, musculatura de càrrega, peus forts.
+
+Bloque de prompt específico
+
+Adult woman (29), medium build with strong legs and back developed from carrying loads and children, grounded solid posture. Dark brown hair in a practical braid, round warm face with tired but determined brown eyes, expression of quiet enduring strength.
+
+Wearing a fur tunic tied at the waist with a wide leather belt, bare legs with wrappings at the ankles, simple sandals. A carrying strap across one shoulder (currently empty — her child is at camp), a leather water skin at her belt. A simple bone bead necklace.
+
+Standing with a stable, weight-bearing posture, one hand on her hip, the other holding the carrying strap — the habitual posture of someone used to carrying heavy loads all day. Color palette: medium browns, practical furs, enduring mother earth tones.
+
+---
+
+4.5. Theron – Caçador amb lesió al genoll
+ID: c5_theron
+Rol: Caçador experimentat, actualment lesionat.
+
+Descripció de personatge
+
+En Theron té uns 36 anys i és un dels millors caçadors i navegadors de la tribu. Coneix el camí al riu millor que ningú perquè durant anys va ser l'explorador del grup. Fort, intel·ligent, amb un sentit de l'orientació excepcional. Però fa tres setmanes es va lesionar el genoll esquerre en una cacera — una mala caiguda perseguint una presa. Camina coix, amb un bastó, i no pot mantenir un pas ràpid durant hores. En terreny pla aguanta, però les pujades i baixades li causen un dolor intens. Portar pes li és molt difícil.
+
+Bloque de prompt específico
+
+Adult man (36), strong well-built frame but with a visible limp, slightly hunched posture favoring his left leg. Short dark hair with a few gray strands, strong weathered face with intelligent sharp eyes, expression mixing frustration and pain — someone capable but limited.
+
+Wearing a fur tunic with a leather belt, sturdy fur leggings. His left knee is wrapped in layers of hide and leather strips (a primitive brace/bandage), visibly thicker than the right leg. Leaning heavily on a thick wooden walking stick held in his right hand, his left leg slightly bent and not bearing full weight.
+
+Standing with an asymmetric posture — right leg solid, left leg guarded and angled, stick taking weight. One hand gripping the stick, the other resting on his belt near a stone knife. Color palette: medium browns, weathered furs, bandaged knee detail, injured warrior tones.
+
+---
+
+4.6. Niamh – Anciana coneixedora de l'aigua
+ID: c5_niamh
+Rol: Anciana, memòria del terreny i els punts d'aigua.
+
+Descripció de personatge
+
+La Niamh té uns 52 anys, que en el paleolític és una edat molt avançada. Camina lentament, amb un bastó, i els seus ossos li fan mal al matí. Però coneix cada font, cada rierol, cada punt d'aigua entre el campament i el riu gran. Ha fet aquest camí desenes de vegades al llarg de la seva vida. Sap on parar a descansar, on hi ha perill de depredadors, on l'aigua és bona i on no. Les seves cames ja no poden fer 20 km, però el seu coneixement és insubstituïble.
+
+Bloque de prompt específico
+
+Elderly woman (52), thin frail build with slightly hunched back, slow careful posture. Long gray hair in a loose braid over one shoulder, deeply wrinkled tanned face with sharp knowing pale eyes, expression of patient wisdom and some weariness.
+
+Wearing a longer thicker fur wrap for warmth covering most of her body, tied with a cord belt. Bare feet with simple hide wrappings, thin legs visible. Leaning on a worn smooth walking stick, a small leather pouch at her belt with herbs and dried berries. A bone and shell necklace — the mark of an elder.
+
+Standing with a cautious, weight-forward posture, stick planted firmly, knees slightly bent — the measured movements of someone conserving energy. Color palette: grays, pale furs, aged bone whites, ancient wisdom tones.
+
+---
+
+4.7. Cael – Nen molt petit
+ID: c5_cael
+Rol: Nen petit de la tribu.
+
+Descripció de personatge
+
+En Cael té uns 5 anys. Apenas camina sense caure de tant en tant, i el viatge al riu seria completament impossible per a ell. No pot carregar gens de pes, es cansaria al cap d'una hora i alentiria qualsevol grup. Però la seva presència a la llista obliga a preguntar-se: per què és obvi que no el triaríem? Perquè és petit, feble i inexpert. Aquestes mateixes raons s'apliquen en graus a altres membres de la tribu, però amb ells no ens sembla tan clar.
+
+Bloque de prompt específico
+
+Very young boy (5), tiny small build with the rounded proportions of early childhood, shy uncertain posture. Short messy brown hair, round soft face with big curious dark eyes, expression mixing wonder and slight fear.
+
+Wearing a simple small fur wrap tied at one shoulder, barely covering his little body. Bare legs and bare feet, small and chubby. Holding a small smooth stone in one hand (a toy or treasure), the other hand reaching up as if wanting to hold someone's hand.
+
+Standing with an unsteady childish posture, knees slightly turned inward, head tilted up — the body language of a very small child. Color palette: soft light browns, small proportions, innocent childhood tones.
+
+---
+
+4.8. Lys – Nena molt petita
+ID: c5_lys
+Rol: Nena petita de la tribu, filla de Seren.
+
+Descripció de personatge
+
+La Lys té uns 6 anys. Com en Cael, un viatge de 20 km és impossible per a ella. Però la Lys és una mica més gran i una mica més resistent que en Cael: segueix la seva mare a tot arreu i de vegades camina distàncies sorprenents. Encara així, portar pes o mantenir el ritme d'un adult és fora de les seves possibilitats. A la tribu ajuda recollint llenya prima i vigilant les brases.
+
+Bloque de prompt específico
+
+Very young girl (6), tiny slim build, slightly more confident posture than a younger child. Long tangled dark hair falling loose, small angular face, bright alert dark eyes, determined little expression — a child who tries to imitate the adults.
+
+Wearing a small fur tunic tied at the waist with a thin cord, bare legs and bare feet. Holding a small bundle of thin sticks in her arms (firewood she collected), clutched against her chest.
+
+Standing with a slightly more stable posture than a toddler but still clearly a small child, feet apart for balance, chin up. Color palette: soft browns, small frame, capable-child-but-still-tiny tones.
+
+---
+
+4.9. Rowan – Pescador coneixedor de rius
+ID: c5_rowan
+Rol: Pescador i expert en zones de ribera.
+
+Descripció de personatge
+
+En Rowan té uns 40 anys i és l'expert de la tribu en rius i cursos d'aigua. Sap on són els guals, on el corrent és massa fort, on l'aigua és neta i on no. Complexió mitjana, resistent, acostumat a caminar per terrenys humits i relliscosos. Bona resistència i coneixement del camí al riu, ja que hi va sovint a pescar. El seu desavantatge: no és gaire fort i portar grans càrregues no és el seu punt fort.
+
+Bloque de prompt específico
+
+Adult man (40), medium lean build with weather-beaten skin, relaxed patient posture. Medium-length dark hair slightly matted, thin face with sharp observant eyes, calm quiet expression of someone used to waiting by the water.
+
+Wearing a lighter short fur wrap suitable for getting wet, tied at the waist. Bare legs and bare feet (used to walking in water). A thin fishing spear in one hand, a small woven net slung over his shoulder, a leather water skin at his belt.
+
+Standing with a balanced easy posture, feet apart, slightly turned as if watching water flow — the habitual stance of a fisherman. Color palette: medium browns, hints of muted blue-green in accessories, river-knowledge tones.
+
+---
+
+4.10. Alva – Dona jove corredora
+ID: c5_alva
+Rol: Corredora i missatgera de la tribu.
+
+Descripció de personatge
+
+L'Alva té uns 22 anys. És la persona més ràpida de la tribu després d'en Gael, però amb un avantatge crucial: sap dosificar l'energia. Pot córrer o caminar durant hores sense parar, mantenint un ritme constant que en Gael no sap mantenir. Coneix el terreny raonablement bé perquè el seu rol a la tribu és portar missatges entre grups i explorar. Complexió prima i atlètica, peus lleugers. El seu desavantatge: no és gaire forta i portar molt de pes l'alenteix considerablement.
+
+Bloque de prompt específico
+
+Young adult woman (22), slim athletic build with long lean legs, light agile posture suggesting speed and endurance. Short cropped dark hair (practical for running), sharp elfin features, quick bright eyes, alert determined expression.
+
+Wearing a minimal light fur wrap that leaves her legs completely free for movement, tied high at the waist. Bare feet with hardened soles. No heavy equipment — just a small leather pouch at her hip and a thin leather water skin across her chest. A simple cord anklet.
+
+Standing with a light, ready posture — weight on one foot, the other slightly lifted as if about to take a step, arms loose and relaxed. Color palette: light minimal furs, athletic lean silhouette, speed and endurance tones.
+
+---
+
+4.11. Deryn – Ancià lent però savi
+ID: c5_deryn
+Rol: Ancià, antic explorador.
+
+Descripció de personatge
+
+En Deryn té uns 58 anys, una edat excepcional per a l'època. Gairebé no pot caminar més d'una hora seguida, li fallen les forces i la vista li flaqueja. Però durant quaranta anys va ser l'explorador principal de la tribu: coneix cada pedra, cada arbre, cada referència del camí al riu. Pot descriure la ruta amb detall perfecte a qui vulgui escoltar. El seu cos ja no pot fer el viatge, però el seu coneixement podria salvar la vida a qui el faci.
+
+Bloque de prompt específico
+
+Very elderly man (58), thin fragile build with visibly bony limbs, heavily stooped posture leaning on a thick gnarled staff. Sparse white wispy hair, deeply lined gaunt face with cloudy but still intelligent pale eyes, expression of serene resignation and deep knowledge.
+
+Wearing a heavy layered fur wrap covering most of his frail body for warmth, tied with multiple cords. Thin legs with fur wrappings, simple worn sandals. A bone pendant and several shell beads on a cord around his neck — marks of a long life. His free hand gestures as if explaining a route.
+
+Standing (barely) with most weight on his staff, feet close together, slightly swaying — the precarious balance of extreme age. Color palette: pale grays, white hair, heavy worn furs, ancient fragility tones.
+
+---
+
+4.12. Moira – Dona forta i resistent
+ID: c5_moira
+Rol: Portadora de càrregues i constructora.
+
+Descripció de personatge
+
+La Moira té uns 37 anys i és la dona més forta de la tribu. De cos ample i robust, acostumada a carregar troncs per als refugis, moure pedres i transportar preses. La seva força rivalitza amb la d'alguns caçadors. Bona resistència, complexió sòlida, mans grans i fortes. Coneix el camí al riu perquè hi ha anat a buscar pedres de sílex a la ribera. No destaca en orientació, però pot seguir instruccions i portar més pes que gairebé qualsevol altre membre de la tribu.
+
+Bloque de prompt específico
+
+Adult woman (37), large robust build with broad shoulders and strong thick arms, solid grounded posture. Thick dark hair tied back in a heavy knot, broad weathered face with a strong jaw, steady determined dark eyes, expression of patient physical confidence.
+
+Wearing a sturdy fur tunic reinforced with extra hide at the shoulders (from carrying heavy loads), a wide leather belt with a stone tool and leather pouch. Sturdy fur leggings, thick primitive sandals. A heavy carrying strap across her chest, one hand resting on it.
+
+Standing with a wide planted stance, feet firmly apart, shoulders squared — the immovable posture of someone who carries the heaviest loads. Color palette: dark heavy browns, reinforced furs, strong solid earth tones.
+
+---
+
+4.13. Finn – Adolescent amb ganes
+ID: c5_finn
+Rol: Adolescent aprenent, amb entusiasme però sense experiència.
+
+Descripció de personatge
+
+En Finn té uns 16 anys i està desesperant per demostrar que ja és un adult. Voluntari entusiasta per a qualsevol tasca, fort per la seva edat, amb bona resistència. Però mai ha fet el camí al riu, no sap orientar-se sol i tendeix a sobreestimar les seves capacitats. Si algú experimentat el guia, pot ser un bon company de viatge. Sol, seria un desastre.
+
+Bloque de prompt específico
+
+Teenage boy (16), medium build still filling out, eager upright posture trying to look bigger than he is. Shaggy dark hair falling over his eyes, youthful face with a determined set jaw, bright eager eyes, expression of fierce desire to prove himself.
+
+Wearing a fur tunic slightly too large for him (hand-me-down from an adult), tied tightly at the waist. Bare legs, simple sandals. A wooden spear that looks slightly too long for him held proudly upright in one hand, a small empty leather water skin at his belt.
+
+Standing with an overly straight, slightly stiff posture — trying too hard to look confident. Color palette: medium browns, slightly oversized clothing, youthful determination tones.
+
+---
+
+4.14. Bryn – Exploradora i rastrejadora
+ID: c5_bryn
+Rol: Exploradora, rastrejadora de camins.
+
+Descripció de personatge
+
+La Bryn té uns 30 anys i és l'exploradora principal de la tribu des que en Theron es va lesionar. Lleugera, ràpida, amb un sentit de l'orientació excel·lent. Coneix el camí al riu tan bé com la Yara. Bona resistència per a distàncies llargues, acostumada a viatjar sola i tornar. El seu desavantatge: la seva complexió prima fa que portar grans càrregues li costi molt. L'odre ple d'aigua pesaria gairebé un terç del seu pes.
+
+Bloque de prompt específico
+
+Adult woman (30), slim wiry build with lean muscles, alert forward-leaning posture of a natural scout. Medium-length brown hair tied in a tight practical knot, tanned angular face with sharp watchful green-brown eyes, intense focused expression — always scanning.
+
+Wearing a light fur wrap that allows maximum movement, tied minimally. Bare legs, bare hardened feet. A walking stick in one hand, a small leather pouch with dried food and fire-making tools at her belt. A thin leather cord with animal teeth (trophies from solo trips) around her neck.
+
+Standing with a light, balanced scout's posture — one hand shading her eyes, the other gripping her stick, weight ready to shift in any direction. Color palette: light browns, minimal gear, lean scout silhouette tones.
+
+---
+
+4.15. Cadoc – Artesà i constructor
+ID: c5_cadoc
+Rol: Artesà, fabricant d'eines i contenidors.
+
+Descripció de personatge
+
+En Cadoc té uns 42 anys i és l'artesà de la tribu: fabrica eines de pedra, talla os, i — el més rellevant per a aquesta missió — sap construir i reparar els odres de pell per transportar aigua. Si un odre es trenca durant el viatge, ell és l'únic que el pot reparar sobre la marxa. Complexió mitjana, mans hàbils, resistència acceptable però no excepcional. Coneix el camí al riu vagament. El seu valor no és en la marxa sinó en les seves mans.
+
+Bloque de prompt específico
+
+Adult man (42), medium stocky build with notably dexterous hands, calm measured posture. Medium-length graying brown hair, a short beard, weathered face with patient observant eyes, concentrated steady expression — hands always busy.
+
+Wearing a fur tunic with a wide belt from which hang several small tools: a stone chisel, bone needles in a tiny leather roll, sinew thread on a spool. Fur leggings, simple sandals. In his hands, he holds an animal-skin water bag he is inspecting or repairing, turning it carefully.
+
+Standing with a craftsman's posture — slightly hunched over his work, hands precise and active, body still. Color palette: medium browns, tool details in bone white and stone gray, patient craftsman tones.
+
+---
+
+4.16. Isla – Adolescent sorprenentment resistent
+ID: c5_isla
+Rol: Adolescent, ajudant de les recol·lectores.
+
+Descripció de personatge
+
+La Isla té uns 14 anys i és una adolescent que acompanya les recol·lectores des de fa dos anys. Malgrat la seva edat, ja ha desenvolupat una resistència notable de tant caminar amb les dones adultes. Coneix una part del camí al riu perquè hi ha anat dues vegades amb la Yara. No és forta, però és lleugera i constant: manté el pas durant hores sense queixar-se. Encara li falta maduresa per prendre decisions en situacions imprevistes.
+
+Bloque de prompt específico
+
+Teenage girl (14), slim small build still growing, quiet steady posture surprisingly mature for her age. Long dark hair in a simple braid, young round face with serious dark eyes that look older than her years, expression of calm patience learned from walking with the women.
+
+Wearing a simple fur tunic (modest, practical), tied at the waist. Bare legs, bare feet with soles already hardening from walking. A small woven grass basket on her back (miniature version of Yara's), a tiny leather pouch at her belt.
+
+Standing with a quiet, grounded posture — feet firm, shoulders relaxed, hands resting on the basket straps — the still competence of a young person who has learned by watching. Color palette: soft medium browns, small frame, quiet growing-competence tones.

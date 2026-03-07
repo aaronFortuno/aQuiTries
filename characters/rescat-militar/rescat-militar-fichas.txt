@@ -1,0 +1,451 @@
+4. Fichas de personatge (18 militars dels EUA)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c6_).
+Rol: rang militar i especialitat.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Un company ha estat capturat i retingut en un edifici controlat
+per insurgents en una zona urbana d'Orient Mitjà. Cal reclutar un equip de 5 persones
+d'entre 18 disponibles per a una missió de rescat d'alt risc. La missió pot durar fins
+a 18 hores fins a tenir una finestra d'extracció. Es poden patir baixes. Cal cohesió,
+coordinació, domini d'armes, capacitat de decisió ràpida i resistència física i mental.
+
+Context pedagògic: L'escenari reflecteix una realitat incòmoda. Als EUA, els afroamericans
+representen el 13% de la població però històricament entre el 20-25% de les baixes en
+combat. Molts soldats d'infanteria provenen de famílies sense recursos ni opcions laborals:
+l'exèrcit és la seva única sortida per pagar estudis o tenir un futur. Les dones gairebé
+no estan presents en unitats de combat directe, i menys en contextos àrabs. L'escenari
+convida a preguntar-se: qui lluita i mor en les guerres? Per què?
+
+---
+
+4.1. Staff Sergeant Marcus Johnson – Operador de combat experimentat
+ID: c6_marcus_johnson
+Rol: SSgt (E-6), infanteria, líder d'esquadra.
+
+Descripció de personatge
+
+En Marcus té 28 anys i ha completat tres desplegaments a l'Iraq i Afganistan. Va créixer
+al barri de Sandtown-Winchester a Baltimore, un dels més pobres de la ciutat. La seva mare
+treballava en dos llocs per mantenir quatre fills. Es va allistar als 18 anys perquè no
+tenia diners per a la universitat i el barri no oferia cap futur. Avui és un dels operadors
+més competents de la companyia: precís, fred sota foc, excel·lent en tàctica urbana. Ha
+vist companys morir. Porta aquesta càrrega en silenci. Físicament en gran forma, líder
+natural, respectat per tothom.
+
+Bloque de prompt específico
+
+Adult Black man (28), medium-tall athletic build with lean hard muscle, straight disciplined military posture radiating quiet authority. Dark skin, short regulation fade haircut, strong square jaw with a short well-trimmed beard (deployment grooming), deep-set intense dark brown eyes, calm serious expression — someone who has seen combat and carries it.
+
+Wearing desert camouflage ACU uniform (OCP pattern — tan, brown, green), full tactical vest (plate carrier) with MOLLE pouches, magazine pouches across the chest, a radio handset clipped to his left shoulder strap. Tan combat boots, desert-tan tactical gloves. An M4 carbine held diagonally across his chest in a ready position, a sidearm holstered on his right thigh.
+
+Standing with a balanced, ready combat stance — weight evenly distributed, one hand on the rifle grip, the other on the handguard. SSgt rank insignia on his chest. Color palette: OCP camo pattern, tan gear, dark skin, combat-worn professional tones.
+
+---
+
+4.2. Sergeant DeShawn Williams – Tirador designat
+ID: c6_deshawn_williams
+Rol: Sgt (E-5), tirador designat (Designated Marksman).
+
+Descripció de personatge
+
+En DeShawn té 25 anys i és de Flint, Michigan — una ciutat coneguda per la pobresa i la
+crisi de l'aigua. El seu pare va morir en un tiroteig quan ell tenia 12 anys. Es va allistar
+a 17 amb el permís de la seva mare perquè "era l'exèrcit o el carrer". Ha resultat ser un
+tirador excepcional: el millor de tot el batalló. Pacient, metòdic, capaç d'esperar hores
+immòbil per a un sol tret. Introvertit, parla poc. El seu ull i la seva calma el fan
+insubstituïble en una missió de rescat on un sol tret precís pot salvar o condemnar la vida
+de l'ostatge.
+
+Bloque de prompt específico
+
+Young adult Black man (25), medium lean build with particularly steady hands, still watchful posture of a trained marksman. Dark skin, very short buzzed hair, thin face with high cheekbones, narrow focused eyes that seem to measure distance constantly, quiet reserved expression.
+
+Wearing desert OCP camouflage uniform, a lighter tactical vest than the infantrymen (marksman configuration — fewer pouches, more streamlined), tan combat boots. A marksman rifle (M110 SASS or similar — longer barrel, scope mounted) held vertically at his side with one hand on the stock, a ghillie wrap loosely draped over one shoulder. A small notepad (for range calculations) visible in a chest pocket.
+
+Standing in a still, almost unnervingly motionless posture — the trained stillness of someone who can hold position for hours. Sgt rank insignia on chest. Color palette: OCP camo, long rifle silhouette, marksman precision tones.
+
+---
+
+4.3. First Lieutenant Connor Hayes – Oficial tàctic
+ID: c6_connor_hayes
+Rol: 1Lt (O-2), oficial d'infanteria, líder de secció.
+
+Descripció de personatge
+
+En Connor té 27 anys, és de Fairfax, Virginia — una de les zones més riques dels EUA. Família
+militar de generacions: el seu avi va ser coronel, el seu pare general de brigada. Va estudiar
+a West Point amb matrícula d'honor. Formació tàctica excel·lent, coneix els manuals de
+memòria. Però aquest és el seu primer desplegament real. Mai no ha disparat contra una
+persona. Mai no ha vist un company morir. La seva formació acadèmica és impecable, però
+la diferència entre la teoria i el combat real és un abisme que encara no ha creuat. Els
+soldats veterats el respecten pel rang però no confien del tot en ell.
+
+Bloque de prompt específico
+
+Young adult white man (27), tall athletic build with perfect posture trained at military academy, slightly stiff bearing of someone more comfortable with protocol than chaos. Clean-cut sandy brown hair in a sharp regulation cut, clean-shaven angular face, light blue eyes, earnest focused expression with a hint of tension — someone preparing for something he's only studied in books.
+
+Wearing a crisp desert OCP uniform (noticeably newer and less faded than the veterans'), full tactical vest with officer's radio and map case, tan combat boots that still look relatively clean. An M4 carbine slung across his back (not in ready position — he's used to delegating), a Beretta sidearm holstered on his thigh. A tactical tablet in a ruggedized case strapped to his forearm.
+
+Standing with textbook military posture — back straight, chin level, hands precisely placed — the trained stance of an academy graduate. 1Lt rank insignia on chest. Color palette: clean OCP camo, newer gear, officer bearing tones.
+
+---
+
+4.4. Staff Sergeant Carlos Ramirez – Líder d'equip veterà
+ID: c6_carlos_ramirez
+Rol: SSgt (E-6), infanteria, líder d'equip.
+
+Descripció de personatge
+
+En Carlos té 33 anys i és de McAllen, Texas, una ciutat fronterera amb un dels índexs de
+pobresa més alts del país. Fill d'immigrants mexicans, va créixer parlant espanyol a casa.
+Es va allistar perquè l'exèrcit oferia papers, sou fix i la promesa d'estudis. Porta
+quatre desplegaments, ha liderat equips en dotzenes de missions de combat urbà. És
+el típic suboficial que fa funcionar l'exèrcit de veritat: coneix cada soldat, sap què
+necessiten, anticipa problemes. Dur, directe, amb un humor àcid que amaga l'estrès.
+Gran coneixement de tàctica urbana.
+
+Bloque de prompt específico
+
+Adult Latino man (33), medium-stocky muscular build with thick neck and forearms, solid grounded posture of a career NCO. Brown skin, short black hair in a tight fade, square jaw with heavy stubble (days without shaving on deployment), sharp dark brown eyes, tough no-nonsense expression with permanent slight frown lines.
+
+Wearing a well-worn desert OCP uniform (faded from multiple deployments, patched at one elbow), heavily loaded tactical vest with extra magazine pouches and a breaching tool (small pry bar) strapped to the side, scuffed tan combat boots. An M4 carbine with a foregrip and tactical light held across his body, a combat knife in a chest sheath.
+
+Standing with a wide aggressive combat-ready stance, jaw set, one hand on rifle, eyes scanning — the posture of someone always expecting contact. SSgt rank insignia on chest. Color palette: faded worn OCP, heavy tactical gear, veteran combat NCO tones.
+
+---
+
+4.5. Specialist Tyrone Mitchell – Soldat jove
+ID: c6_tyrone_mitchell
+Rol: Spc (E-4), infanteria, fusilier.
+
+Descripció de personatge
+
+En Tyrone té 22 anys i és d'un barri humil d'Atlanta. La seva mare és infermera, el seu
+pare és absent. Es va allistar perquè l'exèrcit pagava la universitat — vol estudiar
+enginyeria informàtica quan acabi el servei. És el seu primer desplegament. Bon soldat,
+complidor, en bona forma física. Però no ha vist combat real i no sap com reaccionarà
+quan les bales comencin a volar. Nerviós però ho dissimula. Tècnicament competent però
+sense l'instint que donen els anys d'experiència.
+
+Bloque de prompt específico
+
+Young adult Black man (22), medium athletic build with youthful energy, upright eager posture trying to project confidence. Dark skin, short regulation haircut, round young face that looks even younger under the helmet, wide alert dark eyes, expression mixing determination and barely concealed nervousness.
+
+Wearing desert OCP uniform (relatively new, still stiff), standard tactical vest with basic combat load, new-looking tan combat boots. An M4 carbine held tightly — perhaps too tightly — with both hands in front of his body, a single dog tag chain visible at his collar.
+
+Standing with a slightly too-rigid posture — the stiffness of someone who hasn't relaxed into combat yet, shoulders high with tension. Spc rank insignia on chest. Color palette: clean OCP camo, new gear, young soldier first-deployment tones.
+
+---
+
+4.6. Sergeant First Class Robert "Bobby" Turner – Suboficial veterà
+ID: c6_bobby_turner
+Rol: SFC (E-7), infanteria, suboficial sènior de pelotó.
+
+Descripció de personatge
+
+En Bobby té 39 anys i és de Harlan County, Kentucky — zona minera Appalachiana, una de
+les més pobres dels EUA. El seu pare era miner, el seu avi era miner. Ell va triar l'exèrcit
+perquè la mina estava tancant. Porta cinc desplegaments en vint-i-un anys de servei.
+Ha vist de tot. És la columna vertebral de la unitat: tranquil, experimentat, amb una
+capacitat per gestionar el caos que només donen els anys. Però l'acumulació de trauma
+comença a notar-se: dorm malament, beu massa quan està de permís, i la seva dona l'ha
+deixat. En combat segueix sent excel·lent, però ja no és la mateixa persona.
+
+Bloque de prompt específico
+
+Adult white man (39), stocky weathered build going slightly thick around the middle but still strong, tired but steady posture of a career soldier. Thinning sandy hair under his helmet, ruddy weathered face with deep lines around his eyes and mouth, pale blue-gray eyes that have a thousand-yard quality, neutral flat expression — someone who has stopped being surprised by anything.
+
+Wearing a heavily used desert OCP uniform (multiple repairs, faded patches), well-organized tactical vest worn with the ease of decades, battered tan combat boots molded to his feet. An M4 carbine slung casually — the relaxed weapon handling of someone who has carried a rifle for twenty years. A worn photo tucked into the band of his helmet (barely visible).
+
+Standing with a deceptively relaxed posture — weight on one leg, shoulders slightly slumped, but eyes sharp and scanning. The body language of exhaustion masking total readiness. SFC rank insignia on chest. Color palette: faded worn OCP, battered gear, career soldier weariness tones.
+
+---
+
+4.7. Corporal Jamal Washington – Operador de punt
+ID: c6_jamal_washington
+Rol: Cpl (E-4), infanteria, home de punt (point man).
+
+Descripció de personatge
+
+En Jamal té 24 anys i és del South Side de Chicago. El seu germà gran, també soldat, va
+morir en una emboscada a Afganistan fa tres anys. En Jamal es va allistar l'endemà de
+l'enterrament. Porta un desplegament i mig, voluntari per a les missions més perilloses.
+És l'home de punt: el primer que entra en una habitació, el primer que gira una cantonada.
+Reflexos excepcionals, valent fins al punt de la temeritat. Alguns companys creuen que
+busca venjança; d'altres, que busca morir amb honor. En qualsevol cas, el seu instint
+de combat és brutal.
+
+Bloque de prompt específico
+
+Young adult Black man (24), lean muscular build with fast-twitch athlete physique, intense forward-leaning posture of someone always ready to move first. Dark skin, very short hair almost shaved, angular sharp face, fierce intense dark eyes with a hard edge, tight aggressive expression — controlled fury.
+
+Wearing desert OCP uniform with sleeves rolled tight above the elbows (non-regulation but common in combat), a streamlined tactical vest configured for speed (fewer pouches, lighter load), scuffed tan combat boots. An M4 carbine with a short barrel and red-dot sight held in a high-ready position (muzzle up, ready to snap down), a flashbang grenade visible on his vest.
+
+Standing with an aggressive forward posture — one foot ahead of the other, weight on the balls of his feet, body coiled like a spring. Cpl rank insignia barely visible under gear. Color palette: combat-worn OCP, minimal streamlined gear, aggressive point-man tones.
+
+---
+
+4.8. Sergeant Emily Chen – Metgessa de combat
+ID: c6_emily_chen
+Rol: Sgt (E-5), 68W Combat Medic.
+
+Descripció de personatge
+
+L'Emily té 29 anys i és sino-americana de San Francisco. A diferència de molts companys,
+ella va triar l'exèrcit voluntàriament — volia ser cirurgiana de trauma i l'exèrcit pagava
+la formació. Porta dos desplegaments com a metgessa de combat. Ha operat ferides de bala
+i metralla en plena línia de foc. Competent amb armes (tots els combat medics ho són),
+però el seu valor real és que pot mantenir algú viu fins a l'evacuació. En una missió
+de 18 hores on es poden patir baixes, no tenir metge de combat és suïcida. Freda sota
+pressió, mans fermes, pren decisions mèdiques en segons.
+
+Bloque de prompt específico
+
+Adult Asian American woman (29), medium compact build with precise steady hands, calm controlled posture radiating medical competence. Straight black hair pulled back tight under her helmet, oval face with sharp focused dark eyes, composed neutral expression — the detached calm of someone trained to work while bullets fly.
+
+Wearing desert OCP uniform, a tactical vest modified for a combat medic — red cross patch on the arm (subdued color for combat), extra medical pouches replacing some magazine pouches, a compact trauma kit (IFAK) prominently placed on her chest. Tan combat boots. An M4 carbine slung on her back (secondary to her medical role), latex gloves tucked into her vest, a pair of trauma shears visible in a pocket.
+
+Standing with a balanced, ready posture — hands slightly forward as if preparing to treat a casualty, eyes scanning not for enemies but for who might get hurt. Sgt rank insignia and combat medic badge on chest. Color palette: OCP camo, medical pouch accents, subdued red cross, combat medic precision tones.
+
+---
+
+4.9. Private First Class Brandon Scott – Soldat verd
+ID: c6_brandon_scott
+Rol: PFC (E-3), infanteria, fusilier.
+
+Descripció de personatge
+
+En Brandon té 20 anys i és d'una petita ciutat rural d'Iowa. Fill de grangers, s'hi va
+allistar perquè "era el que es feia" al seu poble — tradició familiar, patriotisme sincer.
+Físicament és un prodigi: el més fort i ràpid de la seva promoció al camp d'entrenament.
+Però ha arribat a la unitat fa tres setmanes. Literalment no ha disparat mai fora d'un
+camp de tir. No coneix els seus companys, no ha après a llegir una situació de combat,
+no sap què és el soroll d'una explosió de veritat. El seu cos està preparat; la seva ment,
+no.
+
+Bloque de prompt específico
+
+Very young white man (20), tall strong farm-boy build with broad shoulders and big hands, awkward slightly wide-eyed posture of someone new to everything. Short straw-blond hair under a helmet that looks slightly too big, round open face with scattered freckles, clear blue eyes, expression of earnest willingness and obvious inexperience.
+
+Wearing brand-new desert OCP uniform (still has creases from packaging), a standard tactical vest that he's clearly still adjusting (one strap slightly loose), spotless tan combat boots. An M4 carbine held carefully — the very correct but textbook grip of someone who learned on a range, not in combat.
+
+Standing with a stiff uncertain posture — looking at the other soldiers for cues, shoulders square but tight with anxiety. PFC rank insignia on chest. Color palette: brand-new OCP, pristine gear, green soldier innocence tones.
+
+---
+
+4.10. Staff Sergeant Ahmad Hassan – Especialista d'intel·ligència
+ID: c6_ahmad_hassan
+Rol: SSgt (E-6), 35M Human Intelligence Collector (HUMINT).
+
+Descripció de personatge
+
+L'Ahmad té 34 anys i és americà d'origen libanès, nascut a Dearborn, Michigan — la ciutat
+amb més població àrab dels EUA. Parla àrab nadiu (dialecte levantin), farsi funcional i
+anglès perfecte. El seu rol no és el combat directe sinó la intel·ligència humana: sap
+interrogar, negociar, parlar amb locals, obtenir informació. En una missió de rescat en
+territori àrab, poder comunicar-se amb la població local pot ser la diferència entre trobar
+l'ostatge o no. Entrenat en combat bàsic però no és un operador d'infanteria. La seva
+presència pot generar desconfiança entre alguns soldats que qüestionen la seva "lleialtat".
+
+Bloque de prompt específico
+
+Adult Arab American man (34), medium build with an unassuming civilian-passing appearance (by design — intelligence operatives blend in), relaxed non-threatening posture. Olive skin, short dark hair, neatly trimmed dark beard (culturally appropriate for operating in Arab contexts), sharp observant brown eyes, calm neutral expression that gives nothing away.
+
+Wearing desert OCP uniform but with fewer visible weapons and tactical gear than the infantrymen (intel operators travel lighter), a tactical vest with a radio, a translation phrasebook visible in a chest pocket, a small digital camera. Tan combat boots. An M9 Beretta sidearm holstered on his thigh (not a rifle — his weapon is information), a keffiyeh scarf loosely around his neck (dual use: cultural tool and dust protection).
+
+Standing with a deliberately casual, non-military posture — hands visible and open, body language designed to be approachable. SSgt rank insignia on chest. Color palette: OCP with keffiyeh accent, lighter gear, intelligence operator subtlety tones.
+
+---
+
+4.11. Sergeant Brianna Foster – Especialista en comunicacions
+ID: c6_brianna_foster
+Rol: Sgt (E-5), 25U Signal Support Systems Specialist.
+
+Descripció de personatge
+
+La Brianna té 27 anys i és afroamericana de Norfolk, Virginia — ciutat naval. La seva mare
+treballa a la base naval, ella va seguir el camí. Especialista en comunicacions: munta i
+opera sistemes de ràdio, gestiona comunicacions encriptades, coordina amb el comandament
+i amb suport aeri. En una missió de 18 hores, mantenir la comunicació amb la base i
+coordinar l'extracció és absolutament crític. Sense comunicacions, l'equip està sol.
+Competent amb armes en defensa pròpia, però el seu rol és tècnic, no d'assalt. Forta,
+resistent, acostumada a carregar equip de ràdio pesat (30 kg).
+
+Bloque de prompt específico
+
+Adult Black woman (27), medium-strong build with developed shoulders from carrying heavy radio equipment, steady grounded posture. Dark skin, black hair in tight cornrows under her helmet, strong round face, focused determined dark brown eyes, no-nonsense professional expression.
+
+Wearing desert OCP uniform, a tactical vest with a large radio pack strapped to her back (AN/PRC-117 or similar — the distinctive tall antenna visible above her shoulder), extra batteries in vest pouches, a ruggedized tablet for digital communications. Tan combat boots. An M4 carbine slung on her side (secondary to her comms role), a headset with boom microphone on one ear.
+
+Standing with a solid weight-bearing posture — slightly leaning forward to balance the heavy radio on her back, one hand touching the headset, the other adjusting a dial on the radio. Sgt rank insignia on chest. Color palette: OCP camo, radio antenna silhouette, communications specialist tones.
+
+---
+
+4.12. First Lieutenant Sarah Mitchell – Oficial d'intel·ligència
+ID: c6_sarah_mitchell
+Rol: 1Lt (O-2), 35D All-Source Intelligence Officer.
+
+Descripció de personatge
+
+La Sarah té 30 anys i és de Portland, Oregon. Família de classe mitjana-alta, va estudiar
+Relacions Internacionals a Georgetown i parla àrab clàssic (Modern Standard Arabic) amb
+nivell avançat. Oficial d'intel·ligència, analitza informació, planifica missions, identifica
+objectius. Coneix l'edifici on és retingut l'ostatge perquè ha estudiat el plànol durant
+setmanes. Sap on són les entrades, les sortides, les posicions enemigues probables. Però
+no és una operadora de combat: la seva experiència amb armes és bàsica i mai no ha entrat
+en un edifici hostil. Les seves aportacions són essencials en la planificació però qüestionables
+en l'execució sobre el terreny.
+
+Bloque de prompt específico
+
+Adult white woman (30), medium slim build with composed upright posture, more academic than athletic bearing. Shoulder-length light brown hair pulled back in a tight low bun under a helmet (not as natural-looking as the infantry — she doesn't usually wear one), thin features, sharp analytical green eyes behind contact lenses, thoughtful controlled expression.
+
+Wearing desert OCP uniform (clean, well-maintained — she works mostly from a FOB), a lighter tactical vest (no breaching tools, fewer magazines), tan combat boots. No primary weapon visible — just an M9 Beretta sidearm holstered on her thigh. A ruggedized laptop case slung across her body, a folder of maps and building schematics in one hand, a red pen behind her ear (analyst's habit).
+
+Standing with an intellectual's posture — weight on one leg, slightly turned as if presenting a briefing, free hand gesturing at the maps. 1Lt rank insignia on chest. Color palette: clean OCP, laptop and maps, intelligence officer analytical tones.
+
+---
+
+4.13. Sergeant David "Mac" McAllister – Enginyer de combat
+ID: c6_mac_mcallister
+Rol: Sgt (E-5), 12B Combat Engineer.
+
+Descripció de personatge
+
+En Mac té 31 anys i és de les muntanyes d'Appalachian Virginia. Família pobra, pare
+alcohòlic. L'exèrcit va ser la seva fugida. Enginyer de combat: sap obrir portes
+blindades, col·locar càrregues explosives, brejar parets, desactivar trampes.
+En una missió de rescat on cal entrar en un edifici fortificat, ell és qui obre el camí.
+Resistent, fort, metòdic amb els explosius (un error i tots moren). Menys habilitat en
+combat d'infanteria pur — el seu focus és crear l'entrada, no l'assalt posterior.
+
+Bloque de prompt específico
+
+Adult white man (31), medium-tall solid build with thick forearms and hands scarred from working with tools and explosives, steady methodical posture. Brown hair cut short and practical, angular face with a crooked nose (broken once), steady gray-green eyes, calm concentrated expression of someone who works with explosives and can't afford to rush.
+
+Wearing desert OCP uniform with engineer unit patch, a tactical vest loaded with breaching-specific gear: a small door-ram strapped to his back, a roll of det-cord visible in a pouch, blasting caps in a reinforced container on his belt, heavy work gloves. Tan combat boots reinforced at the toe. An M4 carbine slung on his side, a Leatherman multitool prominently clipped to his vest.
+
+Standing with a measured, careful posture — nothing rushed, nothing loose, every piece of gear secured. One hand touching the door-ram handle. Sgt rank insignia on chest. Color palette: OCP camo, heavy breaching gear, combat engineer precision tones.
+
+---
+
+4.14. Corporal Luis Morales – Fusilier
+ID: c6_luis_morales
+Rol: Cpl (E-4), infanteria, fusilier i operador de metralladora lleugera.
+
+Descripció de personatge
+
+En Luis té 23 anys i és del Bronx, Nova York. Família puertorriquenya, quatre germans.
+Es va allistar el dia que va complir 18 anys perquè necessitava sortir del barri. Bon
+soldat, fiable, mai es queixa. Operador de metralladora lleugera (SAW): la seva feina és
+proporcionar foc de cobertura per l'equip. Fort — ha de ser-ho per carregar l'arma i la
+munició — i amb bona resistència. Un desplegament completat, ha vist combat. No és
+brillant tàcticament però compleix ordres amb precisió i no entra en pànic.
+
+Bloque de prompt específico
+
+Young adult Latino man (23), medium-strong compact build with thick legs and a sturdy core developed from carrying heavy weapons, solid planted posture. Brown skin, short black hair in a tight fade, round face with a wispy attempt at a mustache, dark brown eyes with a steady reliable gaze, neutral calm expression — someone who does what he's told and does it well.
+
+Wearing desert OCP uniform with sleeves down (regulation), a heavy tactical vest with extra ammunition pouches (linked 5.56mm belts), tan combat boots. Carrying an M249 SAW (Squad Automatic Weapon) — the distinctive long barrel and bipod visible — held across his body with a sling, spare barrel in a case on his back. Sweat stains visible on his uniform from the weapon's weight.
+
+Standing with a wide, weight-bearing stance to support the heavy weapon, slightly leaning back for balance. Cpl rank insignia on chest. Color palette: OCP camo, heavy M249 silhouette, support gunner workhorse tones.
+
+---
+
+4.15. Staff Sergeant Kevin O'Brien – Especialista en armament
+ID: c6_kevin_obrien
+Rol: SSgt (E-6), 11B infanteria, especialista en armes.
+
+Descripció de personatge
+
+En Kevin té 35 anys i és irlandès-americà de South Boston. Família de classe treballadora,
+el seu pare era policia i el seu oncle bomber. Porta quatre desplegaments. Especialista en
+armament: coneix cada arma del grup, pot reparar una M4 amb els ulls tancats, sap configurar
+la càrrega òptima per a cada missió. Precís, disciplinat, fiable. El tipus de soldat que
+no destaca en res espectacular però que mai falla en res. Bon tirador, bona forma física,
+bon treball en equip. El company que tothom vol tenir al costat.
+
+Bloque de prompt específico
+
+Adult white man (35), medium athletic build maintained through discipline, balanced professional military posture. Reddish-brown hair in a standard military cut, ruddy fair skin with faint freckles, blue eyes, steady composed expression — competent and unremarkable in the best possible way.
+
+Wearing desert OCP uniform in good condition (well-maintained but clearly used), a neatly organized tactical vest with every magazine and tool in its exact place, clean tan combat boots. An M4 carbine with an ACOG scope and clean attachments, held with the easy familiarity of someone who maintains weapons obsessively. A cleaning kit pouch visible on his vest.
+
+Standing with a textbook ready posture — not aggressive, not relaxed, just perfectly prepared. SSgt rank insignia on chest. Color palette: OCP camo, well-maintained gear, steady reliability tones.
+
+---
+
+4.16. Private First Class Destiny Williams – Logística
+ID: c6_destiny_williams
+Rol: PFC (E-3), 92Y Unit Supply Specialist.
+
+Descripció de personatge
+
+La Destiny té 21 anys i és afroamericana de Jackson, Mississippi — una de les ciutats
+més pobres dels EUA. Mare soltera d'un nen de 2 anys que viu amb l'àvia. Es va allistar
+perquè l'exèrcit oferia assegurança mèdica per al seu fill i un sou. El seu rol és
+logística i subministrament: gestiona material, munició, equip. Entrenada en combat bàsic
+però no ha disparat mai fora d'un camp de tir. Forta i resistent (mou caixes pesades
+cada dia), però no té cap formació en tàctica de combat ni en operacions especials.
+Voluntariosa però fora del seu element en una missió d'assalt.
+
+Bloque de prompt específico
+
+Young adult Black woman (21), medium-strong build from daily physical logistics work, slightly uncertain posture in this combat context — more comfortable in a warehouse than a firefight. Dark skin, black hair in a tight regulation bun, young round face, wide dark brown eyes showing a mix of courage and awareness that she's out of her depth, set jaw of someone who won't quit.
+
+Wearing desert OCP uniform (standard issue, not customized for combat), a basic tactical vest without the specialized pouches the operators have, tan combat boots. An M4 carbine that she holds correctly but without the fluid ease of the infantry soldiers — it's still a training-range grip. A supply manifest clipboard she hasn't let go of, tucked under one arm out of habit.
+
+Standing with a brave but slightly stiff posture — trying to match the infantry soldiers' bearing. PFC rank insignia on chest. Color palette: standard OCP, basic gear, logistics-to-combat transition tones.
+
+---
+
+4.17. Sergeant First Class James "Iron" Ironside – Operacions especials
+ID: c6_iron_ironside
+Rol: SFC (E-7), 18B Special Forces Weapons Sergeant (Green Beret).
+
+Descripció de personatge
+
+En James "Iron" Ironside té 40 anys i és de Fayetteville, Carolina del Nord — la ciutat
+de Fort Bragg. Porta tota la vida adulta a les Forces Especials. Sis desplegaments, dotzenes
+de missions d'assalt directe, parla àrab funcional. És, objectivament, el soldat més
+qualificat per a aquesta missió. Però té dos problemes: primer, una lesió al genoll dret
+d'una operació anterior que li limita la mobilitat (porta una genollera rígida); segon,
+fa mesos que el comandament l'ha assignat a tasques de formació perquè consideren que
+necessita un descans operacional. Ell insisteix que està bé. El seu cos i la seva ment
+diuen coses diferents.
+
+Bloque de prompt específico
+
+Adult white man (40), medium-tall lean build with the wiry endurance frame of special operations (not bulky — functional muscle), controlled but slightly guarded posture favoring his right leg. Graying dark hair in a slightly longer cut than regular army (SF grooming standards), weathered tanned face with a thick graying beard (SF operators grow beards for cultural blending), intense pale green eyes with visible fatigue behind them, hard determined expression.
+
+Wearing desert OCP uniform with a Special Forces tab and Green Beret insignia visible, a well-worn but customized tactical vest (personal modifications — extra radio pouch, custom holster placement), scuffed tan combat boots. His right knee has a visible tactical knee brace over the uniform. A suppressed M4 with a holographic sight, held with the effortless grip of thousands of hours of practice. A Glock sidearm in a drop-leg holster.
+
+Standing with a controlled asymmetric posture — left leg bearing more weight, right knee slightly bent, the barely visible compensation of a fighter managing an injury. SFC rank insignia, SF tab on shoulder. Color palette: worn OCP, customized SF gear, veteran operator with hidden limitation tones.
+
+---
+
+4.18. Corporal Rashid Coleman – Operador de drons
+ID: c6_rashid_coleman
+Rol: Cpl (E-4), 15W Unmanned Aircraft Systems Operator.
+
+Descripció de personatge
+
+En Rashid té 26 anys i és afroamericà (pare afroamericà, mare egípcia) d'Oakland,
+Califòrnia. Barri difícil, però ell era bon estudiant — va triar l'exèrcit per pagar
+la universitat i per la formació tecnològica. Operador de drons tàctics: pilota un
+RQ-11 Raven que pot donar intel·ligència en temps real sobre l'edifici objectiu —
+on són els enemics, per on moure's, on hi ha trampes. El seu valor és als ulls des
+del cel, no al fusell. Entrenat en combat bàsic però no és un operador de primera línia.
+En una missió d'assalt, el seu dron pot ser la diferència entre entrar a cegues o entrar
+sabent exactament què hi ha a dins.
+
+Bloque de prompt específico
+
+Young adult mixed-race man (26, Black and Egyptian heritage), medium slim build with the slight stoop of someone used to hunching over screens, alert but physically unremarkable posture. Light brown skin, short curly dark hair, thin face with his mother's Egyptian features, intelligent quick brown eyes, concentrated expression — seeing the world as a screen feed.
+
+Wearing desert OCP uniform, a lighter tactical vest (drone operators don't assault), tan combat boots. The distinctive feature: a ruggedized drone control unit (tablet-sized, with twin control sticks) strapped to his chest harness, and a folded RQ-11 Raven drone (small, gray, wing-shaped) carried in a tube case on his back. An M4 carbine slung but clearly secondary to his tech. Thin tactical gloves for precise control inputs.
+
+Standing with a slightly hunched forward posture, eyes on his control screen, fingers hovering over the sticks — the body language of a gamer more than a warrior. Cpl rank insignia on chest. Color palette: OCP camo, drone controller screen glow, tech operator contrast tones.

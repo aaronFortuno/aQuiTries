@@ -1,0 +1,401 @@
+4. Fichas de personatge (18 aspirants a bomber)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix d3_).
+Rol: perfil professional i condició física.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: S'han convocat oposicions per cobrir 5 places de bomber en un
+parc de bombers d'una ciutat mitjana catalana. Les proves físiques inclouen: carregar
+40 kg pujant 4 pisos d'escales, arrossegar un maniquí de 80 kg durant 20 metres,
+córrer 1.500 m en menys de 6 minuts, pujar corda de 5 m, circuit d'agilitat amb equip
+de respiració autònoma (ERA), i natació 50 m. A més, hi ha proves teòriques (hidràulica,
+construcció, primers auxilis, legislació), proves psicotècniques i entrevista. Hi ha 18
+aspirants (12 homes i 6 dones). Cal seleccionar-ne 5.
+
+Context pedagògic: El cos de bombers és un dels àmbits on el debat sobre les quotes de
+gènere xoca frontalment amb la realitat física. Un bomber ha de poder carregar una persona
+inconscient escales avall en un edifici en flames. Aquesta persona pot pesar 90 kg. El
+foc no discrimina, el pes no discrimina, la gravetat no discrimina. Algunes convocatòries
+estableixen barems físics diferenciats per sexe (per exemple, menys dominades o més temps
+en la carrera per a dones). Això permet que més dones aprovin, però planteja una pregunta
+incòmoda: si una bombera ha d'arrossegar una persona de 90 kg i no pot, la quota l'ha
+ajudat o l'ha posat en perill a ella i a la víctima?
+
+L'escenari no és masclista: reconeix que hi ha dones excepcionalment fortes que superen
+molts homes, i que ser bomber és molt més que força bruta (tècnica, sang freda, coneixement
+d'estructures, primers auxilis). Però també reconeix que la biologia imposa diferències
+mitjanes en força del tren superior entre homes i dones, i que en una emergència real
+aquestes diferències importen. La pregunta és: com ho resolem? Barem únic i acceptem que
+hi haurà molt poques dones? Barem diferenciat i assumim el risc? O busquem rols
+especialitzats dins el cos (prevenció, logística, atenció sanitària) on les proves
+físiques extremes no siguin necessàries?
+
+---
+
+HOMES (12 aspirants)
+
+---
+
+4.1. Arnau Batista – Exmilitar
+ID: d3_arnau_batista
+Rol: Exmilitar (infanteria), 28 anys, preparació física excepcional.
+
+Descripció de personatge
+
+L'Arnau té 28 anys i és exmilitar. Va servir 6 anys a l'exèrcit espanyol, incloent-hi
+una missió internacional al Líban. Mesura 1,87 m i pesa 92 kg de múscul funcional.
+Les seves marques en les proves físiques són les millors de tots els aspirants: carrega
+els 40 kg pujant 4 pisos en 48 segons, arrossega el maniquí de 80 kg en 12 segons,
+corre els 1.500 m en 4:52, puja la corda en 7 segons. Disciplinat, metòdic, acostumat
+a treballar sota pressió extrema. Les proves teòriques les ha preparat bé (nota 7,2
+sobre 10). No és el més brillant intel·lectualment, però és, amb diferència, el candidat
+més complet. Número 1 indiscutible.
+
+---
+
+4.2. Marc Soldevila – Bomber voluntari
+ID: d3_marc_soldevila
+Rol: Bomber voluntari, 31 anys, experiència real en incendis.
+
+Descripció de personatge
+
+En Marc té 31 anys i porta 7 anys com a bomber voluntari al parc del seu poble. Ha
+intervingut en més de 200 serveis reals: incendis forestals, incendis urbans, rescats
+en accidents de trànsit, inundacions. Mesura 1,82 m i pesa 85 kg. Les seves proves
+físiques són molt bones (segon o tercer millor en la majoria), i les teòriques les domina
+per experiència directa (nota 8,5 — la segona millor). Coneix el material, els protocols,
+les situacions de risc real. El seu avantatge sobre els altres homes forts és que ell ja
+ha estat dins d'un edifici en flames i sap què vol dir. Candidat top 2-3.
+
+---
+
+4.3. David Prats – Opositor professional
+ID: d3_david_prats
+Rol: Opositor a bomber, 26 anys, molt preparat físicament.
+
+Descripció de personatge
+
+En David té 26 anys i porta 3 anys preparant-se exclusivament per a oposicions de
+bomber. No ha treballat de res més: viu a casa dels pares, s'entrena 4 hores al dia i
+estudia 4 més. Mesura 1,80 m i pesa 83 kg, cos atlètic i funcional. Les seves marques
+físiques són excel·lents (top 3-4 en tot), i les teòriques també (nota 8,8 — la millor
+de tots). Coneix el temari de memòria. Però no ha viscut mai una emergència real: no ha
+vist mai el foc de prop, no ha hagut de prendre decisions sota pressió amb vides en joc.
+És un candidat de laboratori: perfecte sobre el paper, sense contrastar en la realitat.
+
+---
+
+4.4. Jordi Mas – Paleta
+ID: d3_jordi_mas
+Rol: Paleta (obrer de la construcció), 33 anys, força bruta excepcional.
+
+Descripció de personatge
+
+En Jordi té 33 anys i és paleta des dels 18. Mesura 1,78 m i pesa 95 kg — mans
+enormes, esquena ampla, la força bruta d'algú que ha carregat sacs de ciment tota la
+vida. Arrossega el maniquí de 80 kg com si fos un sac de patates (10 segons — el millor
+registre). Carrega els 40 kg escales amunt sense agonitzar. Però la seva resistència
+aeròbica és limitada (els 1.500 m els fa en 5:48 — just), la corda li costa (massa pes),
+i les proves teòriques són el seu punt feble (nota 5,1 — aprovat just). No ha estudiat
+mai més enllà de l'ESO. Tremendament fort, però irregular: és un especialista en força,
+no un candidat equilibrat.
+
+---
+
+4.5. Sergi Roca – Agent forestal
+ID: d3_sergi_roca
+Rol: Agent forestal, 35 anys, experiència en incendis forestals.
+
+Descripció de personatge
+
+En Sergi té 35 anys i porta 10 anys com a agent forestal. Ha participat en desenes
+d'incendis forestals, coneix el comportament del foc, el terreny, la meteorologia, la
+coordinació amb helicòpters i ADF. Mesura 1,76 m i pesa 78 kg — no és el més fort,
+però té una resistència aeròbica excel·lent (1.500 m en 5:12) i una capacitat de treball
+sostingut durant hores que pocs candidats poden igualar. Les proves teòriques les ha fet
+bé (nota 7,8), especialment en incendis i medi natural. El seu hàndicap és que els
+incendis forestals i els urbans són mons diferents: ell domina el bosc, no l'edifici.
+Candidat sòlid, top 5-6.
+
+---
+
+4.6. Pau Gibert – Graduat en prevenció
+ID: d3_pau_gibert
+Rol: Tècnic en prevenció de riscos laborals, 24 anys, jove i atlètic.
+
+Descripció de personatge
+
+En Pau té 24 anys i és graduat en prevenció de riscos laborals. S'ha preparat les
+oposicions durant un any combinant-ho amb la feina en una mútua d'accidents. Mesura
+1,83 m i pesa 79 kg — cos atlètic i lleuger. Les seves proves físiques són bones (top
+5-7), amb un punt fort en agilitat i velocitat. Les teòriques les porta bé (nota 7,5),
+amb un coneixement especialment bo en normativa de seguretat. Però és molt jove: no ha
+viscut cap emergència real, no ha gestionat mai l'estrès d'una situació de vida o mort.
+Té potencial, però li falta el pes de l'experiència que no s'ensenya en cap llibre.
+
+---
+
+4.7. Xavier Puig – Competidor de CrossFit
+ID: d3_xavier_puig
+Rol: Entrenador i competidor de CrossFit, 29 anys, molt fort.
+
+Descripció de personatge
+
+En Xavier té 29 anys i és entrenador de CrossFit. Ha competit a nivell nacional i les
+seves marques físiques són espectaculars: pujar corda en 6 segons (el millor registre),
+dominades sense límit, circuit d'agilitat amb un temps impressionant. Mesura 1,81 m i
+pesa 88 kg de múscul treballat. Però la seva preparació és esportiva, no operativa: mai
+no ha vist un incendi, no sap què és un ERA, no coneix els protocols d'intervenció. Les
+proves teòriques les ha aprovat just (nota 5,8) perquè ha dedicat el 90% del temps a
+entrenar el cos i el 10% a estudiar. Seria el candidat perfecte si ser bomber fos només
+ser fort — però no ho és.
+
+---
+
+4.8. Lluís Bonet – Tècnic en emergències sanitàries
+ID: d3_lluis_bonet
+Rol: Tècnic en emergències sanitàries (TES), 38 anys, molta experiència.
+
+Descripció de personatge
+
+En Lluís té 38 anys i porta 14 anys com a tècnic en emergències sanitàries (TES) al
+SEM. Ha atès centenars d'emergències: accidents de trànsit, aturades cardíaques,
+intoxicacions per fum, caigudes d'altura. Sap fer un triatge en 30 segons, coneix la
+farmacologia d'emergència, manté la calma quan tot s'ensorravida. Mesura 1,74 m i pesa
+76 kg — en bona forma per la seva edat, però les seves marques físiques el situen a la
+meitat inferior dels homes (carrega els 40 kg escales amunt, però lentament; arrossega
+el maniquí amb dificultat). Les teòriques les ha clavat en primers auxilis (nota 7,9
+global). El seu valor és l'experiència sanitària, no la força bruta.
+
+---
+
+4.9. Enric Torres – Enginyer
+ID: d3_enric_torres
+Rol: Enginyer de la construcció, 27 anys, perfil tècnic.
+
+Descripció de personatge
+
+L'Enric té 27 anys i és enginyer de la construcció. Coneix les estructures dels edificis
+com ningú: sap on fallen les bigues, com es propaga el foc per un forjat, quan un
+sostre està a punt de caure. Mesura 1,79 m i pesa 75 kg — cos normal, no especialment
+fort ni atlètic. Les seves proves físiques són justes (aprova tot però sense marge: els
+1.500 m en 5:55, la càrrega escales amunt li costa). Les teòriques són excel·lents (nota
+8,3), especialment en construcció i hidràulica. Seria un bomber tècnicament brillant,
+però físicament just: en una emergència que requereixi arrossegar algú de 90 kg, ell
+tindria problemes reals.
+
+---
+
+4.10. Miquel Font – Bomber veterà
+ID: d3_miquel_font
+Rol: Bomber professional d'un altre cos, 41 anys, veterà.
+
+Descripció de personatge
+
+En Miquel té 41 anys i porta 18 anys com a bomber professional en un altre parc de la
+província. Vol canviar de destinació per raons familiars. Té una experiència acumulada
+que cap altre candidat pot igualar: centenars de serveis reals, formació contínua, cursos
+d'especialització en rescat vertical, rescat aquàtic i mercaderies perilloses. Mesura
+1,80 m i pesa 84 kg. Però els anys pesen: una lesió al genoll dret (operada fa 2 anys)
+li resta velocitat, i les seves marques físiques, tot i ser correctes, ja no són les
+d'un jove de 25 anys (1.500 m en 5:42, la corda li costa). Les teòriques les domina de
+sobra (nota 8,1). El dilema: és el candidat amb més experiència real, però el seu cos
+ja no és el que era.
+
+---
+
+4.11. Adrià Vilanova – Estudiant CAFE
+ID: d3_adria_vilanova
+Rol: Estudiant de Ciències de l'Activitat Física i l'Esport, 23 anys.
+
+Descripció de personatge
+
+L'Adrià té 23 anys i és estudiant de CAFE (últim curs). Mesura 1,85 m i pesa 81 kg —
+cos atlètic, àgil, ràpid. Les seves proves físiques són bones (top 5-7), especialment
+en agilitat i resistència. Però és el candidat més jove i es nota: en la prova
+psicotècnica ha mostrat impulsivitat i poca capacitat de gestió de l'estrès. Les
+teòriques les ha aprovat correctament (nota 6,4) però sense brillar. No ha treballat
+mai de res, no ha viscut cap situació d'emergència real. Té el cos, però li falta el
+cap: ser bomber no és només pujar escales, és decidir en 3 segons si entres o no en un
+edifici que pot caure.
+
+---
+
+4.12. Ferran Sala – Electricista industrial
+ID: d3_ferran_sala
+Rol: Electricista industrial, 30 anys, coneixements tècnics específics.
+
+Descripció de personatge
+
+En Ferran té 30 anys i és electricista industrial. Coneix les instal·lacions elèctriques
+dels edificis: sap on tallar la llum en una emergència, quins cables són perillosos, com
+evitar electrocucions durant un rescat. Un coneixement específic i valuós que cap altre
+candidat té. Mesura 1,75 m i pesa 77 kg — cos normal, sense preparació física
+específica. Les seves proves físiques el situen a la meitat inferior (aprova tot, però
+just; la càrrega de 40 kg escales amunt el deixa al límit). Les teòriques les ha fet bé
+(nota 7,1), especialment en la part d'instal·lacions. Seria un bomber útil en situacions
+específiques, però no té la base física dels candidats forts.
+
+---
+
+DONES (6 aspirants)
+
+---
+
+4.13. Neus Carbonell – Halterofília competitiva
+ID: d3_neus_carbonell
+Rol: Halteròfila i entrenadora, 29 anys, la dona més forta.
+
+Descripció de personatge
+
+La Neus té 29 anys i és halteròfila competitiva de nivell nacional. Mesura 1,72 m i
+pesa 75 kg — compacta, potent, amb una força del tren superior que supera la de molts
+homes. Les seves marques físiques la situen per sobre d'alguns homes (supera Enric,
+Ferran i Lluís en la majoria de proves de força). Arrossega el maniquí de 80 kg en 16
+segons (a la franja dels homes), carrega els 40 kg escales amunt amb solvència, puja la
+corda en 12 segons. Però queda clarament per sota dels homes forts (Arnau, Marc, David,
+Jordi, Xavier). Les teòriques les ha treballat bé (nota 6,8). La Neus és l'excepció que
+confirma la regla: una dona excepcionalment forta que podria fer la feina de bomber. Però
+no totes les candidates (ni tots els candidats) són com la Neus. Estaria entre les
+posicions 7-9 en un rànquing global.
+
+---
+
+4.14. Laura Vidal – Bombera voluntària
+ID: d3_laura_vidal
+Rol: Bombera voluntària, 32 anys, experiència real.
+
+Descripció de personatge
+
+La Laura té 32 anys i porta 5 anys com a bombera voluntària. Ha intervingut en incendis
+forestals, accidents de trànsit i inundacions. Coneix el material, els protocols, la
+realitat del servei. Mesura 1,68 m i pesa 64 kg — en molt bona forma, atlètica, amb
+una preparació específica per a les oposicions. Però la seva massa corporal limita el
+que pot fer en proves de força pura: arrossega el maniquí de 80 kg en 22 segons (per
+sobre de la majoria d'homes), la càrrega escales amunt li costa visiblement, la corda
+la puja en 18 segons. Les teòriques les domina per experiència (nota 8,0). La Laura
+sap què és ser bombera, però en un rescat on hagi d'arrossegar algú de 90 kg per un
+passadís ple de fum, tindrà problemes que la majoria d'homes no tindran.
+
+---
+
+4.15. Gemma Esteve – Exmilitar
+ID: d3_gemma_esteve
+Rol: Exmilitar (cos de logística), 34 anys, disciplinada.
+
+Descripció de personatge
+
+La Gemma té 34 anys i va servir 6 anys a l'exèrcit espanyol en el cos de logística.
+Disciplinada, dura mentalment, acostumada a ambients masculinitzats i a treballar sota
+pressió. Mesura 1,70 m i pesa 67 kg — en bona forma, entrenada. Les seves proves
+físiques la situen a la part alta de les dones (similar a la Laura), però a la meitat
+inferior del conjunt: la càrrega de 40 kg escales amunt la completa però amb un temps
+molt superior als homes forts, i l'arrossegament del maniquí la porta al límit (24
+segons). Les teòriques les ha preparat metòdicament (nota 7,4). Dura, fiable, metòdica
+— però les proves de força pura exposen una limitació que la disciplina militar no pot
+compensar.
+
+---
+
+4.16. Marta Grau – Graduada en prevenció
+ID: d3_marta_grau
+Rol: Graduada en prevenció de riscos, 27 anys, la millor nota teòrica.
+
+Descripció de personatge
+
+La Marta té 27 anys i és graduada en prevenció de riscos laborals amb un màster en
+protecció civil. Les seves proves teòriques són les millors de tots els 18 aspirants
+(nota 9,1): domina la normativa, la hidràulica, els protocols d'emergència, els primers
+auxilis. Mesura 1,65 m i pesa 58 kg — prima, en forma però amb una constitució lleugera.
+Les proves físiques la situen a la franja baixa: corre els 1.500 m en 5:58 (just), la
+càrrega de 40 kg escales amunt li costa moltíssim (la completa però amb el pitjor temps
+de tots els que la superen), arrossegar el maniquí de 80 kg la deixa al límit absolut.
+La Marta és la candidata que millor sap com funciona una emergència en teoria, però que
+en la pràctica física tindria dificultats reals per fer el que un bomber ha de fer en un
+rescat.
+
+---
+
+4.17. Clara Fontanals – Triatleta
+ID: d3_clara_fontanals
+Rol: Triatleta amateur, 25 anys, gran resistència.
+
+Descripció de personatge
+
+La Clara té 25 anys i és triatleta amateur de nivell competitiu. Mesura 1,74 m i pesa
+62 kg — cos llarg, fibrat, amb una resistència aeròbica excepcional (1.500 m en 5:08 —
+el tercer millor temps de tots, homes inclosos; 50 m natació — la millor de tots). La
+seva capacitat cardiovascular és superior a la de molts homes. Però el triatló no
+entrena la força del tren superior de la mateixa manera: la corda li costa molt (22
+segons), la càrrega de 40 kg escales amunt la penalitza, arrossegar el maniquí de 80 kg
+li resulta extremament difícil (26 segons). Les teòriques les ha aprovat (nota 6,2).
+La Clara pot córrer, nedar i resistir més que molts homes, però quan la tasca és
+carregar pes, la biologia imposa una diferència que l'entrenament sola no elimina.
+
+---
+
+4.18. Anna Puigdomènech – Infermera d'urgències
+ID: d3_anna_puigdomenech
+Rol: Infermera d'urgències, 30 anys, experiència sanitària.
+
+Descripció de personatge
+
+L'Anna té 30 anys i és infermera d'urgències en un hospital comarcal. Ha atès víctimes
+d'incendis, accidents, intoxicacions. Sap fer una RCP impecable, gestionar una
+hemorràgia, estabilitzar un pacient politraumàtic. Mesura 1,63 m i pesa 57 kg — la més
+petita i lleugera de tots els aspirants. Les seves proves físiques són les més baixes del
+conjunt: la càrrega de 40 kg escales amunt la completa però amb un temps molt per sobre
+del tall, arrossegar el maniquí de 80 kg no ho aconsegueix dins el temps reglamentari
+(falla la prova en el barem masculí, la superaria en un barem femení diferenciat). Les
+teòriques són excel·lents en primers auxilis (nota 7,6 global). L'Anna seria una
+professional valuosíssima dins d'un cos de bombers en un rol sanitari. Però si l'enviem
+a un tercer pis a rescatar una persona inconscient de 85 kg, no la podrà treure. Aquesta
+és la pregunta que l'escenari vol plantejar.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Rànquing aproximat per proves físiques (barem únic):
+
+1. Arnau Batista (home) — excepcional en tot.
+2. Marc Soldevila (home) — molt bo, amb experiència real.
+3. David Prats (home) — excel·lent marques, zero experiència.
+4. Xavier Puig (home) — espectacular en força, fluix en teoria.
+5. Jordi Mas (home) — força bruta, fluix en resistència i teoria.
+6. Pau Gibert (home) — bo i equilibrat, jove.
+7. Sergi Roca (home) — resistència excel·lent, força correcta.
+8. Adrià Vilanova (home) — atlètic, immadur.
+9. Neus Carbonell (dona) — la primera dona, per sobre d'alguns homes.
+10. Miquel Font (home) — veterà, cos amb desgast.
+11. Enric Torres (home) — just en físiques, brillant en tècnica.
+12. Ferran Sala (home) — just en físiques, útil en instal·lacions.
+13. Lluís Bonet (home) — just en físiques, expert en sanitari.
+14. Laura Vidal (dona) — bona per a dona, experiència real.
+15. Gemma Esteve (dona) — disciplinada, limitada en força.
+16. Clara Fontanals (dona) — gran resistència, poca força.
+17. Marta Grau (dona) — la millor en teoria, limitada en físiques.
+18. Anna Puigdomènech (dona) — experiència sanitària, la més limitada físicament.
+
+Si seleccionem 5 per proves físiques: Arnau, Marc, David, Xavier, Jordi → 5 homes, 0 dones.
+Si combinem proves físiques + teòriques + experiència: Arnau, Marc, David, Sergi, Pau/Miquel → encara 5 homes.
+Si hi ha quota (mínim 1-2 dones de 5): Neus entraria (posició 9, substitueix el 5è home).
+Si cal 2 dones: Laura entraria (posició 14 en físiques, amb experiència). Qui queda fora?
+Algun home amb marques físiques superiors.
+
+El dilema real: La Neus probablement pot fer la feina de bombera (està a la franja dels
+homes en força). Però la Laura, tot i tenir experiència real i ser molt competent, en un
+rescat on hagi de carregar 80 kg tindrà dificultats. Si la posem per quota, estem sent
+justos amb ella o la posem en una situació de risc? I amb la víctima que necessita ser
+rescatada?
+
+Segona capa: si el barem fos diferenciat (com en moltes convocatòries reals), la Laura,
+la Gemma i potser la Marta i la Clara aprovarien les proves físiques. Però aprovar amb
+barem diferenciat no canvia la física: el maniquí segueix pesant 80 kg. El foc no sap si
+qui entra ha aprovat amb barem A o barem B.
+
+La reflexió final: la solució potser no és quotes ni barems diferenciats, sinó rols
+especialitzats dins el cos (prevenció, logística, sanitari, comandament, investigació)
+on la força bruta no sigui el factor crític, i reservar la intervenció directa per als
+perfils que la poden fer amb garanties — independentment del gènere.

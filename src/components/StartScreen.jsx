@@ -5,6 +5,20 @@ import '../styles/guided.css';
 
 const VERSION_HISTORY = [
   {
+    version: '0.4.2',
+    date: '2026-03-07',
+    changes: {
+      ca: [
+        '14 noves situacions: categories C3-C9, D1-D5 i E1-E2',
+        'Corregit: canviar d\'idioma ja no canvia l\'escenari actual',
+      ],
+      es: [
+        '14 nuevas situaciones: categorías C3-C9, D1-D5 y E1-E2',
+        'Corregido: cambiar de idioma ya no cambia el escenario actual',
+      ],
+    },
+  },
+  {
     version: '0.4.1',
     date: '2026-03-07',
     changes: {

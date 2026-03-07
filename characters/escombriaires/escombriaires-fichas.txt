@@ -1,0 +1,517 @@
+4. Fichas de personatge (16 candidats a escombriaire)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c7_).
+Rol: perfil personal, situació laboral i context.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: L'Ajuntament de Valdecampos (poble fictici de Castella-La Manxa,
+uns 800 habitants) convoca 4 places de personal de neteja viària — escombriaires. El
+sou és el salari mínim, contracte temporal de 12 mesos renovable. No es requereix
+formació específica ni experiència prèvia. S'hi presenten 16 persones: locals que han
+perdut la feina per la crisi industrial, immigrants amb i sense papers, dones que mai
+han treballat formalment, joves sobrequalificats sense sortida laboral, persones grans
+en situació de vulnerabilitat.
+
+Context pedagògic: Aquest escenari no és sobre qui és "millor" per a la feina — la feina
+no requereix habilitats especials. És sobre qui "mereix" la feina, i això és una pregunta
+de valors, no de competència. Quan els recursos són escassos (4 places per a 16 persones),
+els nostres biaixos es fan visibles: prioritzem els locals sobre els immigrants? Els que
+"més ho necessiten"? Però, qui decideix qui ho necessita més? La dona que mai ha cobrat
+un sou en 48 anys o l'immigrant que envia diners a la seva família al Senegal? El graduat
+en Història que "podria treballar d'una altra cosa" (però no troba res) o l'obrer de 55
+anys que ja no tornarà a treballar de res més?
+
+La trampa pedagògica: no hi ha trampa tècnica. La trampa és moral. Cada tria revela un
+sistema de valors — i cap sistema és neutre. Si tries "els que més ho necessiten", qui
+mesura la necessitat? Si tries "els locals primer", és això solidaritat o xenofòbia? Si
+descartes el graduat perquè "ja trobarà una altra cosa", li estàs negant una feina real
+per un futur hipotètic. Si descartes l'immigrant sense papers perquè "no el podem
+contractar legalment", estàs aplicant la llei o estàs descartant una persona?
+
+---
+
+HOMES — LOCALS I DE LA ZONA (5 candidats)
+
+---
+
+4.1. Juan Antonio Morales – Exobrer de fàbrica, local
+ID: c7_juan_antonio_morales
+Rol: Operari de fàbrica durant 27 anys, 54 anys. Acomiadat fa 8 mesos.
+
+Descripció de personatge
+
+En Juan Antonio té 54 anys i ha viscut tota la vida a Valdecampos. Va entrar a treballar
+als 17 anys a la fàbrica de components plàstics Iberflex, situada a 12 km del poble, i
+hi ha treballat ininterrompudament durant 27 anys. Operari de línia de producció, secció
+d'emmotllament. La fàbrica va tancar fa 8 mesos per deslocalització a Polònia. Li queden
+4 mesos de prestació d'atur.
+
+Casat amb la Manoli, que treballa mitja jornada a la farmàcia del poble. Tenen un fill
+de 24 anys (que viu a Madrid, treballa de cambrer) i una filla de 21 (estudia
+Infermeria a Ciudad Real). Paga hipoteca. No té formació reglada — va deixar l'escola
+als 16 amb l'EGB. Tota la seva vida professional ha estat la fàbrica.
+
+A Valdecampos tothom coneix en Juan Antonio. Ha estat vocal de l'associació de veïns,
+ha jugat al futbol del poble, ajuda a les festes majors. És una persona responsable,
+fiable, puntual, a qui la vida ha donat un cop dur i necessita feina ja. No li fa cap
+vergonya escombrar carrers — "la feina és feina", diu. Per a molts veïns, ell és el
+primer que hauria de tenir la plaça: "és d'aquí de tota la vida".
+
+---
+
+4.2. Francisco "Paco" Jiménez – Exobrer de fàbrica, local
+ID: c7_paco_jimenez
+Rol: Operari de fàbrica durant 18 anys, 56 anys. Acomiadat fa 8 mesos.
+
+Descripció de personatge
+
+En Paco té 56 anys i també treballava a Iberflex — la mateixa fàbrica que en Juan
+Antonio. Secció de talls i acabats, 18 anys. Abans d'Iberflex havia treballat en
+construcció, al camp, i en un magatzem comarcal. La fàbrica era el primer lloc on
+s'havia quedat estable.
+
+Divorciat des de fa 9 anys. Viu sol en un pis de lloguer. Dos fills (28 i 25 anys)
+que viuen amb la mare a Albacete i amb qui manté una relació distant. Va tenir problemes
+amb l'alcohol fa uns anys — ho reconeix obertament — però porta 3 anys sense beure. La
+prestació d'atur se li acaba en 2 mesos. No té res més: ni propietats, ni estalvis
+significatius, ni xarxa familiar que el sostingui.
+
+En Paco no és tan popular al poble com en Juan Antonio. És més reservat, menys social.
+Alguns veïns el recorden de l'època en què bevia i li costen. Però els que el coneixen
+bé saben que ha canviat i que treballa dur. Necessita la feina potser més que ningú —
+sense ella, en 2 mesos estarà amb la renda mínima i sense perspectives. Però el seu
+passat pesa: al poble tothom ho sap tot.
+
+---
+
+4.3. Carlos Ruiz – Graduat en Història, jove local
+ID: c7_carlos_ruiz
+Rol: Graduat en Història, 24 anys. Sense feina des que va acabar la carrera.
+
+Descripció de personatge
+
+En Carlos té 24 anys i ha nascut a Valdecampos. Va estudiar el batxillerat a l'institut
+de la capital comarcal, va fer el grau d'Història a la UCLM (Universitat de Castella-La
+Manxa) i va tornar al poble perquè no es podia permetre viure a la ciutat sense feina.
+Porta un any enviant currículums: acadèmies, museus, biblioteques, oposicions a
+professor, feines de tot tipus. Res.
+
+Viu amb els seus pares (el pare és agricultor, la mare neteja cases). Li fa vergonya
+viure dels pares als 24 anys. Ha treballat d'estiu a la collita, ha fet de cambrer a
+les festes del poble, però res estable. Té la formació per a moltes coses, però cap
+d'elles existeix a Valdecampos ni en 50 km a la rodona.
+
+El dilema del Carlos és real i quotidià a l'Espanya buida: joves formats que tornen al
+poble perquè no poden viure a la ciutat i que s'apunten a qualsevol feina perquè
+l'alternativa és l'atur indefinit. Si li donen la plaça d'escombriaire, l'acceptarà
+amb dignitat però marxarà el dia que trobi feina del seu àmbit. Si no li la donen
+perquè "ja trobarà una altra cosa", pot passar anys esperant un futur que no arriba.
+
+---
+
+4.4. Diego Navarro – Jove sense estudis, local
+ID: c7_diego_navarro
+Rol: Sense estudis acabats, 19 anys. Mai ha treballat formalment.
+
+Descripció de personatge
+
+En Diego té 19 anys i va deixar l'ESO a quart (li falta un curs per al títol). Viu amb
+la seva mare, que treballa a mitja jornada netejant a la residència de gent gran de la
+capital comarcal. El seu pare va marxar de casa quan ell tenia 10 anys i no en sap res.
+
+No ha treballat mai formalment. Ajuda ocasionalment al camp — jornals sense contracte,
+10-15 dies l'any de collita. Passa molt de temps a casa. No té carnet de conduir (no
+s'ho pot pagar). Quan li pregunten "què vols fer", no sap què respondre — ningú li ha
+ensenyat a voler res concret.
+
+El Diego no és mal noi — és invisible. Al poble el coneixen poc perquè és callat i no
+participa en res. No beu, no dona problemes, no destaca en res. La feina d'escombriaire
+seria la seva primera feina real: un contracte, una nòmina, un horari. Per a ell seria
+un punt d'inflexió vital. Però al costat d'altres candidats amb més experiència, més
+necessitat demostrable i més trajectòria, el Diego és fàcil de descartar — "que primer
+acabi l'ESO". La pregunta és si aquella primera oportunitat mai arribarà si no se la
+donem ara.
+
+---
+
+4.5. Roberto Castillo – Aturat de llarga durada, poble veí
+ID: c7_roberto_castillo
+Rol: Expaleta, 49 anys. Aturat des de fa 4 anys.
+
+Descripció de personatge
+
+En Roberto té 49 anys i és d'un poble veí (Villarrubia, a 8 km). Paleta de professió
+durant 20 anys — la crisi de la construcció del 2008 el va deixar sense feina i des de
+llavors ha anat encadenant atur, subsidi, feines puntuals i períodes de res. Porta 4
+anys sense cap contracte.
+
+Té un problema d'esquena (dues hèrnies discals) que limita el que pot fer: no pot
+carregar pes molt pesant ni estar 8 hores en una sola postura. Escombrar li aniria bé —
+és feina física però variada, sense càrregues extremes. Casat, dos fills adolescents.
+La dona treballa en una residència de gent gran. Cobren el subsidi d'atur de 450€.
+
+No és de Valdecampos i això, en un poble de 800 habitants, importa. "No és d'aquí" és
+una frase que pesa. Ha vingut perquè a Villarrubia no hi ha res i l'Ajuntament de
+Valdecampos és l'únic que ha tret places. Tècnicament compleix tots els requisits, però
+el biaix localista és real: per què donar feina a un de fora si hi ha gent d'aquí?
+
+---
+
+DONES — LOCALS (3 candidates)
+
+---
+
+4.6. María del Carmen López – Mestressa de casa, local
+ID: c7_maria_carmen_lopez
+Rol: Mai ha treballat formalment, 48 anys. 3 fills ja grans.
+
+Descripció de personatge
+
+La María del Carmen té 48 anys i ha viscut tota la vida a Valdecampos. Es va casar als
+20 amb en Tomás, que treballava a la fàbrica. Va tenir 3 fills (ara de 27, 24 i 20 anys).
+Ha dedicat 28 anys a cuidar-los, a portar la casa, a cuidar els sogres grans. No ha
+treballat mai fora de casa. No té prestació d'atur perquè no ha cotitzat. No té
+currículum.
+
+Ara els fills ja no estan a casa (dos viuen a la ciutat, un fa FP a la capital comarcal).
+En Tomás treballa al camp, però el sou és migrat. Ella vol treballar — "necessitem els
+diners, però a més, em trobo sola a casa tot el dia i necessito sortir, fer alguna
+cosa, sentir-me útil". No ha treballat mai... però ha portat una casa, tres fills, i
+ha cuidat dues persones grans fins a la seva mort. Ha "treballat" cada dia dels últims
+28 anys. El sistema simplement no ho compta.
+
+La María del Carmen és el perfil que les estadístiques ignoren: les dones rurals de
+40-50 anys que apareixen com a "inactives" però que han sostingut la vida del poble amb
+feina no remunerada. Donar-li la plaça és reconèixer una trajectòria invisible. No
+donar-li-la perquè "no té experiència laboral" és perverse — té 28 anys d'experiència
+en treball, només que ningú li va fer un contracte.
+
+---
+
+4.7. Pilar Sánchez – Vídua, treballadora informal, local
+ID: c7_pilar_sanchez
+Rol: Treballadora de la neteja no declarada, 55 anys. Vídua.
+
+Descripció de personatge
+
+La Pilar té 55 anys i és vídua des de fa 6 anys — el marit va morir d'un infart mentre
+treballava al camp. Té una filla de 30 anys (viu a Toledo) i un fill de 27 (emigrat a
+Alemanya). Cobra la pensió de viduïtat: 650€ al mes. No arriba.
+
+Ha treballat tota la vida, però quasi sempre sense contracte: fent neteges a cases
+particulars, al consultori mèdic, al local social, ajudant a la collita. Tothom al
+poble sap que la Pilar treballa bé — "si vols que una cosa quedi neta, crida la Pilar"
+— però com que sempre ha cobrat en negre, no té historial laboral reconegut, ni cotització
+suficient per a cap prestació. Si fes aquest treball en blanc, tindria 20 anys
+d'experiència demostrable en exactament la mateixa feina per la qual es convoquen les
+places.
+
+És la candidata amb més experiència real en neteja del grup — amb diferència. Però a
+55 anys, amb problemes de genolls (articulacions gastades de 30 anys escurant terres),
+el cos li respon menys. La pregunta incòmoda: és just que pesi la seva edat i el seu
+desgast físic si aquest desgast ve precisament de fer aquesta mateixa feina durant
+dècades sense que ningú la protegís?
+
+---
+
+4.8. Elena Vázquez – Divorciada recent, local
+ID: c7_elena_vazquez
+Rol: Reposadora de supermercat, 43 anys. Divorciada, 2 fills.
+
+Descripció de personatge
+
+L'Elena té 43 anys. Va treballar 9 anys al petit supermercat del poble (reposició i
+caixa), que va tancar fa 2 anys quan va obrir un supermercat gran a la capital comarcal.
+Des de llavors ha fet feines puntuals: collita, neteja, substitucions a la residència
+de gent gran comarcal.
+
+S'ha divorciat fa 6 mesos. Té dos fills de 14 i 11 anys que viuen amb ella. L'exmarit
+paga pensió alimentària de forma irregular. Viu de lloguer (400€/mes). Cobra un subsidi
+de 450€ que se li acaba en 3 mesos. Té carnet de conduir, experiència laboral formal
+(la del supermercat), i una necessitat urgent i demostrable.
+
+L'Elena és la candidata que encaixa més "bé" en el perfil clàssic: experiència en feines
+similars, necessitat econòmica clara, persona local, edat laboral activa, responsabilitats
+familiars. Si la selecció fos purament per mèrits i necessitat, l'Elena seria una de les
+primeres triades. Però la seva presència serveix per contrastar: per què la seva situació
+ens sembla "més legítima" que la d'altres candidats? Perquè és local? Perquè és dona amb
+fills? Perquè té experiència formal?
+
+---
+
+IMMIGRANTS AMB SITUACIÓ REGULARITZADA (4 candidats)
+
+---
+
+4.9. Mohamed El Amrani – Temporero agrícola, marroquí
+ID: c7_mohamed_el_amrani
+Rol: Temporero agrícola amb permís de residència, 36 anys.
+
+Descripció de personatge
+
+En Mohamed té 36 anys i va arribar a Espanya fa 9 anys des de Beni Mellal (Marroc).
+Té permís de residència i treball. Ha treballat sempre al camp: oliva a Jaén, raïm a
+La Manxa, fruita a Lleida, fresa a Huelva. Feines de temporada, contractes curts,
+mesos de res entremig.
+
+Viu a Valdecampos des de fa 4 anys. Està casat — la seva dona, Fàtima, va arribar fa
+2 anys per reagrupament familiar. Tenen una nena de 18 mesos. Viuen en un pis petit de
+lloguer. En Mohamed parla castellà amb fluïdesa (9 anys al país). Va al bar, saluda la
+gent del poble, ajuda a les festes — però sempre amb la sensació de no ser del tot
+"d'aquí".
+
+La feina d'escombriaire li donaria el que el camp no li dona: estabilitat. 12 mesos
+de contracte, horari fix, nòmina regular. Podria treure el carnet de conduir, estalviar
+per enviar diners a la família al Marroc, planificar el futur. Però en un poble de 800
+habitants on els cognoms es coneixen des de fa generacions, l'immigrant és sempre
+l'últim de la llista — especialment quan hi ha locals sense feina.
+
+---
+
+4.10. Svetlana Popescu – Treballadora domèstica, romanesa
+ID: c7_svetlana_popescu
+Rol: Treballadora domèstica amb ciutadania UE, 44 anys.
+
+Descripció de personatge
+
+La Svetlana té 44 anys i és romanesa, de Craiova. Porta 14 anys a Espanya. Com a
+ciutadana de la UE, té dret a treballar sense restriccions. Ha treballat principalment
+en servei domèstic: neteja, cura de gent gran, cuina. Ha treballat a Madrid, a Toledo,
+i des de fa 5 anys a la comarca de Valdecampos.
+
+Viu sola. Els seus dos fills (19 i 16 anys) viuen amb el seu exmarit a Romania. Envia
+diners cada mes. Parla castellà perfectament. És treballadora, discreta, eficient —
+les senyores del poble per a qui fa neteges en parlen meravelles. Però la feina
+domèstica és intermitent: unes hores aquí, unes hores allà, mesos bons i mesos dolents.
+
+La Svetlana porta 14 anys contribuint a l'economia del poble, paga impostos, compra a
+les botigues locals. Però per a molts veïns segueix sent "la romanesa" — no la Svetlana.
+Si li donen la plaça, algú dirà "li treuen la feina a un d'aquí". Si no li la donen,
+seguirà fent la mateixa feina en precari. Ciutadana europea amb els mateixos drets
+legals que qualsevol espanyol — però al poble, els drets legals i els drets percebuts
+no sempre coincideixen.
+
+---
+
+4.11. Andriy Kovalenko – Refugiat ucraïnès, enginyer
+ID: c7_andriy_kovalenko
+Rol: Enginyer mecànic a Ucraïna, refugiat, 41 anys.
+
+Descripció de personatge
+
+L'Andriy té 41 anys i és d'Odessa (Ucraïna). Enginyer mecànic titulat, va treballar
+15 anys en una planta industrial a Ucraïna. Va arribar a Espanya fa 2 anys fugint de la
+guerra. Té protecció temporal (permís de residència i treball). La seva dona i els dos
+fills (12 i 8 anys) viuen amb ell a Valdecampos, on van arribar perquè una família del
+poble els va acollir inicialment.
+
+No parla castellà amb fluïdesa — es comunica, però amb dificultats. La seva titulació
+d'enginyeria no està homologada a Espanya (el procés és llarg i car). Al camp ha
+treballat algunes setmanes, però és un entorn que no coneix. Enginyer que escombra
+carrers: la imatge és dura, però per a ell és feina, dignitat, contribució. "No vull
+ser un refugiat que rep ajudes. Vull treballar", diu.
+
+L'Andriy introdueix un element que el debat sobre immigració sovint obvia: la
+sobrequalificació forçada. No escombra carrers perquè no sap fer res més — escombra
+carrers perquè el sistema no reconeix el que sap fer. El contrast entre el seu perfil
+real (enginyer amb 15 anys d'experiència) i el que demana (escombrar) genera una
+incomoditat que és exactament el punt de l'escenari.
+
+---
+
+4.12. Luciana Ferreira – Cambrera, brasilera
+ID: c7_luciana_ferreira
+Rol: Cambrera amb permís de residència, 32 anys.
+
+Descripció de personatge
+
+La Luciana té 32 anys i és de Recife (Brasil). Va arribar a Espanya fa 5 anys amb un
+visat d'estudis, va obtenir el permís de residència fa 2 anys. Parla castellà sense
+problemes. Ha treballat de cambrera a bars i restaurants de la comarca — contractes
+temporals, estius forts i hiverns morts.
+
+Viu sola a Valdecampos. Té estudis de comptabilitat a Brasil (no homologats). És
+sociable, alegre, bona treballadora — els bars on ha treballat la recomanarien sense
+dubtar. Però la restauració a la zona és precària: el bar del poble no necessita
+ningú, els restaurants de la capital comarcal contracten a l'estiu i acomiadament a
+l'octubre.
+
+La Luciana és el perfil immigrant "amable": parla l'idioma, somriu, no genera rebuig
+cultural visible. Per a molts veïns, "ella sí" perquè s'ha integrat — però aquest
+criteri d'acceptació per "integració percebuda" és en si mateix un biaix: si acceptem
+la Luciana però no en Mamadou (que parla menys castellà), estem dient que el dret a
+treballar depèn de com de còmode ens fa sentir l'altre.
+
+---
+
+IMMIGRANTS EN SITUACIÓ IRREGULAR (4 candidats)
+
+---
+
+4.13. Fatou Diallo – Treballadora agrícola, senegalesa
+ID: c7_fatou_diallo
+Rol: Sense papers, treballadora agrícola, 29 anys.
+
+Descripció de personatge
+
+La Fatou té 29 anys i és de Dakar (Senegal). Va arribar a Espanya fa 2 anys i mig
+per la ruta canària (pastera). No té papers. Treballa al camp quan hi ha feina — jornals
+sense contracte, 30-35€ al dia, a vegades menys. Viu en un pis compartit amb 4 persones
+més a la capital comarcal.
+
+Parla castellà bàsic (es fa entendre, però amb dificultats per a converses complexes).
+Abans de sortir del Senegal treballava en un petit negoci de costura al mercat de
+Sandaga. Té una filla de 5 anys que viu amb la seva mare a Dakar — la raó per la qual
+va venir: enviar diners perquè la nena pugui estudiar. Envia 150€ al mes quan pot.
+
+L'Ajuntament no pot contractar-la legalment — per fer un contracte laboral cal tenir
+permís de treball. Però és una persona real, que viu aquí, que treballa aquí, que
+contribueix a l'economia local (el camp funciona en part per mà d'obra sense papers).
+El dilema: si la descartes per il·legal, estàs aplicant la llei. Si l'ignores com a
+persona, estàs ignorant una realitat que el poble coneix i de la qual es beneficia en
+silenci. No la pots contractar, però, hauries de poder?
+
+---
+
+4.14. Rachid Bensaid – Jornaler, marroquí
+ID: c7_rachid_bensaid
+Rol: Sense papers, jornaler agrícola, 31 anys. Cosí de Mohamed.
+
+Descripció de personatge
+
+En Rachid té 31 anys i és de Beni Mellal (Marroc) — cosí d'en Mohamed (que sí que té
+papers). Va arribar a Espanya fa 3 anys. Va entrar amb visat de turista i es va quedar.
+No té papers. Treballa al camp: collita d'oliva, vinya, ametlla. Jornals sense
+contracte.
+
+Viu a Valdecampos, al pis d'en Mohamed. Parla castellà raonable (3 anys al país, més
+els que en Mohamed li havia ensenyat per telèfon des d'abans de venir). És treballador
+incansable — els pagesos de la zona el prefereixen perquè no es queixa, arriba puntual
+i rendeix bé. Però sense papers, la seva feina és invisible: no cotitza, no genera drets,
+no compta.
+
+En Rachid és el mirall d'en Mohamed: mateixa família, mateix origen, mateixa capacitat
+de treball. L'únic que els separa és un paper — un permís de residència que en Mohamed
+va aconseguir per un contracte al camp que va sortir bé en el moment just. Si les coses
+haguessin anat al revés, en Mohamed seria l'il·legal i en Rachid el regularitzat. El
+dilema: els separa un document, no una diferència real. Però la llei és la llei.
+
+---
+
+4.15. Mamadou Traoré – Treballador agrícola, malià
+ID: c7_mamadou_traore
+Rol: Sense papers, treballador agrícola, 23 anys.
+
+Descripció de personatge
+
+En Mamadou té 23 anys i és de Bamako (Mali). Va arribar a Espanya fa un any i mig.
+Ruta: Mali → Níger → Líbia → Mediterrani → Lampedusa → Espanya. Un viatge de 14 mesos
+que quasi li costa la vida (el van rescatar al mar, va passar per un CIE a Itàlia). No
+té papers. Treballa al camp quan pot.
+
+Parla castellà molt bàsic — es comunica amb gestos, paraules soltes, i una actitud
+oberta que li ha guanyat la simpatia d'alguns pagesos de la zona. És alt (1,88 m),
+fort, jove — físicament el candidat més capaç de tots per a una feina que implica
+escombrar, carregar, netejar durant 8 hores. Però gairebé no parla l'idioma, no té
+papers, i la seva presència al poble genera opinions polaritzades: els que el veuen
+com un noi que es busca la vida i els que el veuen com "un més que ve a treure'ns la
+feina".
+
+En Mamadou representa la capa més extrema de l'escenari: el candidat que no pot ser
+contractat legalment, que gairebé no parla l'idioma, que no té cap xarxa de suport
+formal... però que existeix, que necessita feina, i que si no se li dona cap sortida,
+seguirà treballant al camp sense contracte ni drets. La pregunta de fons: què fem amb
+les persones que ja són aquí?
+
+---
+
+4.16. Amina Haidari – Exmaestra, afganesa
+ID: c7_amina_haidari
+Rol: Sense papers, exmaestra d'escola, 34 anys.
+
+Descripció de personatge
+
+L'Amina té 34 anys i és de Kabul (Afganistan). Maestra d'escola primària durant 7 anys
+— ensenyava matemàtiques i ciències a nenes en una escola pública de Kabul. Quan els
+talibans van tornar al poder el 2021, la seva escola va tancar i la seva vida va córrer
+perill per haver educat nenes. Va fugir amb el seu fill de 6 anys a través de Pakistan
+i Iran. Porta un any i mig a Espanya. Té sol·licitud d'asil en tràmit (pot trigar 2
+anys). Pot treballar legalment durant el tràmit d'asil.
+
+Parla castellà intermedi — estudia cada dia al centre d'acollida de la capital comarcal.
+Porta hijab. Al seu país era una professional respectada; aquí és "una refugiada amb
+vel". La distància entre qui era i com la veuen és abismal.
+
+L'Amina és l'únic cas del grup d'immigrants irregulars que, tècnicament, sí pot ser
+contractada (els sol·licitants d'asil tenen dret a treballar a Espanya un cop admesa
+la sol·licitud). La seva presència al grup de "sense papers" genera confusió deliberada:
+no és el mateix ser irregular que ser sol·licitant d'asil, però per als veïns del poble,
+"tant se val, és estrangera". El prejudici no distingeix entre categories legals.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Eixos de biaix presents en l'escenari:
+
+1. LOCALISME: La preferència per "els d'aquí" sobre els de fora (poble veí) i, encara
+   més, sobre els estrangers. Al poble petit, aquest biaix és potentíssim.
+
+2. IMMIGRACIÓ I PAPERS: 4 candidats no tenen papers (o estan en tràmit). L'Ajuntament
+   legalment no pot contractar persones sense permís de treball. Però la pregunta
+   pedagògica no és "es pot?" sinó "és just que no es pugui?". I: si el camp funciona
+   amb aquesta mateixa mà d'obra sense papers, per què l'Ajuntament no pot?
+
+3. GÈNERE I TREBALL INVISIBLE: La María del Carmen ha treballat 28 anys sense cobrar.
+   La Pilar ha treballat 20 anys en negre. Les estadístiques les compten com a
+   "inactives". L'escenari convida a preguntar: què és "treballar"?
+
+4. EDAT I DESGAST: La Pilar (55 anys, genolls gastats) i en Paco (56 anys, passat
+   difícil). La seva edat i el seu desgast compten en contra seva en una selecció. Però
+   el desgast ve de treballar — castigar algú per haver treballat massa és just?
+
+5. SOBREQUALIFICACIÓ: En Carlos (grau en Història), l'Andriy (enginyer), l'Amina
+   (mestra). Són "massa bons" per a la feina? O el sistema que no els aprofita és el
+   que falla?
+
+6. ESTIGMA I PASSAT: En Paco (exalcohòlic), en Diego (abandó escolar), en Mamadou
+   (immigrant sense idioma). El passat o les circumstàncies pesen en la tria encara que
+   no siguin rellevants per a la feina.
+
+7. "INTEGRACIÓ" COM A BIAIX: Acceptem més fàcilment la Luciana (brasilera, somrient,
+   castellà perfecte) que en Mamadou (malià, gairebé no parla l'idioma). La "integració
+   percebuda" és un criteri just o un biaix cultural disfressat de raonabilitat?
+
+Tipologies de resposta previsibles:
+
+Tipus A — "Els locals primer": Juan Antonio, María del Carmen, Elena, Pilar/Paco.
+Argument: "La feina la paga l'Ajuntament amb els impostos del poble, primer els d'aquí."
+Biaix: localisme i xenofòbia implícita.
+
+Tipus B — "Els que més ho necessiten": Paco, Pilar, Diego, Elena.
+Argument: "Són els que estan pitjor, els que no tenen cap altra sortida."
+Biaix: paternalisme — qui decideix qui ho necessita "més"?
+
+Tipus C — "Els que ho faran millor": Mohamed, Svetlana, Juan Antonio, Elena.
+Argument: "Gent amb experiència, fiable, que rendirà."
+Biaix: meritocràtic — en una feina que no requereix mèrits, és just triar per mèrit?
+
+Tipus D — "Barreja equilibrada": 2 locals + 1 immigrant regular + 1 dona.
+Argument: "Una mica de tot, que tothom tingui una oportunitat."
+Biaix: equitativisme que no satisfà ningú.
+
+Preguntes de debat:
+
+1. "Per què has triat qui has triat? T'has fixat primer en si eren d'aquí o de fora?"
+2. "Has descartat algú perquè no té papers? Si no es pot contractar legalment, ja no
+   existeix com a persona amb necessitats?"
+3. "La María del Carmen no ha treballat mai formalment. Creus que no ha treballat?
+   Què és 'treballar'?"
+4. "En Carlos té un grau universitari. Creus que hauria d'escombrar carrers o esperar
+   una feina 'del seu nivell'? I si aquesta feina no arriba mai?"
+5. "En Mamadou gairebé no parla castellà. Cal parlar castellà per escombrar? Per què
+   ens importa tant l'idioma en una feina manual?"
+6. "L'Amina era mestra a l'Afganistan. Aquí escombra. Què diu això del món on vivim?"
+7. "Si fossis tu l'alcalde/essa de Valdecampos, com justificaries la teva tria davant
+   del ple municipal? I davant de les 12 persones que es queden sense feina?"

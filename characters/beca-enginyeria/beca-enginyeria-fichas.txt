@@ -1,0 +1,373 @@
+4. Fichas de personatge (16 candidats a la beca d'enginyeria aeroespacial)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix d5_).
+Rol: perfil acadèmic i trajectòria.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: La Technische Universität Frankfurt ofereix 3 beques completes
+per al seu programa de postgrau en enginyeria aeroespacial (Aerospace Engineering MSc),
+un dels més prestigiosos d'Europa. Les beques cobreixen matrícula, allotjament i una
+assignació mensual durant 2 anys. Per política de diversitat de la universitat, almenys
+1 de les 3 beques ha d'anar a una dona. Hi ha 16 sol·licitants (11 homes i 5 dones)
+d'arreu del món. El comitè de selecció valora: expedient acadèmic, projectes i
+publicacions, cartes de recomanació, carta de motivació i entrevista personal.
+
+Context pedagògic: L'enginyeria aeroespacial és un dels camps STEM amb menys presència
+femenina (al voltant del 15-20% d'estudiants a Europa). La universitat vol incentivar
+que més dones entrin al camp reservant almenys 1 beca. Però entre els 16 candidats hi
+ha 3 homes amb trajectòries excepcionals — i els 3 no caben en 2 places. Si la millor
+candidata femenina és la 4a o 5a millor del procés, un dels 3 homes excel·lents queda
+fora. Si la millor candidata femenina és clarament la millor de tots, la quota no canvia
+res. El dilema depèn de com es valora cada perfil.
+
+La pregunta de fons: les quotes en beques STEM pretenen corregir un problema sistèmic
+(poques dones a enginyeria perquè des de petites se les desvia d'aquests camps). Però
+el mecanisme puntual — reservar una plaça — pot generar ressentiment ("ha entrat perquè
+és dona") i no resol la causa real (per què hi ha poques dones que arribin a sol·licitar
+la beca?). Què és més just: garantir la plaça o garantir que des dels 6 anys nenes i
+nens tinguin les mateixes oportunitats d'arribar-hi?
+
+---
+
+HOMES (11 candidats)
+
+---
+
+4.1. Lukas Weber – Enginyer aeronàutic, alemany
+ID: d5_lukas_weber
+Rol: Graduat en enginyeria aeronàutica (TU München), 24 anys.
+
+Descripció de personatge
+
+En Lukas té 24 anys, és de Stuttgart i s'ha graduat a la TU München amb la millor nota
+de la seva promoció (1,0 — la màxima al sistema alemany). Té un article publicat sobre
+aerodinàmica de perfils alars en una revista indexada, ha fet unes pràctiques d'estiu al
+DLR (Centre Aeroespacial Alemany) i ha participat en el projecte d'un equip universitari
+que va guanyar un concurs europeu de coets estudiantils. Les seves cartes de recomanació
+són excepcionals: dos catedràtics el descriuen com "el millor estudiant que he tingut en
+15 anys". La seva entrevista ha estat brillant, articulada, amb una visió clara del que
+vol investigar (propulsió elèctrica per a aviació). El candidat número 1 del procés,
+sense cap dubte.
+
+---
+
+4.2. Erik Lindqvist – Enginyer mecànic, suec
+ID: d5_erik_lindqvist
+Rol: Graduat en enginyeria mecànica (KTH Stockholm), 25 anys.
+
+Descripció de personatge
+
+L'Erik té 25 anys, és de Göteborg i s'ha graduat al KTH de Stockholm amb un expedient
+excel·lent (top 3% de la promoció). S'ha especialitzat en sistemes de propulsió i ha
+treballat 6 mesos com a becari a l'ESA (Agència Espacial Europea) a Noordwijk, on va
+participar en el disseny d'un component del motor Vinci per al coet Ariane 6. Té una
+carta de recomanació del seu supervisor a l'ESA que el descriu com "excepcionalment
+metòdic i creatiu alhora". La seva entrevista ha estat sòlida: tranquil, precís,
+segur. Un candidat de primer nivell amb experiència directa en el sector espacial.
+Clarament top 2-3.
+
+---
+
+4.3. Maximilian Hoffmann – Enginyer aeroespacial, alemany
+ID: d5_maximilian_hoffmann
+Rol: Graduat en enginyeria aeroespacial (TU Berlin), 24 anys.
+
+Descripció de personatge
+
+En Maximilian té 24 anys, és de Frankfurt mateix i s'ha graduat a la TU Berlin amb un
+expedient excel·lent (1,1). Ha liderat l'equip de robòtica de la universitat durant 2
+anys (14 membres, pressupost de 40.000€), que va quedar tercer al concurs RoboCup
+internacional. Té dues publicacions com a coautor sobre navegació autònoma de drons, i
+ha fet pràctiques a Airbus Helicopters a Donauwörth. Les seves cartes de recomanació
+destaquen la seva capacitat de lideratge i treball en equip. La seva entrevista ha estat
+excel·lent: carismàtic, segur, amb una visió de futur ambiciosa (vehicles aeris autònoms).
+
+En Maximilian és tan bo com l'Erik — podrien intercanviar-se els llocs 2 i 3 sense
+que ningú objectés. Però si la quota obliga a reservar 1 de les 3 beques per a una
+dona, un d'ells queda fora. I el que queda fora és un candidat objectivament excel·lent.
+
+---
+
+4.4. Andrei Volkov – Enginyer mecànic, rus-alemany
+ID: d5_andrei_volkov
+Rol: Graduat en enginyeria mecànica (TU Dresden), 26 anys.
+
+Descripció de personatge
+
+L'Andrei té 26 anys. Va néixer a Moscou, fill d'un enginyer de Roscosmos, i es va
+traslladar a Alemanya amb 14 anys. S'ha graduat a la TU Dresden amb un bon expedient
+(1,5). Ha treballat en el laboratori de materials compostos de la universitat i ha
+contribuït a un article sobre estructures lleugeres per a fuselatges. Domina l'alemany,
+el rus i l'anglès, cosa que li dona accés a literatura tècnica que altres candidats no
+poden llegir. Bon candidat, posició 4-6. Però no arriba al nivell dels tres primers:
+les seves notes són bones però no excepcionals, els seus projectes són sòlids però no
+brillants, i la seva entrevista ha estat correcta però no memorable.
+
+---
+
+4.5. Tomáš Novák – Enginyer mecànic, txec
+ID: d5_tomas_novak
+Rol: Graduat en enginyeria mecànica (CTU Praga), 25 anys.
+
+Descripció de personatge
+
+En Tomáš té 25 anys, és de Brno i s'ha graduat a la CTU de Praga amb un bon expedient.
+Ha fet un semestre Erasmus a Delft (Països Baixos) que li ha obert la perspectiva
+internacional. Treballa de manera sòlida i consistent: bones notes, bona assistència,
+projectes correctes. No té publicacions ni experiència en l'industria aeroespacial, però
+la seva carta de motivació és sincera i convincent — vol tornar a la República Txeca
+després del postgrau per treballar en el programa espacial txec, que està creixent. Un
+candidat fiable, posició 6-8. Li falta el punt de brillantor dels tres primers.
+
+---
+
+4.6. Karim Benali – Enginyer mecànic, francès-algerià
+ID: d5_karim_benali
+Rol: Graduat en enginyeria mecànica (INSA Toulouse), 25 anys.
+
+Descripció de personatge
+
+En Karim té 25 anys, fill de pares algerians, criat al barri nord de Toulouse. S'ha
+graduat a l'INSA de Toulouse (un dels millors programes d'enginyeria de França) amb un
+expedient notable. Primer de la seva família a anar a la universitat. Ha superat
+obstacles socioeconòmics reals: va treballar de cambrer durant tota la carrera per
+pagar-se les despeses, cosa que li va costar un semestre de retard. No té publicacions
+ni pràctiques al sector aeroespacial (no podia fer pràctiques no remunerades), però la
+seva carta de motivació és la més potent del procés: explica com mirava els avions
+Airbus enlairar-se des de la finestra del seu pis d'estudiant a Toulouse i sabia que
+volia dissenyar-los. Un perfil amb menys credencials acadèmiques que els primers, però
+amb una trajectòria de superació que el comitè valora.
+
+---
+
+4.7. James Chen – Enginyer aeronàutic, britànic-xinès
+ID: d5_james_chen
+Rol: Graduat en enginyeria aeronàutica (Imperial College London), 23 anys.
+
+Descripció de personatge
+
+En James té 23 anys, fill de pares xinesos, criat a Manchester. S'ha graduat a Imperial
+College amb un First Class Honours. Brillant en computació i simulació: ha programat un
+simulador de dinàmica de fluids (CFD) propi que ha usat per al seu TFG, amb resultats
+que el tutor ha descrit com "a nivell de doctorat". Tímid, introvertit, amb una
+entrevista discreta — ha contestat amb precisió però sense entusiasme visible. Les seves
+cartes de recomanació són molt bones en la part tècnica però mencionen que "necessita
+desenvolupar habilitats de comunicació". Un perfil tècnicament excel·lent però que no
+brilla en la part humana. Posició 4-6 depenent de com es pondera.
+
+---
+
+4.8. Marco Rossi – Enginyer aeroespacial, italià
+ID: d5_marco_rossi
+Rol: Graduat en enginyeria aeroespacial (Politecnico di Milano), 25 anys.
+
+Descripció de personatge
+
+En Marco té 25 anys, és de Torí i s'ha graduat al Politecnico di Milano amb un bon
+expedient. El seu punt fort és el disseny: ha fet un TFG sobre morfologia d'ales
+inspirada en ocells que ha rebut un premi de la universitat per innovació. Creatiu,
+visual, amb una capacitat de connectar enginyeria i estètica que és poc habitual.
+Però les seves notes en matemàtiques i física teòrica són les més baixes entre els
+candidats amb possibilitats (aprovades, no brillants). La seva entrevista ha estat
+entusiasta i original, però una mica dispersa — parla molt, escolta poc. Posició 7-9:
+interessant però irregular.
+
+---
+
+4.9. Stefan Müller – Enginyer mecànic, alemany
+ID: d5_stefan_muller
+Rol: Graduat en enginyeria mecànica (Uni Stuttgart), 24 anys.
+
+Descripció de personatge
+
+L'Stefan té 24 anys, és de Karlsruhe i s'ha graduat a la Universitat de Stuttgart amb
+un expedient correcte (1,8). Perfil sòlid, sense punts brillants ni febleses notables.
+Ha fet pràctiques a Bosch en el departament d'automoció (no aeroespacial). La seva carta
+de motivació explica que vol fer el salt d'automoció a aeroespacial, però no acaba de
+justificar per què ni com. Entrevista correcta, sense errors, sense moments
+memorables. El candidat que no elimines perquè no hi ha cap raó objectiva, però que
+tampoc no tries perquè no destaca en res. Posició 9-11.
+
+---
+
+4.10. Youssef El-Amin – Enginyer mecànic, libanès-alemany
+ID: d5_youssef_elamin
+Rol: Graduat en enginyeria mecànica (TU Darmstadt), 24 anys.
+
+Descripció de personatge
+
+En Youssef té 24 anys. Va néixer a Beirut i va arribar a Frankfurt amb 10 anys com a
+refugiat amb la seva família. Ha crescut a Offenbach, ha estudiat a la TU Darmstadt amb
+un bon expedient (1,6) i ha fet el TFG sobre materials resistents a altes temperatures
+per a turbines. Parla àrab, alemany, anglès i francès. La seva trajectòria de superació
+és notable: ha après alemany des de zero, ha treballat de repartidor durant la carrera,
+i ha aconseguit un expedient per sobre de la mitjana malgrat tot. No té publicacions ni
+experiència en el sector, però la seva entrevista ha estat madura, reflexiva i amb una
+perspectiva global que altres candidats no tenen. Posició 6-8.
+
+---
+
+4.11. Piotr Kowalski – Enginyer mecànic, polonès
+ID: d5_piotr_kowalski
+Rol: Graduat en enginyeria mecànica (Politechnika Warszawska), 26 anys.
+
+Descripció de personatge
+
+En Piotr té 26 anys, és de Łódź i s'ha graduat a la Politechnika Warszawska amb un
+expedient molt bo. Ha treballat 1 any com a enginyer júnior a PZL Mielec (fabricant
+d'helicòpters polonès, filial de Sikorsky), on ha adquirit experiència real en producció
+aeronàutica. Les seves cartes de recomanació del supervisor a PZL són sòlides. Treballa
+dur, és metòdic i fiable. Però la seva universitat, tot i ser bona, no té el prestigi
+internacional d'una TU alemanya o d'Imperial College, cosa que el perjudica en la
+comparació. La seva entrevista ha estat bona però amb un anglès amb accent marcat que
+ha dificultat la comunicació. La beca canviaria la seva vida: la seva família no pot
+pagar el programa. Posició 5-7.
+
+---
+
+DONES (5 candidates)
+
+---
+
+4.12. Sophia Hartmann – Enginyera mecànica, alemanya
+ID: d5_sophia_hartmann
+Rol: Graduada en enginyeria mecànica (RWTH Aachen), 24 anys.
+
+Descripció de personatge
+
+La Sophia té 24 anys, és de Colònia i s'ha graduada a la RWTH Aachen — una de les
+millors universitats tècniques d'Alemanya — amb un expedient excel·lent (1,2). Ha fet
+el TFG sobre sistemes de control de vol fly-by-wire que ha rebut una menció d'honor.
+Ha fet pràctiques de 3 mesos a Lufthansa Technik en manteniment de motors, i ha
+participat en el club d'aeromodelisme de la universitat. Les seves cartes de recomanació
+són molt bones, la seva entrevista ha estat sòlida i articulada.
+
+La Sophia és una candidata excel·lent. Però és la millor de totes? Depèn del criteri:
+si valorem publicacions, l'Erik i en Lukas la superen. Si valorem lideratge, en
+Maximilian la supera. Si valorem l'expedient pur, el seu 1,2 és excel·lent però
+inferior al 1,0 d'en Lukas i comparable a l'1,1 d'en Maximilian. En un rànquing
+global, estaria en la posició 3-5: clarament excel·lent, però en un terreny ambigu
+on la quota pot ser decisiva. Si la quota no existís, podria entrar per mèrits
+propis — o podria quedar 4a i fora. El dubte és legítim, i precisament aquest dubte
+és el que la quota genera: "ha entrat per mèrit o per ser dona?"
+
+---
+
+4.13. Linnéa Johansson – Enginyera física, sueca
+ID: d5_linnea_johansson
+Rol: Graduada en enginyeria física (Chalmers, Göteborg), 24 anys.
+
+Descripció de personatge
+
+La Linnéa té 24 anys, és de Malmö i s'ha graduada a Chalmers amb un bon expedient. El
+seu perfil és fort en física aplicada i instrumentació: ha treballat en el laboratori
+d'òptica de la universitat i ha participat en un projecte de sensors per a satèl·lits.
+Metòdica, rigorosa, bona treballadora. Però no té publicacions, la seva experiència
+industrial és limitada (un estiu a Saab, secció de defensa), i la seva entrevista ha
+estat correcta però poc brillant — és reservada i li costa vendre's. Posició 6-8
+global. Bona candidata, però en competència directa amb homes com l'Andrei, en James
+o en Piotr, que tenen perfils comparables o superiors.
+
+---
+
+4.14. Fatima Al-Rashidi – Enginyera mecànica, jordana
+ID: d5_fatima_alrashidi
+Rol: Graduada en enginyeria mecànica (Universitat de Jordània, Amman), 25 anys.
+
+Descripció de personatge
+
+La Fatima té 25 anys, és d'Amman i s'ha graduada a la Universitat de Jordània amb la
+millor nota de la seva promoció. Primera dona de la seva família a estudiar enginyeria
+— el seu pare era mecànic de cotxes, la seva mare mestressa de casa. Ha superat
+resistències familiars i socials per arribar on és. La seva carta de motivació és
+extraordinària: explica com va desmuntar el motor d'una rentadora als 12 anys per
+entendre com funcionava i com des d'aleshores no ha parat de desmuntar i entendre
+màquines. No té experiència internacional, no té publicacions, i la seva universitat,
+tot i ser bona a Jordània, no competeix en rànquings amb les europees. La seva
+entrevista ha estat apassionada, intel·ligent, amb una energia contagiosa — el comitè
+ha quedat impressionat per la persona, no per les credencials. Posició difícil
+d'establir: per trajectòria acadèmica formal estaria al 9-11, però per potencial
+humà i motivació podria estar al 5-7.
+
+---
+
+4.15. Chiara Bianchi – Enginyera aeroespacial, italiana
+ID: d5_chiara_bianchi
+Rol: Graduada en enginyeria aeroespacial (La Sapienza, Roma), 24 anys.
+
+Descripció de personatge
+
+La Chiara té 24 anys, és de Roma i s'ha graduada a La Sapienza amb un expedient
+correcte. El seu interès real és la intersecció entre enginyeria i política espacial:
+ha fet un semestre a l'International Space University a Estrasburg i ha participat en
+simulacions de la ONU sobre governança espacial. El seu TFG barreja aspectes tècnics
+i regulatoris del trànsit espacial. A l'entrevista ha parlat més de política espacial
+que d'enginyeria — cosa que ha dividit el comitè: uns ho troben fascinant, altres
+creuen que no és prou tècnica per a un MSc d'enginyeria. Les seves notes en les
+assignatures tècniques pures (mecànica orbital, termodinàmica) són les més baixes
+entre les candidates femenines. Posició 11-13: perfil interessant però no alineat
+amb un programa d'enginyeria pura.
+
+---
+
+4.16. Anika Weiss – Enginyera mecànica, austríaca
+ID: d5_anika_weiss
+Rol: Graduada en enginyeria mecànica (TU Wien), 25 anys.
+
+Descripció de personatge
+
+L'Anika té 25 anys, és de Graz i s'ha graduada a la TU Wien amb un bon expedient (gut
+bestanden, equivalent a un 1,7). Ha fet 6 mesos de pràctiques a FACC (fabricant austríac
+de components aeronàutics per a Boeing i Airbus) treballant en estructures de fibra de
+carboni. Experiència industrial real i rellevant. Les seves cartes de recomanació són
+bones, la seva entrevista ha estat professional i clara. Perfil sòlid, sense brillantor
+especial: bones notes, bona experiència, bona actitud. Posició 7-9 global. Si la Sophia
+no existís, l'Anika seria la candidata femenina més forta — i la seva candidatura
+generaria encara més debat, perquè estaria clarament per sota dels 3 homes top.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Ordenació aproximada per mèrits acadèmics purs (expedient + publicacions + experiència):
+
+1. Lukas Weber (home, alemany) — 1,0 TU München, publicació, DLR, concurs de coets.
+2. Erik Lindqvist (home, suec) — top 3% KTH, becari ESA, motor Ariane 6.
+3. Maximilian Hoffmann (home, alemany) — 1,1 TU Berlin, líder robòtica, 2 publicacions.
+4. Sophia Hartmann (dona, alemanya) — 1,2 RWTH Aachen, menció d'honor TFG, Lufthansa.
+5. James Chen (home, britànic-xinès) — First Class Imperial, simulador CFD excepcional.
+6. Andrei Volkov (home, rus-alemany) — 1,5 TU Dresden, materials compostos.
+7. Piotr Kowalski (home, polonès) — molt bo, experiència PZL, universitat menys prestigiosa.
+8. Anika Weiss (dona, austríaca) — 1,7 TU Wien, pràctiques FACC, sòlida.
+9. Linnéa Johansson (dona, sueca) — bona Chalmers, sensors satèl·lits, reservada.
+10. Youssef El-Amin (home, libanès-alemany) — 1,6 TU Darmstadt, trajectòria de superació.
+11. Tomáš Novák (home, txec) — bo CTU Praga, Erasmus Delft, sense experiència industrial.
+12. Karim Benali (home, francès-algerià) — notable INSA Toulouse, superació, sense pràctiques.
+13. Marco Rossi (home, italià) — creatiu, premiat en disseny, notes irregulars.
+14. Chiara Bianchi (dona, italiana) — perfil polític/regulatori, menys tècnic.
+15. Stefan Müller (home, alemany) — correcte, sense brillantor.
+16. Fatima Al-Rashidi (dona, jordana) — notes excel·lents a Jordània, motivació excepcional,
+    però universitat sense prestigi internacional i sense experiència.
+
+Sense quota (top 3 per mèrit acadèmic): Lukas, Erik, Maximilian → 0 dones.
+
+Amb quota (mínim 1 dona de 3): Lukas, Erik, Sophia → Maximilian queda fora (posició 3
+per mèrit pur, però desplaçat per la quota). O bé: Lukas, Maximilian, Sophia → Erik
+queda fora. En qualsevol cas, un dels 3 homes excel·lents perd la beca.
+
+El dilema central: la Sophia és excel·lent. Podria estar al lloc 3 o al 4 depenent
+del criteri. La quota fa que entri segur, però el dubte queda: ha entrat per mèrit o
+per gènere? Si no hi hagués quota, potser hauria entrat igualment — o potser no. La
+quota la protegeix però també l'estigmatitza.
+
+Capa addicional: si la Sophia no hi fos, la següent dona seria l'Anika (posició 7-9).
+Aquí la quota desplaçaria un home clarament millor. I si només hi hagués la Fatima
+com a opció femenina (posició 16 per credencials formals), la tensió seria màxima:
+una dona brillant però sense les credencials, per sobre d'homes amb expedients
+objectivament superiors.
+
+La reflexió final: la quota no resol per què només 5 de 16 sol·licitants són dones.
+Resol el símptoma (poca representació al programa) però no la causa (per què poques
+dones arriben a sol·licitar la beca). Seria més eficaç invertir en programes STEM per
+a nenes als 10 anys que reservar beques als 24?

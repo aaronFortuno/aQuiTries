@@ -140,25 +140,49 @@ Cada escenari té el seu propi conjunt de 12-15 personatges dissenyats per a aqu
 - Reflexió: Escenari trampa. La força física és irrellevant. Les dones amb menys massa corporal poden tolerar millor certes maniobres. La tria "òbvia" (homes) pot ser equivocada.
 - Debat: "Has triat basant-te en les dades o en la intuïció? Si les dades diuen que una pilot dona és millor, per què pot costar triar-la?"
 
-**C4. El vaixell que s'enfonsa**
-- Context: "Un vaixell s'enfonsa. Cal assignar 3 rols urgents: (1) una persona que piloti el bot salvavides, (2) una persona que organitzi l'evacuació dels passatgers, (3) una persona que es quedi al vaixell coordinant les comunicacions de ràdio. Tria 3 persones."
-- Personatges: 13 tripulants i passatgers (oficials, mariners, personal mèdic — homes i dones).
-- Reflexió: Tres rols molt diferents en una mateixa emergència. La distribució ideal probablement és mixta — no per paritat sinó per perfil.
-- Debat: "Has triat la mateixa persona per a tots els rols? Per què canvia el perfil ideal segons la tasca?"
+**C4. L'embarcació avariada**
+- Context: "Un grup d'amics i amigues ha llogat una embarcació recreativa per fer una sortida d'un dia des d'un poblet costaner de Normandia. L'embarcació ha xocat contra una roca submarina. La persona que portava el timó ha rebut un cop al cap i està inconscient, i el mòdul GPS s'ha fet malbé. Cal triar: (1) una persona per conduir el vaixell fins a port, (2) una persona per comunicar-se amb els serveis d'emergència i guiar-los fins a l'embarcació, i (3) dues persones per reparar o minimitzar una fuita d'aigua al casc. Tria 4 persones."
+- Personatges: 13 amics i amigues de vacances (homes i dones, amb professions i experiències molt diverses — cap d'ells és mariner professional).
+- Reflexió: En una emergència amb gent no professional, les habilitats rellevants venen dels llocs més inesperats. Un lampista sap tapar fuites, una estudiant d'art pot saber navegar perquè va créixer amb el seu avi pescador, un monitor de fitness pot entrar en pànic, una mecànica de cotxes pot reparar un motor marítim. L'aparença i el gènere no prediuen qui serà útil.
+- Debat: "A qui has triat per cada rol i per què? T'has fixat en la professió o en l'aparença? Hi ha algú que t'ha sorprès quan has llegit la seva descripció? Per què tendim a associar 'emergència al mar' amb un perfil concret?"
 
 **C5. L'expedició al riu (tribu paleolítica)**
-- Context: "Fa dies que no plou. Cal que 3 persones caminin 20 km fins al riu més proper per portar aigua. Caldrà resistència, orientació i portar pes de tornada."
-- Personatges: 14 membres de la tribu.
-- Reflexió: Menys clar que la cacera. En moltes cultures africanes actuals, són les dones qui fan aquesta tasca. La "obvietat" desapareix. Estem triant per biologia o per cultura?
-- Debat: "Per què ens sembla 'obvi' que els homes cacin però no ens sembla 'obvi' que les dones portin l'aigua? Totes dues tasques requereixen esforç físic."
+- Context: "Fa dies que no plou. Les reserves d'aigua de la tribu s'estan esgotant. Cal que 3 persones caminin 20 km fins al riu més proper per portar aigua. Caldrà resistència per caminar tot el dia, orientació per trobar el camí i força per portar pes de tornada. Tria 3 persones."
+- Personatges: 16 membres de la tribu (homes i dones de totes les edats: des de nens de 5-6 anys fins a ancians de gairebé 60, incloent un caçador experimentat però amb una lesió al genoll que el fa anar coix).
+- Reflexió: Menys clar que la cacera. En moltes cultures africanes actuals, són les dones qui fan aquesta tasca. La resistència i l'orientació importen més que la força bruta: les recol·lectores caminen hores cada dia i coneixen el terreny millor que els caçadors. L'home més fort pot ser el pitjor candidat si consumeix molta aigua i no sap orientar-se. La presència de nens i ancians obliga a pensar per què els descartem i si les mateixes raons s'apliquen en grau a d'altres.
+- Debat: "Per què ens sembla 'obvi' que els homes cacin però no ens sembla 'obvi' que les dones portin l'aigua? Totes dues tasques requereixen esforç físic. Has descartat algú per l'edat o la mida? Què passaria si enviessis en Theron (lesionat) perquè és qui millor coneix el camí?"
+
+**C6. El rescat militar**
+- Context: "Un company ha estat capturat i retingut en un edifici controlat per insurgents en una zona urbana d'Orient Mitjà. Cal reclutar un equip de 5 persones per a una missió de rescat d'alt risc que pot durar fins a 18 hores. Es poden patir baixes. Cal cohesió, coordinació, domini d'armes, capacitat de decisió ràpida i resistència física i mental. Tria 5 persones."
+- Personatges: 18 militars dels EUA (majoritàriament homes, amb rangs i especialitats realistes: infanteria, forces especials, metge de combat, comunicacions, intel·ligència, enginyeria de combat, drons, logística).
+- Reflexió: Escenari que reflecteix una realitat incòmoda. Als EUA, els afroamericans representen el 13% de la població però històricament entre el 20-25% de les baixes en combat. Molts soldats d'infanteria provenen de famílies sense recursos ni opcions laborals: l'exèrcit és la seva única sortida. Les dones gairebé no estan presents en unitats de combat directe. L'escenari convida a preguntar-se: qui lluita i mor en les guerres? Per què? I també: en un equip de 5, cal només gent que dispari o també un metge, un especialista en comunicacions, algú que parli àrab?
+- Debat: "Per què la majoria dels soldats en combat provenen de barris pobres? Si l'exèrcit és l'única sortida per a moltes famílies, és realment una tria lliure? Has triat alguna dona per a l'equip? Per què sí o per què no? Necessites algú que parli àrab o un metge, o només tiradors?"
+
+**C7. L'equip d'escombriaires (Valdecampos, Castella-La Manxa)**
+- Context: "L'Ajuntament de Valdecampos (poble fictici de Castella-La Manxa, ~800 habitants) convoca 4 places d'escombriaire. Sou mínim, contracte temporal de 12 mesos. No es requereix formació específica ni experiència prèvia. S'hi presenten 16 persones."
+- Personatges: 16 candidats organitzats en 4 blocs. Homes locals/zona (5): exobrer de fàbrica tancada (27 anys d'antiguitat, 54 anys), segon exobrer de la mateixa fàbrica (56 anys, exalcohòlic rehabilitat, divorciat), graduat en Història (24 anys, sobrequalificat), jove sense ESO acabada (19 anys, mai ha treballat), paleta aturat d'un poble veí (49 anys, problemes d'esquena). Dones locals (3): mestressa de casa de 48 anys (28 anys de treball invisible, 3 fills grans, mai ha cobrat), vídua de 55 anys (20 anys netejant en negre, genolls gastats), divorciada de 43 anys (9 anys de supermercat, 2 fills, la més "preparada"). Immigrants amb papers (4): temporero marroquí (36 anys, 9 anys a Espanya), treballadora domèstica romanesa (44 anys, 14 anys a Espanya, ciutadana UE), enginyer mecànic ucraïnès refugiat (41 anys, titulació no homologada), cambrera brasilera (32 anys, sociable, "integrada"). Immigrants sense papers (4): treballadora agrícola senegalesa (29 anys, ruta canària, filla a Dakar), jornaler marroquí (31 anys, cosí del Mohamed regularitzat — mirall legal), treballador agrícola malià (23 anys, ruta Mediterrània, gairebé no parla castellà), exmaestra afganesa (34 anys, sol·licitant d'asil — tècnicament sí pot treballar).
+- Reflexió: La feina no requereix habilitats especials — el dilema no és "qui ho farà millor" sinó "qui mereix la feina". Cada tria revela un sistema de valors: localisme (prioritzar "els d'aquí"), papers (descartar per il·legalitat persones que ja contribueixen a l'economia local), gènere i treball invisible (28 anys de feina domèstica no compten com a "experiència"), edat i desgast (castigar per haver treballat massa), sobrequalificació (el graduat "ja trobarà una altra cosa" — però no la troba), estigma (passat d'alcohol, abandó escolar), "integració" com a biaix (acceptem la brasilera sociable però no el malià que no parla l'idioma).
+- Debat: "Per què has triat qui has triat? T'has fixat primer en si eren d'aquí o de fora? Has descartat algú perquè no té papers — si no es pot contractar legalment, ja no existeix com a persona? La María del Carmen no ha treballat mai formalment — creus que no ha treballat? Si fossis l'alcalde/essa, com justificaries la teva tria davant de les 12 persones que es queden sense feina?"
+
+**C8. L'equip mèdic (camp de refugiats, Kenya)**
+- Context: "Un camp de refugiats al nord de Kenya amb 45.000 persones (majoritàriament somalis i sud-sudanesos) necessita reforçar l'equip mèdic de la clínica amb 3 persones. Hi ha una epidèmia de còlera activa i necessitats de salut materna. Hi ha 14 candidats disponibles: professionals mèdics internacionals, sanitaris kenyans locals, i treballadors sanitaris que són ells mateixos refugiats."
+- Personatges: 14 candidats en 3 blocs. Internacionals (5): cirurgià nord-americà de Harvard (46 anys, tècnicament brillant però culturalment impacient, no parla somali), metgessa belga de medicina tropical (39 anys, 8 anys de camp, la millor occidental), metge d'urgències suec (31 anys, primera missió, totalment verd), pediatra italiana (43 anys, experiència en camp a Jordània), infermera britànica (28 anys, entusiasta però inexperimentada). Kenyans locals (4): infermera veterana del camp (44 anys, 9 anys al camp, coneix cada família — la millor candidata real), metge general de l'hospital comarcal (52 anys, 24 anys diagnosticant sense recursos), oficial clínic (36 anys, 7 anys al camp, ha gestionat 3 epidèmies de còlera), agent de salut comunitària kenyana-somali (30 anys, nascuda al camp, 4 idiomes, pont únic amb les dones somalis). Refugiats (5): exmetge somali (48 anys, 12 anys de pràctica + 13 anys al camp, credencial no reconeguda), llevadora sud-sudanesa (33 anys, infermera formada, 200+ parts al camp), comadrona tradicional somali (56 anys, zero formació formal, 35 anys d'experiència, 500+ parts), farmacèutic congolès (39 anys, gestiona el magatzem de medicaments), agent de salut refugiada somali (26 anys, xarxa de 12 promotores que ella mateixa ha format).
+- Reflexió: El millor equip per a aquest camp concret no inclou cap metge occidental: Grace (infermera, 9 anys al camp) + Peter (oficial clínic, 7 anys) + Amina (agent comunitària, 4 idiomes). Cap títol de Harvard substitueix 9 anys de coneixement directe de la comunitat. El cirurgià americà és tècnicament brillant però pràcticament inútil aquí: no parla l'idioma, no coneix la cultura, i la clínica no té quiròfan. L'escenari toca el "complex del salvador blanc" i la invisibilitat dels treballadors sanitaris locals i refugiats.
+- Debat: "Has triat metges occidentals? Per què t'han semblat 'millors'? La Grace és infermera, no metgessa — però porta 9 anys al camp. Val més la titulació o l'experiència directa? El Dr. Abdi era metge a Somàlia — per què el seu títol no val a Kenya? Qui salva més vides: el cirurgià de Harvard que no parla somali o l'agent comunitària que parla 4 idiomes?"
+
+**C9. El restaurant d'alta cuina (Madrid)**
+- Context: "El restaurant 'Aura' (2 estrelles Michelin, Madrid) busca 3 nous cuiners/es per reforçar la brigada de cuina. Hi ha 14 candidats de 10 nacionalitats."
+- Personatges: 14 candidats en 3 blocs. Europeus/formació clàssica (5): xef francès de Le Cordon Bleu (38 anys, 3 estrelles, brillant però tòxic — 3 sous-chefs han dimitit), xef espanyol del Basque Culinary Center (35 anys, fiable però no innovador), xef veterà espanyol exelBulli (45 anys, 22 anys d'experiència, datat), xef italiana d'Osteria Francescana (31 anys, creativa, resilient), xef suec de Noma (28 anys, fermentació, jove i limitat). Internacionals/formació no-europea (5): xef nigerià (33 anys, primer de promoció a Lagos, restaurant d'èxit, afro-fusió — la seva cuina "no compta" com a alta cuina), xef pakistanès (36 anys, Le Cordon Bleu Londres + Lahore, 1 estrella, expert en espècies), xef xilena (34 anys, Boragó top 26 mundial, terroir patagònic, dona en món d'homes), xef sud-africana (30 anys, The Test Kitchen Cape Town, fusió afro-europea, potencial creatiu enorme), xef japonès de kaiseki (37 anys, 14 anys d'experiència, precisió superior, barrera idiomàtica). Atípics (4): cuinera autodidacta sevillana (42 anys, taperia llegendària, zero formació formal, les millors croquetes d'Andalusia), xef jove marroquí-espanyol (27 anys, nascut a Lavapiés, DiverXO, fusió Maghreb-Espanya), pastissera espanyola (29 anys, Le Cordon Bleu, excel·lent però "només" postres — el gueto rosa), cuiner influencer (33 anys, 2,2M seguidors, espectacular en pantalla, mediocre en cuina).
+- Reflexió: El sistema Michelin defineix "excel·lència culinària" segons paràmetres europeus. Un xef nigerià primer de promoció amb restaurant d'èxit "no compta" perquè la seva cuina no és francesa. Les dones són el 55% dels estudiants de cuina i el 6% dels caps de cuina amb estrella. L'equip que la majoria triarà (3 homes blancs europeus) és el conservador; l'equip que aportaria més innovació inclou el nigerià, el pakistanès i la xilena — cap dels quals "sembla" d'alta cuina.
+- Debat: "Què és 'alta cuina' i qui ho decideix? L'Emeka és primer de promoció i té un restaurant d'èxit — per què la seva cuina 'no compta'? En Hassan sap més d'espècies que qualsevol graduat de Le Cordon Bleu — per què el coneixement pakistanès val menys que el francès? Les dones cuinen a casa a tot el planeta — per què només el 6% dels caps de cuina amb estrella són dones?"
 
 ### CATEGORIA D: Quotes, paritat i meritocràcia
 
 **D1. La llista electoral**
-- Context: "Un partit polític ha de confeccionar la seva llista per a les eleccions municipals. Per llei, la llista ha de tenir un mínim del 40% de cada sexe. Hi ha 10 candidats amb experiència i mèrits diversos. Cal ordenar els 6 primers de la llista."
-- Personatges: 10 polítics (homes i dones, amb diversa formació, experiència de govern, àrees d'especialització, trajectòria, valoració ciutadana).
-- Reflexió: Si ordenes per mèrit pur, potser no surten 40/60. La llei obliga a reordenar. Això pot fer que algú menys preparat passi per davant d'algú més preparat. La intenció és bona (garantir representació), però el mecanisme pot generar problemes.
-- Debat: "Has hagut de canviar la teva llista per complir la quota? Com t'has sentit? Creus que la llei hauria de forçar la paritat o hauria de ser natural? Què passa si no ho forcem i la llista queda 90/10?"
+- Context: "Un partit polític conservador ha de confeccionar la seva llista per a les eleccions municipals d'una ciutat mitjana catalana. Per llei, la llista ha de tenir un mínim del 40% de cada sexe (almenys 3 dones entre els 6 primers). Hi ha 20 candidats (14 homes i 6 dones) amb experiència i mèrits molt desiguals. Cal ordenar els 6 primers de la llista."
+- Personatges: 20 candidats. El partit és històricament masculinitzat: entre els homes hi ha regidors amb 8-16 anys d'experiència de govern i resultats demostrables. Entre les dones, n'hi ha una d'excel·lent, una de sòlida, i la resta amb trajectòries clarament inferiors als homes que quedarien fora per la quota.
+- Reflexió: Si ordenes per mèrit pur, la llista seria majoritàriament masculina. La llei obliga a incloure almenys 3 dones, cosa que significa que 2-3 homes amb més experiència i resultats quedarien fora perquè cal fer lloc a dones amb menys trajectòria. La intenció de la llei és garantir representació, però el mecanisme genera un dilema real: és just que una persona menys preparada ocupi un lloc per sobre d'una de més preparada pel seu gènere? I al mateix temps: si no ho forcem, el partit mai no tindrà dones amb experiència perquè mai no les posa a la llista.
+- Debat: "Has hagut de canviar la teva llista per complir la quota? Com t'has sentit? Creus que la llei hauria de forçar la paritat o hauria de ser natural? Què passa si no ho forcem i la llista queda 90/10? I què passa si ho forcem i algú incompetent acaba sent regidor/a?"
 
 **D2. El consell d'administració**
 - Context: "Una empresa tecnològica ha de renovar 4 places del seu consell d'administració (8 membres). La normativa interna exigeix un mínim del 40% de dones al consell. Actualment hi ha 1 dona de 4 que es queden. Cal triar 4 nous membres."
@@ -167,45 +191,46 @@ Cada escenari té el seu propi conjunt de 12-15 personatges dissenyats per a aqu
 - Debat: "Creus que les quotes ajuden o perjudiquen? Si una dona arriba a un càrrec per quota, com creus que se sent? I els seus companys, com la miren? Hi ha una manera millor d'aconseguir la paritat?"
 
 **D3. Les oposicions a bomber**
-- Context: "S'han convocat oposicions per a 5 places de bomber. Les proves físiques inclouen carregar 40 kg en escales, arrossegar una persona de 80 kg i córrer 1,5 km en menys de 6 minuts. Hi ha 14 candidats."
-- Personatges: 14 aspirants (homes i dones, amb diversa condició física, resultats en proves, formació en emergències).
-- Reflexió: Algunes convocatòries tenen barems físics diferents per a homes i dones. Però el foc no discrimina: el pes d'una persona inconscient és el mateix sigui qui sigui qui la rescata. Abaixar els barems per aconseguir paritat pot posar en risc vides?
-- Debat: "Hauria de ser el barem físic el mateix per a homes i dones? Si una dona supera el barem masculí, és justa la selecció? Si no el supera però entra per quota, és segur?"
+- Context: "S'han convocat oposicions per cobrir 5 places de bomber en un parc de bombers d'una ciutat mitjana catalana. Les proves físiques inclouen carregar 40 kg pujant 4 pisos d'escales, arrossegar un maniquí de 80 kg durant 20 metres, córrer 1.500 m en menys de 6 minuts, pujar corda de 5 m, circuit amb ERA i natació 50 m. Hi ha 18 aspirants (12 homes i 6 dones)."
+- Personatges: 18 aspirants amb diversa condició física, experiència i formació. Inclou: exmilitar excepcional, bomber voluntari amb experiència real, opositor de laboratori, paleta amb força bruta, crossfitter espectacular, bomber veterà amb lesió, infermera d'urgències, halteròfila competitiva, bombera voluntària, triatleta, entre d'altres. Les dones inclouen una excepcionalment forta (Neus, halteròfila) que supera alguns homes, però la majoria queden per sota dels homes forts en proves de força del tren superior.
+- Reflexió: El foc no discrimina, la gravetat no discrimina, el pes d'una víctima inconscient no discrimina. Si establim barems físics diferenciats per sexe (com fan moltes convocatòries reals), més dones aproven, però aprovar amb barem diferenciat no canvia la física: el maniquí segueix pesant 80 kg. Si establim barem únic, gairebé cap dona passa (excepte les excepcionalment fortes). La solució potser és rols especialitzats dins el cos (prevenció, sanitari, logística, comandament) on la força bruta no sigui crítica.
+- Debat: "Hauria de ser el barem físic el mateix per a homes i dones? Si una dona supera el barem masculí, és justa la selecció? Si no el supera però entra per barem diferenciat, és segur enviar-la a un rescat on cal carregar 80 kg? I si no forcem la paritat, el cos de bombers queda 98% masculí — és acceptable?"
 
 **D4. La plaça de mestre d'infantil**
-- Context: "Una escola busca 2 nous mestres per a P3 (nens de 3 anys). Hi ha 12 candidats."
-- Personatges: 12 candidats (majoria dones, 3-4 homes, amb diversa formació i experiència).
-- Reflexió: Ningú proposa quotes per a homes a educació infantil. Si ho proposéssim, ens semblaria absurd. Però és estructuralment el mateix que proposar quotes per a dones en enginyeria.
-- Debat: "Si et semblaria absurd reservar places per a homes aquí, per què no et sembla absurd reservar places per a dones en altres àmbits? Hi ha una diferència o és el mateix mecanisme?"
+- Context: "Una escola pública busca 2 nous mestres per a P3 (nens de 3 anys). Hi ha 12 candidats (9 dones i 3 homes). El procés valora titulació, experiència en educació infantil, formació complementària, entrevista i classe pràctica."
+- Personatges: 12 candidats amb perfils variats. Inclou mestres veteranes, especialista en educació especial, recent graduada, educadora de llar d'infants, mestra Montessori, i 3 homes: un amb 8 anys d'experiència en P3 (top 2 per mèrit), un recent graduat i un mestre de primària que vol canviar. L'home experimentat (Jordi) és clarament un dels millors candidats, però pateix el biaix invers: desconfiança d'algunes famílies per ser home sol amb nens de 3 anys.
+- Reflexió: Ningú proposa quotes per a homes a educació infantil (on són el 5%). Si ho proposéssim, ens semblaria absurd. Però és estructuralment el mateix mecanisme que proposar quotes per a dones en enginyeria o bombers. Si acceptem el desequilibri de gènere quan beneficia les dones, per què el corregim quan beneficia els homes? I els homes que trien professions feminitzades pateixen un biaix real: desconfiança, sospita, sobre-vigilància.
+- Debat: "Si et semblaria absurd reservar places per a homes aquí, per què no et sembla absurd reservar places per a dones en altres àmbits? Si un home excel·lent perd la plaça perquè les famílies prefereixen una dona, és discriminació? I si una enginyera excel·lent perd la plaça perquè l'empresa prefereix un home, és el mateix?"
 
 **D5. La beca d'enginyeria**
-- Context: "Una universitat ofereix 3 beques per a un programa d'enginyeria aeroespacial. Per política de la universitat, almenys 1 beca ha d'anar a una dona. Hi ha 14 sol·licitants."
-- Personatges: 14 estudiants (homes i dones, amb diversa nota d'accés, projectes previs, motivació, recomanacions).
-- Reflexió: Si la millor candidata és dona, la quota no canvia res. Si no ho és, algú millor preparat es queda fora. La intenció és incentivar que més dones entrin en camps STEM, però el mecanisme puntual pot generar ressentiment.
-- Debat: "Què és més just: garantir la plaça o garantir que tothom pugui arribar-hi amb les mateixes oportunitats des del principi? Les quotes solucionen el problema o el maquillen?"
+- Context: "La TU Frankfurt ofereix 3 beques completes per al seu MSc en enginyeria aeroespacial. Per política de diversitat, almenys 1 beca ha d'anar a una dona. Hi ha 16 sol·licitants (11 homes i 5 dones) d'arreu d'Europa i Orient Mitjà."
+- Personatges: 16 estudiants de 10 nacionalitats (alemanys, suecs, txec, polonès, rus-alemany, italians, britànic-xinès, francès-algerià, libanès-alemany, jordana, austríaca). 3 homes amb trajectòries excepcionals (Lukas, Erik, Maximilian) — un quedarà segur fora si la quota reserva 1 beca per a dona. La millor candidata femenina (Sophia) és posició 3-4: excel·lent però en terreny ambigu. Inclou perfils de superació (Karim, Youssef, Fatima) que plantegen el debat mèrit acadèmic vs. trajectòria vital.
+- Reflexió: La quota no resol per què només 5 de 16 sol·licitants són dones. Resol el símptoma (poca representació) però no la causa (per què poques dones arriben a sol·licitar). Seria més eficaç invertir en programes STEM per a nenes als 10 anys que reservar beques als 24? La quota protegeix però també estigmatitza: "ha entrat per mèrit o per ser dona?"
+- Debat: "Què és més just: garantir la plaça o garantir que des de petites tinguin les mateixes oportunitats d'arribar-hi? Les quotes solucionen el problema o el maquillen? Si la Sophia és la 4a millor i entra per quota, com se sent? I el Maximilian que queda 3r i fora?"
 
 ### CATEGORIA E: Escenaris trampa (on la primera impressió enganya)
 
 **E1. El submarinista**
-- Context: "Cal reparar una estructura submarina a 30 metres de profunditat. Es requereix calma, precisió manual i resistència al fred. Tria 2 persones."
-- Personatges: 12 submarinistes (homes i dones, amb diversa experiència, certificacions, historial de busseig).
-- Reflexió: Cap d'aquestes habilitats depèn del sexe de manera determinant. Però el biaix apareixerà igualment.
-- Debat: "En què t'has basat? Si no has mirat les dades i has triat per instint, quin instint era?"
+- Context: "Cal reparar una connexió d'un observatori científic submarí a 30 metres de profunditat davant l'Estartit (Costa Brava). La reparació requereix calma, precisió manual i resistència al fred (13-14°C, 45-60 minuts). Cal triar 2 persones d'un equip de 12 bussejadors (6 homes i 6 dones)."
+- Personatges: 12 bussejadors amb perfils molt diversos: instructor de busseig (amb episodi de narcosi), bomber-bussejador del GRAE (fort però imprecís), bussejador militar (combat, no reparació), pescador submarí (apnea, zero SCUBA), comptable amb 500 immersions tropicals, estudiant novell. I 6 dones: biòloga marina (14 anys busseig científic en aigües fredes — LA millor candidata), soldadora industrial amb certificació de busseig (precisió manual professional), instructora impecable, oceanògrafa veterana (artrosi a les mans), fisioterapeuta amb mans excel·lents, apneista competitiva.
+- Reflexió: Cap de les habilitats requerides (calma, precisió, fred) depèn del sexe. Les 2 millors candidates són dones (Mireia i Lena), però els jugadors probablement triaran homes grans i forts perquè "busseig profund" evoca força i aventura. La trampa: la tasca no requereix força, sinó paciència i mans hàbils.
+- Debat: "En què t'has basat? Si no has mirat les dades i has triat per instint, quin instint era? I d'on ve?"
 
 **E2. L'astronauta**
-- Context: "Una missió espacial de 6 mesos requereix 2 tripulants. Cal resistència psicològica, eficiència en l'ús de recursos (oxigen, menjar) i capacitat de treball en espais confinats."
-- Personatges: 12 candidats (homes i dones, amb diversa formació, mèdiques, resultats psicològics, mida corporal).
-- Reflexió: Les persones de mida més petita consumeixen menys oxigen i menjar — un avantatge real en una missió espacial. Les dones, de mitjana, tenen avantatge aquí. Un escenari on la biologia afavoreix el perfil femení, contràriament a la intuïció.
-- Debat: "T'ha sorprès que aquí ser petit sigui un avantatge? Per què no hi pensem quan pensem en 'astronauta'?"
+- Context: "L'ESA i l'ISRO (Indian Space Research Organisation) envien una missió conjunta de 6 mesos a l'estació espacial. La càpsula té espai per a 2 tripulants. Cal resistència psicològica a l'aïllament prolongat, eficiència en l'ús de recursos (oxigen, aigua, aliment — cada quilo de pes corporal consumeix més), capacitat de treball en espais confinats i habilitats tècniques. Cal triar 2 persones d'un equip de 12 candidats preseleccionats (6 homes i 6 dones), de països europeus i de l'Índia."
+- Personatges: 12 candidats (6 homes i 6 dones) de diversa procedència i religió. Homes: pilot de proves suec (1,91 m, 90 kg — l'astronauta de pel·lícula), enginyer de sistemes indi (hindú, Chennai), enginyer aeroespacial alemany (claustrofòbia lleu), pilot de combat sikh (turbant, imponent), metge de vol francès, científic informàtic jainista (1,64 m, 57 kg — el candidat "ocult"). Dones: enginyera aeroespacial índia de Kerala (1,58 m, 51 kg — la millor candidata), metgessa-biofísica alemanya (experiència antàrtica), biòloga molecular musulmana amb hijab (1,56 m, 49 kg — la més eficient), enginyera de materials espanyola, científica veterana índia (interfície ESA-ISRO), pilot d'helicòpter francesa (la dona més gran). Dades clau per candidat: alçada, pes, consum O₂ (L/min), necessitat calòrica (kcal/dia), dies d'aïllament en simulador.
+- Reflexió: L'escenari inverteix la intuïció. Un astronauta de 90 kg consumeix un 40-50% més d'oxigen i calories que un de 55 kg — en 6 mesos, 500 kg més de subministraments a 20.000€/kg. La NASA ho sap fa dècades: les dones, de mitjana, són més eficients per a missions espacials. El pilot suec (Henrik, posició 12 en eficiència) "sembla" astronauta, però és el pitjor candidat. Les millors candidatures són dones petites (Priya, Ananya) i l'home petit jainista (Sanjay), que ningú triaria a primer cop d'ull.
+- Debat: "T'ha sorprès que aquí ser petit sigui un avantatge? Per què, quan penses en 'astronauta', imagines algú gran i fort? D'on ve aquesta imatge, i com condiciona les teves decisions?"
 
 ---
 
 ## 5. ARQUITECTURA TÈCNICA
 
 ### Stack tecnològic
-- **Frontend**: HTML5 + CSS3 + JavaScript vanilla (o React si es vol més estructura)
-- **Dades**: JSON estàtic amb tots els escenaris i personatges (no cal backend)
-- **Hosting**: Desplegament estàtic (GitHub Pages, Netlify, o qualsevol hosting simple)
+- **Frontend**: React 19 + Vite 7 — SPA lleugera
+- **Backend temps real**: Firebase Firestore (mode guiat professor/alumnes)
+- **Dades**: JSON estàtic amb tots els escenaris i personatges
+- **Hosting**: GitHub Pages (deploy estàtic via `gh-pages` + GitHub Actions)
 - **Responsive**: Mobile-first, funcional en tauletes i Chromebooks d'aula
 
 ### Estructura de dades
@@ -338,10 +363,10 @@ To seriós però accessible. No infantilitzar (és per a 6è, tenen 11-12 anys).
 - Possibilitat d'exportar resultats (PDF o captura)
 - Més escenaris
 
-### Fase 3
-- Mode professor: veure estadístiques agregades de tota la classe
-- Possibilitat que el professor creï escenaris personalitzats
-- Estadístiques anònimes globals ("El 78% dels usuaris van triar homes per a la cacera")
+### Fase 3 (implementada)
+- Mode professor: el docent crea una sala amb codi de 4 dígits, alumnes s'hi connecten, resultats agregats per gènere en temps real (Firebase Firestore)
+- Possibilitat que el professor creï escenaris personalitzats (futur)
+- Estadístiques anònimes globals ("El 78% dels usuaris van triar homes per a la cacera") (futur)
 
 ---
 

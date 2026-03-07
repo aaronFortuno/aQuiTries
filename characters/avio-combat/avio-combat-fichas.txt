@@ -1,0 +1,229 @@
+4. Fichas de personatge (12 pilots militars)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c3_).
+Rol: especialitat o funció principal.
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Cal seleccionar 2 pilots per a una missió de combat aeri.
+Es requereix capacitat de reacció ràpida, resistència a forces G i presa de decisions
+sota pressió. Escenari trampa: la força física és irrellevant. Les dones amb menys massa
+corporal poden tolerar millor certes maniobres (el cor bombeja menys sang contra les
+forces G). La tria "òbvia" (homes) pot ser equivocada.
+
+---
+
+4.1. Àlex Montserrat – Pilot veterà
+ID: c3_alex_montserrat
+Rol: Pilot de combat veterà, comandant d'esquadró.
+
+Descripció de personatge
+
+L'Àlex té 42 anys i és un dels pilots amb més hores de vol de la base: més de 3.000 hores en avions de combat. Ha participat en missions reals i exercicis internacionals amb la NATO. Gran experiència tàctica i capacitat de lideratge. Però l'edat comença a passar factura: la seva tolerància a les forces G ja no és la que era, i els temps de reacció s'han alentit lleugerament respecte als seus anys joves. El seu cos robust i pesat el penalitza en maniobres extremes.
+
+Bloque de prompt específico
+
+Adult man (42), tall robust build with broad shoulders, upright proud military posture. Short graying dark hair in a regulation cut, strong jaw with faint stubble, deep-set experienced eyes, calm commanding expression with subtle crow's feet.
+
+Wearing an olive green flight suit with multiple squadron patches on the shoulders and a commander's insignia on the chest, a partially unzipped anti-G vest showing the suit underneath. Black flight boots. A dark green flight helmet tucked under his left arm, aviator sunglasses pushed up on his forehead. A kneeboard strapped to his right thigh.
+
+Standing with a wide authoritative stance, chin slightly raised — the posture of a commanding officer. Color palette: olive green flight suit, dark patches and insignia, veteran military authority tones.
+
+---
+
+4.2. Núria Valls – Pilot de caça d'elit
+ID: c3_nuria_valls
+Rol: Pilot de combat d'elit, especialista en maniobres d'alta G.
+
+Descripció de personatge
+
+La Núria té 31 anys i és considerada una de les millors pilots de caça de la seva generació. Reflexos excepcionals, resultats brillants en simuladors i una resistència a forces G superior a la majoria dels seus companys masculins — en part gràcies a la seva complexió petita i lleugera (el cor ha de bombejar menys sang). Freda sota pressió, pren decisions ràpides i precises. Té 1.200 hores de vol i ha guanyat competicions de combat aeri simulat.
+
+Bloque de prompt específico
+
+Adult woman (31), small athletic build (notably petite, about 160cm), precise controlled posture radiating quiet confidence. Short dark brown hair in a tight regulation bun, sharp intense dark eyes, focused serious expression with a slight determined set of the jaw.
+
+Wearing a dark gray flight suit (fitted, not baggy — tailored for her small frame), a full anti-G suit with inflatable bladders visible at the legs, black flight boots. An orange-trimmed flight helmet held at her side with one hand, dark visor up. A squadron patch with a raptor emblem on her shoulder, a small name tag reading "VALLS" on her chest.
+
+Standing with a compact balanced posture, weight evenly distributed, free hand resting on her hip — the confident stillness of someone who knows exactly what she's capable of. Color palette: dark gray flight suit, orange helmet trim, elite pilot precision tones.
+
+---
+
+4.3. Marc Soldevila – Pilot jove prometedor
+ID: c3_marc_soldevila
+Rol: Pilot de combat júnior, recent graduat de l'acadèmia.
+
+Descripció de personatge
+
+En Marc té 26 anys i és el pilot més jove de la base. Acaba de sortir de l'acadèmia militar de vol amb les millors notes de la seva promoció en simulador. Reflexos excel·lents i una condició física de manual. Però amb només 400 hores de vol real, li falta l'experiència que no es pot aprendre en cap simulador: la presa de decisions sota pressió real, la fatiga acumulada de missions llargues, la gestió de l'estrès quan la vida està en joc.
+
+Bloque de prompt específico
+
+Young adult man (26), medium-tall athletic build, eager upright posture with a slight forward lean of enthusiasm. Short buzzed dark hair, clean-shaven youthful face, bright alert eyes, expression mixing confidence and slight nervousness — someone still proving himself.
+
+Wearing a clean olive green flight suit (noticeably newer and less worn than the veterans'), a basic anti-G vest, polished black flight boots. A white flight helmet with a dark visor, held against his chest with both hands — the careful grip of someone who still treats the equipment with reverence. A fresh academy graduation patch on his shoulder, a new name tag on his chest.
+
+Standing slightly stiff, shoulders squared — the textbook posture of a recent graduate. Color palette: clean olive green, white helmet, fresh equipment, young ambition tones.
+
+---
+
+4.4. Ivet Armengol – Pilot petita amb gran resistència G
+ID: c3_ivet_armengol
+Rol: Pilot de combat, especialista en maniobres d'intercepció.
+
+Descripció de personatge
+
+La Ivet té 28 anys i pesa 52 kg. La seva mida petita, que li va suposar dubtes al tribunal d'admissió, és en realitat un avantatge fisiològic: amb menys massa corporal, tolera forces G extremes molt millor que pilots més grans i pesants. Té els millors registres de la base en maniobres d'intercepció a alta velocitat. Reflexos ràpids, visió espacial excel·lent. Amb 800 hores de vol, té experiència sòlida sense ser veterana.
+
+Bloque de prompt específico
+
+Young adult woman (28), very small slim build (notably short, about 155cm, visibly lightweight), quick energetic posture. Straight black hair in a very short pixie cut, small sharp features, bright quick eyes, a determined half-smile — someone used to surprising people who underestimate her.
+
+Wearing an olive green flight suit (slightly too large despite being the smallest size, sleeves rolled up at the wrists), a full anti-G suit that fits well, lightweight black flight boots. A bright orange flight helmet on her head with visor up, oxygen mask dangling to one side. Her petite frame is emphasized by the proportionally large equipment.
+
+Standing with a light, ready posture — almost on the balls of her feet, hands relaxed at her sides. Color palette: olive green suit, orange helmet, small-frame-big-equipment contrast tones.
+
+---
+
+4.5. Jordi Casals – Instructor de vol
+ID: c3_jordi_casals
+Rol: Instructor de vol de combat, pilot sènior.
+
+Descripció de personatge
+
+En Jordi té 45 anys i fa deu anys que és instructor de vol de combat. Amb 4.500 hores de vol, és el pilot amb més experiència de tota la base. Coneix cada maniobra, cada protocol, cada escenari possible. Però porta anys sense volar en missions reals — la seva feina és ensenyar, no combatre. La seva tolerància a forces G s'ha reduït amb l'edat i la rutina, i els seus reflexos ja no són els d'un pilot de primera línia. La seva experiència tàctica, però, és insubstituïble.
+
+Bloque de prompt específico
+
+Older adult man (45), medium-stocky build going slightly soft around the middle, relaxed unhurried posture of someone who has nothing left to prove. Thinning salt-and-pepper hair cropped short, a neatly trimmed gray mustache, weathered face with deep laugh lines, warm but evaluating eyes — always assessing.
+
+Wearing a well-worn dark green flight suit faded from years of use, an old-style anti-G vest, comfortable broken-in flight boots. No helmet — instead, a baseball cap with the squadron logo pushed back on his head. A clipboard tucked under one arm (instructor's habit), aviator sunglasses on a cord around his neck. Multiple mission and instructor patches covering his shoulder and chest.
+
+Standing with a relaxed lean, weight on one leg, one hand in a pocket — the ease of decades of experience. Color palette: faded dark green suit, instructor patches, worn veteran comfort tones.
+
+---
+
+4.6. Marta Puigdomènech – Enginyera aeronàutica i pilot
+ID: c3_marta_puigdomenech
+Rol: Enginyera aeronàutica i pilot de proves.
+
+Descripció de personatge
+
+La Marta té 35 anys i és enginyera aeronàutica que va decidir fer-se pilot per entendre els avions des de dins. Coneix la mecànica de cada sistema de l'avió millor que qualsevol altre pilot. Aquesta comprensió tècnica li dona un avantatge únic: pot anticipar problemes mecànics i adaptar el seu pilotatge a les condicions de l'aparell. Bona pilot amb 1.500 hores de vol, resistència G correcta, reflexos per sobre de la mitjana. El seu punt feble: menys experiència en situacions de combat simulat pur.
+
+Bloque de prompt específico
+
+Adult woman (35), medium build, composed upright posture with precise movements suggesting engineering precision. Medium-length dark auburn hair tied in a low practical ponytail, rectangular glasses with a thin strap, sharp analytical eyes, thoughtful focused expression.
+
+Wearing a dark gray flight suit with an engineering corps patch alongside her pilot wings on the chest, a standard anti-G vest with a small multitool clipped to it. Black flight boots. A tablet in a ruggedized military case in one hand (technical manuals), a dark green flight helmet under the other arm. A pen clipped to her shoulder pocket.
+
+Standing with a straight precise posture, head slightly tilted — the analytical gaze of someone always diagnosing. Color palette: dark gray suit, engineering patches, technical precision tones.
+
+---
+
+4.7. Pau Estrada – Pilot acrobàtic reconvertit
+ID: c3_pau_estrada
+Rol: Pilot acrobàtic reconvertit a aviació militar.
+
+Descripció de personatge
+
+En Pau té 33 anys i va ser pilot acrobàtic professional durant vuit anys abans d'entrar a l'exèrcit de l'aire. Domina les maniobres extremes com ningú: tonneaux, ríngs, Immelmans. Amb una tolerància a forces G excepcional fruit d'anys d'entrenament acrobàtic, i uns reflexos extraordinaris. Amb 2.000 hores de vol (1.200 acrobàtiques, 800 militars). El seu punt feble: tendeix a ser agosarat, a vegades massa, i la disciplina militar li costa.
+
+Bloque de prompt específico
+
+Adult man (33), medium-lean athletic build with wiry strength, restless dynamic posture suggesting constant energy. Medium-length wavy brown hair slightly longer than regulation (pushing the limits), roguish grin, bright daring eyes, confident expression bordering on cocky.
+
+Wearing an olive green flight suit with the sleeves pushed up to the elbows (non-regulation style), a lightweight anti-G vest worn casually unzipped at the top. Black flight boots with red laces (a personal touch). An orange flight helmet with a custom painted flame design on one side, held loosely by the chin strap in one hand. An aerobatic team patch from his previous career visible on one shoulder alongside his military squadron patch.
+
+Standing with a casual swagger, weight shifted to one side, free hand hooked in a pocket — the body language of a showman. Color palette: olive green suit, orange flame helmet, rebellious flair tones.
+
+---
+
+4.8. Sílvia Navarro – Pilot de proves
+ID: c3_silvia_navarro
+Rol: Pilot de proves, especialista en avaluació d'aeronaus.
+
+Descripció de personatge
+
+La Sílvia té 38 anys i és pilot de proves: la seva feina és volar avions en condicions extremes per trobar-ne els límits. Freda com el gel sota pressió, amb una capacitat de mantenir la calma en situacions crítiques que és llegendària a la base. Resistència G molt bona, reflexos excel·lents, 2.500 hores de vol en tot tipus d'aparells. Pren decisions metòdiques i calculades, mai impulsives. El seu punt feble: pot ser massa prudent en situacions que requereixen agressivitat tàctica.
+
+Bloque de prompt específico
+
+Adult woman (38), medium-tall build with a lean athletic frame, absolutely still composed posture — no unnecessary movement. Straight shoulder-length dark hair pulled back tight under a navy blue flight cap, angular features, calm steady eyes that miss nothing, neutral controlled expression.
+
+Wearing a navy blue flight suit (test pilot division colors), a comprehensive anti-G suit with extra monitoring sensors attached (heart rate, pressure — test pilot gear), sturdy black flight boots. A white flight helmet with "TEST PILOT" stenciled on the back, held at her side. A small voice recorder clipped to her collar (for flight notes), a watch with multiple dials on her wrist.
+
+Standing in perfect military rest position, feet exactly shoulder-width, hands precisely placed — the disciplined stillness of someone trained to notice everything. Color palette: navy blue suit, white test helmet, monitoring equipment, composed precision tones.
+
+---
+
+4.9. Enric Bosch – Pilot corpulent
+ID: c3_enric_bosch
+Rol: Pilot de combat, especialista en missions de llarg abast.
+
+Descripció de personatge
+
+L'Enric té 29 anys, mesura 188 cm i pesa 95 kg. Potent, fort i amb una presència imponent. Bon pilot amb 900 hores de vol i uns reflexos correctes. Però la seva massa corporal és un desavantatge real: en maniobres d'alta G, el seu cos necessita més sang per mantenir el cervell oxigenat, cosa que el fa més vulnerable als blackouts. Les seves puntuacions en resistència G són les més baixes de la base. En missions de llarg abast sense maniobres extremes és excel·lent, però per a combat aeri pur no és la millor opció.
+
+Bloque de prompt específico
+
+Young adult man (29), tall large muscular build (notably big, about 188cm), imposing powerful posture. Short blond hair in a military buzz cut, broad square face, strong neck, confident steady expression.
+
+Wearing an olive green flight suit that stretches tight across his broad chest and shoulders (the largest size available, still snug), a reinforced anti-G suit with extra leg pressure bladders. Heavy-duty black flight boots. A dark green flight helmet that he holds in one large hand — the helmet looks proportionally small against his big frame. Dog tags visible at his collar.
+
+Standing with a solid planted stance, arms slightly away from his body due to his bulk — the physical presence of someone who fills a cockpit completely. Color palette: olive green stretched suit, oversized frame, physical power contrast tones.
+
+---
+
+4.10. Lina Chen – Pilot d'intercanvi
+ID: c3_lina_chen
+Rol: Pilot de combat d'intercanvi, forces aèries internacionals.
+
+Descripció de personatge
+
+La Lina té 27 anys i és pilot de combat en un programa d'intercanvi internacional. Formada en una de les acadèmies de vol més exigents del món, amb una disciplina de ferro i uns resultats en simulador excepcionals. Petita i lleugera (155 cm, 48 kg), amb una resistència a forces G fora de sèrie. Reflexos ultraràpids, visió espacial superior. Amb 700 hores de vol, és relativament jove, però la qualitat del seu entrenament compensa. Menys familiaritzada amb els procediments locals i les comunicacions en català/castellà.
+
+Bloque de prompt específico
+
+Young adult woman (27), very small slim build (notably petite, about 155cm), poised disciplined posture with perfect military bearing despite her small stature. Straight black hair in a tight regulation bun, delicate features, sharp focused dark eyes, composed serious expression.
+
+Wearing a dark gray flight suit with international exchange program patches on both shoulders (different flag patches visible), a high-spec anti-G suit (newer technology than the local equipment), slim black flight boots. A sleek dark-visored flight helmet held formally at her side. A small translation card visible in her shoulder pocket. Minimalist gear — nothing unnecessary.
+
+Standing at perfect attention, every detail immaculate — the discipline of elite international training. Color palette: dark gray suit, international patches, sleek modern equipment, disciplined precision tones.
+
+---
+
+4.11. Oriol Prats – Pilot de drons reconvertit
+ID: c3_oriol_prats
+Rol: Antic operador de drons, pilot de combat recent.
+
+Descripció de personatge
+
+L'Oriol té 30 anys i va ser operador de drons militars durant sis anys abans de reconvertir-se a pilot de combat fa dos anys. Té una visió espacial extraordinària i una capacitat de processar informació de múltiples pantalles simultàniament que supera la de qualsevol pilot tradicional. Però amb només 300 hores de vol tripulat, la seva experiència dins d'una cabina real és limitada. Les forces G el colpegen dur perquè el seu cos no hi està acostumat, i la diferència entre pilotar des d'una pantalla i sentir la vibració d'un avió encara el desestabilitza.
+
+Bloque de prompt específico
+
+Young adult man (30), medium-slim build, slightly awkward posture of someone not fully comfortable in flight gear — more natural behind a screen. Short neat brown hair, pale complexion (years indoors), intelligent quick eyes behind thin-framed glasses, focused but slightly uncertain expression.
+
+Wearing an olive green flight suit that still looks relatively new and stiff (not yet broken in), a standard anti-G vest. Black flight boots that look barely scuffed. A flight helmet with an extra heads-up display attachment (his drone operator background showing). A smartwatch with multiple data feeds on his wrist, a small drone operator qualification badge next to his new pilot wings on his chest.
+
+Standing with a slightly self-conscious posture, one hand adjusting his glasses — the body language of someone transitioning between worlds. Color palette: olive green new suit, tech accessories, drone-to-cockpit transition tones.
+
+---
+
+4.12. Gemma Ballester – Pilot veterana amb lesió
+ID: c3_gemma_ballester
+Rol: Pilot de combat veterana, recuperada d'una lesió.
+
+Descripció de personatge
+
+La Gemma té 40 anys i és una de les pilots més respectades de la base, amb 3.200 hores de vol i participació en missions reals. Fa dos anys va patir una lesió a la columna vertebral durant una ejjecció d'emergència. S'ha recuperat i ha estat readmesa al servei actiu, però la lesió li limita la tolerància a forces G prolongades — els metges l'han autoritzat amb restriccions. La seva experiència tàctica i capacitat de decisió sota pressió segueixen sent extraordinàries, però el seu cos ja no aguanta el que aguantava.
+
+Bloque de prompt específico
+
+Adult woman (40), medium build showing years of physical training, straight proud posture with a barely noticeable stiffness in how she holds her back — the trace of an old injury. Short silver-streaked dark hair in a practical cut, strong weathered face, deep calm eyes with the weight of experience, composed expression with a hint of determination.
+
+Wearing a dark olive flight suit with extensive mission and commendation patches covering both shoulders (the most decorated pilot in the room), a modified anti-G suit with extra lumbar support (visible as a thicker section at the lower back). Well-worn black flight boots. A dark green flight helmet with multiple mission tally marks painted on one side, held carefully at her hip. A medical clearance badge clipped to her chest pocket alongside her name tag.
+
+Standing with a controlled, careful posture — upright and dignified but clearly managing discomfort. One hand resting lightly on her lower back. Color palette: dark olive suit, extensive patches, veteran dignity with physical limitation tones.

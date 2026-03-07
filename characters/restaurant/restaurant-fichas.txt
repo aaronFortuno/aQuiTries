@@ -1,0 +1,518 @@
+4. Fichas de personatge (14 candidats per a cuiner/a d'alta cuina)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c9_).
+Rol: perfil professional, formació i experiència culinària.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: El restaurant "Aura", situat al barri de Salamanca de Madrid,
+té 2 estrelles Michelin i busca 3 nous cuiners/es per reforçar la brigada de cuina.
+El cap de cuina, David Castillo, busca perfils tècnicament excel·lents, creatius,
+capaços de treballar sota pressió extrema i d'adaptar-se a una cuina d'autor
+contemporània amb arrels espanyoles. Hi ha 14 candidats de 10 nacionalitats.
+
+Context pedagògic: L'alta gastronomia és un dels sectors més desiguals del món:
+
+- Gènere: Les dones cuinen a casa a tot el planeta. Però als restaurants amb estrelles
+  Michelin, només el 6% dels caps de cuina són dones. A Espanya, les dones representen
+  el 55% dels estudiants d'escola de cuina, però menys del 10% dels sous-chefs de
+  restaurants amb estrella. La cuina professional no discrimina per capacitat — discrimina
+  per cultura: horaris brutals (14-16h), assetjament, jerarquia militar, masculinitat
+  tòxica normalitzada.
+
+- Raça i origen: La gastronomia Michelin és un sistema europeu que defineix "excel·lència
+  culinària" segons paràmetres francesos. Un xef nigerià pot ser el millor de la seva
+  generació, però si la seva cuina no és europea, no compta com a "alta cuina". El
+  sistema valora la tècnica francesa per sobre de qualsevol altra tradició. Un xef
+  pakistanès expert en espècies té un coneixement que cap escola de París ensenya — però
+  aquest coneixement és catalogat com a "cuina ètnica", no com a "gastronomia".
+
+- Formació: Le Cordon Bleu o escola de cuina de Lagos? Noma o tapería de barri? El
+  sistema d'estrelles genera una jerarquia on la formació europea compta més que
+  qualsevol altra, encara que el talent sigui equivalent o superior.
+
+La trampa: els jugadors probablement triaran el francès, l'espanyol amb experiència
+en restaurants amb estrella, i potser el suec. Descartaran el nigerià ("cuina
+africana no és alta cuina"), el pakistanès ("cuina ètnica") i les dones ("aguantarà
+la pressió d'una cuina d'estrella?"). La pregunta: qui ha definit què és
+"excel·lència culinària" i per què coincideix sempre amb un home blanc europeu?
+
+---
+
+CANDIDATS EUROPEUS / FORMACIÓ CLÀSSICA (5)
+
+---
+
+4.1. Antoine Dufour – Xef, francès
+ID: c9_antoine_dufour
+Rol: Xef, 38 anys. Le Cordon Bleu, 15 anys d'experiència en restaurants amb estrella.
+
+Descripció de personatge
+
+L'Antoine té 38 anys i és el candidat "perfecte": format a Le Cordon Bleu de París,
+ha treballat com a chef de partie al restaurant de Guy Savoy (3 estrelles), sous-chef
+a Le Cinq (3 estrelles) i cap de cuina d'un restaurant amb 1 estrella a Lió durant
+3 anys. Tècnica francesa impecable: salses mare, talls clàssics, pastisseria
+arquitectònica. Coneix el sistema d'estrelles per dins.
+
+Alt, prim, cabell fosc pentinat cap enrere, nas llarg, expressió d'intel·ligència
+freda — l'aspecte d'algú que sap que és bo i no necessita que li ho diguin. Parla
+francès i anglès (el castellà l'està aprenent). Porta el seu propi joc de ganivets
+japonesos en un estoig de cuir.
+
+El problema de l'Antoine: és brillant però insofrible. A les cuines on ha treballat
+l'anomenen "le prince" — no per respecte, sinó per la seva actitud. Tres sous-chefs
+han dimitit treballant amb ell en els últims 5 anys. El seu estil és autoritari,
+despectiu amb qui considera inferior, i no accepta idees que no surtin d'ell. En una
+cuina amb estrella, on la pressió ja és extrema, la seva personalitat pot ser tòxica.
+Però la seva tècnica és la millor del grup. El dilema: contractes el talent encara
+que enverini l'equip?
+
+---
+
+4.2. Marcos Iglesias – Xef, espanyol
+ID: c9_marcos_iglesias
+Rol: Xef, 35 anys. Basque Culinary Center, sous-chef a San Sebastián.
+
+Descripció de personatge
+
+En Marcos té 35 anys i és de Vitòria. Format al Basque Culinary Center (la millor
+escola de cuina d'Espanya), ha treballat 10 anys a San Sebastián: etapes a Mugaritz
+i Arzak, i 4 anys com a sous-chef a un restaurant amb 1 estrella Michelin. Tècnica
+sòlida, repertori ampli, coneix la cuina basca d'avantguarda com ningú.
+
+Complexió atlètica, cabell castany curt, barba retallada, somriure obert — l'aspecte
+d'un xef competent i agradable. Parla castellà, euskera bàsic, anglès. És el
+candidat "segur": farà bé qualsevol cosa que li demanis, no generarà conflicte, i
+mantindrà el nivell. No és un geni creatiu — és un executor excel·lent.
+
+El Marcos és la selecció conservadora: fiable, format al sistema, sense risc. Però
+en un restaurant de 2 estrelles que busca la tercera, potser cal algú que aporti
+alguna cosa que en Marcos no té: una mirada diferent, una tradició culinària que
+obri noves portes. En Marcos és molt bo en el que la cuina ja fa — la pregunta és
+si necessiten algú molt bo en el que la cuina encara no fa.
+
+---
+
+4.3. Pablo Navarro – Xef veterà, espanyol
+ID: c9_pablo_navarro
+Rol: Xef veterà, 45 anys. 22 anys d'experiència. Etapa a elBulli.
+
+Descripció de personatge
+
+En Pablo té 45 anys i porta 22 anys en cuines professionals. Va treballar 3 anys a
+elBulli amb Ferran Adrià (any 2003-2006 — l'època daurada de la cuina molecular
+espanyola). Després va ser cap de cuina de dos restaurants amb 1 estrella a Barcelona
+i Madrid. Coneix la cuina molecular, l'esferificació, les escumes, la deconstrucció
+— però tot això ja té 20 anys.
+
+Home robust, calb, barba canosa, mans enormes, expressió de cansament competent —
+la cara d'un veterà de cuina que ha passat 22 anys a 50°C davant dels fogons. Parla
+castellà i anglès. Porta les cicatrius (literalment: cremades a les mans, un tall
+antic al polze esquerre) d'una vida en cuina.
+
+El dilema del Pablo: és excel·lent, però pertany a una generació anterior. La seva
+cuina és 2006, no 2026. El món de l'alta gastronomia es mou ràpid, i els conceptes
+que ell va aprendre d'Adrià ara els ensenyen a primer de carrera. Té experiència i
+templança que els joves no tenen — però si "Aura" busca innovació, en Pablo no és
+el futur. Si busca solidesa, és impagable. Depèn del que necessitin.
+
+---
+
+4.4. Chiara Bianchi – Xef, italiana
+ID: c9_chiara_bianchi
+Rol: Xef, 31 anys. Formada a Bolonya i a Osteria Francescana.
+
+Descripció de personatge
+
+La Chiara té 31 anys i és de Bolonya. Formada a ALMA (escola de cuina italiana de
+referència), va fer una etapa de 2 anys a Osteria Francescana amb Massimo Bottura
+(3 estrelles, millor restaurant del món 2016 i 2018). Ha treballat com a chef de
+partie en un restaurant amb 1 estrella a Milà.
+
+Petita, prima, cabell fosc curt, expressió concentrada i intensa — la presència
+d'algú que ocupa poc espai però genera molta energia. Parla italià, anglès, i
+castellà bàsic. La seva especialitat és la combinació de tradició italiana
+(pasta fresca, brases, producte) amb la creativitat apresa de Bottura (joc
+conceptual, humor, provocació).
+
+La Chiara és una de les poques dones del grup amb experiència real en cuina amb
+estrelles. Sap el que significa ser dona en una cuina de brigada: ha suportat
+comentaris, ha treballat el doble per demostrar la meitat, i ha après a no mostrar
+debilitat. El seu estil és precís, creatiu, i silenciosament rebel — els seus
+plats tenen una intel·ligència que no crida però que es queda. Posició: top 4-6.
+
+---
+
+4.5. Erik Lindqvist – Xef, suec
+ID: c9_erik_lindqvist
+Rol: Xef, 28 anys. Format a Noma, cuina nòrdica nova.
+
+Descripció de personatge
+
+L'Erik té 28 anys i és d'Estocolm. Ha treballat 2 anys com a stagier a Noma
+(Copenhaguen — 3 estrelles, millor restaurant del món múltiples vegades) i 1 any
+a Fäviken (Suècia, cuina extrema de producte salvatge). Especialista en fermentació,
+conserves, ingredients silvestres, tècniques ancestrals reinventades.
+
+Alt, prim, barba rossa curta, aspecte d'hipster nòrdic — com si fes cuina i a la
+vegada muntanya. Parla suec, anglès, i danès. La seva cuina és radical: fongs
+fermentats, sàlvia silvestre, insectes comestibles, vinagres d'un any de maduració.
+A Noma va aprendre que la cuina no ha de ser francesa per ser excel·lent — pot ser
+de qualsevol tradició si el respecte pel producte és absolut.
+
+L'Erik aporta una cosa que cap altre candidat europeu té: una visió culinària que
+trenca amb la tradició francesa. Però la seva joventut és un risc: 2 anys de
+stagier no és el mateix que 15 anys de sous-chef. A Noma era un aprenent; a "Aura"
+hauria de produir al nivell d'un professional. Té la creativitat però li falta el
+rodatge. I la seva cuina nòrdica pot no encaixar amb un restaurant d'arrels
+espanyoles. Posició: 5-8, depenent del que busquin.
+
+---
+
+CANDIDATS INTERNACIONALS / FORMACIÓ NO EUROPEA (5)
+
+---
+
+4.6. Chukwuemeka "Emeka" Okafor – Xef, nigerià
+ID: c9_emeka_okafor
+Rol: Xef, 33 anys. Primer de la seva promoció a l'escola de cuina de Lagos. Propietari
+d'un restaurant d'èxit a Lagos.
+
+Descripció de personatge
+
+L'Emeka té 33 anys i és de Lagos (Nigèria). Primer de la seva promoció a la Culinary
+Academy of Lagos. Després de graduar-se, va obrir el seu propi restaurant a Victoria
+Island (el barri financer de Lagos), que en 4 anys s'ha convertit en un dels restaurants
+més prestigiosos de l'Àfrica Occidental. Cuina afro-fusió: tècniques franceses
+aplicades a ingredients nigerians (ñam, plàtan, suya, ogbono, piment de cocodril).
+Ha estat portada de Forbes Africa i Condé Nast Traveller l'ha inclòs a la llista
+de "50 restaurants africans imprescindibles".
+
+Home corpulent, pell molt fosca, somriure ample i confiat, cabell curt — la presència
+física d'algú que dirigeix una cuina de 20 persones amb carisma i veu potent. Parla
+anglès (natiu), ioruba, i francès bàsic (de l'escola de cuina). Està aprenent
+castellà. El seu coneixement d'espècies, tècniques de fermentació, i coccions
+lentes és enciclopèdic — la cuina d'Àfrica Occidental té una complexitat tècnica
+que el món occidental ignora.
+
+El dilema de l'Emeka és el dilema de tot l'escenari: és un xef excel·lent — primer
+de promoció, restaurador d'èxit, creatiu, líder natural. Però la seva cuina "no és
+europea". A Lagos és una estrella; a Madrid, és "cuina ètnica". Si l'Emeka fos
+francès i fes exactament el mateix amb ingredients francesos, seria candidat a 3
+estrelles. Però és nigerià, i el sistema Michelin no sap on posar-lo. Posició
+objectiva: top 2-3. Posició percebuda: "interessant però no encaixa".
+
+---
+
+4.7. Hassan Malik – Xef, pakistanès
+ID: c9_hassan_malik
+Rol: Xef, 36 anys. Format a Lahore i Le Cordon Bleu Londres. 1 estrella Michelin
+a Londres.
+
+Descripció de personatge
+
+En Hassan té 36 anys i és de Lahore (Pakistan). Va estudiar cuina a la National
+Institute of Food Science de Lahore i després va fer Le Cordon Bleu a Londres
+(beca completa — era tan bo que li van pagar els estudis). Ha treballat 8 anys a
+Londres: 3 anys a Dishoom (el millor restaurant indi de Londres), i 5 anys com a
+sous-chef a un restaurant indo-britànic amb 1 estrella Michelin on va ser
+responsable de la carta de plats principals.
+
+Home prim, barba negra retallada, ulleres rodones, expressió intel·ligent i serena
+— l'aspecte d'un científic més que d'un cuiner. Parla urdú, anglès (perfecte — 10
+anys a Londres), panjabi, i castellà funcional (estudia cada nit). La seva
+especialitat és la química de les espècies: sap exactament per què el cardamom
+s'ha de torrar 47 segons i no 48, com el comí i la cúrcuma reaccionen amb greixos
+a temperatures específiques, i com les tècniques de tandoor es poden aplicar a
+productes europeus.
+
+En Hassan té un avantatge que cap altre candidat té: un coneixement de les espècies
+que a Europa és gairebé inexistent. En un moment en què l'alta gastronomia busca
+nous sabors i noves tècniques, el que en Hassan sap fer no s'ensenya a cap escola
+francesa. Però el biaix és doble: "cuina pakistanesa" evoca kebabs i curris de
+carrer, no estrelles Michelin. I en Hassan és un home bru amb barba en un món on
+els xefs que surten a la tele són blancs. Posició objectiva: top 2-4.
+
+---
+
+4.8. Valentina Reyes – Xef, xilena
+ID: c9_valentina_reyes
+Rol: Xef, 34 anys. Formada a Santiago, etapa a Boragó (top 30 mundial).
+
+Descripció de personatge
+
+La Valentina té 34 anys i és de Santiago de Xile. Formada a INACAP (escola de
+cuina xilena), va fer una etapa de 3 anys a Boragó (restaurant de Rodolfo Guzmán,
+top 26 del món el 2019, referent de cuina de terroir llatinoamericana). Ha treballat
+com a sous-chef a un restaurant d'alta cuina a Lima (capital gastronòmica
+llatinoamericana) i ha fet un pop-up a Nova York amb excel·lents crítiques.
+
+Dona de mida mitjana, cabell fosc llarg recollit en un monyo funcional, pell oliva,
+expressió determinada i lleugerament desafiant — la cara d'una dona que ha après
+que en una cuina professional, si no crida ningú t'escolta. Parla castellà (natiu),
+anglès, i portuguès bàsic. La seva cuina és de producte salvatge: ingredients
+endèmics dels Andes i la Patagònia (merquén, cochayuyo, calafate), tècniques
+indígenes mapuche (coccions en terra, fermentats ancestrals), presentació contemporània.
+
+La Valentina aporta el que "Aura" no té: una mirada llatinoamericana sobre el
+producte ibèric. La cuina de terroir xilena i l'espanyola comparteixen clima,
+productes (peix, piment, cereals) i història colonial — Valentina veu connexions
+que un xef europeu no veu. Però és dona en un món d'homes, llatinoamericana en
+un sistema europeu, i la seva experiència (Boragó, Lima, pop-up) no encaixa en
+la jerarquia clàssica de "restaurants amb estrella francesa". Posició: top 3-5.
+
+---
+
+4.9. Naledi Dlamini – Xef, sud-africana
+ID: c9_naledi_dlamini
+Rol: Xef, 30 anys. Cape Town, formada a Silwood Kitchen. The Test Kitchen.
+
+Descripció de personatge
+
+La Naledi té 30 anys i és de Cape Town (Sud-àfrica). Formada a Silwood Kitchen
+(escola de cuina de referència sud-africana), va treballar 3 anys a The Test Kitchen
+(Cape Town, considerat el millor restaurant d'Àfrica durant 5 anys consecutius).
+Ha fet etapes a Londres i a Copenhaguen. Cuina de fusió afro-europea: tècniques
+franceses aplicades a ingredients sud-africans (biltong, rooibos, bobotie
+deconstruït, espècies del Cap Malai).
+
+Dona jove, pell fosca, cabell natural curt (afro), somriure lluminós, ulls
+brillants — la presència d'algú que entra a una habitació i la il·lumina. Parla
+anglès (natiu), zulu bàsic, afrikaans bàsic, i castellà elemental (l'està
+aprenent). La seva energia és contagiosa: a The Test Kitchen la coneixien com "the
+spark" perquè la seva creativitat encenia la de tots els altres.
+
+La Naledi és jove i la seva experiència és menys extensa que altres candidats, però
+el seu potencial creatiu és enorme. El seu problema no és el talent — és el sistema:
+a Cape Town era una estrella, a Madrid és "la negra que fa cuina africana". El racisme
+en la gastronomia europea és subtil però real: les cuines africanes no apareixen a
+les guies Michelin, els xefs africans no surten a les portades, i la frase "cuina
+d'Àfrica" evoca plats de carrer, no estrelles. La Naledi ha de demostrar el triple
+que un xef blanc per la meitat del reconeixement. Posició: 4-7.
+
+---
+
+4.10. Yuki Tanaka – Xef, japonès
+ID: c9_yuki_tanaka
+Rol: Xef, 37 anys. Format en kaiseki a Kyoto, 14 anys d'experiència.
+
+Descripció de personatge
+
+En Yuki té 37 anys i és de Kyoto (Japó). Format durant 6 anys com a aprenent de
+kaiseki (la tradició culinària japonesa d'alta cuina — la més rigorosa del món)
+en un ryōkan amb 3 estrelles Michelin. Ha treballat 8 anys en restaurants d'alta
+cuina a Kyoto i Tòquio. Zero formació europea. No ha treballat mai fora del Japó.
+Aquesta és la seva primera experiència internacional.
+
+Home petit, prim, cabell negre curt, expressió neutra i concentrada — la calma
+absoluta d'algú entrenat en una disciplina on tallar un nap en 64 talls iguals
+és un exercici bàsic de primer any. Parla japonès, anglès limitat (funcional per
+a instruccions de cuina), i zero castellà. Silenciós, precís, metòdic — no parla
+si no cal, no es mou si no cal, no malbarata cap gest.
+
+En Yuki és el candidat que genera el debat sobre què és "tècnica culinària". La
+seva precisió amb el ganivet és superior a qualsevol altre candidat — 14 anys de
+kaiseki produeixen un control del tall que Le Cordon Bleu no ensenya. La seva
+comprensió de l'umami, les textures, i la presentació és d'un nivell que pocs
+cuiners europeus assoleixen. Però no fa cuina europea, no parla l'idioma, i la
+seva experiència no encaixa en cap casella del sistema. El biaix: la cuina
+japonesa és l'única no-europea que el sistema Michelin respecta — però en Yuki
+no fa "cuina japonesa per a europeus". Fa cuina japonesa real, i això no és el
+que la gent espera. Posició: 3-6, depenent de l'obertura mental del cap de cuina.
+
+---
+
+CANDIDATS ATÍPICS / FORMACIÓ NO CONVENCIONAL (4)
+
+---
+
+4.11. Carmen Delgado – Cuinera autodidacta, espanyola
+ID: c9_carmen_delgado
+Rol: Cuinera sense formació reglada, 42 anys. Propietària d'una taperia a Sevilla.
+
+Descripció de personatge
+
+La Carmen té 42 anys i és de Triana (Sevilla). No ha anat mai a cap escola de cuina.
+Va començar a cuinar als 14 anys a la cuina del bar del seu pare. Als 22 va obrir la
+seva pròpia taperia, "Casa Carmen", que en 20 anys s'ha convertit en una institució
+del barri: cua cada dia, recomanada per totes les guies, un local de 30 seients on
+es cuina el millor morrillo de tonyina, el millor salmorejo, i les millors croquetes
+d'Andalusia.
+
+Dona corpulenta, cabell negre recollit amb un mocador, braços forts, expressió
+d'autoritat natural — la presència d'una dona que porta 20 anys manant a la seva
+cuina i no tolera ximpleries. Parla castellà (andalús) i quatre paraules d'anglès.
+No té titulació, no ha treballat mai en un restaurant amb estrella, no sap què és
+una esferificació. Sap què és un producte perfecte, un punt de cocció exacte, i
+un sabor que fa plorar d'emoció.
+
+La Carmen és el candidat que qüestiona tot el sistema: què fa que una cuina sigui
+"d'alta categoria"? Les seves croquetes són tècnicament perfectes — la beixamel
+té un punt que cap alumne de Le Cordon Bleu aconsegueix al primer intent. Però la
+seva cuina és "de bar", no "de restaurant amb estrella". La diferència no és de
+qualitat — és d'estètica, presentació, i classe social. Si les croquetes de la
+Carmen es posessin en un plat blanc amb una reducció i un brot de microherbes,
+serien dignes d'estrella. En un plat de terracota amb una cervesa, són "tapes".
+Posició: inclassificable.
+
+---
+
+4.12. Karim Benali – Xef jove, marroquí-espanyol
+ID: c9_karim_benali
+Rol: Xef, 27 anys. Nascut a Madrid, format al Basque Culinary Center.
+
+Descripció de personatge
+
+En Karim té 27 anys. Fill de pares marroquins, nascut i criat a Lavapiés (Madrid).
+Format al Basque Culinary Center (graduat amb honors). Ha treballat 3 anys en
+restaurants de Madrid: etapes a DiverXO (3 estrelles, David Muñoz) i sous-chef
+a un restaurant amb 1 estrella al centre de Madrid. La seva cuina fusiona la
+tradició culinària marroquina de la seva mare (tajines, harira, pastela) amb la
+tècnica d'avantguarda apresa a San Sebastián i DiverXO.
+
+Jove, prim, barba curta, somriure nerviós però decidit — l'aspecte d'algú que sap
+que és bo però no sap si el sistema li ho permetrà demostrar. Parla castellà
+(natiu — madrileny de barri), àrab marroquí (de casa), anglès, i francès bàsic.
+La seva cuina és explosiva: espècies marroquines amb tècniques de Muñoz, cordero
+amb ras el hanout deconstruït, cuscús carbonara.
+
+En Karim és el candidat que força la pregunta sobre identitat: és espanyol (nascut
+a Madrid), però el seu cognom és Benali i la seva cuina olora a Marroc. En un
+sistema que valora el pedigrí (escola, restaurants amb estrella, cognoms del sector),
+en Karim ho té tot — excepte el privilegi. Si es digués Karim García i fes la
+mateixa cuina, la narrativa seria "fusió audaç". Amb el cognom Benali, la narrativa
+és "cuina ètnica amb tècnica". La mateixa cuina, diferent relat. Posició: top 4-6.
+
+---
+
+4.13. Lucía Herrera – Pastissera, espanyola
+ID: c9_lucia_herrera
+Rol: Pastissera, 29 anys. Le Cordon Bleu Madrid, especialista en pastisseria d'autor.
+
+Descripció de personatge
+
+La Lucía té 29 anys i és de Valladolid. Formada a Le Cordon Bleu Madrid
+(especialitat en pastisseria). Ha treballat 5 anys com a cap de pastisseria en un
+restaurant amb 2 estrelles a Madrid — el mateix restaurant que "Aura" considera
+competència. Coneix els estàndards d'una cuina de 2 estrelles per dins.
+
+Dona jove, cabell castany recollit en una trena, expressió precisa i serena, mans
+primes i àgils — les mans d'algú que munta delicadeses de 3 centímetres amb
+pinces. Parla castellà i anglès. La seva especialitat és la pastisseria d'autor:
+postres que semblen escultures, combinacions de sabors que desafien la lògica
+(olive oil ice cream, tomato consommé jelly, saffron meringue). Tècnicament
+impecable.
+
+El dilema de la Lucía: és excel·lent, però "només" en pastisseria. En una cuina
+de 2 estrelles, la partida de postres és una de moltes — la brigada necessita gent
+que pugui treballar en carn, peix, salses, guarnicions. La Lucía no ha treballat
+mai fora de pastisseria. Si la contracten, cobriran una partida magníficament però
+no les altres. A més, la pastisseria és la secció de la cuina professional on hi
+ha més dones — el "gueto rosa" de la gastronomia. La Lucía és brillant, però la
+seva brillantor queda confinada a l'únic espai on el sistema "permet" que les dones
+destaquin. Posició: 5-7 si necessiten pastissera, 10+ si no.
+
+---
+
+4.14. Adrián Vega – Cuiner influencer, espanyol
+ID: c9_adrian_vega
+Rol: Cuiner i creador de contingut, 33 anys. 2,2 milions de seguidors. Sense
+experiència en cuina professional d'alta cuina.
+
+Descripció de personatge
+
+L'Adrián té 33 anys i és de València. Ha estudiat cuina a l'Escola d'Hostaleria de
+València (formació bàsica, 2 anys). Ha treballat 3 anys en restaurants normals
+(cadenes, hotels) abans de convertir-se en creador de contingut gastronòmic. Té
+2,2 milions de seguidors a Instagram i YouTube. Els seus vídeos de receptes
+espectaculars (fum, foc, presentacions cinematogràfiques) tenen milions de
+visualitzacions.
+
+Home atractiu, barba cuidada, cabell pentinat amb gel, somriure de càmera — l'aspecte
+d'algú que ha estat dissenyat per funcionar en pantalla. Parla castellà i anglès.
+La seva cuina és visual i espectacular: plats que semblen increïbles en foto però
+que a vegades no aguanten la prova del gust. Sap emplaçar com un artista, però la
+seva tècnica de base (salses, fons, talls) és mediocre comparada amb qualsevol
+cuiner amb experiència de cuina amb estrella.
+
+L'Adrián és el candidat trampa obvi: molt de soroll, poca substància. En una era
+on la gastronomia és tant espectacle com aliment, la seva presència força una
+pregunta: val més un cuiner que fa plats perfectes que ningú veu, o un que fa plats
+vistosos que tothom comparteix? En un restaurant de 2 estrelles, la resposta
+sembla clara — però "Aura" també necessita visibilitat, clients, i presència a
+xarxes. L'Adrián és un mal cuiner d'estrella. Però pot ser un excel·lent
+instrument de màrqueting. Posició tècnica: 12-14. Posició mediàtica: 1.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Per a un restaurant amb 2 estrelles Michelin que busca reforçar la brigada,
+els factors rellevants són:
+(1) Excel·lència tècnica culinària
+(2) Creativitat i capacitat d'innovar
+(3) Experiència en cuina d'alta pressió (servei amb estrella)
+(4) Capacitat de treballar en equip sota pressió extrema
+(5) Aportació de noves perspectives al restaurant
+
+Rànquing per formació i experiència en cuina amb estrelles (visió convencional):
+
+1. Antoine Dufour (França) — Le Cordon Bleu, 3 estrelles, 15 anys
+2. Pablo Navarro (Espanya) — elBulli, 22 anys, 2 restaurants amb estrella
+3. Marcos Iglesias (Espanya) — BCC, 10 anys, sous-chef 1 estrella
+4. Hassan Malik (Pakistan/Londres) — Le Cordon Bleu, sous-chef 1 estrella
+5. Lucía Herrera (Espanya) — Le Cordon Bleu, cap de pastisseria 2 estrelles
+6. Chiara Bianchi (Itàlia) — ALMA, Osteria Francescana, 1 estrella
+7. Erik Lindqvist (Suècia) — Noma, 2 anys stagier
+8. Valentina Reyes (Xile) — Boragó (top 30), sous-chef alta cuina Lima
+9. Karim Benali (Marroc-Espanya) — BCC, DiverXO, sous-chef 1 estrella
+10. Naledi Dlamini (Sud-àfrica) — The Test Kitchen, etapes internacionals
+11. Emeka Okafor (Nigèria) — Escola de Lagos, restaurant propi d'èxit
+12. Yuki Tanaka (Japó) — 14 anys kaiseki 3 estrelles (no europees)
+13. Carmen Delgado (Espanya) — 20 anys de bar, zero formació formal
+14. Adrián Vega (Espanya) — 2 anys formació bàsica, cuina de xarxes
+
+Rànquing per potencial real d'aportar valor a "Aura":
+
+1. Hassan Malik — tècnica europea + coneixement d'espècies únic, 1 estrella
+2. Emeka Okafor — primer de promoció, restaurador d'èxit, visió radicalment nova
+3. Valentina Reyes — terroir llatinoamericà, Boragó, connexió amb producte ibèric
+4. Chiara Bianchi — creativitat italiana, experiència Bottura, dona resilient
+5. Marcos Iglesias — solidesa, fiabilitat, sistema basc
+6. Karim Benali — fusió Marroc-Espanya, DiverXO, jove i explosiu
+7. Naledi Dlamini — potencial creatiu enorme, fusió afro-europea
+8. Erik Lindqvist — fermentació, visió nòrdica, jove però limitat
+9. Yuki Tanaka — precisió superior, kaiseki, barrera idiomàtica real
+10. Antoine Dufour — brillant però tòxic per l'equip
+11. Pablo Navarro — sòlid però datat
+12. Lucía Herrera — excel·lent en pastisseria, limitada fora
+13. Carmen Delgado — genial però fora de context
+14. Adrián Vega — irrellevant tècnicament
+
+Millor equip de 3 per innovar i créixer:
+Hassan Malik + Emeka Okafor + Valentina Reyes (o Chiara Bianchi)
+→ 0 homes blancs europeus. 2 de 3 candidats que els jugadors probablement descartaran.
+
+Equip conservador (el que la majoria triarà):
+Antoine Dufour + Marcos Iglesias + Pablo Navarro (o Erik Lindqvist)
+→ 3 homes europeus amb formació clàssica. Cap innovació real, cap veu nova.
+
+Preguntes de debat:
+
+1. "Has triat algú que no fos europeu? Per què sí o per què no? Què és 'alta cuina'
+   i qui ho decideix?"
+2. "L'Emeka és primer de promoció, té un restaurant d'èxit, fa una cuina creativa
+   i original. Per què la seva cuina 'no compta' com a alta gastronomia?"
+3. "En Hassan sap més d'espècies que qualsevol graduat de Le Cordon Bleu. Per què
+   el coneixement culinari pakistanès val menys que el francès?"
+4. "La Valentina ha treballat a Boragó (top 26 mundial). Per què sentim que no
+   és 'el mateix' que treballar a un restaurant francès amb estrella?"
+5. "Les dones són el 55% dels estudiants de cuina i el 6% dels caps de cuina amb
+   estrella. On es perden pel camí? Per què?"
+6. "La Carmen fa les millors croquetes d'Andalusia. Per què unes croquetes no poden
+   tenir estrella Michelin? Qui ho ha decidit?"
+7. "L'Adrián té 2 milions de seguidors. Això importa en una cuina d'estrella? En
+   un restaurant que necessita clients, és irrellevant?"
+8. "Si fossis el cap de cuina d'Aura, triaries gent que faci el que ja fas (segur)
+   o gent que faci el que encara no fas (risc)?"

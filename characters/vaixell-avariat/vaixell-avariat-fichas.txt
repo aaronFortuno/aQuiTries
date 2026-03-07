@@ -1,0 +1,249 @@
+4. Fichas de personatge (13 persones en una sortida en vaixell)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c4_).
+Rol: ocupació o perfil habitual (no professionals del mar).
+Descripció de personatge: text narratiu per al joc.
+Bloque de prompt específico: para inyectar en [PERSONAL DESCRIPTION HERE].
+
+Nota sobre l'escenari: Un grup d'amics i amigues ha llogat una embarcació recreativa
+per a una sortida d'un dia des d'un poblet de Normandia. L'embarcació ha xocat contra
+una roca submarina, la persona al timó està inconscient i el GPS no funciona.
+Cal triar 4 persones per a 3 rols: (1) conduir el vaixell fins a port, (2) comunicar-se
+amb els serveis d'emergència, i (3) dues persones per reparar o minimitzar la fuita
+d'aigua al casc. L'escenari vol mostrar que les habilitats rellevants en una emergència
+sovint venen de llocs inesperats i no tenen res a veure amb el gènere.
+
+---
+
+4.1. James Whitfield – Exconsultor naval
+ID: c4_james_whitfield
+Rol: Consultor informàtic, ex-Royal Navy (fa 10 anys).
+
+Descripció de personatge
+
+En James té 38 anys i va servir a la Royal Navy durant sis anys com a oficial de pont abans de deixar-ho per treballar en consultoria informàtica a Londres. Sap navegar i coneix els protocols marítims, però fa deu anys que no toca un timó. Cos gran i fort, però la seva experiència naval és remota i oxidada. La tria "òbvia" per pilotar el vaixell, però potser no la millor. Parla anglès nadiu i un francès molt bàsic.
+
+Bloque de prompt específico
+
+Adult man (38), tall robust build with broad shoulders, upright posture with a hint of old military bearing. Short sandy brown hair, clean-shaven square jaw, blue-gray eyes with a slightly lost expression — someone trying to remember skills from long ago.
+
+Wearing a navy blue polo shirt with the collar popped (slightly preppy), khaki shorts, boat shoes without socks. An orange life vest hastily put on and only half-buckled. A waterproof sports watch on his wrist, aviator sunglasses pushed up on his head.
+
+Standing with a tense wide stance, arms crossed, jaw clenched — the posture of someone who knows he should step up but isn't sure he can. Color palette: navy polo, khaki shorts, orange life vest, uncertain authority tones.
+
+---
+
+4.2. Sophie Dupont – Biòloga marina
+ID: c4_sophie_dupont
+Rol: Biòloga marina, investigadora a la Universitat de Caen.
+
+Descripció de personatge
+
+La Sophie té 31 anys i és biòloga marina. Passa mesos sencers en vaixells d'investigació recollint mostres. Coneix el mar profundament — corrents, marees, meteorologia marina — i sap navegar perquè ha après dels capitans dels vaixells oceanogràfics. Petita i prima, però increïblement calmada en situacions de mar. Sap comunicar-se per ràdio VHF i coneix la costa normanda com la palma de la seva mà. Parla francès nadiu i anglès fluid.
+
+Bloque de prompt específico
+
+Adult woman (31), small slim build, calm composed posture suggesting total comfort near the sea. Short wavy light brown hair tousled by wind, tanned freckled face, steady hazel eyes, serene focused expression — someone in her element despite the crisis.
+
+Wearing a faded blue marine research t-shirt with a university logo, rolled-up linen trousers, bare feet (kicked off her sandals for better grip on wet deck). An orange life vest properly buckled and adjusted. A waterproof field notebook sticking out of her back pocket, a simple cord bracelet on her wrist.
+
+Standing with a balanced sailor's stance, knees slightly bent for stability on a moving deck, one hand shading her eyes as if reading the horizon. Color palette: faded blue research tee, linen trousers, orange vest, calm maritime scientist tones.
+
+---
+
+4.3. Tom Barrett – Propietari de pub
+ID: c4_tom_barrett
+Rol: Propietari d'un pub a Devon, organitzador del viatge.
+
+Descripció de personatge
+
+En Tom té 44 anys i és el propietari d'un pub a Exeter que ha organitzat aquesta sortida en vaixell per celebrar el seu aniversari. Gran, jovial, veu potent, acostumat a gestionar situacions caòtiques (nits de dissabte al pub). Cap experiència marítima real, però és un comunicador nat: sap calmar la gent, donar ordres clares i mantenir l'ànim. En una emergència, el seu talent és organitzar i parlar. Parla anglès nadiu, gens de francès.
+
+Bloque de prompt específico
+
+Adult man (44), large stocky build with a beer belly, open gregarious posture of a natural host. Thick curly reddish-brown hair, full beard with some gray, round friendly face flushed with sun, wide expressive eyes now showing worry, a mouth that's always talking.
+
+Wearing a loud Hawaiian shirt (orange and green pattern — his birthday outfit), baggy beige cargo shorts with pockets full of things, flip-flops that are clearly impractical on a wet boat. An orange life vest straining to fit around his big frame. A mobile phone clutched tightly in one hand.
+
+Standing with an animated posture, one hand gesturing as if giving directions, weight shifting — the restless energy of someone who manages by talking. Color palette: loud Hawaiian shirt, beige shorts, orange vest over a big frame, jovial chaos tones.
+
+---
+
+4.4. Chloé Martin – Mecànica d'automòbils
+ID: c4_chloe_martin
+Rol: Mecànica d'automòbils en un taller de Rouen.
+
+Descripció de personatge
+
+La Chloé té 33 anys i és mecànica d'automòbils. Mans fortes, acostumades a desmuntar i reparar motors, canonades, sistemes hidràulics. No ha tocat mai un motor marítim, però la mecànica és mecànica: sap improvisar solucions amb el que té a mà, identificar d'on ve una fuita i tapar-la amb materials de fortuna. Forta i resistent, no es mareja gens. No sap navegar però és la persona ideal per reparar coses. Parla francès nadiu, anglès funcional.
+
+Bloque de prompt específico
+
+Adult woman (33), medium-strong build with visibly muscular forearms and calloused hands, practical no-nonsense posture. Dark brown hair in a short messy bob, oil-stained even on holiday, square determined jaw, sharp practical eyes scanning for problems, focused serious expression.
+
+Wearing a plain black tank top showing toned arms, sturdy denim shorts with a multitool clipped to the belt (she always carries one), beat-up sneakers. An orange life vest properly secured. Grease under her fingernails despite being on holiday, a small toolkit she grabbed from the boat's emergency box in one hand.
+
+Standing with a ready-to-work posture, knees bent, hands active — someone who solves problems with her hands, not words. Color palette: black tank top, denim shorts, orange vest, practical mechanic tones.
+
+---
+
+4.5. Ryan O'Neill – Monitor de fitness
+ID: c4_ryan_oneill
+Rol: Monitor de fitness i entrenador personal a Bristol.
+
+Descripció de personatge
+
+En Ryan té 27 anys, és molt alt, musculós i en una forma física impressionant. Sembla la persona perfecta per a qualsevol tasca física. Però l'aigua el fa pànic: de petit va estar a punt d'ofegar-se i no ha superat mai la por. En el moment de l'accident, està blanc com el paper, tremola i gairebé no pot moure's. La seva força física és inútil si el pànic el paralitza. Parla anglès nadiu, gens de francès.
+
+Bloque de prompt específico
+
+Young adult man (27), tall very muscular athletic build (gym-sculpted physique, visibly strong), but hunched frightened posture completely at odds with his powerful frame. Short styled blond hair now messy, handsome chiseled face drained of color, wide panicked blue eyes, lips pressed tight — someone fighting to control terror.
+
+Wearing a tight-fitting white athletic t-shirt showing off his muscles (now soaked with spray), designer swim shorts, expensive trainers getting ruined by seawater. An orange life vest gripped so tightly his knuckles are white. Clutching the boat railing with one hand.
+
+Standing rigid, pressed against something for support, every muscle tense but frozen — the tragic image of physical power rendered useless by fear. Color palette: white wet t-shirt, swim shorts, orange vest, panic-frozen contrast tones.
+
+---
+
+4.6. Amara Diallo – Infermera
+ID: c4_amara_diallo
+Rol: Infermera d'urgències a l'hospital de Le Havre.
+
+Descripció de personatge
+
+L'Amara té 39 anys i és infermera d'urgències d'origen senegalès, establerta a França des de fa quinze anys. Acostumada a emergències mèdiques, és la persona més calmada del vaixell. Ja està atenent la persona inconscient. Bona comunicadora, parla francès perfecte i anglès correcte. Va créixer a la costa del Senegal i coneix el mar, tot i que no ha navegat mai una embarcació a motor. La seva calma i capacitat de gestió de crisis la fan valuosa per a qualsevol rol, no només el mèdic.
+
+Bloque de prompt específico
+
+Adult woman (39), medium build with strong steady hands, utterly calm composed posture amid the chaos — the one person who seems in control. Black hair in short natural twists, dark brown skin, warm but serious dark eyes, calm professional expression — an emergency room nurse in her element.
+
+Wearing a bright yellow sundress (her holiday outfit) now stained with seawater, a light gray cardigan pushed up to her elbows, practical sandals. An orange life vest over her dress. A makeshift bandage she tore from a towel wrapped around her hands (from tending the injured person), her phone in the chest pocket of her vest (ready to call for help).
+
+Standing in a controlled, centered posture, one hand slightly raised as if steadying someone — the calming presence of a medical professional. Color palette: yellow sundress, gray cardigan, orange vest, steady calm emergency tones.
+
+---
+
+4.7. David Chen – Arquitecte
+ID: c4_david_chen
+Rol: Arquitecte a Londres, aficionat a la vela lleugera.
+
+Descripció de personatge
+
+En David té 46 anys i és arquitecte. Va fer un curs de vela lleugera fa anys i surt de tant en tant amb un petit dinghy al Solent. Coneix els principis bàsics de la navegació i sap llegir cartes nàutiques, però la seva experiència és amb velers petits, no amb motores de 12 metres. Metòdic, tranquil, bon sentit de l'orientació. Podria navegar amb brúixola i mapa si en tingués. Parla anglès nadiu i francès acceptable.
+
+Bloque de prompt específico
+
+Adult man (46), medium-slim build, composed upright posture with methodical careful movements. Neat short black hair graying at the temples, thin-framed glasses, angular features, thoughtful calm eyes, concentrated serious expression of someone working through a problem mentally.
+
+Wearing a light blue linen button-down shirt (sleeves neatly rolled up despite the chaos — a tidy person's habit), navy chino shorts, canvas deck shoes. An orange life vest buckled with precision. A paper nautical chart he found in the boat's cabin held in one hand, squinting at it analytically.
+
+Standing with a measured precise posture, head tilted as if calculating angles — the body language of an architect reading a plan. Color palette: light blue shirt, navy shorts, orange vest, methodical calm tones.
+
+---
+
+4.8. Émilie Rousseau – Estudiant d'art
+ID: c4_emilie_rousseau
+Rol: Estudiant de belles arts a Rennes, neta de pescador.
+
+Descripció de personatge
+
+L'Émilie té 24 anys i sembla la persona menys preparada del grup: jove, prima, estudiant d'art. Però va créixer al port de Douarnenez amb el seu avi, un pescador bretó, i va passar cada estiu dels seus primers divuit anys al mar. Sap fer nusos mariners, coneix el motor fora-borda, sap orientar-se amb les estrelles i la costa, i ha reparat fuites amb el seu avi des que tenia deu anys. Mai no ho explica perquè la seva vida ara és l'art. La persona més competent del vaixell, amagada darrere una aparença inesperada. Parla francès nadiu, anglès bàsic.
+
+Bloque de prompt específico
+
+Young adult woman (24), very slim petite build with delicate features, deceptively fragile appearance hiding deep competence. Long messy dark hair with a streak of blue dye, paint-stained fingers (even on holiday), large dark eyes now sharp and alert, expression shifted from artistic dreaminess to quiet intense focus.
+
+Wearing an oversized vintage band t-shirt (too big for her, slipping off one shoulder), cut-off denim shorts frayed at the edges, bare feet with chipped nail polish — she kicked off her sandals immediately (a sailor's instinct). An orange life vest over her baggy t-shirt. A thin braided rope bracelet on one wrist (her grandfather made it). No phone visible — she's not looking at screens, she's looking at the sea and the boat.
+
+Standing with a low balanced stance, one hand already on a rope, the other reaching for something — the instinctive movements of someone who grew up on boats. Color palette: oversized vintage tee, frayed denim, orange vest, hidden competence tones.
+
+---
+
+4.9. Patrick Byrne – Bomber retirat
+ID: c4_patrick_byrne
+Rol: Bomber retirat de Bristol, veterà d'emergències.
+
+Descripció de personatge
+
+En Patrick té 55 anys i és bomber retirat amb trenta anys d'experiència en emergències. Ha vist de tot: incendis, inundacions, accidents. Sap mantenir la calma, donar ordres i prioritzar. Però avui té un problema greu: el mal de mar l'està destrossant. Des que el vaixell va començar a moure's de banda, no ha parat de vomitar i a penes pot mantenir-se dret. Les seves habilitats són extraordinàries, però el seu cos no l'acompanya. Parla anglès nadiu, gens de francès.
+
+Bloque de prompt específico
+
+Older adult man (55), robust stocky build showing a lifetime of physical work but now visibly weakened, hunched forward posture of someone fighting nausea. Sparse gray hair buzzed short, ruddy weathered face now pale and greenish, deep-set experienced eyes that are watery and unfocused, mouth set in a grimace of discomfort.
+
+Wearing a sensible dark green polo shirt, sturdy khaki trousers (not shorts — a practical man), leather deck shoes. An orange life vest. A towel over one shoulder (for wiping his face), one hand gripping the railing for support, the other on his stomach. Despite the seasickness, his body language still shows the instincts of a first responder — he keeps trying to look around and assess the situation.
+
+Standing (barely) with a braced posture against the side of the boat, one foot forward for balance, clearly fighting to stay upright. Color palette: dark green polo, khaki trousers, orange vest, sick but determined veteran tones.
+
+---
+
+4.10. Nathalie Perrin – Operadora de centre d'emergències
+ID: c4_nathalie_perrin
+Rol: Operadora del centre d'emergències 112 a Rouen.
+
+Descripció de personatge
+
+La Nathalie té 36 anys i treballa com a operadora al centre d'emergències 112 de Rouen. Cada dia rep trucades de gent en situacions de crisi: sap exactament com comunicar una emergència, quina informació donar, com mantenir la calma al telèfon i com guiar els serveis de rescat fins a un punt. Sap la diferència entre el 112, el CROSS (rescat marítim francès) i la Guàrdia Costanera britànica. Cap experiència marítima ni mecànica. Parla francès nadiu i anglès correcte.
+
+Bloque de prompt específico
+
+Adult woman (36), medium build, alert upright posture radiating professional calm and efficiency. Shoulder-length straight auburn hair tied back in a quick ponytail, pale skin with light freckles, sharp attentive hazel eyes, composed controlled expression — someone used to managing panic from the other end of a phone line.
+
+Wearing a coral-colored blouse (holiday outfit), white capri trousers, white canvas sneakers. An orange life vest. Already holding her phone to her ear with one hand, the other hand making a "quiet" gesture to the people around her — she's trying to make a call and needs silence. A small notebook and pen she found in the cabin, ready to write coordinates.
+
+Standing with a focused still posture, slightly turned away from the group for better phone reception, professional concentration on her face. Color palette: coral blouse, white trousers, orange vest, emergency operator precision tones.
+
+---
+
+4.11. Marcus Webb – Lampista
+ID: c4_marcus_webb
+Rol: Lampista (plumber) a Southampton, especialista en canonades.
+
+Descripció de personatge
+
+En Marcus té 30 anys i és lampista de professió. Cada dia treballa amb canonades, fuites d'aigua, soldadures, segellants i bombes de pressió. No ha posat mai els peus en un vaixell fins avui. Però una fuita d'aigua en un casc no és tan diferent d'una canonada rebentada en un soterrani: cal trobar el punt de fuita, tapar-lo amb el que tinguis i drenar l'aigua acumulada. Les seves mans i el seu coneixement de l'aigua a pressió el fan potencialment la persona més útil per reparar la fuita. Parla anglès nadiu, gens de francès.
+
+Bloque de prompt específico
+
+Young adult man (30), medium-strong build with thick skilled hands, practical squared posture of a tradesman. Short dark brown hair, square open face, friendly but now intensely focused brown eyes, determined set of his mouth — someone who sees a problem and wants to fix it.
+
+Wearing a plain gray t-shirt, cargo work shorts with multiple pockets (he even dresses like a plumber on holiday), sturdy work boots (the one person wearing sensible footwear on a boat). An orange life vest. He's already rummaging through the boat's toolkit — a wrench in one hand, a roll of waterproof tape in the other. His shorts pockets bulge with found materials.
+
+Standing with a bent-forward working posture, knees flexed, looking down as if assessing a leak — the body language of a man who fixes things for a living. Color palette: gray t-shirt, cargo shorts, orange vest, practical tradesman tones.
+
+---
+
+4.12. Isabelle Fontaine – Instructora de vela
+ID: c4_isabelle_fontaine
+Rol: Instructora de vela a Honfleur, en el grup com a amiga.
+
+Descripció de personatge
+
+La Isabelle té 47 anys i és instructora de vela a Honfleur. És, de lluny, la persona més qualificada del vaixell: navega des dels deu anys, té el títol de patró de iot, coneix cada roca de la costa normanda i ha gestionat emergències marítimes menors. Però en l'accident, s'ha lesionat greument la mà dreta contra el parabrisa de la cabina: té tres dits probablement fracturats i no pot agafar res amb força. Pot donar instruccions, assessorar i guiar, però no pot executar tasques que requereixin les dues mans. Parla francès nadiu i anglès excel·lent.
+
+Bloque de prompt específico
+
+Adult woman (47), medium build with the lean tanned look of someone who lives outdoors, slightly hunched posture favoring her injured right hand. Sun-bleached brown hair in a practical short cut, deeply tanned weathered face with wind and sun lines, sharp blue eyes full of frustration and pain, tight grimace — someone who knows exactly what to do but can't do it herself.
+
+Wearing a worn striped Breton marinière (navy and white — the real thing, not a fashion version), practical navy sailing shorts, proper non-slip deck shoes (she's the only one wearing them). An orange life vest. Her right hand wrapped in a makeshift splint fashioned from a ruler and a scarf, held against her body. Her left hand gesturing emphatically — giving instructions.
+
+Standing with a tense, slightly off-balance posture — leaning away from her injured hand, body angled toward whoever she's advising. Color palette: classic Breton stripes, navy shorts, orange vest, injured expertise tones.
+
+---
+
+4.13. Olivier Renaud – Professor d'institut
+ID: c4_olivier_renaud
+Rol: Professor de física d'institut a Caen.
+
+Descripció de personatge
+
+L'Olivier té 41 anys i és professor de física d'institut. Mai no ha navegat, no és especialmente fort ni àgil. Però té dues qualitats rellevants: primera, sap de física de fluids (entén com es comporta l'aigua a pressió, on s'acumula, com es pot desviar); segona, és professor — sap escoltar instruccions complexes i traduir-les a passos simples que qualsevol pugui seguir. Si la Isabelle dona instruccions tècniques, ell pot ser el pont entre l'experta i la resta del grup. Parla francès nadiu i anglès bàsic.
+
+Bloque de prompt específico
+
+Adult man (41), medium-slim build with a slight academic stoop, thoughtful unhurried posture even in crisis — his brain works faster than his body. Thinning dark hair, a neatly trimmed short beard, wire-frame glasses slightly askew, intelligent curious brown eyes, expression of concentrated thinking — processing the situation as a physics problem.
+
+Wearing a light beige short-sleeve button-down shirt (the kind a teacher would wear on holiday), olive green shorts, leather sandals now soaked. An orange life vest slightly crooked. A pen still clipped to his shirt pocket (always has one), his hands making small calculating gestures in the air — visualizing water flow and pressure.
+
+Standing with a slightly awkward but attentive posture, weight on his heels, head tilted as if listening carefully — the body language of a perpetual student-teacher. Color palette: beige teacher shirt, olive shorts, orange vest, intellectual problem-solver tones.

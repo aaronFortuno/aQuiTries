@@ -10,16 +10,30 @@ Cada situació té una carpeta pròpia dins de `characters/` amb el nom en slug 
 
 ```
 characters/
-  incendi-forestal/          ← A3
-  operacio-cor/              ← C1
   tribu-paleolitica/         ← P1
   arbre-caigut/              ← A2
+  incendi-forestal/          ← A3
   persona-armada/            ← A4
   obra-construccio/          ← A5
   llar-infants/              ← B1
   cuidar-persona-gran/       ← B2
   nen-plora-parc/            ← B3
+  operacio-cor/              ← C1
   exploracio-cova/           ← C2
+  avio-combat/               ← C3
+  vaixell-avariat/           ← C4
+  expedicio-riu/             ← C5
+  rescat-militar/            ← C6
+  escombriaires/             ← C7
+  equip-medic/               ← C8
+  restaurant/                ← C9
+  llista-electoral/          ← D1
+  consell-administracio/     ← D2
+  oposicions-bomber/         ← D3
+  mestre-infantil/           ← D4
+  beca-enginyeria/           ← D5
+  submarinista/              ← E1
+  astronauta/                ← E2
   [nova-situacio]/           ← nova
 ```
 
@@ -200,7 +214,7 @@ Game-ready sprite: centered in the frame, full body visible, no cropping, charac
 
 ### 4.4. Prompt del fons de l'escenari
 
-El fons segueix el format del document central `scenarios/prompts-flux2-escenaris.md`. **Sempre en pixel art**, no en estil d'il·lustració digital. Estructura:
+El fons segueix el format del document central `characters/prompts-flux2-escenaris.md`. **Sempre en pixel art**, no en estil d'il·lustració digital. Estructura:
 
 ```text
 Pixel art [tipus d'escena], wide horizontal view. [Atmosfera].
@@ -224,7 +238,7 @@ Composition: wide horizontal format (landscape orientation, roughly 16:9), suita
 Output: high-resolution image in landscape orientation. Full scene visible, no cropping.
 ```
 
-**Important**: El prompt del fons s'ha d'afegir també al fitxer central `scenarios/prompts-flux2-escenaris.md` per tenir-los tots recollits.
+**Important**: El prompt del fons s'ha d'afegir també al fitxer central `characters/prompts-flux2-escenaris.md` per tenir-los tots recollits.
 
 ---
 
@@ -263,8 +277,8 @@ Cada personatge necessita:
 
 ### 5.3. Imatges
 
-- Sprites de personatges: `public/avatars/{id}.png` (128×128 px)
-- Fons d'escenari: `public/backgrounds/{codi_situació}.png` (format panoràmic 16:9)
+- Sprites de personatges: `public/avatars/{id}.webp` (128×128 px, format WebP)
+- Fons d'escenari: `src/assets/backgrounds/{slug}.webp` (format panoràmic 16:9, importat via Vite)
 
 ---
 
@@ -274,8 +288,8 @@ Cada personatge necessita:
 - [ ] Escriure `[nom]-master.md` (character bible)
 - [ ] Escriure `[nom]-fichas.txt` (fitxes en català)
 - [ ] Escriure `prompts-flux2.md` (prompts complets copy-paste)
-- [ ] Afegir prompt del fons a `scenarios/prompts-flux2-escenaris.md`
-- [ ] Generar imatges amb FLUX 2 i posar-les a `public/avatars/` i `public/backgrounds/`
+- [ ] Afegir prompt del fons a `characters/prompts-flux2-escenaris.md`
+- [ ] Generar imatges amb FLUX 2 i posar-les a `public/avatars/` (WebP) i `src/assets/backgrounds/` (WebP)
 - [ ] Afegir escenari a `src/data/scenarios.json` (català)
 - [ ] Afegir escenari a `src/data/scenarios_es.json` (castellà)
 - [ ] Afegir noves habilitats a `src/i18n/ca.js` i `src/i18n/es.js`

@@ -1,0 +1,501 @@
+4. Fichas de personatge (14 candidats per a l'equip mèdic)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix c8_).
+Rol: perfil professional, formació i experiència.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: Un camp de refugiats al nord de Kenya (fictici, inspirat en camps
+reals com Dadaab i Kakuma) acull 45.000 persones, majoritàriament somalis i sud-sudanesos,
+amb comunitats més petites de congolesos i etíops. La clínica del camp necessita reforçar
+el seu equip mèdic amb 3 persones per cobrir atenció primària, salut materna i gestió
+d'una epidèmia de còlera. Hi ha 14 candidats disponibles: professionals mèdics
+internacionals (occidentals), sanitaris kenyans locals i treballadors sanitaris que són
+ells mateixos refugiats.
+
+Context pedagògic: Quan pensem en "ajuda mèdica a l'Àfrica", la imatge mental és un
+metge blanc amb bata de Metges Sense Fronteres. Però la realitat dels camps de refugiats
+és molt diferent: el cirurgià de Harvard que no parla somali necessita un traductor per
+a cada consulta (i les traduccions mèdiques són una font constant d'errors). La infermera
+kenyana que porta 8 anys al camp coneix cada família, sap qui té al·lèrgies, qui no
+prendrà pastilles perquè prefereix la medicina tradicional, qui necessita que una dona
+l'atengui perquè el seu marit no li permet veure un home. La refugiada somali que fa
+d'agent de salut comunitària parla 4 idiomes i és l'únic pont entre la clínica i les
+dones del camp, que no s'acosten a un metge estranger.
+
+La trampa: els jugadors probablement triaran els metges occidentals amb més titulació
+(Harvard, Karolinska, Johns Hopkins). Però en un camp de refugiats, parlar l'idioma,
+entendre la cultura, conèixer la comunitat i tenir experiència de camp pot salvar més
+vides que qualsevol diploma. El millor cirurgià del món és inútil si la pacient no vol
+entrar a la consulta perquè hi ha un home estranger dins.
+
+L'escenari també toca el "complex del salvador blanc": la tendència a creure que els
+problemes d'Àfrica es resolen enviant-hi professionals occidentals, ignorant que hi ha
+professionals locals i refugiats amb capacitats enormes que el sistema no reconeix.
+
+---
+
+PROFESSIONALS INTERNACIONALS (5 candidats)
+
+---
+
+4.1. Dr. James Crawford – Cirurgià, nord-americà
+ID: c8_james_crawford
+Rol: Cirurgià general, 46 anys. 18 anys d'experiència hospitalària.
+
+Descripció de personatge
+
+El Dr. Crawford té 46 anys i és cirurgià general format a Harvard Medical School i amb
+residència al Massachusetts General Hospital. Especialitzat en cirurgia de trauma. Ha
+treballat en hospitals de primer nivell als EUA durant 15 anys. Fa 3 anys va fer una
+missió de 6 setmanes amb MSF al Iemen. És la seva única experiència fora d'un hospital
+occidental.
+
+Alt, cabell castany curt, ulleres, aspecte de metge de sèrie de televisió: impecable,
+segur, autoritari. Parla anglès (natiu) i una mica de francès. No parla suahili ni
+somali. En la seva missió al Iemen va operar amb èxit casos complexos però va tenir
+conflictes amb el personal local perquè donava ordres sense consultar i no entenia les
+dinàmiques culturals. Un informe intern de MSF el descriu com "tècnicament brillant,
+culturalment impacient".
+
+El Dr. Crawford és el candidat que "sembla" el millor: títols impressionants, presència
+imponent, seguretat total. Però en un camp de refugiats kenyan, les seves habilitats
+quirúrgiques tenen un ús limitat (la clínica no té quiròfan complet), no pot comunicar-se
+amb els pacients, i la seva manera de treballar genera fricció amb l'equip local. El
+millor CV del grup, potser el pitjor candidat per a aquest context concret.
+
+---
+
+4.2. Dra. Sophie Martens – Especialista en medicina tropical, belga
+ID: c8_sophie_martens
+Rol: Metgessa especialista en medicina tropical, 39 anys. 8 anys d'experiència en camps.
+
+Descripció de personatge
+
+La Dra. Martens té 39 anys i és metgessa belga formada a la Universitat de Lovaina,
+amb un màster en Medicina Tropical a l'Institut d'Anvers. Ha treballat 8 anys en contextos
+humanitaris: 2 anys a la RDC (Ebola), 1 any a Bangui (República Centreafricana), 3 anys
+a camps de refugiats al Txad, i 2 missions curtes al Líban.
+
+Rossa, prim, aspecte discret — no impressiona físicament. Parla francès (natiu),
+anglès (fluid), i suahili bàsic (l'ha après al camp del Txad). Entén el context
+humanitari: sap que en un camp no operes com en un hospital, que els protocols de
+l'OMS s'adapten als recursos disponibles, que parlar amb els líders comunitaris és
+tan important com prescriure medicaments. Té experiència directa amb epidèmies de
+còlera (la va gestionar al Txad).
+
+La Sophie és probablement la millor candidata occidental: combina formació sòlida amb
+experiència de camp real i sensibilitat cultural. Però la seva experiència en camps
+francòfons (Txad, RDC) no és directament transferible a un camp somali al Kenya —
+diferent idioma, diferent cultura, diferent religió. Posició global: top 4-5.
+
+---
+
+4.3. Dr. Lars Eriksson – Metge d'urgències, suec
+ID: c8_lars_eriksson
+Rol: Metge d'urgències, 31 anys. Primera missió humanitària.
+
+Descripció de personatge
+
+El Dr. Eriksson té 31 anys i és metge d'urgències format al Karolinska Institutet
+d'Estocolm. Ha treballat 4 anys en un servei d'urgències hospitalari a Malmö. És
+la seva primera experiència fora de Suècia. S'ha apuntat a la missió per
+"contribuir" i perquè "vol veure la realitat del món". És sincer, idealista, i
+totalment verd.
+
+Alt, ros, atlètic — l'estereotip del cooperant suec. Parla suec, anglès i una
+mica d'alemany. Zero suahili, zero somali, zero àrab. No ha treballat mai sense
+un quiròfan complet, sense analítiques de laboratori en 2 hores, sense escàner.
+A Malmö, quan un pacient arriba amb diarrea greu, fa una analítica, un cultiu, i
+prescriu antibiòtics específics. Al camp, haurà de diagnosticar pel color de les
+deposicions i rehidratar amb sals que es barregen en un cubell.
+
+El Lars és honest i treballador, però la seva inexperiència en context humanitari
+el converteix en un risc: necessitarà setmanes per adaptar-se, cometerà errors de
+protocol, es frustrarà amb la manca de recursos, i pot cremar-se emocionalment
+perquè no ha vist mai morir un nen de 3 anys per una diarrea que a Suècia es cura
+amb una nit d'observació. Bona persona, mal moment.
+
+---
+
+4.4. Dra. Maria Rossi – Pediatra, italiana
+ID: c8_maria_rossi
+Rol: Pediatra, 43 anys. Experiència en camps al Jordà.
+
+Descripció de personatge
+
+La Dra. Rossi té 43 anys i és pediatra formada a la Universitat de Bolonya. Ha
+treballat 12 anys en hospitals italians (pediatria general i neonatal). Fa 2 anys
+va fer una missió de 6 mesos en un camp de refugiats sirians a Jordània amb l'ACNUR,
+on va muntar un programa de nutrició infantil.
+
+Morena, cabells recollits, aspecte de mare (té dos fills a Itàlia, amb els avis
+durant la missió). Parla italià, anglès, i àrab bàsic (après a Jordània). No parla
+suahili ni somali. La seva experiència a Jordània li ha ensenyat el que és treballar
+en un camp: recursos limitats, famílies desconfiades, nens desnodrits que no responen
+al tractament perquè les mares no entenen les instruccions. Sap que la pediatria en
+un camp és 50% medicina i 50% educació nutricional a les mares.
+
+La Maria és una bona candidata: experiència real en camps, especialitat rellevant
+(la majoria de pacients del camp són nens), i una actitud humil que la diferencia
+d'en Crawford. El seu punt feble: l'àrab del Jordà no li serveix aquí (els refugiats
+són somalis i sud-sudanesos), i 6 mesos de camp no són 8 anys. Posició global: 5-7.
+
+---
+
+4.5. Emma Thompson – Infermera, britànica
+ID: c8_emma_thompson
+Rol: Infermera, 28 anys. Voluntària, segona missió humanitària.
+
+Descripció de personatge
+
+L'Emma té 28 anys i és infermera titulada, formada a King's College London. Ha
+treballat 3 anys en un hospital del NHS (National Health Service) a Bristol. L'any
+passat va fer una missió de 3 mesos amb una ONG petita a Uganda (vacunació infantil).
+Torna perquè "la va canviar la vida".
+
+Pèl-roja, ulls clars, somriure obert — l'energia d'una persona jove que vol fer
+el bé. Parla anglès (natiu) i una mica de suahili (l'ha après a Uganda, bàsic però
+funcional per a salutacions i instruccions simples). Té formació en infermeria
+comunitària i vacunació. No té experiència en epidèmies ni en cirurgia.
+
+L'Emma és entusiasta i treballadora, però la seva experiència és limitada: 3 mesos
+a Uganda en un programa de vacunació estructurat és molt diferent de gestionar una
+epidèmia de còlera en un camp sobreocupat. El seu punt fort és la seva actitud: és
+humil, aprèn ràpid, i les dones del camp d'Uganda la rebien bé perquè s'esforçava
+a parlar l'idioma i jugava amb els nens. Però l'entusiasme no substitueix
+l'experiència. Posició: 8-10.
+
+---
+
+SANITARIS KENYANS LOCALS (4 candidats)
+
+---
+
+4.6. Grace Wanjiku – Infermera, kenyana
+ID: c8_grace_wanjiku
+Rol: Infermera del camp, 44 anys. 9 anys treballant al camp de refugiats.
+
+Descripció de personatge
+
+La Grace té 44 anys i és infermera titulada kenyana (Kenya Medical Training College,
+Nairobi). Porta 9 anys treballant a la clínica del camp — va arribar quan el camp
+tenia 15.000 persones i ara en té 45.000. Ha vist epidèmies de còlera (3 vegades),
+brots de xarampió, crisis de desnutrició, i l'arribada de 20.000 sud-sudanesos en
+3 mesos. Coneix cada racó del camp.
+
+Dona gran, cos robust, somriure calm — la presència d'algú que ha vist de tot i ja
+no s'espanta de res. Pell fosca, cabells curts. Parla suahili (natiu), anglès
+(fluid), somali funcional (après de les pacients — no perfecte però suficient per
+a consultes mèdiques), i algunes paraules de dinka (sud-sudanès). Coneix cada líder
+comunitari, cada comadrona tradicional, cada família amb nens desnodrits. Sap quines
+mares prendran les pastilles, quines les tiraran, quines necessiten que una dona les
+atengui, i quines amaguen símptomes per por de ser aïllades.
+
+La Grace és, objectivament, la candidata més valuosa per a aquest context específic.
+Cap diploma de Harvard substitueix 9 anys de coneixement directe de la comunitat. Però
+és "només" infermera — no metgessa —, és kenyana — no occidental —, i la seva experiència
+no apareix en cap rànquing acadèmic. La trampa: els jugadors no la triaran perquè no
+impressiona. Posició real: top 1-2.
+
+---
+
+4.7. Dr. Joseph Odhiambo – Metge general, kenyan
+ID: c8_joseph_odhiambo
+Rol: Metge general, 52 anys. Hospital comarcal proper al camp.
+
+Descripció de personatge
+
+El Dr. Odhiambo té 52 anys i és metge general kenyan, format a la Universitat de
+Nairobi. Ha treballat 24 anys a l'hospital comarcal de Garissa (la ciutat més propera
+al camp), un hospital públic amb 120 llits, 4 metges, i recursos que un hospital
+europeu consideraria inaceptables. Està acostumat a diagnosticar sense laboratori,
+operar sense anestesista, i tractar malalties tropicals que els metges occidentals
+només han vist en llibres.
+
+Home gran, cabell gris, ulleres de pasta, aspecte cansat però competent — la cara
+d'un metge que porta 24 anys fent miracles amb res. Parla suahili, anglès, i una
+mica de somali. Ha atès refugiats del camp quan arriben en estat crític a l'hospital
+(els que la clínica del camp no pot gestionar). Coneix la patologia de la zona:
+malària, tuberculosi, desnutrició, còlera, infeccions respiratòries.
+
+El Dr. Odhiambo és el cirurgià que en Crawford creu que és ell, però en la versió
+real: opera amb un bisturí i una llanterna quan es talla la llum, diagnostica amb
+les mans i l'experiència, i no es queixa perquè no ha conegut mai una altra manera
+de treballar. El seu punt feble: té 52 anys, està cremat de tants anys en un sistema
+que no el cuida, i la seva motivació oscil·la. Posició: top 3-4.
+
+---
+
+4.8. Peter Kimani – Oficial clínic, kenyan
+ID: c8_peter_kimani
+Rol: Oficial clínic (Clinical Officer), 36 anys. 7 anys al camp.
+
+Descripció de personatge
+
+En Peter té 36 anys i és oficial clínic — una figura sanitària específica del sistema
+kenyan, a mig camí entre infermera i metge: pot diagnosticar, prescriure medicaments,
+fer procediments menors, i gestionar emergències. Formació de 3 anys (no els 6 d'un
+metge). Porta 7 anys treballant a la clínica del camp.
+
+Home jove, prim, ulleres, aspecte discret — el típic treballador sanitari que fa la
+feina real mentre els metges occidentals surten a les fotos de l'informe anual de
+l'ONG. Parla suahili, anglès, i somali (força bé — 7 anys escoltant pacients). Ha
+gestionat les tres epidèmies de còlera anteriors al camp, ha muntat centres de
+rehidratació oral, ha format agents de salut comunitària, i ha coordinat campanyes
+de vacunació. Fa la feina d'un metge amb el salari i el reconeixement d'un tècnic.
+
+En Peter és el perfecte exemple de com el sistema sanitari global infravalora els
+treballadors locals: fa la mateixa feina que un metge occidental però no té el títol,
+no té el salari, i no surt a les fotos. Quan arriba un metge nou d'Europa, en Peter
+l'ha de formar en com funciona tot al camp — i després el metge europeu signa els
+informes. Posició real: top 2-3.
+
+---
+
+4.9. Amina Osman – Agent de salut comunitària, kenyana-somali
+ID: c8_amina_osman
+Rol: Agent de salut comunitària (CHW), 30 anys. Nascuda al camp.
+
+Descripció de personatge
+
+L'Amina té 30 anys i va néixer al camp de refugiats — és filla de refugiats somalis
+que van arribar als anys 90. Tècnicament és kenyana (va néixer a Kenya), però ha
+viscut tota la vida al camp. No és metgessa, ni infermera, ni té cap títol sanitari
+formal. Va ser formada com a CHW (Community Health Worker) per una ONG: curs de 6
+mesos sobre salut bàsica, nutrició, primers auxilis, salut reproductiva.
+
+Dona jove, prima, hijab de color suau, ulls brillants, somriure cautelós — la cara
+d'algú que ha crescut en un camp de refugiats i sap que somriure massa és ingenu,
+però no ha perdut la capacitat de fer-ho. Parla somali (natiu — la seva família),
+suahili (natiu — va créixer a Kenya), anglès (fluid — escola de l'ONG al camp),
+i un xic d'oromo (de les veïnes etíops). 4 idiomes.
+
+L'Amina és l'únic pont entre la clínica i les dones somalis del camp. Entra a les
+tendes, parla amb les mares, detecta desnutrició en nens que no arriben mai a la
+clínica, identifica dones embarassades que no volen veure un metge home, i convenç
+famílies que vacunin els fills. Sense ella, la clínica atén els que hi van — amb
+ella, la clínica arriba als que mai hi anirien. Cap diploma del món substitueix el
+que ella fa. Però als ulls del sistema, és una "voluntària comunitària" — ni tan
+sols apareix a la plantilla mèdica. Posició real: top 2-4, invisible al rànquing
+formal.
+
+---
+
+REFUGIATS AMB CAPACITAT SANITÀRIA (5 candidats)
+
+---
+
+4.10. Dr. Abdi Hassan – Exmetge, refugiat somali
+ID: c8_abdi_hassan
+Rol: Metge format a Mogadiscio, refugiat, 48 anys. Credencials no reconegudes.
+
+Descripció de personatge
+
+El Dr. Hassan té 48 anys i va ser metge general a Mogadiscio durant 12 anys. Va
+estudiar Medicina a la Universitat Nacional de Somàlia (una universitat que ja no
+existeix — va ser destruïda durant la guerra civil). Va fugir el 2011 quan el seu
+hospital va ser atacat. Porta 13 anys al camp.
+
+Home prim, cabell canós, barba curta blanca, ulls cansats — la cara d'un home que
+era algú i ara no és ningú. Parla somali (natiu), àrab (fluid), anglès (funcional),
+i suahili (bàsic). Al camp, exerceix com a "doctor Abdi" de manera informal: la
+gent va a veure'l perquè parla el seu idioma, entén la seva cultura, i no els fa
+sentir com a pacients d'un sistema estranger. Diagnostica, aconsella, deriva a la
+clínica quan cal. Però no pot prescriure legalment perquè la seva titulació somali
+no és reconeguda a Kenya.
+
+El Dr. Abdi és un dels dilemes més punyents de l'escenari: és un metge de veritat
+amb 12 anys d'experiència, que parla l'idioma dels pacients, que entén la seva
+cultura, que porta 13 anys vivint entre ells — però un paper diu que no és metge
+perquè la seva universitat ja no existeix. El sistema el redueix a "refugiat". Si
+el contracten, tècnicament exercirà sense llicència vàlida. Si no el contracten,
+els pacients seguiran anant a veure'l igualment, però sense supervisió ni recursos.
+
+---
+
+4.11. Nyamal Kuol – Llevadora, refugiada sud-sudanesa
+ID: c8_nyamal_kuol
+Rol: Infermera-llevadora, refugiada, 33 anys.
+
+Descripció de personatge
+
+La Nyamal té 33 anys i és infermera-llevadora formada a Juba (Sud-Sudan). Va estudiar
+3 anys d'infermeria a la Universitat de Juba i va treballar 4 anys a l'hospital
+docent de Juba abans que la guerra civil de 2013 l'obligués a fugir. Porta 5 anys
+al camp.
+
+Dona alta i prima, pell molt fosca (dinka — un dels pobles més alts d'Àfrica), cabell
+curt natural, expressió serena i forta — la presència d'una llevadora que ha portat
+nens al món durant bombardejos. Parla dinka (natiu), àrab de Juba (pidgin), anglès
+(fluid — formació), i suahili bàsic (après al camp). Al camp, fa de llevadora
+informal: les dones sud-sudaneses confien en ella perquè parla la seva llengua i
+perquè ha passat pel mateix que elles. Ha assistit més de 200 parts al camp, amb
+resultats excel·lents (1 mort materna en 200 parts — la taxa del camp amb llevadores
+no formades és molt més alta).
+
+La Nyamal podria transformar el programa de salut materna del camp. La seva
+experiència és real, les seves dades ho demostren, i les dones del camp la coneixen
+i hi confien. Però la seva titulació sud-sudanesa no és reconeguda, i la seva
+experiència informal no compta per al sistema. Posició real: top 3-5 per a salut
+materna.
+
+---
+
+4.12. Halima Mohamed – Comadrona tradicional, refugiada somali
+ID: c8_halima_mohamed
+Rol: Comadrona tradicional, refugiada, 56 anys. Sense formació formal.
+
+Descripció de personatge
+
+La Halima té 56 anys i és comadrona tradicional somali. No ha anat mai a l'escola.
+No sap llegir ni escriure. Ha après l'ofici de la seva mare, que el va aprendre de
+la seva àvia. Porta 35 anys assistint parts — als pobles rurals de Somàlia, a la
+ruta de fugida cap a Kenya, i al camp de refugiats.
+
+Dona gran, cos ample i fort, hijab de color terrós, mans grans i segures, expressió
+severa però d'ulls càlids — la presència d'una matrona que ha vist néixer centenars
+de criatures i que infon respecte i confiança. Parla somali (natiu) i quatre paraules
+de suahili. Ha assistit un nombre incalculable de parts — ella diu "més de 500, potser
+600". No porta registres. Algunes ONG la consideren un problema perquè practica
+tradicions que la medicina occidental desaconsella. Altres la consideren un actiu
+perquè les dones somalis confien en ella més que en qualsevol metge.
+
+La Halima és el candidat que genera més debat: no té cap credencial, no sap llegir,
+practica una medicina tradicional que a vegades funciona i a vegades no. Però ha
+portat nens al món durant 35 anys en condicions que un obstetric d'hospital no pot
+ni imaginar. L'escenari força la pregunta: què és un "professional sanitari"? Qui
+decideix qui sap i qui no sap?
+
+---
+
+4.13. Jean-Baptiste Mukiza – Farmacèutic, refugiat congolès
+ID: c8_jean_baptiste_mukiza
+Rol: Farmacèutic, refugiat, 39 anys.
+
+Descripció de personatge
+
+En Jean-Baptiste té 39 anys i és farmacèutic format a la Universitat de Bukavu
+(República Democràtica del Congo). Va tenir una farmàcia pròpia a Bukavu durant 6
+anys. Va fugir el 2019 quan els grups armats van entrar a la ciutat. Porta 4 anys
+al camp.
+
+Home de cos mig, ulleres, aspecte tranquil i metòdic — la calma d'algú acostumat
+a comptar pastilles i comprovar dosis. Pell fosca, cabell curt. Parla francès
+(natiu), suahili (fluid — llengua vehicular a l'est del Congo), i anglès (funcional).
+Al camp, gestiona el petit magatzem de medicaments de la clínica: inventari, control
+d'estoc, dates de caducitat, cadena de fred de les vacunes. Ho fa de manera voluntària
+perquè ningú més sap fer-ho i perquè li dona un propòsit.
+
+En Jean-Baptiste no és metge ni infermera — no tracta pacients directament. Però
+és la persona que fa que els medicaments estiguin disponibles, ben conservats, i
+correctament dosificats. Sense ell, les vacunes caduquen, les pastilles de
+rehidratació oral s'acaben sense que ningú se n'adoni, i els antibiòtics es donen
+a dosis incorrectes. La seva feina és invisible, però si desapareix, tot s'enfonsa.
+Posició: 6-8, essencial per a la infraestructura.
+
+---
+
+4.14. Fatuma Abdi – Agent de salut, refugiada somali
+ID: c8_fatuma_abdi
+Rol: Agent de salut comunitària, refugiada, 26 anys.
+
+Descripció de personatge
+
+La Fatuma té 26 anys i va arribar al camp amb 8 anys — hi ha crescut. Ha estudiat
+secundària a l'escola del camp (finançada per ACNUR) i va ser seleccionada per un
+programa de formació d'agents de salut d'una ONG: 9 mesos de formació en salut
+comunitària, nutrició, primers auxilis, salut reproductiva, i prevenció de malalties
+transmissibles.
+
+Dona jove, prima, hijab morat, expressió despierta i decidida — l'energia d'una
+jove que ha decidit que no serà definida pel camp on va créixer. Parla somali (natiu),
+suahili (natiu), anglès (fluid), i amhàric bàsic (de les amigues etíops). Fa
+visites porta a porta: detecta nens desnodrits, controla dones embarassades, educa
+sobre higiene (rentat de mans — la primera línia de defensa contra el còlera),
+identifica casos sospitosos de malalties i els envia a la clínica.
+
+La Fatuma i l'Amina (la kenyana-somali) fan feines similars però des de posicions
+diferents: l'Amina va néixer al camp però és kenyana, la Fatuma és refugiada. Les
+dues són el teixit connectiu entre la clínica i la comunitat. La diferència: l'Amina
+té més reconeixement institucional (la seva ONG la paga un petit sou), la Fatuma
+és voluntària. La Fatuma, a més, ha creat una xarxa de 12 "promotores de salut" —
+dones del camp que ella mateixa ha format — que multipliquen el seu impacte. No surt
+a cap informe perquè les voluntàries no compten com a personal. Posició real: top
+3-5, però invisible al sistema.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Per a un camp de refugiats amb 45.000 persones, epidèmia de còlera activa, i
+necessitats de salut materna, els factors crítics són:
+(1) Capacitat de comunicar-se amb els pacients (idioma + confiança cultural)
+(2) Experiència en context humanitari/camp (no hospitalari)
+(3) Competència tècnica adaptada als recursos disponibles
+(4) Accés a la comunitat (especialment a dones i nens, que són la majoria)
+
+Rànquing per competència tècnica formal (títols, certificacions):
+
+1. Dr. James Crawford (EUA) — Harvard, cirurgià de trauma
+2. Dr. Joseph Odhiambo (Kenya) — 24 anys de metge general
+3. Dra. Sophie Martens (Bèlgica) — Medicina tropical, 8 anys de camp
+4. Dra. Maria Rossi (Itàlia) — Pediatra, 12 anys d'hospital + 6 mesos de camp
+5. Dr. Abdi Hassan (Somàlia, refugiat) — 12 anys de metge (credencial no reconeguda)
+6. Nyamal Kuol (Sud-Sudan, refugiada) — Infermera-llevadora (credencial no reconeguda)
+7. Peter Kimani (Kenya) — Oficial clínic, 7 anys de camp
+8. Emma Thompson (UK) — Infermera, 3 anys d'hospital + 3 mesos de camp
+9. Grace Wanjiku (Kenya) — Infermera, 9 anys de camp
+10. Jean-Baptiste Mukiza (RDC, refugiat) — Farmacèutic (credencial no reconeguda)
+11. Amina Osman (Kenya-Somàlia) — CHW, formació de 6 mesos
+12. Fatuma Abdi (Somàlia, refugiada) — CHW, formació de 9 mesos
+13. Dr. Lars Eriksson (Suècia) — Urgències hospitalàries, 0 experiència de camp
+14. Halima Mohamed (Somàlia, refugiada) — Zero formació formal, 35 anys de pràctica
+
+Rànquing per efectivitat real en aquest camp concret:
+
+1. Grace Wanjiku (Kenya) — 9 anys al camp, 3 idiomes, coneix cada família
+2. Peter Kimani (Kenya) — 7 anys al camp, ha gestionat 3 epidèmies de còlera
+3. Amina Osman (Kenya-Somàlia) — pont únic amb les dones somalis, 4 idiomes
+4. Dr. Abdi Hassan (refugiat somali) — metge real, idioma dels pacients, 13 anys al camp
+5. Dra. Sophie Martens (Bèlgica) — experiència de camp real, formació tropical
+6. Fatuma Abdi (refugiada somali) — xarxa de promotores, accés comunitari
+7. Nyamal Kuol (refugiada sud-sudanesa) — llevadora excel·lent, confiança de les dones
+8. Jean-Baptiste Mukiza (refugiat congolès) — gestió essencial de medicaments
+9. Dr. Joseph Odhiambo (Kenya) — metge competent, experiència local
+10. Dra. Maria Rossi (Itàlia) — pediatra amb experiència de camp
+11. Halima Mohamed (refugiada somali) — influència comunitària però riscos de pràctica
+12. Emma Thompson (UK) — entusiasta però verda
+13. Dr. Lars Eriksson (Suècia) — totalment fora de context
+14. Dr. James Crawford (EUA) — tècnicament brillant, pràcticament inútil aquí
+
+Millor equip de 3 per a aquest camp concret:
+Grace Wanjiku + Peter Kimani + Amina Osman (o Fatuma Abdi)
+→ 0 metges occidentals. El millor equip no inclou cap dels candidats que "semblen"
+millors.
+
+Alternativa amb un occidental: Sophie Martens + Grace Wanjiku + Amina Osman
+→ L'única occidental que aporta valor real en aquest context.
+
+La trampa: els jugadors probablement triaran Crawford + Martens + Rossi (o Eriksson).
+El trio "de metges de debò". Però aquest equip no parla somali, no coneix la comunitat,
+no pot accedir a les dones del camp, i es passarà les primeres setmanes aprenent el
+que Grace, Peter i Amina ja saben de fa anys.
+
+Preguntes de debat:
+
+1. "Has triat metges occidentals? Per què t'han semblat 'millors'? Millors per a un
+   hospital o millors per a un camp de refugiats?"
+2. "La Grace és infermera, no metgessa. Però porta 9 anys al camp i coneix cada
+   família. Val més la titulació o l'experiència directa?"
+3. "El Dr. Abdi era metge a Somàlia. Per què el seu títol no val a Kenya? Si un metge
+   espanyol va a Alemanya, el seu títol val. Per què un de somali no?"
+4. "L'Amina i la Fatuma no tenen cap títol mèdic formal. Però sense elles, les dones
+   del camp no van a la clínica. Qui salva més vides: el cirurgià de Harvard que no
+   parla somali o l'agent comunitària que parla 4 idiomes?"
+5. "Has triat la Halima, la comadrona tradicional? Per què sí o per què no? Qui
+   decideix quin coneixement és 'vàlid'?"
+6. "Si un metge ve d'Europa, treballa 3 mesos, i se'n va, ha ajudat o ha gastat
+   recursos que podrien pagar un any de feina d'un treballador local?"
+7. "Per què, quan pensem en 'ajuda mèdica a l'Àfrica', imaginem un metge blanc?
+   D'on ve aquesta imatge?"

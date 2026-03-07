@@ -1,0 +1,271 @@
+4. Fichas de personatge (12 candidats al consell d'administració)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix d2_).
+Rol: perfil professional i trajectòria.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: Una empresa tecnològica catalana (NeoCom Technologies, 800
+treballadors, facturació de 120M€) ha de renovar 4 places del seu consell d'administració
+(8 membres en total). Dels 4 membres que es queden, 3 són homes i 1 és dona. La normativa
+interna de l'empresa exigeix un mínim del 40% de dones al consell. Per tant, dels 4 nous
+membres, almenys 2 han de ser dones (per arribar a 3 dones de 8 = 37,5%, arrodonit al
+40% amb la regla interna). Hi ha 12 candidats (8 homes i 4 dones).
+
+Context pedagògic: El sector tecnològic és un dels més masculinitzats del món empresarial.
+Poques dones arriben a posicions de direcció, no perquè no puguin, sinó perquè el pipeline
+és estret: menys dones estudien enginyeria, menys arriben a càrrecs sènior, menys accedeixen
+a consells. Entre els 12 candidats, hi ha una dona clarament excel·lent (Elena Martí) i una
+altra de molt competent (Sílvia Fontana), però també homes amb trajectòries extraordinàries
+que quedarien fora si cal reservar 2 de 4 places per a dones. La pregunta no és si les
+dones poden ser bones directores — evidentment sí — sinó si forçar-ho per quota és el millor
+mecanisme, o si hi ha alternatives (mentoratge, programes de pipeline, objectius voluntaris).
+I si no es força, què passa? El consell queda 7-1 o 6-2, i les dones que podrien aportar
+no hi arriben mai?
+
+---
+
+HOMES (8 candidats)
+
+---
+
+4.1. Marc Estrada – CTO d'una startup d'IA
+ID: d2_marc_estrada
+Rol: Enginyer informàtic, exCTO i cofundador de startup.
+
+Descripció de personatge
+
+En Marc té 47 anys i és enginyer informàtic per la UPC amb un MBA per Stanford. Va
+cofundar una startup d'intel·ligència artificial que va vendre a una multinacional nord-
+americana per 180 milions d'euros. Com a CTO, va liderar un equip de 120 enginyers i va
+portar el producte de prototip a líder de mercat en 4 anys. Després de la venda, ha estat
+assessor de tres fons de capital risc i conseller independent en dues empreses del NASDAQ.
+El seu coneixement tècnic és profund, la seva visió estratègica contrastada, i la seva
+xarxa de contactes al Silicon Valley és un actiu únic. El candidat masculí més fort, sense
+discussió.
+
+---
+
+4.2. Oriol Puig – Director financer
+ID: d2_oriol_puig
+Rol: Director financer, economista.
+
+Descripció de personatge
+
+L'Oriol té 52 anys i és economista per ESADE amb un màster en finances per la London
+School of Economics. Ha estat director financer (CFO) de dues empreses tecnològiques
+cotitzades durant 18 anys. Ha gestionat dues sortides a borsa, reestructuracions de deute
+per valor de 500 milions i ha negociat amb fons d'inversió internacionals. Rigorós,
+metòdic, amb un historial impecable en governança corporativa. Coneix cada clàusula dels
+estatuts de NeoCom perquè va assessorar l'empresa en la seva ronda de finançament sèrie B.
+Un perfil financer de primer nivell.
+
+---
+
+4.3. Pol Navarro – Fundador d'empresa de cloud
+ID: d2_pol_navarro
+Rol: Enginyer de software, emprenedor tech.
+
+Descripció de personatge
+
+En Pol té 41 anys i és enginyer de telecomunicacions. Va treballar 6 anys a Google a
+Zurich com a enginyer sènior d'infraestructura. Després va fundar una empresa de serveis
+cloud que ara té 200 treballadors i factura 45 milions. Coneix la tecnologia de dins cap
+a fora: ha escrit codi, ha dissenyat arquitectures, ha escalar equips. La seva empresa
+competeix directament en el segment de NeoCom, cosa que li dóna un coneixement del mercat
+que pocs candidats poden igualar. Dinàmic, amb mentalitat de creixement, aporta la visió
+d'un emprenedor actiu.
+
+---
+
+4.4. Ferran Blanch – Director comercial
+ID: d2_ferran_blanch
+Rol: Director comercial, llicenciat en ADE.
+
+Descripció de personatge
+
+En Ferran té 45 anys i és llicenciat en Administració d'Empreses per ESADE. Ha estat
+director comercial d'una gran empresa de software empresarial durant 10 anys, on ha
+liderat l'expansió a 12 mercats internacionals i ha duplicat la facturació de 60 a 130
+milions. Negociador hàbil, coneix els clients corporatius del sector, té contactes a les
+grans empreses que són el target natural de NeoCom. Un perfil comercial sòlid que aportaria
+la visió del mercat i del client al consell. Menys perfil tècnic que altres candidats,
+però amb resultats comercials excel·lents.
+
+---
+
+4.5. Àlex Dalmau – Exbanquer d'inversions
+ID: d2_alex_dalmau
+Rol: Consultor estratègic, exbanquer d'inversions.
+
+Descripció de personatge
+
+L'Àlex té 50 anys i és economista amb un MBA per INSEAD. Ha treballat 15 anys en banca
+d'inversions a Londres (Goldman Sachs, JP Morgan) especialitzat en fusions i adquisicions
+del sector tech. Ha assessorat operacions per valor de 3.000 milions d'euros. Ara és
+consultor estratègic independent. Coneix el mercat financer, sap com es valoren les
+empreses tech, entén el joc dels inversors. Però la seva experiència és financera, no
+operativa: mai no ha gestionat un producte, un equip d'enginyers ni un client directe.
+Aporta sofisticació financera, però li falta l'experiència viscuda del sector.
+
+---
+
+4.6. Guillem Serra – Professor d'economia digital
+ID: d2_guillem_serra
+Rol: Professor universitari, expert en transformació digital.
+
+Descripció de personatge
+
+En Guillem té 55 anys i és doctor en economia per la Universitat de Barcelona, professor
+titular a IESE i autor de tres llibres sobre transformació digital que s'han convertit en
+referència al sector. Assessor del govern espanyol en política digital i membre de comitès
+europeus de regulació tecnològica. La seva visió estratègica i el seu coneixement del marc
+regulatori són valuosos. Però no ha gestionat mai una empresa, no ha pres decisions amb
+diners reals en joc, no ha contractat ni acomiadat ningú. El seu perfil és acadèmic i
+consultiu, no executiu. Aporta perspectiva, no experiència de gestió.
+
+---
+
+4.7. Arnau Ribas – Jove emprenedor
+ID: d2_arnau_ribas
+Rol: Emprenedor, fundador d'app de mobilitat.
+
+Descripció de personatge
+
+L'Arnau té 29 anys i és enginyer informàtic. Va fundar als 24 anys una app de mobilitat
+urbana que ja té 2 milions d'usuaris i ha rebut 15 milions en finançament. La premsa
+l'ha retratat com un dels joves emprenedors més prometedors del país. Brillant, creatiu,
+amb una energia contagiosa. Però no té experiència en consells d'administració, mai no ha
+gestionat una empresa de la mida de NeoCom (la seva en té 40 treballadors), i el seu
+historial és curt: 5 anys d'empresa, encara per demostrar si el model és sostenible.
+Gran potencial, poca trajectòria consolidada.
+
+---
+
+4.8. Ignasi Valls – Director d'operacions
+ID: d2_ignasi_valls
+Rol: Director d'operacions, enginyer industrial.
+
+Descripció de personatge
+
+L'Ignasi té 58 anys i és enginyer industrial amb 30 anys d'experiència en gestió
+d'operacions. Ha estat director d'operacions de dues empreses industrials grans (800 i
+1.200 treballadors). Fa 6 anys va fer el salt al sector tech com a COO d'una empresa de
+hardware. Coneix la gestió d'equips grans, les cadenes de subministrament, la producció
+a escala. Però el seu background és industrial, no digital natiu: entén els processos
+però no la cultura tech, el desenvolupament àgil ni el model SaaS de NeoCom. La seva
+experiència és real però no del tot alineada amb el sector.
+
+---
+
+DONES (4 candidates)
+
+---
+
+4.9. Elena Martí – VP d'enginyeria
+ID: d2_elena_marti
+Rol: Vicepresidenta d'enginyeria, enginyera informàtica.
+
+Descripció de personatge
+
+L'Elena té 44 anys i és enginyera informàtica per la UPC amb un màster en computer science
+per l'ETH de Zurich. Ha estat 15 anys en el sector tech: 6 anys a Microsoft com a lead
+engineer, 4 anys a Spotify com a directora d'enginyeria, i els últims 5 anys com a VP
+d'enginyeria d'una multinacional de ciberseguretat amb 3.000 treballadors. Ha gestionat
+equips de fins a 200 enginyers, ha liderat la migració a cloud d'una plataforma amb 10
+milions d'usuaris, i ha portat un producte de zero a 80 milions de facturació. Tècnicament
+brillant, amb experiència de gestió demostrada i una visió estratègica contrastada. És,
+sense cap dubte, una dels 3-4 millors candidats del procés, independentment del gènere.
+Que sigui dona és rellevant per a la quota, però la seva candidatura es defensa per mèrits
+propis.
+
+---
+
+4.10. Sílvia Fontana – Directora de ciberseguretat
+ID: d2_silvia_fontana
+Rol: Directora de ciberseguretat, enginyera de telecomunicacions.
+
+Descripció de personatge
+
+La Sílvia té 40 anys i és enginyera de telecomunicacions amb un postgrau en ciberseguretat
+per Carnegie Mellon. Ha estat directora de ciberseguretat (CISO) de dues empreses
+tecnològiques i és reconeguda com una de les 20 professionals més influents del sector a
+Espanya. Ha gestionat crisis de seguretat crítiques, ha dissenyat polítiques de protecció
+de dades per a empreses amb milions d'usuaris, i ha declarat com a experta davant el
+Congrés. El seu perfil tècnic és excel·lent i la seva àrea d'expertesa (ciberseguretat)
+és cada cop més rellevant per als consells d'administració. Però la seva experiència és
+vertical — molt profunda en seguretat, menys àmplia en gestió empresarial general. Estaria
+entre els llocs 5-7 per mèrit pur: molt bona, però en competència directa amb homes amb
+trajectòries més àmplies com Ferran Blanch o Àlex Dalmau. La seva candidatura és sòlida
+però el debat sobre si entra per mèrit o per quota és legítim.
+
+---
+
+4.11. Laura Mestre – Fundadora de legaltech
+ID: d2_laura_mestre
+Rol: Emprenedora, advocada i fundadora de startup.
+
+Descripció de personatge
+
+La Laura té 36 anys i és advocada per la UAB amb un MBA per Wharton. Va fundar una startup
+de legaltech que automatitza processos jurídics per a empreses. L'empresa té 60 treballadors,
+factura 8 milions i ha rebut 12 milions en finançament de fons internacionals. Intel·ligent,
+articulada, amb visió de negoci. Però la seva empresa és encara jove (4 anys), els resultats
+no estan consolidats, i la seva experiència en gestió és limitada comparada amb els candidats
+sènior. El seu perfil és similar al d'Arnau Ribas (jove emprenedor masculí): ambdós tenen
+potencial però poca trajectòria. Si l'Arnau no estaria entre els 4 primers per mèrit pur,
+la Laura tampoc — però si cal una segona dona i la Sílvia és el debat, la Laura seria la
+tercera opció femenina i aquí la quota es nota més.
+
+---
+
+4.12. Marta Comas – Directora de recursos humans
+ID: d2_marta_comas
+Rol: Directora de RRHH, psicòloga organitzacional.
+
+Descripció de personatge
+
+La Marta té 48 anys i és psicòloga organitzacional amb un màster en direcció de persones
+per ESADE. Ha estat directora de recursos humans de tres empreses grans (la última, una
+tech de 1.500 treballadors) durant 20 anys. Ha gestionat reestructuracions, ha dissenyat
+polítiques de diversitat i inclusió, ha liderat processos de transformació cultural. Coneix
+el món de l'empresa des de dins, però el seu perfil és de gestió de persones, no de
+direcció estratègica ni tècnica. En un consell d'administració tech, el seu rol natural
+seria el de comitè de nomenaments o remuneracions, no el de decisió estratègica sobre
+producte o mercat. Competent en el seu àmbit, però si fos home amb el mateix perfil, ningú
+la posaria entre els 4 primers. La seva candidatura només té pes real si cal complir la
+quota i les altres dues dones ja estan seleccionades o descartades.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Ordenació aproximada per mèrit pur (sense quota):
+
+1. Marc Estrada (home) — trajectòria excepcional, sense discussió.
+2. Elena Martí (dona) — excel·lent, top 3 segur.
+3. Oriol Puig (home) — perfil financer de primer nivell.
+4. Pol Navarro (home) — emprenedor tech amb experiència profunda.
+5-6. Ferran Blanch (home) / Sílvia Fontana (dona) — debat legítim.
+7. Àlex Dalmau (home) — molt bo en finances, menys operatiu.
+8. Ignasi Valls (home) — experiència real però sector diferent.
+9-10. Guillem Serra (home) / Laura Mestre (dona) — acadèmic vs emprenedora jove.
+11. Arnau Ribas (home) — potencial, poca trajectòria.
+12. Marta Comas (dona) — competent en RRHH, perfil de suport.
+
+Sense quota (top 4 per mèrit): Marc, Elena, Oriol, Pol → 1 dona, 3 homes.
+Total consell: 4 homes (que es queden) + 3 homes + 1 dona + 1 dona (que es queda) = 6H/2D → 75%/25%.
+No es compleix el 40%.
+
+Amb quota (mínim 2 dones de 4): Marc, Elena, Oriol/Pol, Sílvia → 2 dones, 2 homes.
+Pol o Ferran queda fora per Sílvia, que és molt bona però potser no és estrictament la 4a.
+Total consell: 3H + 2H + 2D + 1D = 5H/3D → 62,5%/37,5%. S'acosta al 40%.
+
+El dilema: Elena entra per mèrit pur, no hi ha debat. Sílvia és molt competent, però el
+dubte de si entra per mèrit o per quota la pot afectar professionalment ("la van posar per
+ser dona"). I si necessitessis una tercera dona? Hauries de posar Laura o Marta per sobre
+d'homes amb molta més experiència.
+
+La reflexió final: les quotes corregeixen una desigualtat real (pipeline estret al sector
+tech), però generen un dubte sobre la legitimitat de qui hi arriba. Com es pot trencar
+aquest cercle?

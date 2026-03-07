@@ -1,0 +1,300 @@
+4. Fichas de personatge (12 candidats a mestre d'infantil)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix d4_).
+Rol: perfil professional i experiència.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: Una escola pública d'una ciutat mitjana catalana busca 2 nous
+mestres per a P3 (nens i nenes de 3 anys). Les dues places són a jornada completa i
+inclouen tutoria de grup. Hi ha 12 candidats (9 dones i 3 homes). El procés de selecció
+valora: titulació, experiència en educació infantil, formació complementària, entrevista
+personal i una classe pràctica amb un grup de nens.
+
+Context pedagògic: L'educació infantil és un dels sectors més feminitzats del món
+laboral. A Catalunya, més del 95% dels mestres de P3 són dones. Ningú proposa quotes
+per a homes en aquest àmbit. Si algú proposés reservar una de les 2 places per a un
+home, la reacció seria d'estranyesa o fins i tot de rebuig — "és absurd, que entri qui
+sigui millor". Però és estructuralment el mateix mecanisme que proposar quotes per a
+dones en enginyeria, bombers o consells d'administració.
+
+L'escenari planteja el mirall: si ens sembla natural que l'educació infantil sigui 95%
+femenina i no ho volem corregir amb quotes, per què sí que volem corregir amb quotes
+altres sectors que són 95% masculins? Hi ha una diferència real o és que acceptem els
+desequilibris de gènere quan beneficien les dones i els qüestionem quan beneficien els
+homes?
+
+Segona capa: els homes que volen ser mestres d'infantil pateixen un biaix real i
+dolorós. Alguns pares desconfien d'un home sol amb nens de 3 anys (canvis de bolquer,
+acompanyament al lavabo). Aquesta desconfiança no es basa en dades — els abusos a
+escoles són estadísticament rarísms i no correlacionen amb el gènere del mestre — però
+és viscuda i condiciona les decisions. Un home excel·lent pot quedar fora no per
+mancança de mèrits sinó per un prejudici que ningú verbalitza obertament.
+
+---
+
+DONES (9 candidates)
+
+---
+
+4.1. Marta Riera – Mestra veterana de P3
+ID: d4_marta_riera
+Rol: Mestra d'educació infantil, 34 anys, 10 anys d'experiència en P3.
+
+Descripció de personatge
+
+La Marta té 34 anys i porta 10 anys com a mestra de P3 en una escola concertada. Ha
+tutoritzat 10 grups de P3 (uns 250 nens). Coneix les fases del desenvolupament dels 3
+anys com si fos un rellotge: sap quan un nen està a punt d'abandonar el bolquer, quan
+una conducta és normal i quan és un senyal d'alerta, com gestionar el període d'adaptació
+al setembre sense drames. Ha fet formació en educació emocional, psicomotricitat i
+atenció primerenca. Les famílies l'adoren: és càlida, clara i ferma alhora. La seva
+classe pràctica ha estat impecable — natural, fluida, els nens l'han seguit sense
+esforç. Candidata top 1-2, clarament.
+
+---
+
+4.2. Laia Fortuny – Mestra creativa
+ID: d4_laia_fortuny
+Rol: Mestra d'educació infantil, 29 anys, 5 anys d'experiència.
+
+Descripció de personatge
+
+La Laia té 29 anys i porta 5 anys com a mestra, 3 d'ells a P3. Graduada en educació
+infantil amb un postgrau en arts plàstiques i educació. El seu punt fort és la
+creativitat: ha dissenyat un mètode propi de treball per projectes amb materials
+naturals i reciclats que ha presentat en dues jornades pedagògiques. Les seves classes
+són visuals, imaginatives, plenes de color. Els nens s'hi enganxen. Bona gestió del
+grup, bona relació amb les famílies. Menys anys d'experiència que la Marta, però amb
+una frescor i una innovació que la veterana no té. Candidata top 3-4.
+
+---
+
+4.3. Núria Santamaria – Mestra amb molta experiència
+ID: d4_nuria_santamaria
+Rol: Mestra d'educació infantil, 52 anys, 28 anys d'experiència.
+
+Descripció de personatge
+
+La Núria té 52 anys i és la candidata amb més experiència: 28 anys com a mestra
+d'infantil, la majoria en P3 i P4. Ha vist passar generacions senceres de nens. Coneix
+cada situació possible: nens amb necessitats especials, famílies difícils, períodes
+d'adaptació traumàtics, problemes de conducta. El seu punt feble: els seus mètodes són
+clàssics i poc actualitzats. No utilitza gaire les noves tecnologies, les seves
+programacions segueixen un model de fa 15 anys, i a l'entrevista ha reconegut que no ha
+fet formació continuada des de fa 5 anys. La seva classe pràctica ha estat correcta però
+previsible. Experiència immensa, innovació escassa.
+
+---
+
+4.4. Anna Ferrer – Recent graduada
+ID: d4_anna_ferrer
+Rol: Mestra d'educació infantil, 23 anys, sense experiència laboral.
+
+Descripció de personatge
+
+L'Anna té 23 anys i acaba de graduar-se en educació infantil amb la millor nota de la
+seva promoció (8,9 d'expedient). Ha fet les pràctiques en dues escoles (una de pública
+i una de Waldorf) i ha rebut informes excel·lents dels tutors. Coneix les últimes
+tendències pedagògiques, domina les eines digitals, parla anglès i francès. Però no ha
+treballat mai de mestra: les seves pràctiques han estat supervisades, mai no ha estat
+sola amb un grup de 25 nens de 3 anys. La seva classe pràctica ha estat ben plantejada
+però una mica rígida — s'ha vist que seguia un guió. Molt potencial, zero rodatge real.
+
+---
+
+4.5. Carme Solà – Especialista en educació especial
+ID: d4_carme_sola
+Rol: Mestra d'educació especial, 38 anys, 12 anys d'experiència.
+
+Descripció de personatge
+
+La Carme té 38 anys i és mestra d'educació especial. Porta 12 anys treballant amb nens
+amb necessitats educatives especials (TEA, TDAH, discapacitat intel·lectual). Coneix les
+adaptacions curriculars, els protocols d'atenció primerenca, la coordinació amb EAPs i
+CDIAP. El seu perfil és un actiu real en una escola inclusiva: sap detectar senyals
+d'alerta que altres mestres no veuen. Però la seva experiència és en educació especial,
+no en tutoria ordinària de P3: mai no ha gestionat un grup sencer de 25 nens neurotípics.
+La seva classe pràctica ha estat tècnicament bona però centrada en un sol nen amb
+dificultats, no en el grup.
+
+---
+
+4.6. Gemma Puig – Mestra sòlida
+ID: d4_gemma_puig
+Rol: Mestra d'educació infantil, 31 anys, 7 anys d'experiència.
+
+Descripció de personatge
+
+La Gemma té 31 anys i porta 7 anys com a mestra d'infantil, 4 d'ells a P3. Graduada
+en educació infantil amb formació en metodologies actives (Montessori i Reggio Emilia).
+Bona mestra: organitzada, empàtica, amb una gestió del grup eficaç i una programació
+ben estructurada. No destaca especialment en res — no és la més creativa, ni la més
+experimentada, ni la més innovadora — però és consistentment bona en tot. La seva classe
+pràctica ha estat sòlida, sense errors, sense moments brillants. El tipus de mestra que
+tota escola necessita: fiable, competent, sense sorpreses. Candidata posició 4-5.
+
+---
+
+4.7. Sílvia Valls – Mestra de guarderia
+ID: d4_silvia_valls
+Rol: Educadora de llar d'infants, 45 anys, 20 anys d'experiència en 0-3.
+
+Descripció de personatge
+
+La Sílvia té 45 anys i porta 20 anys com a educadora en llars d'infants (nens de 0 a 3
+anys). Coneix el món dels nadons i els nens petits millor que ningú: ha gestionat grups
+de lactants, ha acompanyat milers de processos de deslletament, autonomia i primers
+passos. Però la llar d'infants i l'escola de P3 són mons relacionats però diferents: la
+llar d'infants és cura i acompanyament, P3 és ja un entorn educatiu formal amb
+programació curricular. La Sílvia té el títol de tècnica en educació infantil, no el
+grau de mestra — cosa que la limita legalment per a la tutoria de P3 a l'escola pública.
+La seva classe pràctica ha estat excel·lent en la part emocional i de vincle, però feble
+en la programació didàctica.
+
+---
+
+4.8. Rosa Esteve – Mestra amb experiència en P4-P5
+ID: d4_rosa_esteve
+Rol: Mestra d'educació infantil, 27 anys, 3 anys d'experiència en P4-P5.
+
+Descripció de personatge
+
+La Rosa té 27 anys i porta 3 anys com a mestra d'infantil, però sempre ha treballat amb
+P4 i P5, mai amb P3. La diferència és significativa: P4 i P5 són nens que ja estan
+escolaritzats, que ja saben les rutines, que ja controlen esfínters. P3 és un altre món:
+el període d'adaptació, els plors, els bolquers, la separació dels pares per primera
+vegada. La Rosa és bona mestra per a nens de 4-5 anys, però la seva classe pràctica amb
+un grup de P3 ha estat irregular: ha plantejat activitats una mica avançades per a
+l'edat i ha tingut dificultats amb un nen que plorava i no es volia separar de la mare.
+Competent, però necessita adaptar-se.
+
+---
+
+4.9. Montse Gràcia – Mestra amb formació Montessori
+ID: d4_montse_gracia
+Rol: Mestra d'educació infantil, 33 anys, 6 anys d'experiència.
+
+Descripció de personatge
+
+La Montse té 33 anys i és mestra d'educació infantil amb una formació Montessori
+completa (certificació AMI). Ha treballat 4 anys en una escola Montessori privada i 2
+anys en una escola pública. La seva pedagogia és coherent i ben fonamentada: autonomia
+del nen, materials manipulatius, ambient preparat, observació sistemàtica. Però el seu
+estil Montessori xoca amb la realitat d'una escola pública: ràtios de 25 nens per
+mestra (no 12 com a la privada), materials estàndard (no els Montessori específics),
+programació curricular imposada. A l'entrevista ha reconegut que li costa adaptar-se a
+entorns no Montessori. La seva classe pràctica ha estat molt bona amb els nens però
+poc alineada amb el projecte educatiu de l'escola.
+
+---
+
+HOMES (3 candidats)
+
+---
+
+4.10. Jordi Planella – Mestre amb experiència en P3
+ID: d4_jordi_planella
+Rol: Mestre d'educació infantil, 32 anys, 8 anys d'experiència en P3.
+
+Descripció de personatge
+
+En Jordi té 32 anys i porta 8 anys com a mestre de P3 en una escola pública. Va triar
+educació infantil per vocació — el seu pare era mestre de primària — i mai s'ha
+penedit. Ha tutoritzat 8 grups de P3, coneix el desenvolupament dels 3 anys en
+profunditat, gestiona els períodes d'adaptació amb una calma i una naturalitat que moltes
+mestres veteranes li reconeixen. Ha fet formació en educació emocional, joc lliure i
+psicomotricitat. La seva classe pràctica ha estat excel·lent: propera, natural, amb una
+capacitat d'atraure i calmar els nens que ha sorprès el tribunal.
+
+Per mèrits, en Jordi estaria entre els 2-3 millors candidats del procés. Però en Jordi
+és home, i això genera dues reaccions: una part de les famílies ho valora positivament
+(referents masculins a l'escola, trencar estereotips), però una altra part — que no ho
+dirà mai en veu alta — desconfia. Un home sol amb 25 nens de 3 anys, canviant bolquers,
+acompanyant al lavabo. No hi ha cap dada que justifiqui aquesta desconfiança, però
+existeix i és real. En Jordi ho sap i ho viu cada dia: ha après a deixar sempre la porta
+oberta, a no agafar mai un nen en braços si no hi ha un altre adult present, a sobre-
+explicar cada gest. Fa la mateixa feina que les seves companyes, però amb una capa extra
+d'autovigilància que elles no necessiten.
+
+---
+
+4.11. Marc Vilalta – Mestre recent graduat
+ID: d4_marc_vilalta
+Rol: Mestre d'educació infantil, 25 anys, 1 any d'experiència.
+
+Descripció de personatge
+
+En Marc té 25 anys i porta 1 any com a mestre substitut en una escola pública (ha fet
+tres substitucions curtes a P3 i P4). Graduat en educació infantil amb menció en anglès.
+Motivat, amable, amb bona presència i una relació natural amb els nens — a la classe
+pràctica, un nen que plorava li ha agafat la mà i s'ha calmat. Però la seva experiència
+és molt curta: substitucions de 2-3 setmanes no són el mateix que portar un grup tot el
+curs. No ha gestionat mai un període d'adaptació complet, no ha fet mai una reunió de
+pares com a tutor, no ha coordinat mai amb l'EAP.
+
+El seu perfil és similar al de l'Anna Ferrer (dona, 23 anys, recent graduada): ambdós
+tenen bona formació, poc rodatge i molt potencial. Però la percepció social és
+diferent: l'Anna és una mestra jove, percebuda com a normal i esperançadora. En Marc és
+un mestre jove, percebut per algunes famílies amb un punt de sorpresa o interrogant
+("per què un noi vol ser mestre de P3?"). El biaix és subtil però real.
+
+---
+
+4.12. Pau Segarra – Mestre de primària que vol canviar a infantil
+ID: d4_pau_segarra
+Rol: Mestre de primària, 36 anys, 10 anys d'experiència en primària.
+
+Descripció de personatge
+
+En Pau té 36 anys i porta 10 anys com a mestre de primària (cicle inicial, 6-8 anys). Ara
+vol fer el canvi a educació infantil: acaba de tenir el seu primer fill i l'experiència de
+la paternitat li ha despertat un interès real pel treball amb nens petits. Ha fet un
+postgrau en educació infantil per complementar la seva formació. Bon mestre de primària:
+organitzat, empàtic, bon comunicador amb les famílies. Però la seva experiència amb nens
+de 3 anys és nul·la: els nens de 6 anys ja saben parlar, seguir instruccions, anar al
+lavabo sols. P3 és un altre planeta.
+
+La seva classe pràctica ho ha demostrat: ha plantejat una activitat ben pensada però
+inadequada per al nivell — ha parlat massa, ha donat instruccions massa complexes, ha
+subestimat el caos d'un grup de 25 nens de 3 anys que acaben de començar l'escola. No
+ha estat dolenta, però ha evidenciat que ser bon mestre de primària no et fa
+automàticament bon mestre d'infantil. Té la base pedagògica, però li falta tot el
+rodatge específic.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+Ordenació aproximada per mèrits (experiència en P3 + classe pràctica + formació):
+
+1. Marta Riera (dona) — 10 anys P3, classe pràctica impecable.
+2. Jordi Planella (home) — 8 anys P3, classe pràctica excel·lent.
+3. Laia Fortuny (dona) — 5 anys, creativa i innovadora.
+4. Gemma Puig (dona) — 7 anys, sòlida i fiable.
+5. Carme Solà (dona) — 12 anys educació especial, perfil especialitzat.
+6. Montse Gràcia (dona) — 6 anys, bona però estil poc adaptat.
+7. Núria Santamaria (dona) — 28 anys experiència, mètodes antics.
+8. Sílvia Valls (dona) — 20 anys 0-3, sense titulació de mestra.
+9. Rosa Esteve (dona) — 3 anys P4-P5, no P3.
+10. Pau Segarra (home) — 10 anys primària, 0 infantil.
+11. Marc Vilalta (home) — 1 any substitucions.
+12. Anna Ferrer (dona) — 0 experiència laboral.
+
+Si seleccionem 2 per mèrit pur: Marta (dona) i Jordi (home).
+
+El dilema: en Jordi és clarament el segon millor candidat. Però algunes famílies han
+fet arribar a la direcció (informalment, mai per escrit) que preferien una mestra dona
+per a P3. No per cap raó pedagògica — en Jordi és excel·lent — sinó pel malestar
+difús d'un home canviant bolquers a nens de 3 anys.
+
+La pregunta mirall: si una enginyera excel·lent no aconsegueix una plaça perquè
+l'empresa prefereix un home ("els clients es fien més d'un enginyer home"), ho
+considerem discriminació. Si un mestre excel·lent no aconsegueix una plaça perquè les
+famílies prefereixen una dona ("ens fa més confiança una mestra per als nostres fills"),
+és el mateix mecanisme o és diferent?
+
+I la pregunta sobre quotes: si ningú proposa reservar places per a homes a educació
+infantil (on són el 5%), per què sí que proposem reservar places per a dones a
+enginyeria (on són el 15%)? Si la resposta és "que entri qui sigui millor", aleshores
+hauria de valer per a tots els àmbits — o no?

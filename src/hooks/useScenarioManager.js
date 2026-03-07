@@ -6,12 +6,38 @@ import { shuffle } from '../utils/shuffle';
 const scenariosByLocale = { ca: scenariosCa, es: scenariosEs };
 
 export function useScenarioManager(locale = 'ca') {
+  // Store shuffle order once so locale changes don't re-randomize
+  const shuffleOrder = useRef(null);
+
   const scenarios = useMemo(() => {
     const data = scenariosByLocale[locale] || scenariosCa;
-    return shuffle(data.map(scenario => ({
-      ...scenario,
-      characters: shuffle(scenario.characters),
-    })));
+
+    if (!shuffleOrder.current) {
+      // First render: shuffle and remember the order
+      const shuffled = shuffle(data.map(s => ({
+        ...s,
+        characters: shuffle(s.characters),
+      })));
+      shuffleOrder.current = {
+        ids: shuffled.map(s => s.id),
+        charIds: Object.fromEntries(shuffled.map(s => [s.id, s.characters.map(c => c.id)])),
+      };
+      return shuffled;
+    }
+
+    // Locale change: apply the same order
+    const byId = Object.fromEntries(data.map(s => [s.id, s]));
+    return shuffleOrder.current.ids
+      .filter(id => byId[id])
+      .map(id => {
+        const s = byId[id];
+        const order = shuffleOrder.current.charIds[id];
+        const charsById = Object.fromEntries(s.characters.map(c => [c.id, c]));
+        return {
+          ...s,
+          characters: order.filter(cid => charsById[cid]).map(cid => charsById[cid]),
+        };
+      });
   }, [locale]);
 
   const [currentIndex, setCurrentIndex] = useState(0);

@@ -1,0 +1,332 @@
+4. Fichas de personatge (12 submarinistes)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix e1_).
+Rol: perfil professional i experiència de busseig.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: Cal reparar una connexió d'un observatori científic submarí a
+30 metres de profunditat, davant la costa de l'Estartit (Costa Brava). La reparació
+requereix: calma sota pressió (a 30 metres qualsevol error pot ser greu), precisió
+manual (cal manipular connectors petits amb guants de neoprè), i resistència al fred
+(l'aigua a 30 metres al Mediterrani és a 13-14°C, la immersió durarà 45-60 minuts).
+Cal triar 2 persones d'un equip de 12 bussejadors disponibles (6 homes i 6 dones).
+
+Context pedagògic: Cap de les tres habilitats requerides (calma, precisió manual,
+resistència al fred) depèn del sexe de manera determinant. Una dona pot ser tan calmada,
+tan precisa i tan resistent al fred com un home — de fet, en aquest escenari, les dues
+millors candidates són dones, tot i que els jugadors probablement no les triaran primer.
+
+La trampa és el biaix inconscient: "busseig profund" evoca força, aventura, perill —
+i el cervell associa automàticament aquestes idees amb homes grans i forts. Però la
+tasca no requereix força (no cal moure res pesant), no requereix coratge temerari (cal
+calma, no valentia), i no requereix grandària (de fet, un cos més petit consumeix menys
+aire i aguanta més temps sota l'aigua). La pregunta és: si no has mirat les dades i
+has triat per instint, quin instint era? I d'on ve?
+
+---
+
+HOMES (6 bussejadors)
+
+---
+
+4.1. Martí Roca – Instructor de busseig
+ID: e1_marti_roca
+Rol: Instructor de busseig PADI, 35 anys, 15 anys d'experiència.
+
+Descripció de personatge
+
+En Martí té 35 anys i és instructor de busseig professional des de fa 15 anys. Treballa
+a un centre de busseig de l'Estartit i ha fet més de 3.000 immersions. Coneix les
+aigües de la zona com ningú: corrents, visibilitat, fauna, fons. Certificat PADI Master
+Instructor i Rescue Diver. Les seves habilitats tècniques són excel·lents: controla la
+flotabilitat amb precisió, gestiona l'aire de manera eficient, coneix els protocols de
+descompressió.
+
+Però el perfil d'en Martí és de guia i docent, no de tècnic manual. Ensenya a bussegar,
+no repara coses sota l'aigua. Quan se li ha preguntat per experiència en reparacions
+submarines, ha reconegut que n'ha feta alguna de menor (canviar un cap, fixar una boia),
+però mai una feina de precisió amb connectors elèctrics. A més, fa dos anys va tenir un
+episodi de narcosi de nitrogen a 32 metres en aigües turbulentes — va pujar controlat
+però des d'aleshores evita les immersions profundes en condicions difícils. Ho sap gestionar,
+però la confiança no és la mateixa.
+
+---
+
+4.2. Gerard Valls – Bomber-bussejador
+ID: e1_gerard_valls
+Rol: Bomber del GRAE (Grup de Rescat Aquàtic Especialitzat), 30 anys.
+
+Descripció de personatge
+
+En Gerard té 30 anys i és bomber del GRAE, la unitat de rescat aquàtic dels Bombers de
+la Generalitat. Mesura 1,88 m i pesa 90 kg — cos potent, espatlles amples, musculat.
+Entrenat per rescatar persones en aigües obertes, riuades i inundacions. Ha participat
+en desenes de rescats reals. Valent, decidit, acostumat a treballar sota pressió extrema.
+
+El problema: les intervencions del GRAE són de força i velocitat — treure una persona
+de l'aigua, tallar un cinturó de seguretat, forçar una porta submergida. Les eines d'en
+Gerard són tisores hidràuliques, cordes i mosquetó. Precisió manual fina amb connectors
+petits? Mai no n'ha fet. A més, les seves immersions de rescat solen ser curtes (10-15
+minuts, acció ràpida, pujar) i poc profundes (5-15 metres). Una immersió de 45-60 minuts
+a 30 metres treballant amb paciència no és el seu perfil: ell és un velocista, no un
+rellotger. El seu cos gran també consumeix molt més aire que un bussejador petit, cosa
+que redueix el seu temps de fons.
+
+---
+
+4.3. Aleix Ferran – Bussejador recreatiu experimentat
+ID: e1_aleix_ferran
+Rol: Comptable, bussejador recreatiu, 42 anys, 500 immersions.
+
+Descripció de personatge
+
+L'Aleix té 42 anys i és comptable. Busseja des de fa 20 anys com a hobby: viatges a
+Egipte, Maldives, Filipines, Canàries. Té més de 500 immersions al registre i
+certificació Advanced Open Water. Coneix el busseig recreatiu a fons i es mou bé sota
+l'aigua.
+
+Però l'Aleix és un bussejador turístic: les seves immersions són de plaer, no de
+treball. Mai no ha fet res amb les mans sota l'aigua més enllà de fer fotos amb una
+càmera submarina. La seva feina diària és teclejar números en un ordinador — les
+seves mans no tenen la destresa mecànica que requereix la reparació. A més, la
+majoria de les seves immersions han estat en aigües tropicals càlides (25-30°C). A
+13°C, sense un vestit sec (que no ha usat mai), el fred el podria afectar molt abans
+dels 45 minuts. Experiència sí, però del tipus equivocat.
+
+---
+
+4.4. Nil Soler – Bussejador militar
+ID: e1_nil_soler
+Rol: Exmilitar (UOE de l'Armada), 33 anys, bussejador de combat.
+
+Descripció de personatge
+
+En Nil té 33 anys i va servir 8 anys a la Unitat d'Operacions Especials de l'Armada
+espanyola, incloent-hi formació en busseig de combat. Ha bussejat de nit, en aigües
+negres, amb corrents, portant equip pesant. Mesura 1,82 m, pesa 85 kg, en forma
+impecable. El candidat que més impressiona sobre el paper.
+
+Però el busseig de combat i la reparació submarina són mons diferents. En Nil està
+entrenat per col·locar càrregues, tallar obstacles, inspeccionar cascos de vaixells —
+operacions que requereixen força, decisió ràpida i nervis d'acer, però no precisió
+manual fina. Quan se li ha demanat que manipulés un connector submarí amb guants de
+neoprè en una prova, ha tingut dificultats: les seves mans estan entrenades per agafar
+armes i eines grans, no per manipular cargols de 4 mm. A més, porta 3 anys fora de
+l'Armada i les seves immersions recents són recreatives i poc freqüents. La seva
+experiència militar és real però no s'adapta a la tasca.
+
+---
+
+4.5. Joan Puig – Pescador submarí
+ID: e1_joan_puig
+Rol: Pescador professional, pesca submarina, 50 anys.
+
+Descripció de personatge
+
+En Joan té 50 anys i és pescador. Porta tota la vida al mar. Practica la pesca
+submarina des dels 16 anys — apnea, sense botelles, amb arpó. Coneix el fons marí
+de la Costa Brava pam a pam: cada roca, cada cova, cada corrent. És capaç d'aguantar
+3 minuts en apnea a 15 metres amb una calma absoluta.
+
+Però en Joan mai no ha bussejat amb equip autònom (SCUBA). Les seves immersions són
+en apnea — baixar, disparar, pujar. No coneix els protocols de descompressió, no ha
+usat mai un regulador, no sap gestionar l'aire d'una botella. Baixar a 30 metres amb
+equip i quedar-s'hi 45 minuts és un món completament diferent de l'apnea. El seu
+coneixement del mar és enorme, però la seva habilitat tècnica amb equip SCUBA és zero.
+Seria com posar un ciclista excel·lent als comandaments d'un cotxe de Fórmula 1: el
+principi és el mateix, però la tècnica no té res a veure.
+
+---
+
+4.6. Biel Torrents – Jove bussejador certificat
+ID: e1_biel_torrents
+Rol: Estudiant de biologia marina, 24 anys, certificació recent.
+
+Descripció de personatge
+
+En Biel té 24 anys i és estudiant de biologia marina. Es va certificar fa un any (Open
+Water Diver) i des de llavors ha fet 30 immersions, la majoria a menys de 18 metres.
+Entusiasta, motivat, amb ganes d'aprendre. Ha fet un curs de busseig científic a la
+universitat i sap recollir mostres sota l'aigua.
+
+Però 30 immersions són molt poques. Mai no ha bussejat a 30 metres (la seva certificació
+el limita a 18). No té experiència en aigües fredes (les seves immersions han estat a
+l'estiu, amb aigua a 20-24°C). No ha treballat mai sota pressió real — les seves
+immersions han estat sempre supervisades, tranquil·les, sense complicacions. La seva
+motivació és genuïna però la seva inexperiència és un risc real: a 30 metres, un error
+de gestió de l'aire o de descompressió pot ser fatal. No és el lloc per aprendre.
+
+---
+
+DONES (6 bussejadores)
+
+---
+
+4.7. Mireia Camps – Biòloga marina
+ID: e1_mireia_camps
+Rol: Biòloga marina, bussejadora científica, 38 anys.
+
+Descripció de personatge
+
+La Mireia té 38 anys i és biòloga marina. Porta 14 anys fent busseig científic
+professional: recollida de mostres biològiques, instal·lació de sensors, manteniment
+d'estacions d'observació submarines. Ha treballat en projectes a l'Atlàntic Nord
+(Noruega, Islàndia — aigües a 4-8°C), al Mediterrani i al Cantàbric. Té més de 2.000
+immersions registrades, certificació de bussejadora científica professional i formació
+en busseig tècnic fins a 50 metres.
+
+La seva especialitat és exactament el que demana la tasca: treballa amb les mans sota
+l'aigua durant immersions llargues en aigües fredes. Manipula pinces, connectors,
+sensors, fixacions — amb guants de neoprè, amb fred, amb corrent, amb visibilitat
+limitada. Té una calma sota l'aigua que els seus companys descriuen com "gairebé
+sobrenatural". El seu consum d'aire és un dels més baixos de l'equip (cos petit: 1,64 m,
+58 kg — cosa que li dona més temps de fons amb la mateixa botella). És, objectivament,
+la millor candidata del grup per a aquesta tasca concreta. Però no ho sembla: és petita,
+prima, silenciosa, i no impressiona físicament. La trampa de l'escenari és que els
+jugadors probablement la passaran per alt.
+
+---
+
+4.8. Lena Grau – Soldadora industrial i bussejadora
+ID: e1_lena_grau
+Rol: Soldadora industrial, bussejadora certificada, 34 anys.
+
+Descripció de personatge
+
+La Lena té 34 anys i és soldadora industrial. Treballa en una drassana de Palamós
+soldant estructures metàl·liques de vaixells. Les seves mans són les més hàbils del
+grup: solda amb precisió mil·limètrica, manipula peces petites amb guants gruixuts, i
+treballa en condicions difícils (calor, espais reduïts, posicions incòmodes) cada dia.
+Fa 6 anys es va certificar com a bussejadora (Advanced Open Water + Nitrox) perquè
+la drassana necessitava algú que pogués fer inspeccions de cascos sota l'aigua. Des de
+llavors ha fet unes 300 immersions, moltes d'elles de treball (no recreatives). Ha
+reparat petites avaries en cascos, ha canviat ànodes de zinc sota l'aigua, ha inspeccionat
+hèlices.
+
+La Lena és la combinació perfecta de les dues habilitats que la tasca requereix:
+precisió manual professional (soldadora) + experiència de busseig de treball (no
+turístic). Mesura 1,70 m i pesa 68 kg — cos treballat però no impressionant. Les seves
+mans tenen cicatrius de soldadura i els dits gruixuts d'algú que treballa amb metall.
+Candidata top 2-3, però els jugadors probablement triaran un bomber o un militar
+abans que una soldadora.
+
+---
+
+4.9. Carla Esteve – Instructora de busseig
+ID: e1_carla_esteve
+Rol: Instructora de busseig PADI, 31 anys, 8 anys d'experiència.
+
+Descripció de personatge
+
+La Carla té 31 anys i és instructora de busseig professional a Tossa de Mar. Porta
+8 anys ensenyant i guiant immersions, amb més de 1.500 immersions registrades.
+Certificada com a PADI Course Director (el nivell més alt de la cadena PADI).
+Excel·lent control de la flotabilitat, molt bona gestió del grup, coneix les aigües
+de la zona.
+
+El seu perfil és similar al d'en Martí (instructor masculí): excel·lent bussejadora,
+però el seu dia a dia és ensenyar i guiar, no reparar. Té més experiència docent que
+tècnica. Però a diferència d'en Martí, la Carla no ha tingut mai cap episodi de
+narcosi ni de pànic — el seu historial de seguretat és impecable. I les seves mans
+són més àgils: munta i desmunta equips de busseig amb una rapidesa i precisió que els
+alumnes sempre comenten. Candidata posició 4-5: molt bona bussejadora, menys
+experiència de treball manual pesat que la Lena, però tècnicament impecable.
+
+---
+
+4.10. Núria Font – Bussejadora científica veterana
+ID: e1_nuria_font
+Rol: Oceanògrafa, bussejadora científica, 47 anys.
+
+Descripció de personatge
+
+La Núria té 47 anys i és oceanògrafa. Porta 22 anys fent busseig científic — és la
+bussejadora amb més immersions del grup (més de 3.500). Ha treballat en expedicions a
+l'Antàrtida (aigües a 0-2°C), ha instal·lat estacions meteorològiques submarines, ha
+participat en projectes de restauració de coral. La seva resistència al fred és la
+millor del grup — ha bussejat amb vestit sec en aigües gèlides centenars de vegades.
+
+Però l'edat i els anys d'immersions han deixat marca: pateix un principi d'artrosi a
+les mans que li redueix la mobilitat fina dels dits, especialment amb fred. Manipular
+connectors petits amb guants de neoprè a 13°C li suposaria una dificultat real que fa
+5 anys no hauria tingut. El seu coneixement és immens, la seva experiència inigualable,
+però les seves mans ja no són les que eren. Candidata posició 5-7: experiència
+excepcional, limitació física emergent.
+
+---
+
+4.11. Aina Roig – Bussejadora recreativa
+ID: e1_aina_roig
+Rol: Fisioterapeuta, bussejadora recreativa, 29 anys.
+
+Descripció de personatge
+
+L'Aina té 29 anys i és fisioterapeuta. Busseja des de fa 5 anys com a hobby, amb
+unes 120 immersions registrades (Advanced Open Water + Rescue Diver). Busseja
+regularment a la Costa Brava — coneix les aigües, es mou bé, controla la flotabilitat
+correctament.
+
+El punt a favor de l'Aina és inesperat: com a fisioterapeuta, les seves mans són el
+seu instrument de treball. Palpa, manipula, aplica pressió precisa amb els dits durant
+8 hores al dia. La seva destresa manual és superior a la de molts candidats amb més
+immersions. Ha bussejat a 30 metres alguna vegada (amb guia), i ha fet immersions a
+l'hivern amb aigua freda (però no gaire llargues). El seu perfil de busseig és
+recreatiu, no professional, cosa que la situa per sota de les bussejadores científiques.
+Però les seves mans podrien ser un actiu real per a la tasca de precisió. Candidata
+posició 6-8: bussejadora correcta amb un actiu manual inesperat.
+
+---
+
+4.12. Sílvia Bosch – Apneista competitiva
+ID: e1_silvia_bosch
+Rol: Apneista competitiva, 28 anys, rècord nacional.
+
+Descripció de personatge
+
+La Sílvia té 28 anys i és apneista competitiva. Té el rècord català d'apnea estàtica
+(6 minuts 45 segons) i el d'immersió lliure a 55 metres. El seu control de la
+respiració i la seva calma sota l'aigua són excepcionals — baixa el ritme cardíac
+a 35 pulsacions per minut de manera voluntària. Mesura 1,62 m i pesa 55 kg — la més
+petita i lleugera del grup.
+
+Però l'apnea i el busseig amb equip autònom són disciplines molt diferents, com en
+Joan (el pescador). La Sílvia té certificació Open Water Diver però poques immersions
+amb SCUBA (unes 40). Coneix l'aigua, coneix la pressió, coneix el seu cos — però no
+coneix els protocols de descompressió a 30 metres amb botella, no ha treballat mai amb
+les mans sota l'aigua durant 45 minuts, i la seva experiència en aigües fredes és
+limitada (entrena en piscina i en aigües temperades). El seu talent natural és enorme
+però no és el talent que la tasca demana. Candidata posició 8-10.
+
+---
+
+Anàlisi pedagògica de l'escenari
+
+La tasca requereix: (1) calma, (2) precisió manual, (3) resistència al fred.
+NO requereix: força, valentia temerària, cos gran.
+
+Rànquing per adequació a la tasca:
+
+1. Mireia Camps (dona) — 14 anys busseig científic, treballa amb pinces a 4°C, 2.000
+   immersions, consum d'aire baix. LA millor candidata.
+2. Lena Grau (dona) — soldadora + bussejadora de treball, precisió manual professional.
+3. Carla Esteve (dona) — instructora, historial impecable, mans àgils.
+4. Martí Roca (home) — instructor, molt bo, però episodi de narcosi i menys habilitat manual.
+5. Núria Font (dona) — veterana, 3.500 immersions, però artrosi a les mans.
+6. Aina Roig (dona) — fisioterapeuta, mans excel·lents, bussejadora recreativa.
+7. Nil Soler (home) — militar, impressionant però precisió manual baixa.
+8. Aleix Ferran (home) — molt experimentat recreativament, zero habilitat manual, no suporta fred.
+9. Gerard Valls (home) — bomber, fort, però velocista (no rellotger), alt consum d'aire.
+10. Sílvia Bosch (dona) — apneista, calma excepcional, poc SCUBA.
+11. Joan Puig (home) — pescador, coneix el mar, zero SCUBA.
+12. Biel Torrents (home) — massa verd per a 30 metres.
+
+La trampa: els jugadors probablement triaran en Gerard (bomber, gran, fort), en Nil
+(militar, impressionant) o en Martí (instructor experimentat). Però la tasca no és un
+rescat d'emergència ni una operació militar: és una reparació fina en aigües fredes.
+Les dues millors candidates (Mireia i Lena) són dones, i les dues seran probablement
+ignorades a favor d'homes amb perfils més "espectaculars" però menys adequats.
+
+La reflexió: si tries per instint, tries el que "sembla" un bussejador (home gran,
+fort, aventurer). Si tries per dades (calma, precisió, fred), tries diferent. D'on
+ve l'instint? I per què no coincideix amb les dades?

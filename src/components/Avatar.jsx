@@ -2,7 +2,7 @@ import { useState } from 'react';
 import GeneratedAvatar from './GeneratedAvatar';
 
 export default function Avatar({ character }) {
-  const [imgFormat, setImgFormat] = useState('png');
+  const [imgFormat, setImgFormat] = useState('webp');
   const basePath = import.meta.env.BASE_URL;
   const imgPath = `${basePath}avatars/${character.id}.${imgFormat}`;
 
@@ -12,8 +12,8 @@ export default function Avatar({ character }) {
         className="avatar__img"
         src={imgPath}
         onError={() => {
-          if (imgFormat === 'png') {
-            setImgFormat('webp');
+          if (imgFormat === 'webp') {
+            setImgFormat('png');
           } else {
             setImgFormat(null);
           }

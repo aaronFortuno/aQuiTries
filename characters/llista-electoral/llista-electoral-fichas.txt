@@ -1,0 +1,323 @@
+4. Fichas de personatge (20 candidats d'un partit conservador)
+Cada ficha tiene:
+
+ID: identificador breve para la app (prefix d1_).
+Rol: càrrec o perfil polític.
+Descripció de personatge: text narratiu per al joc.
+
+Nota sobre l'escenari: Un partit polític conservador ha de confeccionar la seva llista
+per a les eleccions municipals d'una ciutat mitjana catalana. Per llei, la llista ha de
+tenir un mínim del 40% de cada sexe (és a dir, almenys 3 dones entre les 6 primeres
+posicions). Hi ha 20 candidats (14 homes i 6 dones). Cal ordenar els 6 primers de la
+llista.
+
+Context pedagògic: El partit és conservador i històricament masculinitzat. Entre els
+homes hi ha candidats amb trajectòries extraordinàries. Entre les dones n'hi ha alguna
+de molt capaç, però no n'hi ha 3 que superin clarament els homes que quedaran fora de
+la llista per la quota. L'escenari no és masclista: reflecteix una realitat que passa a
+molts partits. Obligar la paritat per llei garanteix representació, però pot fer que
+persones menys preparades ocupin llocs per sobre d'altres amb més mèrits. La pregunta
+és: el mecanisme és just? Hi ha una alternativa millor? I si no forcem la quota, què
+passa?
+
+---
+
+HOMES (14 candidats)
+
+---
+
+4.1. Jordi Puigvert – Alcalde en funcions
+ID: d1_jordi_puigvert
+Rol: Alcalde en funcions, advocat.
+
+Descripció de personatge
+
+En Jordi té 54 anys i és l'actual alcalde de la ciutat, al càrrec des de fa 8 anys. Advocat
+de formació, amb un màster en gestió pública. Ha gestionat dos mandats amb resultats
+reconeguts: va reduir el deute municipal un 30%, va impulsar la reforma urbanística del
+centre històric i va aconseguir fons europeus per a la renovació del mercat municipal.
+Comunicador eficaç, conegut i respectat per la majoria de l'electorat. La seva candidatura
+al capdavant de la llista és gairebé indiscutible. Valoració ciutadana alta.
+
+---
+
+4.2. Ramon Casadevall – Primer tinent d'alcalde
+ID: d1_ramon_casadevall
+Rol: Primer tinent d'alcalde, regidor d'Urbanisme i Obres.
+
+Descripció de personatge
+
+En Ramon té 49 anys i és arquitecte. Porta 12 anys al govern municipal com a regidor
+d'Urbanisme. Ha dirigit la transformació urbana de la ciutat: el nou passeig marítim,
+la rehabilitació del barri antic, el pla de mobilitat. Coneix cada carrer, cada llicència
+d'obres, cada promotor. Gestor metòdic i eficient, poc carismàtic en públic però amb
+un historial de resultats impecable. El segon candidat més fort del partit.
+
+---
+
+4.3. Xavier Molina – Regidor d'Hisenda
+ID: d1_xavier_molina
+Rol: Regidor d'Hisenda i Pressupostos, economista.
+
+Descripció de personatge
+
+En Xavier té 46 anys i és economista. Porta 8 anys com a regidor d'Hisenda. Ha equilibrat
+els pressupostos municipals durant la crisi, ha negociat refinançaments de deute amb els
+bancs i ha implementat un sistema de transparència pressupostària que ha rebut un premi
+estatal. Rigorós, tècnic, amb un coneixement dels números municipals que ningú més al
+partit pot igualar. Poc conegut pel ciutadà de a peu, però fonamental per a la credibilitat
+econòmica de la candidatura.
+
+---
+
+4.4. Pere Riera – Regidor d'Educació
+ID: d1_pere_riera
+Rol: Regidor d'Educació i Cultura, mestre d'escola.
+
+Descripció de personatge
+
+En Pere té 51 anys i és mestre d'escola que va entrar en política fa 16 anys. Regidor
+d'Educació durant tres mandats. Ha ampliat l'oferta d'escoles bressol municipals, ha
+creat el programa de beques de menjador que ha cobert 400 famílies, i ha impulsat el
+festival cultural d'estiu que s'ha convertit en referència comarcal. Molt estimat al barri
+on ha viscut tota la vida. Bon comunicador, proper, amb una trajectòria llarga i sòlida.
+
+---
+
+4.5. Francesc Grau – Regidor de Seguretat
+ID: d1_francesc_grau
+Rol: Regidor de Seguretat Ciutadana, exmosso d'esquadra.
+
+Descripció de personatge
+
+En Francesc té 48 anys i és exmosso d'esquadra que va entrar en política fa 10 anys.
+Regidor de Seguretat durant dos mandats. Ha reduït els índexs de delinqüència al centre
+un 15%, ha modernitzat el cos de policia local i ha impulsat el pla de videovigilància.
+Perfil dur però eficaç. Molt valorat pels comerciants i la gent gran del centre. Menys
+popular entre els joves, que el troben autoritari.
+
+---
+
+4.6. Andreu Soler – Regidor d'Esports
+ID: d1_andreu_soler
+Rol: Regidor d'Esports i Joventut, llicenciat en CAFE.
+
+Descripció de personatge
+
+L'Andreu té 38 anys i és el regidor més jove del govern. Llicenciat en Ciències de
+l'Activitat Física i l'Esport. Porta 6 anys com a regidor d'Esports. Ha aconseguit la
+construcció del nou pavelló poliesportiu (el projecte més car del mandat), ha creat el
+programa d'esport escolar que arriba a 2.000 nens i ha atret tres competicions nacionals
+a la ciutat. Dinàmic, popular entre els joves, bon comunicador a xarxes socials.
+
+---
+
+4.7. Miquel Torrents – Regidor de Medi Ambient
+ID: d1_miquel_torrents
+Rol: Regidor de Medi Ambient, enginyer ambiental.
+
+Descripció de personatge
+
+En Miquel té 44 anys i és enginyer ambiental. Porta 8 anys com a regidor de Medi Ambient.
+Ha implementat el sistema de recollida selectiva porta a porta (del 35% al 72% de
+reciclatge), ha creat l'anella verda periurbana i ha impulsat la transició energètica
+dels edificis municipals. Tècnic, competent, amb resultats mesurables. El seu perfil
+ambiental és un actiu electoral important en el context actual.
+
+---
+
+4.8. Josep Maria Planas – Empresari local
+ID: d1_josepmaria_planas
+Rol: Empresari, president de l'associació de comerciants.
+
+Descripció de personatge
+
+En Josep Maria té 57 anys i és empresari local (cadena de tres ferreteries). President
+de l'associació de comerciants des de fa 12 anys. No ha ocupat mai un càrrec públic
+electe, però coneix el teixit econòmic de la ciutat com ningú. Ha negociat amb
+l'ajuntament en representació dels comerciants durant anys. Bona xarxa de contactes,
+coneix molta gent. Afegeix credibilitat econòmica i connexió amb el sector privat.
+Menys experiència en gestió pública que els regidors actuals.
+
+---
+
+4.9. Albert Domènech – Metge de família
+ID: d1_albert_domenech
+Rol: Metge de família, activista sanitari.
+
+Descripció de personatge
+
+L'Albert té 52 anys i és metge de família al CAP de la ciutat des de fa 25 anys. Coneix
+la realitat social i sanitària del municipi millor que qualsevol polític: sap quins barris
+tenen més problemes de salut mental, on viuen les famílies amb menys recursos, quines
+mancances té el sistema. Va liderar la campanya per aconseguir el segon CAP al barri
+nord. Molt respectat, tot i que no té experiència en gestió pública ni en política de
+partit.
+
+---
+
+4.10. Lluís Batlle – Advocat laboralista
+ID: d1_lluis_batlle
+Rol: Advocat laboralista, activista sindical.
+
+Descripció de personatge
+
+En Lluís té 43 anys i és advocat laboralista. Ha defensat treballadors en centenars de
+casos contra empreses locals i multinacionals. Coneix la legislació laboral a fons i té
+una capacitat oratòria notable — és el millor debatent del partit. Porta 4 anys com a
+militant actiu però no ha ocupat cap càrrec electe. Aportaria una veu combativa i
+intel·lectual a la llista, però la seva falta d'experiència en gestió municipal és
+un hàndicap real.
+
+---
+
+4.11. Enric Mas – Regidor de Serveis Socials
+ID: d1_enric_mas
+Rol: Regidor de Serveis Socials, treballador social.
+
+Descripció de personatge
+
+L'Enric té 47 anys i és treballador social de formació. Porta 6 anys com a regidor de
+Serveis Socials. Ha gestionat l'augment de demanda social post-pandèmia, ha creat el
+programa d'habitatge social que ha donat sostre a 50 famílies i ha coordinat la xarxa
+d'entitats socials del municipi. Perfil discret però amb una feina sòlida i necessària.
+Menys visibilitat pública que altres regidors, però amb resultats importants en un àmbit
+crític.
+
+---
+
+4.12. Martí Vidal – Tècnic de comunicació
+ID: d1_marti_vidal
+Rol: Director de comunicació del partit, periodista.
+
+Descripció de personatge
+
+En Martí té 35 anys i és periodista reconvertit en director de comunicació del partit.
+No aspira a un càrrec electe de primera línia, però si cal omplir la llista, hi és.
+Coneix els mitjans, sap gestionar crisis de comunicació i porta les xarxes socials del
+partit. Hàbil amb el discurs, però sense experiència en gestió municipal ni trajectòria
+pública. Un perfil de suport, no de lideratge.
+
+---
+
+4.13. Pau Ferrer – Jove militant
+ID: d1_pau_ferrer
+Rol: Estudiant de dret, president de les joventuts del partit.
+
+Descripció de personatge
+
+En Pau té 24 anys i és estudiant de dret, president de les joventuts del partit. Entusiasta,
+bon comunicador a xarxes, popular entre els militants joves. Però no té cap experiència
+professional ni de gestió. La seva candidatura és simbòlica: representa el relleu
+generacional. Incloure'l a les 6 primeres posicions seria una aposta de futur, no
+de capacitat immediata.
+
+---
+
+4.14. Joan Arnau – Veterà del partit
+ID: d1_joan_arnau
+Rol: Exregidor, empresari jubilat.
+
+Descripció de personatge
+
+En Joan té 67 anys i és un veterà del partit. Va ser regidor d'Hisenda fa 20 anys i
+després va dedicar-se als seus negocis. Ara jubilat, vol tornar a la política activa.
+Té experiència antiga però desconnectada de la realitat actual del municipi. La seva
+contribució principal és la xarxa de contactes i la memòria institucional, però els
+mètodes i coneixements que aporta estan datats.
+
+---
+
+DONES (6 candidates)
+
+---
+
+4.15. Carme Solsona – Regidora de Comerç
+ID: d1_carme_solsona
+Rol: Regidora de Comerç i Turisme, economista.
+
+Descripció de personatge
+
+La Carme té 45 anys i és economista. Porta 8 anys com a regidora de Comerç i Turisme.
+Ha impulsat la campanya de dinamització comercial del centre, ha negociat l'obertura de
+tres hotels i ha aconseguit la declaració de festa d'interès turístic per a la fira de
+tardor. És la dona amb més experiència de govern del partit i la candidata femenina més
+forta: competent, resolutiva, amb resultats demostrables. Estaria entre els 6-8 millors
+candidats del partit, independentment del gènere.
+
+---
+
+4.16. Montserrat Figueres – Directora d'escola
+ID: d1_montserrat_figueres
+Rol: Directora d'escola, militant activa.
+
+Descripció de personatge
+
+La Montserrat té 50 anys i és directora d'una escola pública de la ciutat. Militant del
+partit des de fa 15 anys, ha participat en la comissió d'educació i ha assessorat en Pere
+Riera en la seva tasca de regidor. Bona coneixedora de la política educativa local, amb
+capacitat de gestió demostrada (dirigeix una escola de 500 alumnes). No ha ocupat mai un
+càrrec electe. El seu perfil és sòlid però clarament inferior al dels regidors amb
+experiència de govern directa.
+
+---
+
+4.17. Anna Puig – Advocada
+ID: d1_anna_puig
+Rol: Advocada mercantil, militant recent.
+
+Descripció de personatge
+
+L'Anna té 37 anys i és advocada mercantil en un despatx de la ciutat. Militant del partit
+des de fa només 3 anys. Intel·ligent, articulada, amb bona imatge pública. Però la seva
+experiència política és mínima: ha participat en algunes comissions internes del partit
+i poc més. No ha gestionat mai res de públic. El seu principal actiu és que és una dona
+jove i professional en un partit envellit i masculinitzat — un actiu d'imatge més que
+de contingut, cosa que a ella mateixa la incomoda.
+
+---
+
+4.18. Rosa Esteve – Farmacèutica
+ID: d1_rosa_esteve
+Rol: Farmacèutica, presidenta de l'AMPA.
+
+Descripció de personatge
+
+La Rosa té 48 anys i és farmacèutica. La seva vinculació amb la política és molt
+tangencial: és presidenta de l'AMPA de l'escola dels seus fills i ha col·laborat amb
+el partit en temes de sanitat. Bona persona, voluntariosa, coneguda al barri. Però no
+té cap formació en gestió pública, ni experiència política, ni trajectòria dins del
+partit. Si fos home, ningú la posaria a les 6 primeres posicions. La seva candidatura
+només té sentit si cal omplir la quota femenina.
+
+---
+
+4.19. Laia Carbonell – Treballadora social
+ID: d1_laia_carbonell
+Rol: Treballadora social, voluntària del partit.
+
+Descripció de personatge
+
+La Laia té 31 anys i és treballadora social en una entitat del tercer sector. Voluntària
+del partit des de fa 2 anys, ha participat en la campanya de recollida d'aliments i en
+actes electorals. Compromesa socialment, bona persona, però amb zero experiència política
+o de gestió pública. No ha gestionat mai un pressupost, no ha negociat mai amb altres
+partits, no ha parlat mai davant d'un ple municipal. Si s'hagués d'omplir la llista
+exclusivament per mèrits, no estaria ni entre els 15 primers.
+
+---
+
+4.20. Núria Camps – Periodista local
+ID: d1_nuria_camps
+Rol: Periodista, directora del diari local.
+
+Descripció de personatge
+
+La Núria té 42 anys i és periodista, directora del diari digital local. Coneix la política
+municipal des de l'altre costat: ha cobert cada ple, cada escàndol, cada promesa electoral
+durant 15 anys. Sap com funciona l'ajuntament, qui mana de veritat, on estan els esquelets.
+Articulada i intel·ligent, amb una capacitat d'anàlisi notable. Però mai no ha gestionat
+res de públic i el seu salt del periodisme a la política genera desconfiança en alguns
+sectors. Seria una candidata amb potencial real si tingués experiència de govern, però
+no en té. Podria estar entre les posicions 8-10 per mèrit, però difícilment entre les 6
+primeres si la llista fos exclusivament per capacitats.
